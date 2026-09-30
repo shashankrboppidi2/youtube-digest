@@ -2,7 +2,7 @@
 
 GitHub cron is UTC-only, so the workflow fires at 10:57 and 11:57 UTC; this script sends on the first run at or
 after 06:45 New York time and records the date in digests/sent.json, so daylight saving time doesn't matter.
-A manual run (FORCE=1) always sends.
+A manual run (FORCE=1) always sends; it also counts as the day's e-mail, so the catch-up triggers skip.
 
 Env: SMTP_USER, SMTP_PASS (Gmail app password), MAIL_TO (comma-separated), SMTP_HOST, SMTP_PORT, FORCE
 """
@@ -59,10 +59,9 @@ def main():
     with smtplib.SMTP(host, int(os.getenv("SMTP_PORT", "587"))) as s:
         s.starttls(); s.login(user, pw); s.sendmail(user, [a.strip() for a in to.split(",")], m.as_string())
     print(f"sent '{subject}' to {to}")
-    if not force:
-        sent[today] = datetime.now(timezone.utc).isoformat(timespec="seconds")
-        os.makedirs(OUT, exist_ok=True)
-        json.dump(dict(sorted(sent.items())[-60:]), open(SENT_FILE, "w"), indent=1)
+    sent[today] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    os.makedirs(OUT, exist_ok=True)
+    json.dump(dict(sorted(sent.items())[-60:]), open(SENT_FILE, "w"), indent=1)
 
 if __name__ == "__main__":
     main()

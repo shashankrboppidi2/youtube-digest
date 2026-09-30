@@ -1,11 +1,15 @@
 name: YouTube digest e-mail (7am ET)
 
 # GitHub cron is UTC-only: 10:57 UTC is 06:57 EDT, 11:57 UTC is 06:57 EST. send_email.py sends once a day,
-# on the first of the two that falls at or after 06:45 New York time.
+# on the first trigger at or after 06:45 New York time. GitHub sometimes skips scheduled runs, so the later
+# triggers are catch-ups; digests/sent.json stops them sending twice.
 on:
   schedule:
     - cron: '57 10 * * *'
     - cron: '57 11 * * *'
+    - cron: '37 12 * * *'
+    - cron: '37 13 * * *'
+    - cron: '37 15 * * *'
   workflow_dispatch:     # manual run: sends today's digest right away
 
 permissions:

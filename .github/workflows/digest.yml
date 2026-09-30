@@ -5,6 +5,7 @@ name: YouTube digest (daily)
 on:
   schedule:
     - cron: '7 5 * * *'       # 01:07 EDT / 00:07 EST; the digest e-mail goes out at 07:00 ET
+    - cron: '37 7 * * *'      # catch-up in case GitHub skips the first; a run with nothing new writes nothing
   workflow_dispatch:
     inputs:
       lookback_hours:
