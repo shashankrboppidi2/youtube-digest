@@ -1,0 +1,335 @@
+"""YouTube digest: new videos from the channels in channels.txt, summarised by an open-source model.
+
+Runs in GitHub Actions (.github/workflows/digest.yml). For each channel it reads YouTube's public RSS feed, takes the
+videos not yet in digests/seen.json, fetches the transcript and has a local model (Ollama, any
+OpenAI-compatible endpoint works) write a TL;DR, key points and a watch-or-skip verdict. Output:
+
+  digests/digest_YYYY-MM-DD.md   the day's digest (one run a day; a second run appends)
+  digests/digest_latest.md       copy of the last digest written
+  digests/seen.json              video ids already handled, so nothing is summarised twice
+
+No e-mail from here: a scheduled Claude session picks up the day's digest and sends it.
+
+Env (all optional):
+  LLM_BASE_URL   OpenAI-compatible base URL      default http://localhost:11434/v1 (Ollama)
+  LLM_MODEL      model name                      default qwen2.5:3b
+  LLM_API_KEY    key for a hosted endpoint       default "ollama"
+  YT_LOOKBACK_H  first sight of a channel: only videos newer than this many hours   default 48
+  YT_MAX_VIDEOS  cap per run (CPU time)          default 12
+  YT_MIN_WORDS   shorter transcripts are skipped as Shorts/clips   default 250
+  YT_LANGS       preferred caption languages     default en,en-US,en-GB
+  YT_PROXY       http(s) proxy for YouTube when GitHub's IPs are blocked
+  YT_COOKIES_FILE  cookies.txt for yt-dlp (the workflow writes it from the YT_COOKIES secret)
+"""
+import os, re, sys, json, glob, time, shutil, tempfile, subprocess
+import xml.etree.ElementTree as ET
+from datetime import datetime, timezone, timedelta
+import requests
+
+HERE = ROOT = os.path.dirname(os.path.abspath(__file__))
+OUT = os.path.join(ROOT, "digests")
+SEEN_FILE = os.path.join(OUT, "seen.json")
+
+LLM_BASE_URL = os.getenv("LLM_BASE_URL", "http://localhost:11434/v1").rstrip("/")
+LLM_MODEL = os.getenv("LLM_MODEL", "qwen2.5:3b")
+LLM_API_KEY = os.getenv("LLM_API_KEY", "ollama")
+LOOKBACK_H = float(os.getenv("YT_LOOKBACK_H", "48"))
+MAX_VIDEOS = int(os.getenv("YT_MAX_VIDEOS", "12"))
+MIN_WORDS = int(os.getenv("YT_MIN_WORDS", "250"))
+LANGS = [s.strip() for s in os.getenv("YT_LANGS", "en,en-US,en-GB").split(",") if s.strip()]
+PROXY = os.getenv("YT_PROXY", "")
+COOKIES = os.getenv("YT_COOKIES_FILE", "")   # Netscape cookies.txt from a signed-in browser, for yt-dlp
+CHUNK_WORDS = 2500        # transcript piece per model call; fits a 3-4B model's context with room to answer
+MAX_WORDS = 20000         # ~2h of speech; longer transcripts are cut here
+
+UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36",
+      "Accept-Language": "en-US,en;q=0.9"}
+PROXIES = {"http": PROXY, "https": PROXY} if PROXY else None
+NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015",
+      "media": "http://search.yahoo.com/mrss/"}
+
+
+# ---------- channels and feeds ----------
+
+def read_channels():
+    out = []
+    for line in open(os.path.join(HERE, "channels.txt"), encoding="utf-8"):
+        line = line.split("#", 1)[0].strip()
+        if line: out.append(line)
+    return out
+
+def channel_id(spec, cache):
+    """UC... id for a channel URL, @handle or id. Handle lookups are cached in seen.json."""
+    m = re.search(r"(UC[\w-]{22})", spec)
+    if m: return m.group(1)
+    handle = re.sub(r"^https?://(www\.|m\.)?youtube\.com/", "", spec).strip("/").split("/")[0]
+    if not handle.startswith("@") and not handle.startswith(("c/", "user/")): handle = "@" + handle
+    if handle in cache: return cache[handle]
+    r = requests.get(f"https://www.youtube.com/{handle}", headers=UA, proxies=PROXIES, timeout=30,
+                     cookies={"CONSENT": "YES+1"})
+    r.raise_for_status()
+    m = (re.search(r'<link rel="canonical" href="https://www\.youtube\.com/channel/(UC[\w-]{22})"', r.text)
+         or re.search(r'"externalId":"(UC[\w-]{22})"', r.text) or re.search(r'"channelId":"(UC[\w-]{22})"', r.text))
+    if not m: raise RuntimeError(f"no channel id on the {handle} page")
+    cache[handle] = m.group(1)
+    return m.group(1)
+
+def feed(cid):
+    """Latest uploads: the RSS feed, or the channel's Videos tab when the feed errors (it often does)."""
+    try:
+        return _rss(cid)
+    except Exception as e:
+        print(f"  rss: {e}")
+    return _videos_tab(cid)
+
+def _rss(cid):
+    r = requests.get(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}", headers=UA,
+                     proxies=PROXIES, timeout=30)
+    r.raise_for_status()
+    root = ET.fromstring(r.content)
+    author = root.findtext("a:author/a:name", default=cid, namespaces=NS)
+    vids = []
+    for e in root.findall("a:entry", NS):
+        vids.append({"id": e.findtext("yt:videoId", namespaces=NS), "title": e.findtext("a:title", namespaces=NS),
+                     "published": e.findtext("a:published", namespaces=NS), "channel": author,
+                     "link": e.find("a:link", NS).get("href")})
+    return vids
+
+def _videos_tab(cid):
+    """The channel's Videos tab through yt-dlp. approximate_date gives upload times from "3 hours ago"."""
+    cmd = [sys.executable, "-m", "yt_dlp", "--flat-playlist", "--dump-single-json", "--playlist-end", "15",
+           "--extractor-args", "youtubetab:approximate_date", "--quiet", "--no-warnings",
+           f"https://www.youtube.com/channel/{cid}/videos"]
+    if PROXY: cmd[3:3] = ["--proxy", PROXY]
+    p = subprocess.run(cmd, timeout=180, capture_output=True, text=True)
+    if p.returncode: raise RuntimeError((p.stderr.strip().splitlines() or ["yt-dlp failed"])[-1][:200])
+    data = json.loads(p.stdout)
+    author = data.get("channel") or data.get("uploader") or data.get("title") or cid
+    now = datetime.now(timezone.utc)
+    vids = []
+    for e in data.get("entries") or []:
+        if not e.get("id"): continue
+        ts = e.get("timestamp") or e.get("release_timestamp")
+        pub = datetime.fromtimestamp(ts, timezone.utc) if ts else now
+        vids.append({"id": e["id"], "title": e.get("title") or e["id"], "channel": author, "published": pub.isoformat(),
+                     "link": f"https://www.youtube.com/watch?v={e['id']}"})
+    if not vids: raise RuntimeError("no videos found on the Videos tab")
+    return vids
+
+# ---------- transcripts ----------
+
+class Blocked(Exception):
+    """YouTube refused the runner (bot check / IP block), as opposed to the video having no captions."""
+
+BLOCK_SIGNS = ("RequestBlocked", "IpBlocked", "confirm you", "not a bot", "HTTP Error 429", "Too Many Requests")
+
+def transcript(vid):
+    """[(start_seconds, text)] or None. Tries youtube-transcript-api, then yt-dlp's captions.
+    Raises Blocked when both were refused by YouTube rather than finding no captions."""
+    msgs = []
+    for name, fn in (("transcript-api", _transcript_api), ("yt-dlp", _transcript_ytdlp)):
+        try:
+            return fn(vid)
+        except Exception as e:
+            msg = f"{type(e).__name__}: {str(e).splitlines()[0][:160] if str(e) else ''}"
+            print(f"  {name}: {msg}"); msgs.append(msg)
+    if all(any(b in m for b in BLOCK_SIGNS) for m in msgs): raise Blocked()
+    return None
+
+def _transcript_api(vid):
+    from youtube_transcript_api import YouTubeTranscriptApi
+    from youtube_transcript_api.proxies import GenericProxyConfig
+    api = YouTubeTranscriptApi(proxy_config=GenericProxyConfig(http_url=PROXY, https_url=PROXY) if PROXY else None)
+    tl = api.list(vid)
+    try: t = tl.find_transcript(LANGS)
+    except Exception: t = next(iter(tl))     # any language; the model writes English regardless
+    return [(s.start, s.text) for s in t.fetch()]
+
+def _transcript_ytdlp(vid):
+    d = tempfile.mkdtemp()
+    try:
+        cmd = [sys.executable, "-m", "yt_dlp", "--skip-download", "--write-subs", "--write-auto-subs",
+               "--sub-langs", "en.*,en", "--sub-format", "json3", "-o", os.path.join(d, "%(id)s.%(ext)s"),
+               "--quiet", "--no-warnings", f"https://www.youtube.com/watch?v={vid}"]
+        if PROXY: cmd[3:3] = ["--proxy", PROXY]
+        if COOKIES: cmd[3:3] = ["--cookies", COOKIES]
+        subprocess.run(cmd, check=True, timeout=120, capture_output=True, text=True)
+        files = sorted(glob.glob(os.path.join(d, "*.json3")), key=lambda f: ("orig" in f, f))
+        if not files: raise RuntimeError("no captions")
+        events = json.load(open(files[0], encoding="utf-8")).get("events", [])
+        out = [(ev.get("tStartMs", 0) / 1000, "".join(s.get("utf8", "") for s in ev.get("segs", [])).strip())
+               for ev in events if ev.get("segs")]
+        return [(t, x) for t, x in out if x]
+    except subprocess.CalledProcessError as e:
+        raise RuntimeError((e.stderr or "").strip().splitlines()[-1] if e.stderr else "yt-dlp failed")
+    finally:
+        shutil.rmtree(d, ignore_errors=True)
+
+def mmss(sec):
+    sec = int(sec)
+    return f"{sec // 3600}:{sec % 3600 // 60:02d}:{sec % 60:02d}" if sec >= 3600 else f"{sec // 60}:{sec % 60:02d}"
+
+def with_markers(snips, every=60):
+    """Transcript text with a [m:ss] marker about once a minute, so the model can point at moments."""
+    parts, next_mark = [], 0
+    for start, text in snips:
+        if start >= next_mark:
+            parts.append(f"[{mmss(start)}]"); next_mark = start + every
+        parts.append(text.replace("\n", " "))
+    return " ".join(parts)
+
+
+# ---------- model ----------
+
+def llm(system, user, max_tokens=700):
+    r = requests.post(f"{LLM_BASE_URL}/chat/completions", timeout=1800,
+                      headers={"Authorization": f"Bearer {LLM_API_KEY}"},
+                      json={"model": LLM_MODEL, "temperature": 0.2, "max_tokens": max_tokens,
+                            "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}]})
+    r.raise_for_status()
+    text = r.json()["choices"][0]["message"]["content"] or ""
+    return re.sub(r"<think>.*?</think>", "", text, flags=re.S).strip()   # reasoning models
+
+SYSTEM = ("You condense YouTube videos for a busy reader who will not watch them. Be concrete: names, numbers, "
+          "claims, conclusions. Never invent anything that is not in the transcript. Plain English, no hype.")
+
+NOTES_PROMPT = """Part {i} of {n} of the transcript of "{title}" ({channel}). Timestamps like [12:34] mark the time.
+Write 4-8 terse bullet points with the substantive points made in this part (facts, arguments, numbers, advice).
+Put the timestamp of each point at its start, e.g. "- [12:34] ...". Skip sponsor reads, intros and calls to subscribe.
+
+TRANSCRIPT PART:
+{text}"""
+
+FINAL_PROMPT = """Video: "{title}" by {channel}, {length} long.
+Below is {what}. Timestamps like [12:34] mark the time.
+
+Write exactly this, in Markdown, nothing before or after:
+
+**TL;DR:** <2-3 sentences: what the video is about and its main conclusion>
+
+**Key points:**
+- <4-7 bullets, the most important specific points; keep a [m:ss] timestamp at the start of a bullet when you have one>
+
+**Worth watching in full?** <score>/5 — <one sentence why; 5 = the summary cannot replace it, 1 = the summary covers it>
+
+{content_label}:
+{content}"""
+
+def summarise(v, snips):
+    words = with_markers(snips).split()
+    cut = len(words) > MAX_WORDS
+    words = words[:MAX_WORDS]
+    length = mmss(snips[-1][0]) if snips else "?"
+    if len(words) <= CHUNK_WORDS * 1.2:
+        body = llm(SYSTEM, FINAL_PROMPT.format(title=v["title"], channel=v["channel"], length=length,
+                                               what="the full transcript", content_label="TRANSCRIPT",
+                                               content=" ".join(words)))
+    else:
+        chunks = [" ".join(words[i:i + CHUNK_WORDS]) for i in range(0, len(words), CHUNK_WORDS)]
+        notes = []
+        for i, c in enumerate(chunks, 1):
+            print(f"  part {i}/{len(chunks)}")
+            notes.append(llm(SYSTEM, NOTES_PROMPT.format(i=i, n=len(chunks), title=v["title"],
+                                                         channel=v["channel"], text=c), max_tokens=500))
+        body = llm(SYSTEM, FINAL_PROMPT.format(title=v["title"], channel=v["channel"], length=length,
+                                               what="notes taken while reading the transcript in parts",
+                                               content_label="NOTES", content="\n".join(notes)))
+    body = link_timestamps(body, v["id"], snips[-1][0] if snips else 0)
+    if cut: body += f"\n\n_Summary covers the first ~{MAX_WORDS:,} words of the transcript._"
+    return body
+
+def link_timestamps(md, vid, last):
+    """[12:34] -> a link to that moment. Times past the end of the video (model slips) are dropped."""
+    def rep(m):
+        parts = [int(p) for p in m.group(1).split(":")]
+        sec = parts[0] * 3600 + parts[1] * 60 + parts[2] if len(parts) == 3 else parts[0] * 60 + parts[1]
+        if sec > last + 30: return ""
+        return f"[{m.group(1)}](https://youtu.be/{vid}?t={sec})"
+    return re.sub(r"\[(\d{1,2}:\d{2}(?::\d{2})?)\](?!\()", rep, md)
+
+
+# ---------- main ----------
+
+def main():
+    os.makedirs(OUT, exist_ok=True)
+    state = json.load(open(SEEN_FILE)) if os.path.exists(SEEN_FILE) else {}
+    seen, handles = set(state.get("seen", [])), state.get("handles", {})
+    known_channels = set(state.get("channels", []))
+    now = datetime.now(timezone.utc)
+
+    todo, errors = [], []
+    for spec in read_channels():
+        try:
+            cid = channel_id(spec, handles)
+            vids = feed(cid)
+        except Exception as e:
+            print(f"{spec}: {e}"); errors.append(f"{spec}: could not read the channel ({str(e)[:100]})"); continue
+        # a channel seen for the first time only contributes recent videos, not its whole feed
+        cutoff = now - timedelta(hours=LOOKBACK_H) if cid not in known_channels else now - timedelta(days=30)
+        new = [v for v in vids if v["id"] not in seen and v["id"] not in {t["id"] for t in todo}
+               and datetime.fromisoformat(v["published"]) >= cutoff]
+        if cid not in known_channels:
+            seen.update(v["id"] for v in vids if v not in new)
+        print(f"{spec} ({vids[0]['channel'] if vids else cid}): {len(new)} new")
+        todo += new
+        known_channels.add(cid)
+    todo.sort(key=lambda v: v["published"])
+    if len(todo) > MAX_VIDEOS:
+        print(f"{len(todo)} new videos; doing the newest {MAX_VIDEOS}, the rest next run")
+        todo = todo[-MAX_VIDEOS:]
+
+    entries, skipped, n_blocked = [], [], 0
+    for v in todo:
+        print(f"\n{v['channel']}: {v['title']} ({v['id']})")
+        try:
+            snips = transcript(v["id"])
+        except Blocked:
+            n_blocked += 1; continue
+        if snips is None:
+            # live streams and fresh uploads get captions later: retry next run, give up after 3 days
+            if now - datetime.fromisoformat(v["published"]) > timedelta(days=3):
+                seen.add(v["id"]); skipped.append((v, "no transcript"))
+            continue
+        n_words = sum(len(t.split()) for _, t in snips)
+        if n_words < MIN_WORDS:
+            print(f"  {n_words} words, skipping (Short/clip)"); seen.add(v["id"]); continue
+        t0 = time.time()
+        try:
+            body = summarise(v, snips)
+        except Exception as e:
+            print(f"  model failed: {e}"); errors.append(f"model failed on {v['title']}"); continue
+        print(f"  summarised {n_words} words in {time.time() - t0:.0f}s")
+        entries.append((v, mmss(snips[-1][0]), body))
+        seen.add(v["id"])
+
+    if n_blocked:
+        errors.append(f"YouTube blocked transcript downloads for {n_blocked} video(s); they are retried next run "
+                      "(set the YT_PROXY or YT_COOKIES secret, see README.md)")
+    state = {"seen": sorted(seen)[-5000:], "handles": handles, "channels": sorted(known_channels)}
+    json.dump(state, open(SEEN_FILE, "w"), indent=1)
+
+    if not entries and not skipped and not errors:
+        print("\nnothing new to write"); return
+    today = now.strftime("%Y-%m-%d")
+    path = os.path.join(OUT, f"digest_{today}.md")
+    md = []
+    if not os.path.exists(path):
+        md.append(f"# YouTube digest — {today}\n")
+    else:
+        md.append(f"\n<!-- run {now.strftime('%H:%MZ')} -->\n")
+    for v, length, body in entries:
+        pub = datetime.fromisoformat(v["published"]).strftime("%b %d")
+        md.append(f"## {v['title']}\n\n**{v['channel']}** · {length} · {pub} · [watch]({v['link']})\n\n{body}\n")
+    if skipped:
+        md.append("## No transcript available\n")
+        md += [f"- [{v['title']}]({v['link']}) — {v['channel']}" for v, _ in skipped]
+    if errors:
+        md.append("\n_Problems this run: " + "; ".join(errors) + "_")
+    md.append(f"\n_Summaries by {LLM_MODEL} (open-source) running in GitHub Actions._\n")
+    with open(path, "a", encoding="utf-8") as f: f.write("\n".join(md))
+    shutil.copy(path, os.path.join(OUT, "digest_latest.md"))
+    print(f"\nwrote {path}: {len(entries)} summaries, {len(skipped)} without transcript")
+
+
+if __name__ == "__main__":
+    main()

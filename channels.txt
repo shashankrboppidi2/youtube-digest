@@ -1,0 +1,5 @@
+# One channel per line: a URL (youtube.com/@handle, /channel/UC...), a bare @handle or a UC... channel id.
+# Anything after '#' is a comment. Replace these test channels with your own.
+@veritasium
+@3blue1brown
+@Fireship

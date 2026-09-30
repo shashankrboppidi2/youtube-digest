@@ -1,0 +1,75 @@
+name: YouTube digest (daily)
+
+# Summarises new videos from channels.txt with an open-source model (Ollama on the runner's CPU) and
+# commits digests/digest_YYYY-MM-DD.md. A scheduled Claude session e-mails the digest afterwards.
+on:
+  schedule:
+    - cron: '7 10 * * *'      # 06:07 EDT / 05:07 EST
+  push:
+    paths: ['digest.py', 'channels.txt', 'requirements.txt', '.github/workflows/digest.yml']
+  workflow_dispatch:
+    inputs:
+      lookback_hours:
+        description: 'Channels new to the list: summarise videos from the last N hours'
+        default: '48'
+      max_videos:
+        description: 'Most videos to summarise this run'
+        default: '12'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      LLM_MODEL: qwen2.5:3b
+      OLLAMA_MODELS: /home/runner/ollama-models
+      OLLAMA_CONTEXT_LENGTH: '8192'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Cache model
+        uses: actions/cache@v4
+        with:
+          path: /home/runner/ollama-models
+          key: ollama-${{ env.LLM_MODEL }}
+      - name: Start Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          sudo systemctl stop ollama || true
+          nohup ollama serve > /tmp/ollama.log 2>&1 &
+          for i in $(seq 30); do curl -s localhost:11434 >/dev/null && break; sleep 1; done
+          ollama pull "$LLM_MODEL"
+          # load the model and check the endpoint digest.py uses
+          curl -sf localhost:11434/v1/chat/completions -H 'Content-Type: application/json' \
+            -d "{\"model\":\"$LLM_MODEL\",\"messages\":[{\"role\":\"user\",\"content\":\"Reply with OK\"}],\"max_tokens\":5}"
+      - name: YouTube cookies
+        env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}   # optional cookies.txt contents, see README.md
+        run: |
+          if [ -n "$YT_COOKIES" ]; then
+            printf '%s\n' "$YT_COOKIES" > "$RUNNER_TEMP/cookies.txt"
+            echo "YT_COOKIES_FILE=$RUNNER_TEMP/cookies.txt" >> "$GITHUB_ENV"
+          fi
+      - name: Run
+        env:
+          YT_PROXY: ${{ secrets.YT_PROXY }}    # optional; only needed if YouTube blocks GitHub's IPs
+          YT_LOOKBACK_H: ${{ inputs.lookback_hours || '48' }}
+          YT_MAX_VIDEOS: ${{ inputs.max_videos || '12' }}
+        run: python digest.py
+      - name: Commit results
+        run: |
+          git config user.name  "digest-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add digests/
+          git diff --quiet --cached || git commit -m "$(date -u +%FT%H:%M) youtube digest"
+          git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"
