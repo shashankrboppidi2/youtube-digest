@@ -19,7 +19,7 @@ Env (all optional):
   YT_BUDGET_MIN  stop starting new summaries after this many minutes; the rest wait for the next run   default 240
   YT_MIN_WORDS   shorter transcripts are skipped as Shorts/clips   default 250
   YT_LANGS       preferred caption languages     default en,en-US,en-GB
-  YT_PROXY       http(s) proxy for YouTube when GitHub's IPs are blocked
+  YT_PROXY       http(s) proxy for transcript downloads when GitHub's IPs are blocked (listing goes direct)
   YT_COOKIES_FILE  cookies.txt for yt-dlp (the workflow writes it from the YT_COOKIES secret)
 """
 import os, re, sys, json, glob, time, shutil, tempfile, subprocess
@@ -47,7 +47,6 @@ MAX_WORDS = 20000         # ~2h of speech; longer transcripts are cut here
 
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36",
       "Accept-Language": "en-US,en;q=0.9"}
-PROXIES = {"http": PROXY, "https": PROXY} if PROXY else None
 NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015",
       "media": "http://search.yahoo.com/mrss/"}
 
@@ -68,7 +67,7 @@ def channel_id(spec, cache):
     handle = re.sub(r"^https?://(www\.|m\.)?youtube\.com/", "", spec).strip("/").split("/")[0]
     if not handle.startswith("@") and not handle.startswith(("c/", "user/")): handle = "@" + handle
     if handle in cache: return cache[handle]
-    r = requests.get(f"https://www.youtube.com/{handle}", headers=UA, proxies=PROXIES, timeout=30,
+    r = requests.get(f"https://www.youtube.com/{handle}", headers=UA, timeout=30,
                      cookies={"CONSENT": "YES+1"})
     r.raise_for_status()
     m = (re.search(r'<link rel="canonical" href="https://www\.youtube\.com/channel/(UC[\w-]{22})"', r.text)
@@ -87,7 +86,7 @@ def feed(cid):
 
 def _rss(cid):
     r = requests.get(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}", headers=UA,
-                     proxies=PROXIES, timeout=30)
+                     timeout=30)
     r.raise_for_status()
     root = ET.fromstring(r.content)
     author = root.findtext("a:author/a:name", default=cid, namespaces=NS)
@@ -103,7 +102,6 @@ def _videos_tab(cid):
     cmd = [sys.executable, "-m", "yt_dlp", "--flat-playlist", "--dump-single-json", "--playlist-end", "15",
            "--extractor-args", "youtubetab:approximate_date", "--quiet", "--no-warnings",
            f"https://www.youtube.com/channel/{cid}/videos"]
-    if PROXY: cmd[3:3] = ["--proxy", PROXY]
     p = subprocess.run(cmd, timeout=180, capture_output=True, text=True)
     if p.returncode: raise RuntimeError((p.stderr.strip().splitlines() or ["yt-dlp failed"])[-1][:200])
     data = json.loads(p.stdout)

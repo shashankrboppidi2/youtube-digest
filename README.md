@@ -29,8 +29,13 @@ The fix used here is cookies from a signed-in browser, which yt-dlp sends along:
 The cookies last a few weeks. When they expire, the digest e-mail says "YouTube blocked transcript
 downloads". Repeat the steps above then. Blocked videos from the last 30 days are retried every run.
 
-Alternatives: a residential proxy in a `YT_PROXY` secret (`http://user:pass@host:port`, about $3–7/month), or a
-self-hosted runner on an always-on machine at home (`runs-on: self-hosted`).
+### Residential proxy (`YT_PROXY`)
+
+If cookies stop working, route the transcript downloads through a residential proxy (channel listing goes direct):
+1. Sign up at webshare.io and buy a **Residential** plan (rotating residential, not "proxy server" or
+   "static residential"). About 1–2 GB a month covers ~30 videos a day.
+2. In the dashboard under Proxy → Residential, copy the rotating endpoint's username and password.
+3. Add a repo secret `YT_PROXY` = `http://USERNAME-rotate:PASSWORD@p.webshare.io:80`.
 
 ## Knobs
 
