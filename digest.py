@@ -190,20 +190,23 @@ def with_markers(snips, every=60):
 
 # ---------- model ----------
 
-def llm(system, user, max_tokens=700):
+def llm(system, user, max_tokens=900):
     r = requests.post(f"{LLM_BASE_URL}/chat/completions", timeout=1800,
                       headers={"Authorization": f"Bearer {LLM_API_KEY}"},
                       json={"model": LLM_MODEL, "temperature": 0.2, "max_tokens": max_tokens,
                             "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}]})
     r.raise_for_status()
-    text = r.json()["choices"][0]["message"]["content"] or ""
-    return re.sub(r"<think>.*?</think>", "", text, flags=re.S).strip()   # reasoning models
+    choice = r.json()["choices"][0]
+    text = re.sub(r"<think>.*?</think>", "", choice["message"]["content"] or "", flags=re.S).strip()   # reasoning models
+    if choice.get("finish_reason") == "length" and "\n" in text:
+        text = text.rsplit("\n", 1)[0]     # cut off mid-sentence: drop the unfinished line
+    return text
 
 SYSTEM = ("You condense YouTube videos for a busy reader who will not watch them. Be concrete: names, numbers, "
           "claims, conclusions. Never invent anything that is not in the transcript. Plain English, no hype.")
 
 NOTES_PROMPT = """Part {i} of {n} of the transcript of "{title}" ({channel}). Timestamps like [12:34] mark the time.
-Write 4-8 terse bullet points with the substantive points made in this part (facts, arguments, numbers, advice).
+Write 3-5 terse bullet points with the most substantive points made in this part (facts, arguments, numbers, advice).
 Put the timestamp of each point at its start, e.g. "- [12:34] ...". Skip sponsor reads, intros and calls to subscribe.
 
 TRANSCRIPT PART:
@@ -216,10 +219,10 @@ Write exactly this, in Markdown, nothing before or after:
 
 **TL;DR:** <2-3 sentences: what the video is about and its main conclusion>
 
-**Key points:**
-- <4-7 bullets, the most important specific points; keep a [m:ss] timestamp at the start of a bullet when you have one>
-
 **Worth watching in full?** <score>/5 — <one sentence why; 5 = the summary cannot replace it, 1 = the summary covers it>
+
+**Key points:**
+- <5-7 bullets in total, no more: the most important specific points of the whole video, not one per note; start a bullet with its [m:ss] timestamp when you have one>
 
 {content_label}:
 {content}"""
@@ -243,9 +246,18 @@ def summarise(v, snips):
         body = llm(SYSTEM, FINAL_PROMPT.format(title=v["title"], channel=v["channel"], length=length,
                                                what="notes taken while reading the transcript in parts",
                                                content_label="NOTES", content="\n".join(notes)))
-    body = link_timestamps(body, v["id"], snips[-1][0] if snips else 0)
+    body = link_timestamps(cap_bullets(body), v["id"], snips[-1][0] if snips else 0)
     if cut: body += f"\n\n_Summary covers the first ~{MAX_WORDS:,} words of the transcript._"
     return body
+
+def cap_bullets(md, keep=7):
+    """Small models ignore "5-7 bullets" on long videos; keep `keep` of them, spread across the video."""
+    lines = md.split("\n")
+    idx = [i for i, l in enumerate(lines) if l.lstrip().startswith(("- ", "* "))]
+    if len(idx) <= keep: return md
+    step = (len(idx) - 1) / (keep - 1)
+    chosen = {idx[round(k * step)] for k in range(keep)}
+    return "\n".join(l for i, l in enumerate(lines) if i not in idx or i in chosen)
 
 def link_timestamps(md, vid, last):
     """[12:34] -> a link to that moment. Times past the end of the video (model slips) are dropped."""
