@@ -29,6 +29,14 @@ The fix used here is cookies from a signed-in browser, which yt-dlp sends along:
 The cookies last a few weeks. When they expire, the digest e-mail says "YouTube blocked transcript
 downloads". Repeat the steps above then. Blocked videos from the last 30 days are retried every run.
 
+### NordVPN (`YT_PROXY`, free if you already subscribe)
+
+NordVPN's SOCKS5 servers are data-centre IPs, so YouTube may block them too, but they cost nothing to try:
+Nord Account → NordVPN → Set up NordVPN manually → **Service credentials** (not your login), then a secret
+`YT_PROXY` = `socks5h://SERVICE_USER:SERVICE_PASS@amsterdam.nl.socks.nordhold.net:1080`
+(other SOCKS hosts: `atlanta.us.socks.nordhold.net`, `dallas.us.socks.nordhold.net`, `los-angeles.us.socks.nordhold.net`,
+`new-york.us.socks.nordhold.net`, `stockholm.se.socks.nordhold.net`).
+
 ### Residential proxy (`YT_PROXY`)
 
 If cookies stop working, route the transcript downloads through a residential proxy (channel listing goes direct):
