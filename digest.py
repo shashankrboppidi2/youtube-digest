@@ -8,7 +8,7 @@ OpenAI-compatible endpoint works) write a TL;DR, key points and a watch-or-skip 
   digests/digest_latest.md       copy of the last digest written
   digests/seen.json              video ids already handled, so nothing is summarised twice
 
-No e-mail from here: a scheduled Claude session picks up the day's digest and sends it.
+No e-mail from here: send_email.py (email.yml) sends the day's digest at 7am Eastern.
 
 Env (all optional):
   LLM_BASE_URL   OpenAI-compatible base URL      default http://localhost:11434/v1 (Ollama)

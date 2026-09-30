@@ -1,12 +1,10 @@
 name: YouTube digest (daily)
 
 # Summarises new videos from channels.txt with an open-source model (Ollama on the runner's CPU) and
-# commits digests/digest_YYYY-MM-DD.md. A scheduled Claude session e-mails the digest afterwards.
+# commits digests/digest_YYYY-MM-DD.md. email.yml sends it at 7am Eastern.
 on:
   schedule:
     - cron: '7 5 * * *'       # 01:07 EDT / 00:07 EST; the digest e-mail goes out at 07:00 ET
-  push:
-    paths: ['digest.py', 'channels.txt', 'requirements.txt', '.github/workflows/digest.yml']
   workflow_dispatch:
     inputs:
       lookback_hours:

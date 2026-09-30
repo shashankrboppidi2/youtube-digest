@@ -2,7 +2,7 @@
 
 Once a day, `.github/workflows/digest.yml` summarises new uploads from the channels in `channels.txt` with an
 open-source model (`qwen2.5:3b` through Ollama, on the runner's CPU) and commits
-`digests/digest_YYYY-MM-DD.md`. A scheduled Claude session e-mails that file.
+`digests/digest_YYYY-MM-DD.md`. `email.yml` e-mails it at 7am Eastern.
 
 Per video: TL;DR, key points with links to the moment in the video, and a 1–5 "worth watching in full?" score.
 Shorts and clips (under 250 words of transcript) are skipped.
@@ -44,3 +44,16 @@ A manual run (Actions → YouTube digest → Run workflow) takes `lookback_hours
 Runtime: about 2 minutes of setup, then about 1–3 minutes per video on a 2-core runner, longer for 1–2 hour
 podcasts. A run stops starting new summaries after 4 hours (`YT_BUDGET_MIN`); the rest go into the next day's digest. In a private repo that uses
 the account's free Actions minutes; public repos run free on faster 4-core runners.
+
+## E-mail
+
+`email.yml` runs `send_email.py` at 7am Eastern (06:57, on whichever of its two UTC triggers matches the
+current daylight-saving offset) and sends the day's digest as HTML through Gmail. It needs three repo secrets:
+
+| Secret | Value |
+|---|---|
+| `SMTP_USER` | the Gmail address that sends the digest |
+| `SMTP_PASS` | a Gmail **app password** for that address (Google Account → Security → 2-Step Verification → App passwords) |
+| `MAIL_TO` | where the digest goes; comma-separate several addresses |
+
+Actions → YouTube digest e-mail → Run workflow sends today's digest immediately (handy for testing).

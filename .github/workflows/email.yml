@@ -1,0 +1,41 @@
+name: YouTube digest e-mail (7am ET)
+
+# GitHub cron is UTC-only: 10:57 UTC is 06:57 EDT, 11:57 UTC is 06:57 EST. send_email.py sends once a day,
+# on the first of the two that falls at or after 06:45 New York time.
+on:
+  schedule:
+    - cron: '57 10 * * *'
+    - cron: '57 11 * * *'
+  workflow_dispatch:     # manual run: sends today's digest right away
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install markdown
+      - name: Send
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO:   ${{ secrets.MAIL_TO }}
+          FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+        run: python send_email.py
+      - name: Record sent date
+        run: |
+          git config user.name  "digest-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add digests/
+          git diff --quiet --cached || git commit -m "$(date -u +%F) digest e-mailed"
+          git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"
