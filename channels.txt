@@ -1,5 +1,26 @@
 # One channel per line: a URL (youtube.com/@handle, /channel/UC...), a bare @handle or a UC... channel id.
-# Anything after '#' is a comment. Replace these test channels with your own.
-@veritasium
-@3blue1brown
-@Fireship
+# Anything after '#' is a comment.
+@ILTB_Podcast
+@20VC
+@ycombinator
+@techsurge-deeptech
+@NoPriorsPodcast
+@chipstockinvestor
+@BusinessWithBrian
+@allin
+@TheWallStreetSkinny
+@TheMarketMonkeys
+@BEPResearch
+@SemiDoped
+@JoseNajarroStocks
+@DwarkeshPatel
+@TheBearRoars
+@BloombergPodcasts
+@SourceryVC
+@norgesbankinvestmentmanagement
+@SixFiveMedia
+@NVIDIA
+@practicalai_show
+@TheStreet
+@overkilltrading
+@sequoiacapital

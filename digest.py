@@ -15,7 +15,8 @@ Env (all optional):
   LLM_MODEL      model name                      default qwen2.5:3b
   LLM_API_KEY    key for a hosted endpoint       default "ollama"
   YT_LOOKBACK_H  first sight of a channel: only videos newer than this many hours   default 48
-  YT_MAX_VIDEOS  cap per run (CPU time)          default 12
+  YT_MAX_VIDEOS  cap per run                     default 30
+  YT_BUDGET_MIN  stop starting new summaries after this many minutes; the rest wait for the next run   default 240
   YT_MIN_WORDS   shorter transcripts are skipped as Shorts/clips   default 250
   YT_LANGS       preferred caption languages     default en,en-US,en-GB
   YT_PROXY       http(s) proxy for YouTube when GitHub's IPs are blocked
@@ -34,7 +35,9 @@ LLM_BASE_URL = os.getenv("LLM_BASE_URL", "http://localhost:11434/v1").rstrip("/"
 LLM_MODEL = os.getenv("LLM_MODEL", "qwen2.5:3b")
 LLM_API_KEY = os.getenv("LLM_API_KEY", "ollama")
 LOOKBACK_H = float(os.getenv("YT_LOOKBACK_H", "48"))
-MAX_VIDEOS = int(os.getenv("YT_MAX_VIDEOS", "12"))
+MAX_VIDEOS = int(os.getenv("YT_MAX_VIDEOS", "30"))
+BUDGET_MIN = float(os.getenv("YT_BUDGET_MIN", "240"))
+START = time.time()
 MIN_WORDS = int(os.getenv("YT_MIN_WORDS", "250"))
 LANGS = [s.strip() for s in os.getenv("YT_LANGS", "en,en-US,en-GB").split(",") if s.strip()]
 PROXY = os.getenv("YT_PROXY", "")
@@ -279,7 +282,12 @@ def main():
         todo = todo[-MAX_VIDEOS:]
 
     entries, skipped, n_blocked = [], [], 0
+    todo.reverse()     # newest first, so a run that hits the time budget leaves the older ones
     for v in todo:
+        if time.time() - START > BUDGET_MIN * 60:
+            left = len(todo) - todo.index(v)
+            print(f"\ntime budget reached; {left} video(s) left for the next run")
+            errors.append(f"{left} video(s) held over to the next run (time budget)"); break
         print(f"\n{v['channel']}: {v['title']} ({v['id']})")
         try:
             snips = transcript(v["id"])

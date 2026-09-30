@@ -12,17 +12,25 @@ Shorts and clips (under 250 words of transcript) are skipped.
 Edit `channels.txt`: one `@handle`, channel URL or `UC…` id per line. A channel added later contributes
 only its last 48 hours of uploads on its first run, not its whole back catalogue.
 
-## YouTube blocks GitHub's servers
+## YouTube blocks GitHub's servers: the `YT_COOKIES` secret
 
 From GitHub-hosted runners YouTube refuses caption downloads ("Sign in to confirm you're not a bot").
-The channel listing still works. Blocked videos are retried on the next run, and the digest says so.
-Pick one of these fixes:
+The fix used here is cookies from a signed-in browser, which yt-dlp sends along:
 
-| Fix | Setup | Cost |
-|---|---|---|
-| **Residential proxy** (most reliable) | Add a `YT_PROXY` repo secret, e.g. `http://user:pass@p.webshare.io:80` from a Webshare "residential" plan | about $3–7/month |
-| **Browser cookies** | Export youtube.com cookies (Netscape `cookies.txt`, e.g. with the "Get cookies.txt LOCALLY" extension) from a browser signed in to a spare Google account, and paste the whole file into a `YT_COOKIES` repo secret | free; expires every few weeks; use a spare account |
-| **Self-hosted runner** | Register your own always-on machine as a runner and change `runs-on` to `self-hosted` | free; that machine's home IP isn't blocked, and Ollama runs faster there |
+1. Use a **spare Google account**, not your main one. YouTube can flag accounts used by scripts.
+2. In Chrome or Firefox, install the **"Get cookies.txt LOCALLY"** extension.
+3. Open a **private/incognito window** (allow the extension there), sign in to youtube.com with the spare account,
+   and open any video.
+4. Export cookies for youtube.com with the extension (Netscape format), then **close the private window
+   without signing out**. That stops the browser from rotating the cookies you just exported.
+5. In this repo: Settings → Secrets and variables → Actions → New repository secret, name `YT_COOKIES`,
+   and paste the whole file.
+
+The cookies last a few weeks. When they expire, the digest e-mail says "YouTube blocked transcript
+downloads". Repeat the steps above then. Blocked videos from the last 30 days are retried every run.
+
+Alternatives: a residential proxy in a `YT_PROXY` secret (`http://user:pass@host:port`, about $3–7/month), or a
+self-hosted runner on an always-on machine at home (`runs-on: self-hosted`).
 
 ## Knobs
 
@@ -33,5 +41,6 @@ drop the Ollama steps. Other settings are at the top of `digest.py`.
 
 A manual run (Actions → YouTube digest → Run workflow) takes `lookback_hours` and `max_videos`.
 
-Runtime: about 2 minutes of setup, then about 1–3 minutes per video on a 2-core runner. In a private repo that uses
+Runtime: about 2 minutes of setup, then about 1–3 minutes per video on a 2-core runner, longer for 1–2 hour
+podcasts. A run stops starting new summaries after 4 hours (`YT_BUDGET_MIN`); the rest go into the next day's digest. In a private repo that uses
 the account's free Actions minutes; public repos run free on faster 4-core runners.

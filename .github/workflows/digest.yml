@@ -4,7 +4,7 @@ name: YouTube digest (daily)
 # commits digests/digest_YYYY-MM-DD.md. A scheduled Claude session e-mails the digest afterwards.
 on:
   schedule:
-    - cron: '7 10 * * *'      # 06:07 EDT / 05:07 EST
+    - cron: '7 5 * * *'       # 01:07 EDT / 00:07 EST; the digest e-mail goes out at 07:00 ET
   push:
     paths: ['digest.py', 'channels.txt', 'requirements.txt', '.github/workflows/digest.yml']
   workflow_dispatch:
@@ -14,7 +14,7 @@ on:
         default: '48'
       max_videos:
         description: 'Most videos to summarise this run'
-        default: '12'
+        default: '30'
 
 permissions:
   contents: write
@@ -26,13 +26,16 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 300
     env:
       LLM_MODEL: qwen2.5:3b
       OLLAMA_MODELS: /home/runner/ollama-models
       OLLAMA_CONTEXT_LENGTH: '8192'
     steps:
       - uses: actions/checkout@v4
+      - uses: denoland/setup-deno@v2    # yt-dlp needs a JavaScript runtime for YouTube
+        with:
+          deno-version: v2.x
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -64,7 +67,7 @@ jobs:
         env:
           YT_PROXY: ${{ secrets.YT_PROXY }}    # optional; only needed if YouTube blocks GitHub's IPs
           YT_LOOKBACK_H: ${{ inputs.lookback_hours || '48' }}
-          YT_MAX_VIDEOS: ${{ inputs.max_videos || '12' }}
+          YT_MAX_VIDEOS: ${{ inputs.max_videos || '30' }}
         run: python digest.py
       - name: Commit results
         run: |
