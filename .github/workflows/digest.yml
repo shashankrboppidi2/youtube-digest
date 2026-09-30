@@ -13,6 +13,10 @@ on:
       max_videos:
         description: 'Most videos to summarise this run'
         default: '30'
+      use_cookies:
+        description: 'Send the YT_COOKIES secret to YouTube'
+        type: boolean
+        default: true
 
 permissions:
   contents: write
@@ -57,7 +61,7 @@ jobs:
         env:
           YT_COOKIES: ${{ secrets.YT_COOKIES }}   # optional cookies.txt contents, see README.md
         run: |
-          if [ -n "$YT_COOKIES" ]; then
+          if [ -n "$YT_COOKIES" ] && [ "${{ inputs.use_cookies }}" != "false" ]; then
             printf '%s\n' "$YT_COOKIES" > "$RUNNER_TEMP/cookies.txt"
             echo "YT_COOKIES_FILE=$RUNNER_TEMP/cookies.txt" >> "$GITHUB_ENV"
           fi
