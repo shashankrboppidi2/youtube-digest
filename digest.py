@@ -215,7 +215,8 @@ TRANSCRIPT PART:
 FINAL_PROMPT = """Video: "{title}" by {channel}, {length} long.
 Below is {what}. Timestamps like [12:34] mark the time.
 
-Write exactly this, in Markdown, nothing before or after:
+Write exactly this, in Markdown, nothing before or after. Replace each <...> with your own text; never copy the
+<...> instructions or the angle brackets into your answer:
 
 **TL;DR:** <2-3 sentences: what the video is about and its main conclusion>
 
@@ -246,9 +247,16 @@ def summarise(v, snips):
         body = llm(SYSTEM, FINAL_PROMPT.format(title=v["title"], channel=v["channel"], length=length,
                                                what="notes taken while reading the transcript in parts",
                                                content_label="NOTES", content="\n".join(notes)))
-    body = link_timestamps(cap_bullets(body), v["id"], snips[-1][0] if snips else 0)
+    body = link_timestamps(cap_bullets(tidy(body)), v["id"], snips[-1][0] if snips else 0)
     if cut: body += f"\n\n_Summary covers the first ~{MAX_WORDS:,} words of the transcript._"
     return body
+
+def tidy(md):
+    """Undo template echoes: drop copied <...> instructions and pull the text up next to its **Label:**."""
+    md = re.sub(r"<[^<>\n]{12,}>", "", md)
+    md = re.sub(r"(\*\*[^*\n]+:\*\*[^\n]*?)[ \t]*\n\s*\n(?=[^\s*\-])", lambda m: m.group(1).rstrip() + " ", md)
+    md = re.sub(r"(\d/5)\s*—\s*(?=\S)", r"\1 — ", md)
+    return re.sub(r"\n{3,}", "\n\n", md).strip()
 
 def cap_bullets(md, keep=7):
     """Small models ignore "5-7 bullets" on long videos; keep `keep` of them, spread across the video."""
