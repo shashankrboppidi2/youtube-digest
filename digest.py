@@ -124,7 +124,8 @@ def _videos_tab(cid):
 class Blocked(Exception):
     """YouTube refused the runner (bot check / IP block), as opposed to the video having no captions."""
 
-BLOCK_SIGNS = ("RequestBlocked", "IpBlocked", "confirm you", "not a bot", "HTTP Error 429", "Too Many Requests")
+BLOCK_SIGNS = ("RequestBlocked", "IpBlocked", "confirm you", "not a bot", "HTTP Error 429", "Too Many Requests",
+               "needs to be reloaded")
 
 def transcript(vid):
     """[(start_seconds, text)] or None. Tries youtube-transcript-api, then yt-dlp's captions.
@@ -142,7 +143,13 @@ def transcript(vid):
 def _transcript_api(vid):
     from youtube_transcript_api import YouTubeTranscriptApi
     from youtube_transcript_api.proxies import GenericProxyConfig
-    api = YouTubeTranscriptApi(proxy_config=GenericProxyConfig(http_url=PROXY, https_url=PROXY) if PROXY else None)
+    http = None
+    if COOKIES:     # signed-in cookies make YouTube far less likely to refuse a datacenter IP
+        from http.cookiejar import MozillaCookieJar
+        jar = MozillaCookieJar(COOKIES); jar.load(ignore_discard=True, ignore_expires=True)
+        http = requests.Session(); http.cookies = jar; http.headers.update(UA)
+    api = YouTubeTranscriptApi(proxy_config=GenericProxyConfig(http_url=PROXY, https_url=PROXY) if PROXY else None,
+                               http_client=http)
     tl = api.list(vid)
     try: t = tl.find_transcript(LANGS)
     except Exception: t = next(iter(tl))     # any language; the model writes English regardless
@@ -152,7 +159,8 @@ def _transcript_ytdlp(vid):
     d = tempfile.mkdtemp()
     try:
         cmd = [sys.executable, "-m", "yt_dlp", "--skip-download", "--write-subs", "--write-auto-subs",
-               "--sub-langs", "en.*,en", "--sub-format", "json3", "-o", os.path.join(d, "%(id)s.%(ext)s"),
+               "--sub-langs", "en.*,en", "--sub-format", "json3",
+               "--extractor-args", "youtube:player_client=default,tv,mweb", "-o", os.path.join(d, "%(id)s.%(ext)s"),
                "--quiet", "--no-warnings", f"https://www.youtube.com/watch?v={vid}"]
         if PROXY: cmd[3:3] = ["--proxy", PROXY]
         if COOKIES: cmd[3:3] = ["--cookies", COOKIES]
