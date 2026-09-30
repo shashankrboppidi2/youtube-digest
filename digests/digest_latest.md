@@ -15,7 +15,6 @@
 
 **Worth watching in full?** 4/5 — The summary covers the main points but misses some detailed financial analysis and specific strategies.
 
-_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
 
 ## Burnham Gets Radical, Oil Flows Recover, Man City’s $1.2B ‘Sham’ | Bloomberg Daybreak: Europe...
 
