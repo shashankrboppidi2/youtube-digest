@@ -70,3 +70,8 @@ current daylight-saving offset) and sends the day's digest as HTML through Gmail
 | `MAIL_TO` | where the digest goes; comma-separate several addresses |
 
 Actions → YouTube digest e-mail → Run workflow sends today's digest immediately (handy for testing).
+
+## Skipping videos
+
+`skip.txt` lists title patterns to ignore (case-insensitive regular expressions). `[Channel Name] pattern`
+limits a rule to one channel. Skipped videos are never summarised or listed.

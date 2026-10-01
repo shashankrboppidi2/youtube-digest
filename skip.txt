@@ -1,0 +1,5 @@
+# Videos to skip, one rule per line, matched case-insensitively against the video title.
+# A plain line is a regular expression on the title ("Bloomberg Daybreak" also matches part of a title).
+# "[Channel Name] pattern" limits the rule to one channel, e.g.  [Bloomberg Podcasts] Stock Movers
+# Anything after '#' is a comment.
+Bloomberg Daybreak          # general morning news round-ups

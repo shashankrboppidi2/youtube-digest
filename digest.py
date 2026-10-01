@@ -60,6 +60,22 @@ def read_channels():
         if line: out.append(line)
     return out
 
+def read_skip_rules():
+    """[(channel or None, compiled title regex)] from skip.txt."""
+    path = os.path.join(HERE, "skip.txt")
+    rules = []
+    if not os.path.exists(path): return rules
+    for line in open(path, encoding="utf-8"):
+        line = line.split("#", 1)[0].strip()
+        if not line: continue
+        m = re.match(r"\[([^\]]+)\]\s*(.+)", line)     # "[Channel Name] pattern" limits a rule to one channel
+        chan, pat = (m.group(1), m.group(2)) if m else ("", line)
+        rules.append((chan.strip().lower() or None, re.compile(pat.strip(), re.I)))
+    return rules
+
+def skipped_by_rule(v, rules):
+    return any((c is None or c == v["channel"].lower()) and r.search(v["title"]) for c, r in rules)
+
 def channel_id(spec, cache):
     """UC... id for a channel URL, @handle or id. Handle lookups are cached in seen.json."""
     m = re.search(r"(UC[\w-]{22})", spec)
@@ -287,6 +303,7 @@ def main():
     now = datetime.now(timezone.utc)
 
     todo, errors = [], []
+    skip_rules = read_skip_rules()
     for spec in read_channels():
         try:
             cid = channel_id(spec, handles)
@@ -295,6 +312,9 @@ def main():
             print(f"{spec}: {e}"); errors.append(f"{spec}: could not read the channel ({str(e)[:100]})"); continue
         # a channel seen for the first time only contributes recent videos, not its whole feed
         cutoff = now - timedelta(hours=LOOKBACK_H) if cid not in known_channels else now - timedelta(days=30)
+        for v in vids:     # skip.txt: never summarise these, never list them
+            if v["id"] not in seen and skipped_by_rule(v, skip_rules):
+                print(f"  skip (skip.txt): {v['title']}"); seen.add(v["id"])
         new = [v for v in vids if v["id"] not in seen and v["id"] not in {t["id"] for t in todo}
                and datetime.fromisoformat(v["published"]) >= cutoff]
         if cid not in known_channels:
