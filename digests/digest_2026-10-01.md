@@ -158,3 +158,332 @@ _Summary covers the first ~20,000 words of the transcript._
 _Problems this run: YouTube blocked transcript downloads for 1 video(s); they are retried next run (set the YT_PROXY or YT_COOKIES secret, see README.md)_
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
+
+<!-- run 11:33Z -->
+
+## Bond Veteran Jim Bianco Still Bullish As Yields Soar
+
+**Bloomberg Podcasts** · 7:01 · Oct 01 · [watch](https://www.youtube.com/watch?v=2M4n8oLji-c)
+
+**TL;DR:** Jim Bianco, a bond market veteran, remains bullish on the bond market despite rising yields, attributing this to the current yield levels. He argues that with yields at 5.5%, the duration is also 5.5%, making bonds more attractive compared to equities, which could decline further. He also notes that the European sovereign debt market is more vulnerable due to higher inflation driven by the Russia-Ukraine war. For the UK, he sees higher yields as a result of fiscal problems and energy-driven inflation concerns.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses out on the detailed analysis and the specific market conditions discussed.
+
+**Key points:**
+- Rising yields have attracted Bianco to become optimistic on the bond market for the first time in six years.
+- The current yield of 5.5% makes bonds more attractive compared to equities, which could decline further.
+- The European sovereign debt market is more vulnerable due to higher inflation driven by the Russia-Ukraine war.
+- The UK faces higher yields due to fiscal problems and energy-driven inflation concerns.
+
+## Bloomberg News Now: Trump Says Powell Should Resign From Fed Board
+
+**Bloomberg Podcasts** · 5:23 · Oct 01 · [watch](https://www.youtube.com/watch?v=2016idr2HCE)
+
+**TL;DR:** President Trump criticizes Federal Reserve Chair Jay Powell for the $2.4 billion cost of renovating the Federal Reserve headquarters, calling him incompetent. The Federal Reserve's internal watchdog found no evidence of criminal wrongdoing, but the Fed will implement recommendations to improve oversight.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but misses the detailed market analysis and the co-pilot stabbing incident.
+
+**Key points:**
+- President Trump criticizes Powell for the $2.4 billion cost of renovating the Federal Reserve headquarters.
+- Federal Reserve's internal watchdog found no evidence of criminal wrongdoing.
+- The Fed will implement recommendations to improve oversight.
+- S&P 500 gains 12% for the year, up from a 2% gain in the third quarter.
+- Moderna stock jumps 175% due to positive data on a melanoma drug.
+- Micron Technology's sales forecast for the current quarter beat analysts estimates.
+- Treasury yields continue to rise, reaching levels not seen in decades.
+
+## AG Barr Drops, LandSec Falls, Sanofi Gains | Stock Movers
+
+**Bloomberg Podcasts** · 4:35 · Oct 01 · [watch](https://www.youtube.com/watch?v=oXidtUQFWDs)
+
+**TL;DR:** The video discusses stock movements in Europe, focusing on AG Bar, LandSec, and Sanofi. AG Bar shares fell due to a downgrade from a buy to a hold, while LandSec shares remained flat. Sanofi saw a rise in shares following a significant partnership with Regeneron Pharmaceuticals. 
+
+**Worth watching in full?** 5/5 — The summary covers the main points but the full video provides additional context and analysis.
+
+**Key points:**
+- AG Bar shares down 4.7% due to a downgrade from buy to hold by Baronberg.
+- LandSec shares remain flat, but the company is planning a £500 million share sale to fund a £516 million acquisition of Metro Center.
+- Sanofi shares rose 3.7% after a significant partnership with Regeneron Pharmaceuticals for co-developing and co-commercializing four new antibody drugs.
+
+## Pandora Falls, LandSec Drops, Colruyt Falls | Stock Movers
+
+**Bloomberg Podcasts** · 3:24 · Oct 01 · [watch](https://www.youtube.com/watch?v=0Fc2YlfoDKA)
+
+**TL;DR:** The video discusses stock movements in Pandora, LandSec, and Colruyt, highlighting concerns about consumer demand and rising costs affecting these companies' stock prices.
+
+**Worth watching in full?** 5/5 — The summary touches on key points but misses out on detailed analysis and context provided in the full video.
+
+**Key points:**
+- Pandora shares down 4% year-to-date due to weak US demand and inflation concerns.
+- LandSec shares down 2.3% after issuing new shares to fund a mall acquisition.
+- Colruyt shares down 11% after cutting guidance due to rising costs and increased competition, with JP Morgan warning of potential derating.
+
+## FlyDubai Rescue Latest; Trump Calls on Powell to Resign from Fed Board | Bloomberg Daybreak: US...
+
+**Bloomberg Podcasts** · 16:50 · Oct 01 · [watch](https://www.youtube.com/watch?v=L1Y_3BCZnXg)
+
+**TL;DR:** Bloomberg Daybreak covers various stories including President Trump's call for Fed Chair Powell to resign, the Federal Reserve's headquarters renovation controversy, Nasdaq futures, AI in the film industry, and a near-catastrophic incident on a FlyDubai flight. The podcast also discusses the bipartisan deal for infrastructure and the investigation into Christa Gail Pike's execution.
+
+**Worth watching in full?** 3/5 — The summary captures the main points but misses the detailed investigative reports and the full context of the AI industry discussion.
+
+**Key points:**
+- President Trump calls for Powell to resign from the Federal Reserve board.
+- Bloomberg's Michael McKe discusses the Federal Reserve's renovation of its Washington headquarters.
+- Bloomberg's Lucas Shaw interviews Ben Affleck about AI's impact on society.
+- Bloomberg's John Tucker discusses Treasury yields and the bond market.
+- Bloomberg's Benedict Camel details the co-pilot stabbing incident and the plane's emergency landing.
+- Bloomberg's John Stashour updates on the baseball playoffs.
+- Bloomberg's Benedict Camel discusses the investigation into the co-pilot stabbing incident.
+
+## The 80/20 Portfolio, Bipartisan Stocks and Slumpy Septembers | Trillions
+
+**Bloomberg Podcasts** · 13:42 · Oct 01 · [watch](https://www.youtube.com/watch?v=VSzEQu6IAFU)
+
+**TL;DR:** The video discusses the 80/20 Portfolio strategy, the GOP/Nance ETFs, and the poor performance of September in the stock market. The main conclusion is that the 80/20 Portfolio strategy can outperform traditional 60/40 portfolios due to the high proportion of stocks in the modern portfolio.
+
+**Worth watching in full?** 5/5 — The summary covers the key points but the full video provides additional context and analysis.
+
+**Key points:**
+- The 80/20 Portfolio strategy, where 80% of assets are in stocks and 20% in bonds, is more relevant given the high proportion of stocks in ETFs.
+- The GOP/Nance ETFs track what lawmakers are buying and selling, potentially offering insights into which stocks are favored by both parties.
+- September is often a poor-performing month, with high launch activity and potential for outflows from bond mutual funds, which could lead to a bond market downturn.
+
+## Inside the little-known world of China's clean tech startups | Zero: The Climate Race
+
+**Bloomberg Podcasts** · 34:34 · Oct 01 · [watch](https://www.youtube.com/watch?v=NEsAqGVdkbY)
+
+**TL;DR:** The video discusses the transformation of China's clean tech startup scene, focusing on the country's progress in reducing air pollution and addressing climate change. The main conclusion is that China is now a significant player in green technology innovation, with a growing number of startups and investments in clean energy solutions.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the key points and insights provided by Tony Shia.
+
+**Key points:**
+- Tony Shia has over 20 years of experience in environmental issues in China, specializing in both air pollution and climate change.
+- The US embassy's air quality monitors played a crucial role in raising awareness of air pollution issues.
+- Companies like PCE, using carbon dioxide as a raw material, have demonstrated competitive and cost-effective products.
+- Local research and development are crucial in China, as seen in companies like PCE and Jungu Guang.
+- Compressed air energy storage is a strategic and cost-effective solution in China, with potential for future applications.
+- Interest in new materials, such as leather made from mushrooms, is growing in overseas markets.
+- China aims to host COP 33 in 2028 to showcase its climate tech achievements.
+
+## LIVE CHART REQUESTS🚨 Top Stocks & Crypto to Watch in October | Overkill Investing Club
+
+**Overkill Trading** · 1:00:25 · Sep 30 · [watch](https://www.youtube.com/watch?v=HhV4ROFNdVo)
+
+**TL;DR:** The video discusses live chart requests and analysis for top stocks and cryptocurrencies to watch in October, providing specific buy and sell signals for various stocks and cryptocurrencies based on their chart patterns.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed analysis and specific signals provided in the full video.
+
+**Key points:**
+- Costco (A) and A are green on the weekly chart, indicating a potential buy signal for October with a stop loss at 870.
+- AS TU and TU are red on the weekly chart, indicating a potential sell signal.
+- LCRX (Lamb Research) is green with a green dot, indicating a potential buy signal.
+- HubSpot is trading around 170, with a level at 170 getting sold off recently.
+- T Fuel and CFG are both still in the green, with T Fuel needing a red dot and CFG needing a red dot.
+- Q&T has had a massive move, with a red dot on the daily chart, and a stop loss at 255 would be used.
+- The speaker advises buying assets at low prices and selling at high prices, not settling for average deals.
+
+## Micron Jumps; Northrop Grumman, Moderna Slide | Stock Movers
+
+**Bloomberg Podcasts** · 5:30 · Sep 30 · [watch](https://www.youtube.com/watch?v=gh589r5A3us)
+
+**TL;DR:** The video discusses stock movements in Micron, Northrop Grumman, and Moderna, highlighting Micron's strong earnings and Moderna's stock decline after a recommendation to sell.
+
+**Worth watching in full?** 5/5 — The summary cannot fully cover the nuances and detailed analysis provided in the full video.
+
+**Key points:**
+- Micron reported strong earnings, with revenue forecast exceeding estimates.
+- Northrop Grumman saw a decline after Boeing beat expectations for a new Navy program.
+- Moderna's stock declined following a recommendation to sell, citing unjustifiable valuation despite a recent rally.
+
+## Fed’s Watchdog Finds No Criminal Violations in Renovations | Balance of Power
+
+**Bloomberg Podcasts** · 47:44 · Sep 30 · [watch](https://www.youtube.com/watch?v=oCdA1Ra7YTQ)
+
+**TL;DR:** The Inspector General (IG) report on the Federal Reserve's building renovation found no criminal violations but highlighted issues with the flawed bidding process and inadequate oversight. Despite this, the Board of Governors will implement new measures to prevent future problems. The IG report does not address broader management issues at the Fed, such as setting monetary policy.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses the detailed discussion on broader management issues and the potential for further legal action.
+
+**Key points:**
+- Treasury yields are rising due to weak core PCE data, indicating persistent inflation despite market expectations for a September rate hike.
+- The IG report found no criminal violations but criticized the flawed bidding process and inadequate oversight.
+- Senator Ted Budd supports the IG report's findings but suggests the Justice Department could still pursue further lines of inquiry.
+- The renovation was paid for by the Federal Reserve itself, not taxpayers.
+- Senator Ted Cruz argues for mandatory legislation to protect data centers from being treated as burdens in communities and advocates for a light-touch agreement with tech companies and AI experts.
+- The UK Prime Minister Andy Burnham discusses potential Iranian involvement and suggests a need for a more comprehensive framework involving multiple tech companies and AI experts.
+- General Gibson discusses potential escalation of threats in the ongoing conflict with Iran, including cyberattacks and sabotage, and predicts a deal will affect the Strait of Hormuz after midterms.
+
+## Jake Paul & The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? & Venture Bubble Signs
+
+**All-In Podcast** · 52:46 · Sep 30 · [watch](https://www.youtube.com/watch?v=uzV45QvPKtU)
+
+**TL;DR:** Jake Paul and The Chainsmokers discuss their journey from content creators to successful entrepreneurs, including their ventures in boxing, investing, and politics. They also touch on the challenges faced by content creators and the importance of passion in entrepreneurship.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses some detailed insights and anecdotes.
+
+**Key points:**
+- Jake Paul's transition from Vine to YouTube and his subsequent success as a content creator.
+- The impact of social media on young people and the pressure to generate attention.
+- The importance of passion in entrepreneurship and the potential for growth in various areas.
+- Jake's interest in politics and his belief in the potential of celebrities with a built-in following for political leadership.
+- The Chainsmokers' journey from a friend's introduction to platinum success.
+- The importance of consistent returns and understanding the capabilities of founders.
+- The need for long-term commitment and follow-on investments in venture capital.
+
+## Open Models, Physical AI, World Models, Robotics, NVIDIA Cosmos & AI Agents |Episode 374|
+
+**Practical AI** · 46:05 · Sep 30 · [watch](https://www.youtube.com/watch?v=W1DSS-Sz3Fo)
+
+**TL;DR:** The video discusses the importance of open models in the AI ecosystem, particularly for physical AI applications like drones, robots, and self-driving cars. It covers topics such as physical AI, world models, and AI agents, and highlights the benefits of open models for innovation and collaboration. The video also introduces NVIDIA's Cosmos platform and its potential to make AI more accessible for physical AI applications.
+
+**Worth watching in full?** 5/5 — The summary cannot fully cover the depth and detail of the video, especially the technical aspects and the introduction of Cosmos.
+
+**Key points:**
+- Open models are crucial for innovation in the AI ecosystem, especially as models become larger and more resource-intensive.
+- Physical AI, including drones, robots, and self-driving cars, is a growing area that benefits from open models.
+- World models, like those developed in the Cosmos lab, help in simulating and understanding the physical world.
+- AI agents, such as those used in Cosmos, can interact with the environment and learn from their experiences.
+- Cosmos is designed to support the development of AI models that can interact with the physical world, such as robots and sensors.
+- The team at NVIDIA is exploring the use of world models to enhance the capabilities of Cosmos and other AI models.
+- Cosmos aims to make AI more accessible and easier to integrate into various applications, including robotics and physical AI systems.
+
+## Reffel DOGECOIN CRYPTO 📈 SEPTEMBER 30 $DOGE
+
+**Overkill Trading** · 1:31 · Sep 30 · [watch](https://www.youtube.com/shorts/f5nQjs1hnSw)
+
+**TL;DR:** The video discusses the performance of Dogecoin (DOGE) from July to September, highlighting buy signals at 7 cents and 8 cents, and explaining when to sell based on red dots on a chart. The main conclusion is that the current price of DOGE is undervalued and a good time to buy, especially if one believes in the long-term potential of altcoins.
+
+**Worth watching in full?** 5/5 — The summary covers the key points but misses out on the detailed analysis and charts, which are crucial for understanding the video.
+
+**Key points:**
+- [0:00](https://youtu.be/f5nQjs1hnSw?t=0) The video discusses Dogecoin (DOGE) performance from July to September.
+- [0:15](https://youtu.be/f5nQjs1hnSw?t=15) The video mentions buy signals at 7 cents and 8 cents.
+- [0:30](https://youtu.be/f5nQjs1hnSw?t=30) The video explains when to sell based on red dots on a chart.
+- [0:45](https://youtu.be/f5nQjs1hnSw?t=45) The video states that the current price of DOGE is undervalued.
+- [1:00](https://youtu.be/f5nQjs1hnSw?t=60) The video recommends buying DOGE at 9 cents if one believes in its long-term potential.
+- [1:15](https://youtu.be/f5nQjs1hnSw?t=75) The video concludes that the team is fully bullish on DOGE and altcoins for the month of October.
+
+## 8 STOCKS TO WATCH IN OCTOBER 📈
+
+**Overkill Trading** · 2:58 · Sep 30 · [watch](https://www.youtube.com/shorts/CoC-KDvJXv8)
+
+**TL;DR:** The video discusses eight stocks to watch in October, focusing on UPS, OQ, Gilt, ENP, and INTU, highlighting their potential for strong returns given their strong support and recent price movements.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but the full video provides context and detailed analysis.
+
+**Key points:**
+- UPS: A delivery company with strong support at $90, following a significant pullback.
+- OQ: A quantum computing play, bought at $26 in 2026, with a strong support level at $73.
+- Gilt: A satellite company with a significant 300% move, trading near its 40-year average.
+- ENP: A solar company with a green dot near its 40-year average, trading at $980.
+- INTU: A financial services company with a green dot near its 40-year average, trading at $10.
+
+## 3 ALTCOINS TO WATCH IN OCTOBER 📈 $NEAR
+
+**Overkill Trading** · 2:51 · Sep 30 · [watch](https://www.youtube.com/shorts/pOi4FgUb4-U)
+
+**TL;DR:** The video discusses three altcoins to watch in October: Near Protocol, H&T, and Jasm. Near Protocol saw a significant 497% increase from its initial buy point, and the speaker recommends taking profits at $450. H&T is held due to a potential breakout to the upside, and Jasm is noted for its potential utility in the real world. The video concludes with recommendations for stop losses and watch levels for each coin.
+
+**Worth watching in full?** 5/5 — The summary cannot fully cover the detailed analysis and specific trading strategies discussed in the video.
+
+**Key points:**
+- Near Protocol: Up 497% from initial buy point, with a recommended stop loss at $450.
+- H&T: Held due to potential breakout to the upside, with a watch level at $4.
+- Jasm: Noted for its potential utility in the real world, with a low of 2024.
+
+## NVIDIA DOCA Skills vs No Skills: Building RDMA on NVIDIA BlueField-3 with Fewer Commands & Less Code
+
+**NVIDIA** · 3:29 · Sep 30 · [watch](https://www.youtube.com/watch?v=vmAIpEHrCok)
+
+**TL;DR:** The video compares two AI coding agents, one with NVIDIA DOCA skills and one without, building a Go program to send real RDMA traffic on a Bluefield 3. The agent with DOCA skills used significantly fewer commands (20 vs 37) and less code (189 lines vs 695 lines) to achieve the same result, demonstrating the benefits of having DOCA skills.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the key points and main conclusion but misses the detailed technical aspects and specific examples.
+
+**Key points:**
+- The skilled agent used DOCA skills to build a Go program for RDMA traffic, reducing command count to 20 from 37.
+- Without DOCA skills, the agent had to discover DOCA module, headers, and build from scratch, requiring 695 lines of handwritten code.
+- With DOCA skills, the agent reused NVIDIA-provided samples, reducing code to 189 lines.
+- The skills reduced the number of commands by 73% and cut the code by 73%.
+- DOCA skills enabled the agent to build a real DOCA flow pipeline and read hardware counters, while the agent without skills used Linux kernel commands and bypassed DOCA.
+
+## Don’t Get Left Behind — CIO Reveals The 6 Stocks To Buy Now
+
+**TheStreet** · 26:15 · Sep 30 · [watch](https://www.youtube.com/watch?v=er_GIoE2cjI)
+
+**TL;DR:** The video discusses 6 stocks recommended by CIO Will McGoff of Prime Capital Financial: Nvidia, Taiwan Semiconductor (TSM), JP Morgan, Salesforce, Eli Lilly, and Apple. The main conclusion is that these stocks are recommended for their growth potential and valuation, with Nvidia being the top pick for the next five years.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but misses the detailed analysis and expert insights provided in the full video.
+
+**Key points:**
+- Will McGoff recommends Nvidia, TSM, JP Morgan, Salesforce, Eli Lilly, and Apple.
+- Nvidia is highlighted for its leadership in AI and its CEO's investments in startups.
+- JP Morgan is favored for its benefits from higher interest rates.
+- Salesforce is highlighted as a software play less likely to be disrupted by AI.
+- Eli Lilly is recommended for its role in producing GLP1 drugs.
+- The S&P 500 is predicted to end the year higher by Will McGoff.
+- McGoff suggests allocating more towards fixed income if clients want to achieve their financial goals through debt markets.
+
+## Did Meta Finally Crack AI Wearables? 🕶️
+
+**Six Five Media** · 9:13 · Sep 30 · [watch](https://www.youtube.com/watch?v=N9KKvPClKIs)
+
+**TL;DR:** The video discusses whether Meta has successfully cracked the mainstream with AI wearables, specifically the Meta Muse. Skinny Pat argues that Meta has succeeded, while Dan counters that Meta has cracked distribution but not the wearable form factor.
+
+**Worth watching in full?** 3/5 — The summary covers the main points, but the full video provides additional context and details.
+
+**Key points:**
+- Skinny Pat argues that Meta has cracked the mainstream AI formula without needing full AR, citing the look, utility, and compatibility of the Meta Muse with existing devices.
+- Dan counters that the demand for Muse comes from the phone, and the wearable aspect has not been cracked. He points out that the wearable aspect has not been widely adopted and that people are more likely to use the wearable for audio functions rather than for tasks that require a full display.
+- Both agree that Meta has successfully distributed the Muse, but Dan argues that the wearable aspect remains a work in progress and that people will likely continue to use phones for transactions and other tasks.
+
+## We’re Reaching the Physical Limits of Chips
+
+**Sourcery with Molly O'Shea** · 13:34 · Sep 30 · [watch](https://www.youtube.com/watch?v=6-q_8T_m5GM)
+
+**TL;DR:** The video discusses the limitations of current chip technology and the potential of photonics to overcome these limitations, focusing on the challenges of memory and power constraints in GPUs.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and expert opinions provided in the full video.
+
+**Key points:**
+- Chips are reaching physical limits, with transistors now at the nanometer scale.
+- GPUs are effective for training but struggle with inference due to memory and power constraints.
+- The demand for memory and power is increasing, with prices rising 700% this year.
+- The shift to larger models is ending, with companies focusing on solving memory bottlenecks.
+- Photonics offers a solution to data transfer and cooling issues, potentially enabling future chip architectures.
+- The future of AI will likely involve a software revolution, similar to how the internet revolutionized connectivity.
+
+## The $500B Opportunity in Europe’s Defense Buildout
+
+**Sourcery with Molly O'Shea** · 21:47 · Sep 30 · [watch](https://www.youtube.com/watch?v=X_1wGD6nxbo)
+
+**TL;DR:** The video discusses the growing opportunity in Europe's defense sector, driven by increased spending and the need for industrialization and scale. The key points include the historical underinvestment in defense, the shift to mass production, the importance of scalability over technology alone, and the potential for defense companies to reach half-trillion-dollar entities within a decade. The video concludes with a mention of the sponsorship by VCX by Fundrise and Public.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but misses the detailed insights and the sponsorships, which add value to the video.
+
+**Key points:**
+- Europe has historically underinvested in defense, but recent war needs have shifted focus to scale up technologies and create new ones.
+- The current defense spend is being allocated to scale up technologies and create new ones, which was not possible before due to the scale of the war and the need for mass production.
+- George emphasizes the importance of volume over technology alone, as the ability to produce large quantities of technology is crucial for defense systems.
+- Bruno discusses the fragmented manufacturing space in Europe and the challenges of acquiring and scaling up manufacturing capabilities.
+- The strong talent pool in Europe, with companies like Helsing having no trouble attracting top talent, is a significant advantage.
+- George emphasizes the need for components to become cheaper and more scalable, as this is key to producing defense systems at scale.
+- Bruno predicts that in Europe, a defense company could emerge as a half-trillion-dollar entity within the next decade, leveraging the large defense market and proximity to conflict zones.
+
+## Ex-NVIDIA Engineer: Why AI Is Running Out of Copper
+
+**Sourcery with Molly O'Shea** · 33:14 · Sep 30 · [watch](https://www.youtube.com/watch?v=HfSIbxNv-To)
+
+**TL;DR:** The video discusses the challenges and opportunities in the AI industry, particularly focusing on the need for more efficient data centers and the role of photonics in addressing these needs. The main conclusion is that the AI industry is rapidly growing and will require significant upgrades, which is driving investments and innovation in new technologies like photonics.
+
+**Worth watching in full?** 5/5 — The summary covers the key points but misses out on the detailed explanations and insights provided in the full video.
+
+**Key points:**
+- Yannik and Herwig discuss the transition from traditional data centers to modern AI infrastructure, highlighting the need for more efficient and scalable networks.
+- Yannik explains that modern AI requires more traffic between different servers, necessitating a flatter, denser network with more direct connections.
+- Europe is seen as an ideal spot for a photonic foundry due to industrial capacity, talent, and the desire for sovereignty.
+- Turing is partnering with companies like Nvidia, Salesforce, and Gemini to train super-intelligence using realistic environments and data systems based on real operational traces.
+- Yannik highlights the strong foundation in photonics research at institutions like IMEC, which has been researching electronics and photonics for over 30 years.
+- Yannik notes that the University of Gent in Belgium has led the world in producing 35% of global peer-reviewed papers on photonics between 2000 and 2015.
+- Yannik discusses the timeline for production, stating that they are preparing for production in 27, and he is most looking forward to proving the gaps between design (lap) and manufacturing (FAB).
+
+
+_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
