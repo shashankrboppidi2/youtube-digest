@@ -487,3 +487,310 @@ _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
 
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
+
+<!-- run 14:45Z -->
+
+## US, Canada Still Have Gaps in Trade Talks, US Trade Chief Says
+
+**Bloomberg Podcasts** · 5:15 · Oct 01 · [watch](https://www.youtube.com/watch?v=pMYO1nSsBI8)
+
+**TL;DR:** US trade representative Jamieson Greer discusses ongoing trade talks with G20 ministers, focusing on structural excess capacity and production issues, particularly with China and Europe. The US is pushing for action from countries like the EU and Canada, but there are still gaps in agreements.
+
+**Worth watching in full?** 5/5 — The summary covers the main points, but the full video provides context and detailed discussions.
+
+**Key points:**
+- Structural excess capacity and production are major issues, with China and some Asian countries as proponents.
+- The US and EU have made progress, but the EU has not taken sufficient measures to manage excess capacity.
+- The diesel export ban is a topic of discussion, with the US suggesting the EU release reserves to manage the issue.
+- The US is open to a deal with Canada, but there are still gaps in agreements.
+
+## Why Synopsys Lagged Cadence (And Why It May Be Cheap)
+
+**Chip Stock Investor** · 20:30 · Oct 01 · [watch](https://www.youtube.com/watch?v=roRYuPnXGPA)
+
+**TL;DR:** The video discusses Synopsys' underperformance compared to Cadence and the semiconductor ETF, attributing it to a merger with Ansys and issues with their IP portfolio. The speaker concludes that Synopsys is undervalued and recommends a full report for more insights.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed analysis and insights provided in the full video.
+
+**Key points:**
+- Synopsys has underperformed compared to Cadence and the semiconductor ETF due to a merger with Ansys and issues with their IP portfolio.
+- Synopsys plans to improve their IP portfolio to help customers with higher-end customization work, such as AI accelerators and advanced memory.
+- IP revenue is a significant portion of Synopsys' total revenue, with about 20% coming from IP.
+- Synopsys has a significantly higher net debt compared to Cadence Design Systems, which has a net debt around a billion dollars.
+- The Ansys acquisition has led to increased debt and a higher share count, which has affected Synopsys' free cash flow per share.
+- Synopsys aims for mid-teens revenue growth, but the key is managing the cash conversion cycle. Management has implemented new products and reworked the IP portfolio to support this growth.
+- The speaker encourages viewers to hit the "Hype" button to increase visibility, suggesting it's a feature that helps more people see their content.
+
+## AMD Buys Fei-Fei Li's World Labs for $8.2B | Meta Poaches MongoDB's CEO | Bessemer Raises $5.75B
+
+**20VC with Harry Stebbings** · 1:20:16 · Oct 01 · [watch](https://www.youtube.com/watch?v=UNH5YtuK5UE)
+
+**TL;DR:** The video discusses various investment and market trends, including the acquisition of World Labs by AMD, the challenges of sizing investments, and the impact of public market conditions on IPOs. It also touches on the shift in venture capital strategies and the importance of maintaining momentum in the AI space.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and expert opinions provided in the video.
+
+**Key points:**
+- Venture capitalists are investing at the wrong speed, leading to highly skewed returns and many companies failing.
+- Jackman anticipates a public backlash against AI, with potential legal action from groups like the Attorney General of Florida.
+- Peter and EV from Benchmark are excited about Instinct, seeing it as a new paradigm of consumer agents that can interact with the internet.
+- Harry Stebbings emphasizes the importance of maintaining momentum in a high-growth market like AI, suggesting that AMD's acquisition is a moment in time to maintain their market position.
+- Rory expresses surprise at Aura's decision to cancel its IPO, citing strong market conditions and the involvement of major investors like 4Runner.
+- Rory speculates that AI-native companies might be hesitant to go public until more precedents are set, and he believes there will be more IPOs in 2027 as the market stabilizes.
+- Jack argues that the activist pressure has shifted the focus to founder control, mentioning it as item 17 on the agenda.
+
+## McCormick Climbs; Accenture and Constellation Energy Jump | Stock Movers
+
+**Bloomberg Podcasts** · 2:54 · Oct 01 · [watch](https://www.youtube.com/watch?v=FBALSRCBANU)
+
+**TL;DR:** The video discusses stocks McCormick, Accenture, and Constellation Energy, highlighting their recent performance and key developments. McCormick saw a slight pullback after a strong earnings report, while Accenture and Constellation Energy both experienced significant gains. The video concludes by noting the positive outlook for Constellation Energy's new power purchase deal with Amazon.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but the full video provides context and additional details.
+
+**Key points:**
+- McCormick stock was up slightly after a strong earnings report but is still lagging year-to-date.
+- Accenture saw a 18% pre-market gain due to strong fourth-quarter results and positive AI guidance.
+- Constellation Energy gained 3% after signing a 20-year power purchase deal with Amazon, supporting infrastructure investment in Maryland.
+
+## HPE Boosts Networking Forecast on AI Demand | Bloomberg Businessweek
+
+**Bloomberg Podcasts** · 12:45 · Oct 01 · [watch](https://www.youtube.com/watch?v=RPj1VHzAnko)
+
+**TL;DR:** 
+
+**Worth watching in full?** 5/5 — **Key points:**
+- [0:02](https://youtu.be/RPj1VHzAnko?t=2) - [1:03](https://youtu.be/RPj1VHzAnko?t=63) HPE's CFO Marie Myers discusses AI's momentum and its impact on work and lives.
+- [2:04](https://youtu.be/RPj1VHzAnko?t=124) - [3:05](https://youtu.be/RPj1VHzAnko?t=185) She mentions a $1.2 billion order from a cloud computing company, highlighting the integration of HPE's Helios switch into the rack.
+- [3:05](https://youtu.be/RPj1VHzAnko?t=185) - [4:06](https://youtu.be/RPj1VHzAnko?t=246) She describes the Helios switch as a "work of art" and underscores its importance for AI infrastructure.
+- [4:06](https://youtu.be/RPj1VHzAnko?t=246) - [6:09](https://youtu.be/RPj1VHzAnko?t=369) She discusses HPE's market share and its position in the data center, following the acquisition of Juniper.
+- [7:10](https://youtu.be/RPj1VHzAnko?t=430) - [8:11](https://youtu.be/RPj1VHzAnko?t=491) She addresses how HPE frames sustainability, noting it's not just for the planet but also for business efficiency and profit margins.
+- [9:12](https://youtu.be/RPj1VHzAnko?t=552) - [10:14](https://youtu.be/RPj1VHzAnko?t=614) She explains HPE's focus on the enterprise and supercomputing, and how it leverages its history and relationships in these areas.
+- [10:14](https://youtu.be/RPj1VHzAnko?t=614) - [11:15](https://youtu.be/RPj1VHzAnko?t=675) She discusses HPE's growth and future trajectory, citing the drivers of data center modernization and early adoption of AI.
+
+## Global Bonds Shock: Special Episode | Bloomberg Daybreak: Europe Edition
+
+**Bloomberg Podcasts** · 15:30 · Oct 01 · [watch](https://www.youtube.com/watch?v=Ls4n8M914WE)
+
+**TL;DR:** The video discusses the significant rise in global bond yields, particularly in the US and UK, driven by concerns about energy inflation and the Federal Reserve's policy expectations. It highlights the sensitivity of bond markets to oil prices and the potential impact on stock markets and government bond yields.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but misses the detailed analysis and expert insights provided in the full video.
+
+**Key points:**
+- UK and US bond yields hit record highs, with the UK 30-year bond yield reaching 6% and US 10-year Treasury yield at 5.35%.
+- Bond market sensitivity to oil prices is emphasized, despite rising oil prices.
+- The rate of change in yields is a key factor, with investors likely getting stopped out of positions.
+- Stock investors face potential pressure from rising yields, affecting stock prices.
+- The stock market is in a push-pull situation, with supportive factors like AI optimism but also fundamental questions about earnings potential.
+- Governments with higher risk-free rates will likely see increased bond yields and wider spreads, as seen in France and the UK.
+- The podcast concludes with advice to follow Bloomberg's content and subscribe for daily updates.
+
+## Annie Lamont: $14B Managed, 70+ Exits, 15 IPOs, 7x Midas Investor
+
+**Sourcery with Molly O'Shea** · 1:01:59 · Oct 01 · [watch](https://www.youtube.com/watch?v=sjd_G6-k930)
+
+**TL;DR:** Annie Lamont discusses Oak Investment's diversified healthcare strategy, including AI and life sciences, and highlights the significant changes in the healthcare and pharmaceutical industries over the last two years. She also shares insights on the Oak Investment Model, including the fund's growth and investment strategy.
+
+**Worth watching in full?** 5/5 — The summary cannot fully replace the detailed insights and anecdotes provided in the full video.
+
+**Key points:**
+- Oak's healthcare strategy has evolved to include AI, with a focus on payer, provider, and life sciences markets.
+- AI has transformed drug design and development, with significant potential for improving drug success rates and accelerating the process.
+- Annie discusses the impact of AI on radiologists, suggesting it could reduce errors and improve surgical precision.
+- Annie mentions the potential for frontier labs to enter healthcare spaces, creating opportunities for acquisitions by companies like Microsoft and Oracle.
+- Annie highlights the importance of retaining talent during acquisitions and emphasizes the role of public companies in funding growth companies.
+- Annie mentions the significant investment commitment of $100 million from Oak to Augur, emphasizing the company's rapid growth and potential for scaling.
+- Annie reflects on her career, emphasizing the importance of mentorship and setting high standards for entrepreneurs.
+
+## Fed’s Kashkari on Rates, Inflation, Bond Yields, US Economy
+
+**Bloomberg Podcasts** · 12:22 · Oct 01 · [watch](https://www.youtube.com/watch?v=WUTWuGE536w)
+
+**TL;DR:** Kashkari discusses the strength of the US economy, the effectiveness of Fed policies, and the challenges of achieving target inflation rates, particularly in the face of high bond yields and AI-driven inflation risks. He also addresses concerns about the Fed's credibility and the potential impact of monetary policy on different sectors of the economy.
+
+**Worth watching in full?** 4/5 — The summary captures the main points but misses some nuanced discussions and detailed policy explanations.
+
+**Key points:**
+- The economy is strong but with pockets of weakness, particularly in housing and AI sectors.
+- The Fed's effectiveness in achieving target inflation rates is uncertain, influenced by the persistence of high bond yields and the potential for future inflation risks.
+- The Fed's credibility is under scrutiny, with concerns about the effectiveness of current policies.
+- The Fed's primary tool is raising interest rates, but this can have unintended consequences, such as slowing down the housing market and data center investments.
+- The Fed is focused on the data and analysis, emphasizing the importance of transparency in explaining policy decisions.
+- There are concerns about the potential for rising unemployment if the Fed tightens monetary policy too much, given the current robust labor market.
+
+## Accenture Faces AI; Micron Beat; Constellation Energy Gains | Stock Movers
+
+**Bloomberg Podcasts** · 4:04 · Oct 01 · [watch](https://www.youtube.com/watch?v=Kn6M92J8-AQ)
+
+**TL;DR:** The video covers earnings reports from Accenture, Micron, and Alphabet (Google), highlighting their performance and market reactions. The main conclusion is that Accenture and Micron saw positive pre-market gains, while Alphabet's stock showed a slight increase.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it misses out on the detailed analysis and market reactions discussed in the full video.
+
+**Key points:**
+- Accenture shares are up 9% in the pre-market, driven by strong fourth quarter earnings and guidance.
+- Micron shares are up about half a percent, with revenue and earnings figures beating estimates.
+- Alphabet's shares are up 2%, with the introduction of its new AI model Gemini 4.
+- Tencent is leasing 100,000 advanced AI chips from Oracle, estimated to be worth $7 billion.
+
+## Global Bonds Shock: Special Episode | Bloomberg Daybreak: Europe Edition
+
+**Bloomberg Podcasts** · 15:30 · Oct 01 · [watch](https://www.youtube.com/watch?v=7QQoq_gxtRU)
+
+**TL;DR:** The video discusses the recent spike in global bond yields, particularly in the US and UK, driven by rising oil prices and expectations of higher interest rates from the Federal Reserve. Key points include the impact on global central banks, the potential effects on the US and UK economies, and concerns about the sustainability of high bond yields.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but misses the detailed analysis and expert opinions provided in the full video.
+
+**Key points:**
+- The UK and US 30-year and 10-year Treasury yields hit their highest levels since 1998 and 2002, respectively, driven by rising oil prices.
+- Rising yields are attributed to Fed policy expectations, with the US one-year swap rate increasing from 4.8% to 5.2% in just a couple of weeks.
+- The Fed's move dictates the move in other markets, but other factors, such as domestic economic conditions, also play a role.
+- The Bank of England is expected to continue raising rates, and a potential diesel export ban could raise global oil prices by 30-50%.
+- The US consumer is frustrated with the cost of living, potentially putting pressure on wages.
+- Governments are expected to suffer in an environment where risk-free rates are moving higher, leading to wider spreads in bond markets.
+- The UK and France are being punished for their spending commitments, aging populations, and demographic problems, making it difficult to solve the bond market issues.
+
+## Meet The Startup: Probabl: by the Creators of Scikit-Learn
+
+**NVIDIA** · 1:43 · Oct 01 · [watch](https://www.youtube.com/watch?v=z1t-bp9UC3E)
+
+**TL;DR:** The video introduces NVIDIA's startup, Probabl, which focuses on leveraging the existing success of Scikit-learn, a popular machine learning framework, to create a scalable and efficient platform for tabular AI, emphasizing its potential to handle large-scale data processing and deployment.
+
+**Worth watching in full?** 5/5 — The summary cannot fully cover the detailed insights and the vision for the future of AI presented in the video.
+
+**Key points:**
+- [0:01](https://youtu.be/z1t-bp9UC3E?t=1) The video introduces NVIDIA's startup, Probabl, which aims to create a scalable and efficient platform for tabular AI.
+- [0:30](https://youtu.be/z1t-bp9UC3E?t=30) Probabl builds on the success of Scikit-learn, a widely used machine learning framework with over 5 billion downloads.
+- [1:04](https://youtu.be/z1t-bp9UC3E?t=64) Probabl is projected to become the leading tabular AI company worldwide within five years.
+- [1:20](https://youtu.be/z1t-bp9UC3E?t=80) The open-source ecosystem is dynamic and beneficial for tackling various problems through community collaboration.
+- [1:30](https://youtu.be/z1t-bp9UC3E?t=90) Probabl focuses on maximizing total cost of ownership and the number of intelligence units per gigawatt to create a seamless layer for end users.
+- [1:43](https://youtu.be/z1t-bp9UC3E?t=103) Probabl has seen significant growth, with 2 billion downloads in the last 12 months, most of which come from agents.
+
+## Horizon Robotics CEO: Car Chips, Mind-Off Driving and China's Speed | Podcast | In Good Company
+
+**Norges Bank Investment Management** · 47:00 · Sep 30 · [watch](https://www.youtube.com/watch?v=mRzItLhpXFU)
+
+**TL;DR:** The video discusses Horizon Robotics CEO Yukai's vision for developing machine learning algorithms to make machines smarter, focusing on the company's role in the automotive chip industry and its approach to self-driving technology. The CEO emphasizes the importance of safety testing and the convergence of self-driving cars and humanoid robots.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the insights and details provided in the full video.
+
+**Key points:**
+- Horizon Robotics focuses on the computing platform for all generic robots, with a majority of its business dedicated to cars.
+- The company does not build cars, positioning itself as a platform enabling car makers rather than competing with them.
+- Horizon Robotics currently employs around 2,000 engineers, with most being software and hardware engineers.
+- The CEO notes the speed and efficiency of the supply chain in China, allowing for quicker innovation and access to cutting-edge technologies.
+- The CEO sees the potential for self-driving cars and humanoid robots to converge, with cars eventually becoming more like robots in their computing capabilities.
+- The CEO explains that the company supplies chips to robot companies and does not focus on software for robots.
+- The CEO notes that the future city will feature self-driving cars, reducing traffic congestion and improving livability.
+
+## LIVE CHART REQUESTS 🚨 TOP STOCKS & CRYPTO TO WATCH NOW! | September 29
+
+**Overkill Trading** · 1:17:28 · Sep 30 · [watch](https://www.youtube.com/watch?v=EnLeKSsfHpI)
+
+**TL;DR:** Overkill Trading provides live chat requests for Discord members, focusing on stocks and cryptocurrencies, and shares their investment strategies and recent trades.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers detailed investment strategies, recent trades, and live chat requests.
+
+**Key points:**
+- Overkill Trading aims to take live chat requests from Discord members for 150 likes.
+- XYO is recommended for purchase at 3 cents, with a caution to be careful about what is being bought.
+- FSLR and CLH are recommended for purchase at 28 cents, with earnings coming up.
+- H bar is recommended for purchase at 6.5 cents, with a red dot expected on the weekly chart.
+- Overkill Trading advises looking for a pullback into around 4 cents if buying EOS.
+- Overkill Trading emphasizes the importance of green signals in the chat and advises setting tight stop losses.
+- The Discord community is encouraged to join for support and discussions, and the trading indicator tab provides contact information for support.
+
+## THESE 3 STOCKS LOOK CHEAP 📈 SEPTEMBER 29 $NFLX
+
+**Overkill Trading** · 2:58 · Sep 29 · [watch](https://www.youtube.com/shorts/bhpHJVTJXb4)
+
+**TL;DR:** The video discusses three streaming stocks—Netflix, Disney, and Paramount—that are currently undervalued. The main conclusion is that these stocks are good buys at their current levels, especially Netflix, which is trading below its four-year moving average.
+
+**Worth watching in full?** 5/5 — The summary covers the key points but the video provides additional context and analysis that cannot be fully captured in the summary.
+
+**Key points:**
+- Netflix is currently trading at $70, break-even from its July level, with a green dot indicating a potential buy opportunity.
+- Disney is also undervalued, trading at the four-year moving average, with a green dot.
+- Paramount (Peace Guy) is at a 14-year low, trading at $10, with a green dot, suggesting it's a good buy.
+
+## $XRP CHART 📈 SEPTEMBER 29
+
+**Overkill Trading** · 2:58 · Sep 29 · [watch](https://www.youtube.com/shorts/-IakhOsoaxg)
+
+**TL;DR:** The video discusses a recent XRP trade update, highlighting a 49% gain from $1 to $59, and emphasizes buying when others are fearful and selling when the fear index turns green. The main conclusion is that XRP is bullish as long as the fear index remains green.
+
+**Worth watching in full?** 5/5 — The summary covers the key points but the video provides additional context and analysis that cannot be fully captured in the summary.
+
+**Key points:**
+- Signals were first seen in 2026, with recent signals at 1:30 and 97 cents to a dollar.
+- XRP is currently at 59 cents, a 49% gain from $1.
+- XRP is currently above the 4-year moving average, indicating a bullish position.
+- The video suggests that XRP could go sideways or potentially spike higher, depending on market conditions.
+- The video emphasizes the importance of buying when others are fearful (despair phase) and selling when the fear index turns green (mania phase).
+- The video mentions a previous drop to $3.50, indicating that XRP has experienced significant volatility.
+- The video concludes by looking for a breakout above $3.50 in October.
+
+## $USAR STOCK 📈 SEPTEMBER 29
+
+**Overkill Trading** · 2:47 · Sep 29 · [watch](https://www.youtube.com/shorts/IuponVQiZ7U)
+
+**TL;DR:** The video discusses trading the USR stock, focusing on buying when the stock is down and selling when it's up, using previous signals as a guide. The main conclusion is that the stock is currently at a good buying level at $14.
+
+**Worth watching in full?** 5/5 — The summary covers the key points but the video's visuals and tone add value.
+
+**Key points:**
+- The stock was bought at around $15 by the government under Trump.
+- The video uses green and red dots to indicate buy and sell signals.
+- The strategy involves dollar cost averaging by adding to positions during pullbacks.
+- The stock is currently at $14, considered a good buying level.
+- The video emphasizes the importance of buying assets with potential for growth.
+- The strategy involves waiting for signals and adding to positions during pullbacks.
+
+## overkill trading indicator setup 📈
+
+**Overkill Trading** · 1:35 · Sep 29 · [watch](https://www.youtube.com/shorts/ASLpETNOzKY)
+
+**TL;DR:** The video explains how Overkill Trading uses a combination of indicators, including red and green dots, blue waves, stochastic RSI, RSI, MACD, EMA lines, and Fibonacci tool, to identify trading signals. The main conclusion is that relying on multiple indicators is crucial for placing trades.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the key points and strategy but misses the detailed setup and explanation provided in the full video.
+
+**Key points:**
+- Uses red and green dots, blue waves, stochastic RSI, RSI, MACD, and EMA lines.
+- Emphasizes the importance of using multiple indicators for reliable trading signals.
+- Provides a link to download the entire trading layout and indicators.
+- Offers a free trading course under the trading indicator tab for more in-depth learning.
+
+## The AI Market Is Not a Zero-Sum Game
+
+**Six Five Media** · 1:51 · Sep 29 · [watch](https://www.youtube.com/shorts/82gWPrQ77fc)
+
+**TL;DR:** The video discusses how the AI market is not a zero-sum game, emphasizing the importance of consistent strategy and the potential for multiple winners. The speaker argues that the AI market has room for growth and that multiple companies can thrive together.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but the video provides additional context and passion that cannot be fully captured in text.
+
+**Key points:**
+- [0:00](https://youtu.be/82gWPrQ77fc?t=0) The speaker addresses a previous mindset where success was seen as a binary choice.
+- [1:00](https://youtu.be/82gWPrQ77fc?t=60) The company maintained a consistent strategy and accurately forecasted the market.
+- The company has won multiple AI sockets and expects continued growth.
+- The market is strategic and bespoke, providing significant advantage to customers.
+- The company's strength in connectivity and switching allows for a holistic approach.
+- The market is not a zero-sum game, with multiple participants likely to succeed.
+
+## Vertically Integrated, Horizontally Open | AI Factory Insider Ep 5
+
+**NVIDIA** · 39:07 · Sep 29 · [watch](https://www.youtube.com/watch?v=mFv4VRoFj-k)
+
+**TL;DR:** The video discusses the Vertically Integrated, Horizontally Open AI factories designed by NVIDIA, highlighting the CUDA platform as a flexible and open technology that integrates all components of the AI stack, from data management to model deployment. The main conclusion is that CUDA is a robust and evolving ecosystem that supports diverse industries and applications.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and examples provided in the video.
+
+**Key points:**
+- Vertically integrated, horizontally open AI factories are designed for maximum performance, integrating all components of the AI stack.
+- CUDA is a deep platform stack that includes frameworks, libraries, and tools, enabling GPU-accelerated computing.
+- CUDA has evolved significantly over the past eighteen years, with tools and visual profilers becoming standard.
+- CUDA libraries like cuBLAS, cuFFT, cuRAND, Riva, and MONAI are reusable pieces of technology optimized for NVIDIA's architecture.
+- CUDA is open and follows open standards, allowing users to build their businesses on top of it.
+- Developers should focus on understanding specific domains deeply, which can be codified as agent skills.
+- Humans with AI will be the most productive, and leveraging AI libraries will benefit from skills libraries.
+
+
+_Problems this run: YouTube blocked transcript downloads for 1 video(s); they are retried next run (set the YT_PROXY or YT_COOKIES secret, see README.md)_
+
+_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
