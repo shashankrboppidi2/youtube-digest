@@ -1,0 +1,70 @@
+name: Summarise one video (on request)
+
+# Actions → "Summarise one video" → Run workflow: give a YouTube link, video id or search text, and optionally what
+# to pull out of it. The open-source model summarises it (digests/video_<id>.md) and the summary is e-mailed.
+on:
+  workflow_dispatch:
+    inputs:
+      video:
+        description: 'YouTube link, video id, or search text (e.g. "Henry Ellenbogen Invest Like the Best")'
+        required: true
+      focus:
+        description: 'Optional: what to list in full, e.g. "everything to consider when picking the best stocks"'
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      LLM_MODEL: qwen2.5:3b
+      OLLAMA_MODELS: /home/runner/ollama-models
+      OLLAMA_CONTEXT_LENGTH: '8192'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: denoland/setup-deno@v2    # yt-dlp needs a JavaScript runtime for YouTube
+        with:
+          deno-version: v2.x
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt markdown
+      - name: Cache model
+        uses: actions/cache@v4
+        with:
+          path: /home/runner/ollama-models
+          key: ollama-${{ env.LLM_MODEL }}
+      - name: Start Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          sudo systemctl stop ollama || true
+          nohup ollama serve > /tmp/ollama.log 2>&1 &
+          for i in $(seq 30); do curl -s localhost:11434 >/dev/null && break; sleep 1; done
+          ollama pull "$LLM_MODEL"
+      - name: Summarise
+        env:
+          YT_PROXY: ${{ secrets.YT_PROXY }}
+          YT_VIDEO: ${{ inputs.video }}
+          YT_FOCUS: ${{ inputs.focus }}
+        run: python digest.py
+      - name: E-mail
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO:   ${{ secrets.MAIL_TO }}
+          MD_FILE: digests/video_latest.md
+        run: python send_email.py
+      - name: Commit summary
+        run: |
+          git config user.name  "digest-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add digests/
+          git diff --quiet --cached || git commit -m "$(date -u +%FT%H:%M) video summary"
+          git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"

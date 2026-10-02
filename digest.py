@@ -242,7 +242,7 @@ The reader follows: {interests}.
 Write 3-5 terse bullet points with the most substantive points made in this part that matter to the reader
 (facts, arguments, numbers, advice). Put the timestamp at the start of each, e.g. "- [12:34] ...".
 When a company or stock is discussed, name it (with ticker if said) and the view and numbers given.
-Leave out sponsor reads, intros, calls to subscribe and segments the reader doesn't follow (human-interest, sports...).
+Leave out sponsor reads, intros, calls to subscribe and segments the reader doesn't follow (human-interest, sports...).{focus_note}
 
 TRANSCRIPT PART:
 {text}"""
@@ -266,7 +266,7 @@ Write exactly this, in Markdown, nothing before or after. Replace each <...> wit
 
 **Stocks mentioned:**
 - <one bullet per company or stock actually discussed: Company (TICKER if said) — bullish / bearish / neutral — the view and any numbers (targets, valuation, growth). Write only "None" if no specific company was discussed>
-
+{focus_block}
 {content_label}:
 {content}"""
 
@@ -278,25 +278,31 @@ def on_topic(v, snips):
                                                   opening=opening), max_tokens=5)
     return not answer.strip().upper().startswith("NO")
 
-def summarise(v, snips):
+def summarise(v, snips, focus=""):
+    fb = fn = ""
+    if focus:
+        fn = f"\nAlso capture, in full and with timestamps, everything said about: {focus}"
+        fb = (f"\n**{focus[0].upper() + focus[1:]}:**\n1. <as many numbered points as the video supports — do not "
+              f"stop at a handful — each starting with its [m:ss] timestamp, then the point and one sentence of the "
+              f"reasoning or example given>\n")
     words = with_markers(snips).split()
     cut = len(words) > MAX_WORDS
     words = words[:MAX_WORDS]
     length = mmss(snips[-1][0]) if snips else "?"
     if len(words) <= CHUNK_WORDS * 1.2:
         body = llm(SYSTEM, FINAL_PROMPT.format(title=v["title"], channel=v["channel"], length=length, interests=INTERESTS,
-                                               what="the full transcript", content_label="TRANSCRIPT",
-                                               content=" ".join(words)), max_tokens=1100)
+                                               focus_block=fb, what="the full transcript", content_label="TRANSCRIPT",
+                                               content=" ".join(words)), max_tokens=2000 if focus else 1100)
     else:
         chunks = [" ".join(words[i:i + CHUNK_WORDS]) for i in range(0, len(words), CHUNK_WORDS)]
         notes = []
         for i, c in enumerate(chunks, 1):
             print(f"  part {i}/{len(chunks)}")
-            notes.append(llm(SYSTEM, NOTES_PROMPT.format(i=i, n=len(chunks), title=v["title"], interests=INTERESTS,
-                                                         channel=v["channel"], text=c), max_tokens=500))
+            notes.append(llm(SYSTEM, NOTES_PROMPT.format(i=i, n=len(chunks), title=v["title"], interests=INTERESTS, focus_note=fn,
+                                                         channel=v["channel"], text=c), max_tokens=700 if focus else 500))
         body = llm(SYSTEM, FINAL_PROMPT.format(title=v["title"], channel=v["channel"], length=length, interests=INTERESTS,
-                                               what="notes taken while reading the transcript in parts",
-                                               content_label="NOTES", content="\n".join(notes)), max_tokens=1100)
+                                               focus_block=fb, what="notes taken while reading the transcript in parts",
+                                               content_label="NOTES", content="\n".join(notes)), max_tokens=2000 if focus else 1100)
     body = link_timestamps(cap_bullets(tidy(body)), v["id"], snips[-1][0] if snips else 0)
     if cut: body += f"\n\n_Summary covers the first ~{MAX_WORDS:,} words of the transcript._"
     return body
@@ -432,5 +438,44 @@ def main():
     print(f"\nwrote {path}: {len(entries)} summaries, {len(skipped)} without transcript")
 
 
+def find_video(spec):
+    """A watch/youtu.be URL, an 11-character id, or search text -> {id, title, channel, link}."""
+    m = re.search(r"(?:v=|youtu\.be/|shorts/|live/)([\w-]{11})", spec) or re.fullmatch(r"\s*([\w-]{11})\s*", spec)
+    if m:
+        vid = m.group(1)
+        r = requests.get("https://www.youtube.com/oembed", params={"url": f"https://www.youtube.com/watch?v={vid}",
+                                                                   "format": "json"}, headers=UA, timeout=30)
+        meta = r.json() if r.ok else {}
+        title, channel = meta.get("title", vid), meta.get("author_name", "")
+    else:
+        p = subprocess.run([sys.executable, "-m", "yt_dlp", "--flat-playlist", "--dump-single-json", "--quiet",
+                            "--no-warnings", f"ytsearch1:{spec}"], capture_output=True, text=True, timeout=120)
+        hits = (json.loads(p.stdout).get("entries") or []) if p.returncode == 0 and p.stdout else []
+        if not hits: raise SystemExit(f"no YouTube result for: {spec}")
+        vid, title, channel = hits[0]["id"], hits[0].get("title", ""), hits[0].get("channel") or hits[0].get("uploader", "")
+    return {"id": vid, "title": title, "channel": channel, "link": f"https://www.youtube.com/watch?v={vid}"}
+
+def one_video(spec, focus):
+    """Summarise a single video on request (video.yml); writes digests/video_<id>.md and video_latest.md."""
+    os.makedirs(OUT, exist_ok=True)
+    v = find_video(spec)
+    print(f"{v['channel']}: {v['title']} ({v['id']})")
+    try:
+        snips = transcript(v["id"])
+    except Blocked:
+        raise SystemExit("YouTube blocked the transcript download; check the YT_PROXY secret")
+    if not snips: raise SystemExit("this video has no captions to summarise")
+    t0 = time.time()
+    body = summarise(v, snips, focus)
+    print(f"  summarised {sum(len(t.split()) for _, t in snips)} words in {time.time() - t0:.0f}s")
+    md = (f"# {v['title']}\n\n**{v['channel']}** · {mmss(snips[-1][0])} · [watch]({v['link']})\n\n{body}\n\n"
+          f"_Summary by {LLM_MODEL} (open-source) running in GitHub Actions._\n")
+    for name in (f"video_{v['id']}.md", "video_latest.md"):
+        open(os.path.join(OUT, name), "w", encoding="utf-8").write(md)
+    print(md)
+
 if __name__ == "__main__":
-    main()
+    if os.getenv("YT_VIDEO"):
+        one_video(os.environ["YT_VIDEO"], os.getenv("YT_FOCUS", "").strip())
+    else:
+        main()

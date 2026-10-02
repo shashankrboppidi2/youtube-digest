@@ -29,7 +29,23 @@ def to_html(md):
     html = html.replace("<a ", '<a style="color:#0969da" ')
     return f'<div style="{STYLE}">{html}</div>'
 
+def send(subject, md):
+    host, user, pw, to = (os.getenv("SMTP_HOST", "smtp.gmail.com"), os.getenv("SMTP_USER"),
+                          os.getenv("SMTP_PASS"), os.getenv("MAIL_TO"))
+    if not all([user, pw, to]): raise SystemExit("SMTP_USER, SMTP_PASS and MAIL_TO secrets are required")
+    m = MIMEMultipart("alternative")
+    m["Subject"], m["From"], m["To"] = subject, user, to
+    m.attach(MIMEText(md, "plain", "utf-8"))
+    m.attach(MIMEText(to_html(md), "html", "utf-8"))
+    with smtplib.SMTP(host, int(os.getenv("SMTP_PORT", "587"))) as s:
+        s.starttls(); s.login(user, pw); s.sendmail(user, [a.strip() for a in to.split(",")], m.as_string())
+    print(f"sent '{subject}' to {to}")
+
 def main():
+    if os.getenv("MD_FILE"):     # one-off summary from video.yml: send that file, leave the daily bookkeeping alone
+        md = open(os.environ["MD_FILE"], encoding="utf-8").read()
+        title = (re.findall(r"^# (.+)$", md, re.M) or ["video"])[0]
+        return send(f"YouTube summary: {title}", md)
     force = os.getenv("FORCE") == "1"
     ny = datetime.now(ZoneInfo("America/New_York"))
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")   # the digest job names files by UTC date
@@ -38,27 +54,18 @@ def main():
         if (ny.hour, ny.minute) < (6, 45): print(f"{ny:%H:%M} New York time, too early; skipping"); return
         if today in sent: print(f"{today} already sent; skipping"); return
 
-    host, user, pw, to = (os.getenv("SMTP_HOST", "smtp.gmail.com"), os.getenv("SMTP_USER"),
-                          os.getenv("SMTP_PASS"), os.getenv("MAIL_TO"))
-    if not all([user, pw, to]): raise SystemExit("SMTP_USER, SMTP_PASS and MAIL_TO secrets are required")
-
     path = os.path.join(OUT, f"digest_{today}.md")
     if os.path.exists(path):
         md = open(path, encoding="utf-8").read()
-        n = len([h for h in re.findall(r"^## (.+)$", md, re.M) if h != "No transcript available"])
+        n = len([h for h in re.findall(r"^## (.+)$", md, re.M)
+                 if h not in ("No transcript available", "Skipped as off-topic")])
         subject = f"YouTube digest {today}" + (f" — {n} video{'s' if n != 1 else ''}" if n else "")
     else:
         md = (f"# YouTube digest — {today}\n\nNo digest was written today: either no new videos, or the "
               f"overnight run failed. Runs: [{REPO_URL}/actions]({REPO_URL}/actions)")
         subject = f"YouTube digest {today} — nothing today"
 
-    m = MIMEMultipart("alternative")
-    m["Subject"], m["From"], m["To"] = subject, user, to
-    m.attach(MIMEText(md, "plain", "utf-8"))
-    m.attach(MIMEText(to_html(md), "html", "utf-8"))
-    with smtplib.SMTP(host, int(os.getenv("SMTP_PORT", "587"))) as s:
-        s.starttls(); s.login(user, pw); s.sendmail(user, [a.strip() for a in to.split(",")], m.as_string())
-    print(f"sent '{subject}' to {to}")
+    send(subject, md)
     sent[today] = datetime.now(timezone.utc).isoformat(timespec="seconds")
     os.makedirs(OUT, exist_ok=True)
     json.dump(dict(sorted(sent.items())[-60:]), open(SENT_FILE, "w"), indent=1)
