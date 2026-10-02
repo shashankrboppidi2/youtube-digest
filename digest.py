@@ -272,6 +272,23 @@ Only points actually made here; no intros, no summaries of the whole video. If t
 TRANSCRIPT PART:
 {text}"""
 
+STOCKS_PROMPT = """Part {i} of {n} of the transcript of "{title}" ({channel}). Timestamps like [12:34] mark the time.
+List EVERY company or stock discussed in this part (not just named in passing), one line each:
+- Company (ticker only if the speaker says it) — bullish / bearish / neutral / example — what is said about it, with any numbers [12:34]
+"example" = used to illustrate a point rather than as an investment view. If none, write NONE.
+
+TRANSCRIPT PART:
+{text}"""
+
+STOCKS_MERGE_PROMPT = """Below are company mentions collected from each part of one video. Merge them into one list:
+one line per company, combining what was said across the video; keep the most specific numbers and the first
+[m:ss] timestamp. Fix obvious caption misspellings of well-known company names (e.g. "Dualingo" -> Duolingo).
+Output only lines of the form:
+- **Company** (ticker if given) — bullish / bearish / neutral / example — what was said
+
+MENTIONS:
+{mentions}"""
+
 CHECKLIST_PROMPT = """Below are points about "{focus}", taken in order from a long video. Turn them into a checklist
 a reader can use:
 - 4-7 short headings in bold (e.g. **Management**, **Competitive advantage**, **Red flags**)
@@ -340,11 +357,26 @@ def summarise(v, snips, focus=""):
         body = llm(SYSTEM, FINAL_PROMPT.format(title=v["title"], channel=v["channel"], length=length, interests=INTERESTS,
                                                focus_block=fb, what="notes taken while reading the transcript in parts",
                                                content_label="NOTES", content="\n".join(notes)), max_tokens=2000 if focus else 1100)
-    if focus:
-        body += "\n\n" + focus_list(v, words, focus)
+    if focus:     # one-off deep dives: stocks and the focus list are collected part by part, not left to one answer
+        body = re.sub(r"\n*\*\*Stocks mentioned:\*\*.*?(?=\n\*\*[A-Z]|\Z)", "", body, flags=re.S)
+        body += "\n\n" + stocks_list(v, words) + "\n\n" + focus_list(v, words, focus)
     body = link_timestamps(cap_bullets(tidy(body)), v["id"], snips[-1][0] if snips else 0)
     if cut: body += f"\n\n_Summary covers the first ~{MAX_WORDS:,} words of the transcript._"
     return body
+
+def stocks_list(v, words):
+    """Every company discussed, gathered from each part of the transcript and merged into one line per company."""
+    chunks = [" ".join(words[i:i + CHUNK_WORDS]) for i in range(0, len(words), CHUNK_WORDS)]
+    mentions = []
+    for i, c in enumerate(chunks, 1):
+        print(f"  stocks {i}/{len(chunks)}")
+        out = llm(SYSTEM, STOCKS_PROMPT.format(i=i, n=len(chunks), title=v["title"], channel=v["channel"], text=c),
+                  max_tokens=700)
+        mentions += [l.strip() for l in out.split("\n") if l.strip().startswith(("-", "*")) and "none" not in l.lower()[:8]]
+    if not mentions: return "**Stocks mentioned:** none discussed."
+    merged = llm(SYSTEM, STOCKS_MERGE_PROMPT.format(mentions="\n".join(mentions)), max_tokens=1200)
+    lines = [l for l in merged.split("\n") if l.strip().startswith(("-", "*"))]
+    return "**Stocks mentioned:**\n" + "\n".join(lines or mentions)
 
 def focus_list(v, words, focus):
     """Every point about `focus`, collected from each part of the transcript so a long video is covered end to end."""
