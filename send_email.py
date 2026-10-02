@@ -45,7 +45,7 @@ def main():
     if os.getenv("MD_FILE"):     # one-off summary from video.yml: send that file, leave the daily bookkeeping alone
         md = open(os.environ["MD_FILE"], encoding="utf-8").read()
         title = (re.findall(r"^# (.+)$", md, re.M) or ["video"])[0]
-        return send(f"YouTube summary: {title}", md)
+        return send(os.getenv("MAIL_SUBJECT") or f"YouTube summary: {title}", md)
     force = os.getenv("FORCE") == "1"
     ny = datetime.now(ZoneInfo("America/New_York"))
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")   # the digest job names files by UTC date

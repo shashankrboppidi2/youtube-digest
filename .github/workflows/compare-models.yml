@@ -1,0 +1,79 @@
+name: Compare models on one video
+
+# Runs the same video through several Ollama models in parallel (one job each, on GitHub's CPU) and e-mails each
+# summary with the model name in the subject, to pick which model to run locally.
+on:
+  workflow_dispatch:
+    inputs:
+      video:
+        description: 'YouTube link, video id, or search text'
+        required: true
+      focus:
+        description: 'Optional: what to list in full'
+        default: ''
+      models:
+        description: 'JSON list of Ollama models'
+        default: '["gpt-oss:20b", "qwen3:14b", "gemma3:12b"]'
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    strategy:
+      fail-fast: false
+      matrix:
+        model: ${{ fromJSON(inputs.models) }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      LLM_MODEL: ${{ matrix.model }}
+      OLLAMA_MODELS: /home/runner/ollama-models
+      OLLAMA_CONTEXT_LENGTH: '8192'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: denoland/setup-deno@v2    # yt-dlp needs a JavaScript runtime for YouTube
+        with:
+          deno-version: v2.x
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt markdown
+      - name: Cache model
+        uses: actions/cache@v4
+        with:
+          path: /home/runner/ollama-models
+          key: ollama-${{ matrix.model }}
+      - name: Start Ollama
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          sudo systemctl stop ollama || true
+          nohup ollama serve > /tmp/ollama.log 2>&1 &
+          for i in $(seq 30); do curl -s localhost:11434 >/dev/null && break; sleep 1; done
+          ollama pull "$LLM_MODEL"
+      - name: Summarise
+        id: sum
+        env:
+          YT_PROXY: ${{ secrets.YT_PROXY }}
+          YT_VIDEO: ${{ inputs.video }}
+          YT_FOCUS: ${{ inputs.focus }}
+          YT_MODELS: ${{ matrix.model }}
+        run: |
+          slug=$(echo "$LLM_MODEL" | tr ':/' '--')
+          echo "out=compare_${slug}.md" >> "$GITHUB_OUTPUT"
+          YT_OUT="compare_${slug}.md" python digest.py
+      - name: E-mail
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO:   ${{ secrets.MAIL_TO }}
+          MD_FILE: digests/${{ steps.sum.outputs.out }}
+          MAIL_SUBJECT: 'Model comparison [${{ matrix.model }}]: ${{ inputs.video }}'
+        run: python send_email.py
+      - name: Commit summary
+        run: |
+          git config user.name  "digest-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add digests/
+          git diff --quiet --cached || git commit -m "$(date -u +%FT%H:%M) model comparison ${LLM_MODEL}"
+          for i in 1 2 3 4; do git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && break; sleep 10; done

@@ -206,11 +206,16 @@ def with_markers(snips, every=60):
 
 # ---------- model ----------
 
+REASONING = ("gpt-oss", "qwen3", "deepseek-r1", "magistral")     # think before answering: give them room
+
 def llm(system, user, max_tokens=900):
+    body = {"model": LLM_MODEL, "temperature": 0.2, "max_tokens": max_tokens,
+            "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}]}
+    if any(m in LLM_MODEL for m in REASONING):
+        body["max_tokens"] = max_tokens * 4
+        body["reasoning_effort"] = "low"
     r = requests.post(f"{LLM_BASE_URL}/chat/completions", timeout=1800,
-                      headers={"Authorization": f"Bearer {LLM_API_KEY}"},
-                      json={"model": LLM_MODEL, "temperature": 0.2, "max_tokens": max_tokens,
-                            "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}]})
+                      headers={"Authorization": f"Bearer {LLM_API_KEY}"}, json=body)
     r.raise_for_status()
     choice = r.json()["choices"][0]
     text = re.sub(r"<think>.*?</think>", "", choice["message"]["content"] or "", flags=re.S).strip()   # reasoning models
@@ -257,6 +262,17 @@ Only points actually made here; no intros, no summaries of the whole video. If t
 
 TRANSCRIPT PART:
 {text}"""
+
+CHECKLIST_PROMPT = """Below are points about "{focus}", taken in order from a long video. Turn them into a checklist
+a reader can use:
+- 4-7 short headings in bold (e.g. **Management**, **Competitive advantage**, **Red flags**)
+- under each, 2-5 checklist items, 12-25 items in total: merge duplicates, keep the specific detail or example
+- drop points that are not really about "{focus}" (biography, the speaker's own firm logistics, small talk)
+- end each item with the [m:ss] timestamp of the point it came from
+Output only the headings and items, in Markdown, starting each item with "- ".
+
+POINTS:
+{points}"""
 
 FINAL_PROMPT = """Video: "{title}" by {channel}, {length} long.
 The reader follows: {interests}. Leave out anything else, even if the video covers it.
@@ -336,7 +352,14 @@ def focus_list(v, words, focus):
             seen_pts.add(key); points.append(line)
     head = f"**{focus[0].upper() + focus[1:]}:**"
     if not points: return head + "\n\n_Nothing specific on this in the video._"
-    return head + "\n" + "\n".join(f"{n}. {p}" for n, p in enumerate(points, 1))
+    raw = "\n".join(f"{n}. {p}" for n, p in enumerate(points, 1))
+    if len(points) < 12: return head + "\n" + raw
+    try:
+        grouped = llm(SYSTEM, CHECKLIST_PROMPT.format(focus=focus, points=raw), max_tokens=1800)
+    except Exception as e:
+        print(f"  checklist step failed ({e}); keeping the raw list"); grouped = ""
+    if grouped.count("\n") < 5: return head + "\n" + raw
+    return f"{head}\n\n{grouped}\n\n_Condensed from {len(points)} points taken across the whole video._"
 
 def tidy(md):
     """Undo template echoes: drop copied <...> instructions and pull the text up next to its **Label:**."""
@@ -497,12 +520,25 @@ def one_video(spec, focus):
     except Blocked:
         raise SystemExit("YouTube blocked the transcript download; check the YT_PROXY secret")
     if not snips: raise SystemExit("this video has no captions to summarise")
-    t0 = time.time()
-    body = summarise(v, snips, focus)
-    print(f"  summarised {sum(len(t.split()) for _, t in snips)} words in {time.time() - t0:.0f}s")
-    md = (f"# {v['title']}\n\n**{v['channel']}** · {mmss(snips[-1][0])} · [watch]({v['link']})\n\n{body}\n\n"
-          f"_Summary by {LLM_MODEL} (open-source) running in GitHub Actions._\n")
-    for name in (f"video_{v['id']}.md", "video_latest.md"):
+    global LLM_MODEL
+    models = [m.strip() for m in os.getenv("YT_MODELS", "").split(",") if m.strip()] or [LLM_MODEL]
+    md = f"# {v['title']}\n\n**{v['channel']}** · {mmss(snips[-1][0])} · [watch]({v['link']})\n\n"
+    for m in models:
+        LLM_MODEL = m
+        print(f"\n== {m}")
+        t0 = time.time()
+        try:
+            body = summarise(v, snips, focus)
+        except Exception as e:
+            body = f"_{m} failed: {e}_"
+        took = time.time() - t0
+        print(f"  {m}: {took / 60:.1f} min")
+        if len(models) > 1:
+            md += f"---\n\n## Model: {m}  ({took / 60:.0f} min)\n\n{body}\n\n"
+        else:
+            md += f"{body}\n\n_Summary by {m} (open-source), {took / 60:.0f} min._\n"
+    names = [os.getenv("YT_OUT")] if os.getenv("YT_OUT") else [f"video_{v['id']}.md", "video_latest.md"]
+    for name in names:
         open(os.path.join(OUT, name), "w", encoding="utf-8").write(md)
     print(md)
 
