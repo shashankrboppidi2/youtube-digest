@@ -243,8 +243,17 @@ NOTES_PROMPT = """Part {i} of {n} of the transcript of "{title}" ({channel}). Ti
 The reader follows: {interests}.
 Write 3-5 terse bullet points with the most substantive points made in this part that matter to the reader
 (facts, arguments, numbers, advice). Put the timestamp at the start of each, e.g. "- [12:34] ...".
-When a company or stock is discussed, name it (with ticker if said) and the view and numbers given.
+When a company or stock is discussed, name it (ticker only if the speaker says it) and the view and numbers given.
 Leave out sponsor reads, intros, calls to subscribe and segments the reader doesn't follow (human-interest, sports...).{focus_note}
+
+TRANSCRIPT PART:
+{text}"""
+
+FOCUS_PROMPT = """Part {i} of {n} of the transcript of "{title}" ({channel}). Timestamps like [12:34] mark the time.
+List EVERY point made in this part about: {focus}
+One line each, in this form:
+- [12:34] the point, in a short sentence — the reasoning or example the speaker gives
+Only points actually made here; no intros, no summaries of the whole video. If there are none, write NONE.
 
 TRANSCRIPT PART:
 {text}"""
@@ -267,7 +276,7 @@ Write exactly this, in Markdown, nothing before or after. Replace each <...> wit
 - <4-6 bullets: the most important specific points of the whole video, with numbers>
 
 **Stocks mentioned:**
-- <one bullet per company or stock actually discussed: Company (TICKER if said) — bullish / bearish / neutral — the view and any numbers (targets, valuation, growth). Write only "None" if no specific company was discussed>
+- <one bullet per company or stock actually discussed: Company (ticker only if the speaker says it; never guess one) — bullish / bearish / neutral — the view and any numbers (targets, valuation, growth). Write only "None" if no specific company was discussed>
 {focus_block}
 {content_label}:
 {content}"""
@@ -287,12 +296,7 @@ def on_topic(v, snips):
     return not answer.strip().upper().startswith("NO")
 
 def summarise(v, snips, focus=""):
-    fb = fn = ""
-    if focus:
-        fn = f"\nAlso capture, in full and with timestamps, everything said about: {focus}"
-        fb = (f"\n**{focus[0].upper() + focus[1:]}:**\n1. <as many numbered points as the video supports — do not "
-              f"stop at a handful — each starting with its [m:ss] timestamp, then the point and one sentence of the "
-              f"reasoning or example given>\n")
+    fb = fn = ""    # the focus list is extracted part by part (see below), not squeezed into the final answer
     words = with_markers(snips).split()
     cut = len(words) > MAX_WORDS
     words = words[:MAX_WORDS]
@@ -311,13 +315,33 @@ def summarise(v, snips, focus=""):
         body = llm(SYSTEM, FINAL_PROMPT.format(title=v["title"], channel=v["channel"], length=length, interests=INTERESTS,
                                                focus_block=fb, what="notes taken while reading the transcript in parts",
                                                content_label="NOTES", content="\n".join(notes)), max_tokens=2000 if focus else 1100)
+    if focus:
+        body += "\n\n" + focus_list(v, words, focus)
     body = link_timestamps(cap_bullets(tidy(body)), v["id"], snips[-1][0] if snips else 0)
     if cut: body += f"\n\n_Summary covers the first ~{MAX_WORDS:,} words of the transcript._"
     return body
 
+def focus_list(v, words, focus):
+    """Every point about `focus`, collected from each part of the transcript so a long video is covered end to end."""
+    chunks = [" ".join(words[i:i + CHUNK_WORDS]) for i in range(0, len(words), CHUNK_WORDS)]
+    points, seen_pts = [], set()
+    for i, c in enumerate(chunks, 1):
+        print(f"  focus {i}/{len(chunks)}")
+        out = llm(SYSTEM, FOCUS_PROMPT.format(i=i, n=len(chunks), title=v["title"], channel=v["channel"],
+                                              focus=focus, text=c), max_tokens=900)
+        for line in out.split("\n"):
+            line = re.sub(r"^\s*(?:[-*]|\d+[.)])\s*", "", line).strip()
+            key = re.sub(r"\W+", " ", re.sub(r"\[[\d:]+\]", "", line)).strip().lower()
+            if len(key) < 15 or key.startswith("none") or key in seen_pts: continue
+            seen_pts.add(key); points.append(line)
+    head = f"**{focus[0].upper() + focus[1:]}:**"
+    if not points: return head + "\n\n_Nothing specific on this in the video._"
+    return head + "\n" + "\n".join(f"{n}. {p}" for n, p in enumerate(points, 1))
+
 def tidy(md):
     """Undo template echoes: drop copied <...> instructions and pull the text up next to its **Label:**."""
     md = re.sub(r"<[^<>\n]{12,}>", "", md)
+    md = re.sub(r"\[m{1,2}:ss\]:?\s*-?\s*", "", md)     # literal "[m:ss]" copied from the template
     md = re.sub(r"(\*\*[^*\n]+:\*\*[^\n]*?)[ \t]*\n\s*\n(?=[^\s*\-])", lambda m: m.group(1).rstrip() + " ", md)
     md = re.sub(r"(\d/5)\s*—\s*(?=\S)", r"\1 — ", md)
     return re.sub(r"\n{3,}", "\n\n", md).strip()

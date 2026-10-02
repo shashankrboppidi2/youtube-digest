@@ -22,9 +22,9 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 240
     env:
-      LLM_MODEL: qwen2.5:3b
+      LLM_MODEL: qwen2.5:7b     # one-off requests: slower but more accurate than the daily 3b
       OLLAMA_MODELS: /home/runner/ollama-models
       OLLAMA_CONTEXT_LENGTH: '8192'
     steps:
