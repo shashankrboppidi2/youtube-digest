@@ -1,0 +1,6 @@
+# What the digest is for. The model keeps a video only if it is mainly about these, and leaves out
+# segments that aren't (human-interest stories, sports, celebrity news) even inside videos it keeps.
+investing and stock markets; individual companies, earnings and valuations
+technology, AI and semiconductors; startups and venture capital
+macroeconomics: inflation, interest rates, central banks, jobs, bonds, currencies, commodities, energy
+government budgets, taxes, trade, tariffs, sanctions, elections and geopolitics that move economies or markets

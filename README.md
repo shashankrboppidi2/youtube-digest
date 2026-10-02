@@ -4,7 +4,9 @@ Once a day, `.github/workflows/digest.yml` summarises new uploads from the chann
 open-source model (`qwen2.5:3b` through Ollama, on the runner's CPU) and commits
 `digests/digest_YYYY-MM-DD.md`. `email.yml` e-mails it at 7am Eastern.
 
-Per video: TL;DR, key points with links to the moment in the video, and a 1–5 "worth watching in full?" score.
+Per video: TL;DR, a 1–5 "worth watching in full?" score, bookmarks (links to the important sections), key takeaways,
+and the stocks discussed with the view taken on each. Videos off the topics in `interests.txt` are skipped (listed at the
+end), and off-topic segments are left out of the videos that are kept.
 Shorts and clips (under 250 words of transcript) are skipped.
 
 ## Channels

@@ -221,14 +221,34 @@ def llm(system, user, max_tokens=900):
 SYSTEM = ("You condense YouTube videos for a busy reader who will not watch them. Be concrete: names, numbers, "
           "claims, conclusions. Never invent anything that is not in the transcript. Plain English, no hype.")
 
+def read_interests():
+    path = os.path.join(HERE, "interests.txt")
+    if not os.path.exists(path): return ""
+    return "; ".join(l.split("#", 1)[0].strip() for l in open(path, encoding="utf-8") if l.split("#", 1)[0].strip())
+
+INTERESTS = read_interests()
+
+RELEVANCE_PROMPT = """The reader follows: {interests}.
+The reader does NOT want: general news, human-interest stories, accidents, crime, sports, celebrities, lifestyle.
+
+Video: "{title}" by {channel}.
+Opening of the transcript:
+{opening}
+
+Is this video mainly about what the reader follows? Answer with one word: YES or NO."""
+
 NOTES_PROMPT = """Part {i} of {n} of the transcript of "{title}" ({channel}). Timestamps like [12:34] mark the time.
-Write 3-5 terse bullet points with the most substantive points made in this part (facts, arguments, numbers, advice).
-Put the timestamp of each point at its start, e.g. "- [12:34] ...". Skip sponsor reads, intros and calls to subscribe.
+The reader follows: {interests}.
+Write 3-5 terse bullet points with the most substantive points made in this part that matter to the reader
+(facts, arguments, numbers, advice). Put the timestamp at the start of each, e.g. "- [12:34] ...".
+When a company or stock is discussed, name it (with ticker if said) and the view and numbers given.
+Leave out sponsor reads, intros, calls to subscribe and segments the reader doesn't follow (human-interest, sports...).
 
 TRANSCRIPT PART:
 {text}"""
 
 FINAL_PROMPT = """Video: "{title}" by {channel}, {length} long.
+The reader follows: {interests}. Leave out anything else, even if the video covers it.
 Below is {what}. Timestamps like [12:34] mark the time.
 
 Write exactly this, in Markdown, nothing before or after. Replace each <...> with your own text; never copy the
@@ -238,11 +258,25 @@ Write exactly this, in Markdown, nothing before or after. Replace each <...> wit
 
 **Worth watching in full?** <score>/5 — <one sentence why; 5 = the summary cannot replace it, 1 = the summary covers it>
 
-**Key points:**
-- <5-7 bullets in total, no more: the most important specific points of the whole video, not one per note; start a bullet with its [m:ss] timestamp when you have one>
+**Bookmarks:**
+- <3-6 bullets in time order, each: [m:ss] short section title — one line on what is covered there>
+
+**Key takeaways:**
+- <4-6 bullets: the most important specific points of the whole video, with numbers>
+
+**Stocks mentioned:**
+- <one bullet per company or stock actually discussed: Company (TICKER if said) — bullish / bearish / neutral — the view and any numbers (targets, valuation, growth). Write only "None" if no specific company was discussed>
 
 {content_label}:
 {content}"""
+
+def on_topic(v, snips):
+    """Cheap first look: title + opening ~400 words. Anything but a clear NO keeps the video."""
+    if not INTERESTS: return True
+    opening = " ".join(" ".join(t for _, t in snips).split()[:400])
+    answer = llm(SYSTEM, RELEVANCE_PROMPT.format(interests=INTERESTS, title=v["title"], channel=v["channel"],
+                                                  opening=opening), max_tokens=5)
+    return not answer.strip().upper().startswith("NO")
 
 def summarise(v, snips):
     words = with_markers(snips).split()
@@ -250,19 +284,19 @@ def summarise(v, snips):
     words = words[:MAX_WORDS]
     length = mmss(snips[-1][0]) if snips else "?"
     if len(words) <= CHUNK_WORDS * 1.2:
-        body = llm(SYSTEM, FINAL_PROMPT.format(title=v["title"], channel=v["channel"], length=length,
+        body = llm(SYSTEM, FINAL_PROMPT.format(title=v["title"], channel=v["channel"], length=length, interests=INTERESTS,
                                                what="the full transcript", content_label="TRANSCRIPT",
-                                               content=" ".join(words)))
+                                               content=" ".join(words)), max_tokens=1100)
     else:
         chunks = [" ".join(words[i:i + CHUNK_WORDS]) for i in range(0, len(words), CHUNK_WORDS)]
         notes = []
         for i, c in enumerate(chunks, 1):
             print(f"  part {i}/{len(chunks)}")
-            notes.append(llm(SYSTEM, NOTES_PROMPT.format(i=i, n=len(chunks), title=v["title"],
+            notes.append(llm(SYSTEM, NOTES_PROMPT.format(i=i, n=len(chunks), title=v["title"], interests=INTERESTS,
                                                          channel=v["channel"], text=c), max_tokens=500))
-        body = llm(SYSTEM, FINAL_PROMPT.format(title=v["title"], channel=v["channel"], length=length,
+        body = llm(SYSTEM, FINAL_PROMPT.format(title=v["title"], channel=v["channel"], length=length, interests=INTERESTS,
                                                what="notes taken while reading the transcript in parts",
-                                               content_label="NOTES", content="\n".join(notes)))
+                                               content_label="NOTES", content="\n".join(notes)), max_tokens=1100)
     body = link_timestamps(cap_bullets(tidy(body)), v["id"], snips[-1][0] if snips else 0)
     if cut: body += f"\n\n_Summary covers the first ~{MAX_WORDS:,} words of the transcript._"
     return body
@@ -275,13 +309,20 @@ def tidy(md):
     return re.sub(r"\n{3,}", "\n\n", md).strip()
 
 def cap_bullets(md, keep=7):
-    """Small models ignore "5-7 bullets" on long videos; keep `keep` of them, spread across the video."""
-    lines = md.split("\n")
-    idx = [i for i, l in enumerate(lines) if l.lstrip().startswith(("- ", "* "))]
-    if len(idx) <= keep: return md
-    step = (len(idx) - 1) / (keep - 1)
-    chosen = {idx[round(k * step)] for k in range(keep)}
-    return "\n".join(l for i, l in enumerate(lines) if i not in idx or i in chosen)
+    """Small models ignore "4-6 bullets" on long videos; keep `keep` per list, spread across the video."""
+    lines, out, block = md.split("\n"), [], []
+    def flush():
+        if len(block) > keep:
+            step = (len(block) - 1) / (keep - 1)
+            block[:] = [block[round(k * step)] for k in range(keep)]
+        out.extend(block); block.clear()
+    for l in lines:
+        if l.lstrip().startswith(("- ", "* ")): block.append(l)
+        else: flush(); out.append(l)
+    flush()
+    md = "\n".join(out)
+    # "Stocks mentioned: None" (or an empty list) adds nothing
+    return re.sub(r"\n*\*\*Stocks mentioned:\*\*\s*(?:\n\s*[-*]\s*)?(?:None|N/A|-)?\.?\s*(?=\n\*\*|\Z)", "", md, flags=re.I).strip()
 
 def link_timestamps(md, vid, last):
     """[12:34] -> a link to that moment. Times past the end of the video (model slips) are dropped."""
@@ -327,7 +368,7 @@ def main():
         print(f"{len(todo)} new videos; doing the newest {MAX_VIDEOS}, the rest next run")
         todo = todo[-MAX_VIDEOS:]
 
-    entries, skipped, n_blocked = [], [], 0
+    entries, skipped, n_blocked, off_topic = [], [], 0, []
     todo.reverse()     # newest first, so a run that hits the time budget leaves the older ones
     for v in todo:
         if time.time() - START > BUDGET_MIN * 60:
@@ -349,6 +390,8 @@ def main():
             print(f"  {n_words} words, skipping (Short/clip)"); seen.add(v["id"]); continue
         t0 = time.time()
         try:
+            if not on_topic(v, snips):
+                print("  off-topic, skipping"); seen.add(v["id"]); off_topic.append(v); continue
             body = summarise(v, snips)
         except Exception as e:
             print(f"  model failed: {e}"); errors.append(f"model failed on {v['title']}"); continue
@@ -362,7 +405,7 @@ def main():
     state = {"seen": sorted(seen)[-5000:], "handles": handles, "channels": sorted(known_channels)}
     json.dump(state, open(SEEN_FILE, "w"), indent=1)
 
-    if not entries and not skipped and not errors:
+    if not entries and not skipped and not errors and not off_topic:
         print("\nnothing new to write"); return
     today = now.strftime("%Y-%m-%d")
     path = os.path.join(OUT, f"digest_{today}.md")
@@ -374,6 +417,10 @@ def main():
     for v, length, body in entries:
         pub = datetime.fromisoformat(v["published"]).strftime("%b %d")
         md.append(f"## {v['title']}\n\n**{v['channel']}** · {length} · {pub} · [watch]({v['link']})\n\n{body}\n")
+    if off_topic:
+        md.append("## Skipped as off-topic\n")
+        md += [f"- [{v['title']}]({v['link']}) — {v['channel']}" for v in off_topic]
+        md.append("")
     if skipped:
         md.append("## No transcript available\n")
         md += [f"- [{v['title']}]({v['link']}) — {v['channel']}" for v, _ in skipped]
