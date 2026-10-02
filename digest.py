@@ -235,7 +235,9 @@ Video: "{title}" by {channel}.
 Opening of the transcript:
 {opening}
 
-Is this video mainly about what the reader follows? Answer with one word: YES or NO."""
+Answer NO only if the video is clearly about something else (crime, courts, accidents, sports, celebrities,
+entertainment, lifestyle). Anything about companies, stocks, earnings, markets, the economy, central banks, trade,
+government policy or technology is YES. Answer with one word: YES or NO."""
 
 NOTES_PROMPT = """Part {i} of {n} of the transcript of "{title}" ({channel}). Timestamps like [12:34] mark the time.
 The reader follows: {interests}.
@@ -270,9 +272,15 @@ Write exactly this, in Markdown, nothing before or after. Replace each <...> wit
 {content_label}:
 {content}"""
 
+ON_TOPIC_WORDS = re.compile(
+    r"\b(stocks?|shares?|earnings|market|markets|econom\w*|fed|central bank|rates?|inflation|recession|bonds?|yields?|"
+    r"tariffs?|trade|budget|tax\w*|gdp|jobs|dollar|currenc\w+|oil|gold|crypto|bitcoin|ipo|valuation|invest\w*|"
+    r"funds?|vc|venture|startups?|ai|chips?|semiconductor\w*|nvidia|tech)\b", re.I)
+
 def on_topic(v, snips):
-    """Cheap first look: title + opening ~400 words. Anything but a clear NO keeps the video."""
-    if not INTERESTS: return True
+    """Cheap first look: market/economy words in the title keep a video outright; otherwise ask the model on the
+    title + opening ~400 words, and only a clear NO drops it."""
+    if not INTERESTS or ON_TOPIC_WORDS.search(v["title"]): return True
     opening = " ".join(" ".join(t for _, t in snips).split()[:400])
     answer = llm(SYSTEM, RELEVANCE_PROMPT.format(interests=INTERESTS, title=v["title"], channel=v["channel"],
                                                   opening=opening), max_tokens=5)
