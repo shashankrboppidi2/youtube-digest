@@ -414,7 +414,8 @@ def cap_bullets(md, keep=7):
     """Small models ignore "4-6 bullets" on long videos; keep `keep` per list, spread across the video."""
     lines, out, block = md.split("\n"), [], []
     def flush():
-        if len(block) > keep:
+        under = next((l for l in reversed(out) if l.strip()), "")
+        if len(block) > keep and not under.startswith("**Stocks mentioned"):   # every company stays
             step = (len(block) - 1) / (keep - 1)
             block[:] = [block[round(k * step)] for k in range(keep)]
         out.extend(block); block.clear()
