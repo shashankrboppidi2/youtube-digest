@@ -3,3 +3,5 @@
 # "[Channel Name] pattern" limits the rule to one channel, e.g.  [Bloomberg Podcasts] Stock Movers
 # Anything after '#' is a comment.
 Bloomberg Daybreak          # general morning news round-ups
+[Bloomberg Podcasts] Bloomberg Australia Podcast    # regional
+[Bloomberg Podcasts] Zero: The Climate Race         # climate
