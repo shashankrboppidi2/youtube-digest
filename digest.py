@@ -141,7 +141,16 @@ class Blocked(Exception):
 BLOCK_SIGNS = ("RequestBlocked", "IpBlocked", "confirm you", "not a bot", "HTTP Error 429", "Too Many Requests",
                "needs to be reloaded")
 
-def transcript(vid):
+def transcript(vid, attempts=3):
+    """Like _transcript_once, retrying a block or rate limit; the rotating proxy gives a new IP each try."""
+    for a in range(attempts):
+        try:
+            return _transcript_once(vid)
+        except Blocked:
+            if a == attempts - 1: raise
+            print(f"  blocked/rate-limited, retrying in {20 * (a + 1)}s"); time.sleep(20 * (a + 1))
+
+def _transcript_once(vid):
     """[(start_seconds, text)] or None. Tries youtube-transcript-api, then yt-dlp's captions.
     Raises Blocked when both were refused by YouTube rather than finding no captions."""
     msgs = []
