@@ -674,3 +674,351 @@ _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
 
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
+
+<!-- run 12:42Z -->
+
+## ETHEREUM CHART UPDATE 📈 OCTOBER 2
+
+**Overkill Trading** · 2:57 · Oct 02 · [watch](https://www.youtube.com/shorts/WLsLFM4qF24)
+
+**TL;DR:** The video discusses Ethereum's recent price movements and provides a trading signal based on the return to mean bounce, suggesting a potential sell-off when Ethereum prices move above the average four-year moving average.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but the video provides additional context and analysis not present in the summary.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/WLsLFM4qF24?t=0) Introduction and Ethereum's recent performance.
+- [1:01](https://youtu.be/WLsLFM4qF24?t=61) Overview of the mean bounce and Ethereum's historical performance.
+- [2:02](https://youtu.be/WLsLFM4qF24?t=122) Explanation of the current phase and expected trading behavior.
+
+**Key takeaways:**
+- Ethereum broke out of a downtrend and is now in a return to mean bounce phase.
+- The video suggests buying when Ethereum is below the average four-year moving average.
+- The video expects sideways action or a potential sell-off when Ethereum moves above the mean.
+
+## What If We Stopped Using GPUs? | YC Paper Club
+
+**Y Combinator** · 1:20:29 · Oct 02 · [watch](https://www.youtube.com/watch?v=xc2FTBGRSJo)
+
+**TL;DR:** The video discusses potential alternatives to traditional deep learning methods, focusing on the shift from compute efficiency to memory capacity in neural networks and exploring the potential of optical computing as a solution. The speaker highlights the challenges and potential of using light for computing, including the need for cheaper ways to achieve nonlinearity in deep networks.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses out on the detailed technical explanations and specific examples provided in the full video.
+
+**Bookmarks:**
+- [1:10](https://youtu.be/xc2FTBGRSJo?t=70) - Shift from compute efficiency to memory capacity
+- [3:14](https://youtu.be/xc2FTBGRSJo?t=194) - Over the last two years, compute efficiency improvements have slowed
+- [4:15](https://youtu.be/xc2FTBGRSJo?t=255) - Speculation on human-level computing and cost per gigaflop
+- [14:24](https://youtu.be/xc2FTBGRSJo?t=864) - Aloc’s $1.5 billion fund for frontier technologies
+- [15:25](https://youtu.be/xc2FTBGRSJo?t=925) - Introduction of light for computing
+- [16:26](https://youtu.be/xc2FTBGRSJo?t=986) - Convergence of AI and optical communications
+- [17:28](https://youtu.be/xc2FTBGRSJo?t=1048) - Parallelism in optical computing
+
+**Key takeaways:**
+- Optical computing is massively parallelizable.
+- Optical systems can perform computations without active energy expenditure.
+- Challenges include converting digital information to optical domain and back.
+- Neuromorphic computing is still in the research and development phase.
+- Thermodynamic computing is a promising area of research.
+- Feedback modulation in the silicon decoder is crucial for learning.
+
+**Stocks mentioned:**
+- None
+
+NOTES:
+- [1:10](https://youtu.be/xc2FTBGRSJo?t=70) - The speaker discusses the shift from compute efficiency to memory capacity and bandwidth improvements in neural networks, highlighting that memory needs have been growing exponentially faster than compute efficiency.
+- [14:24](https://youtu.be/xc2FTBGRSJo?t=864) - Aloc has a $1.5 billion fund focused on early-stage, frontier technologies like neuromorphics and AI.
+- [17:28](https://youtu.be/xc2FTBGRSJo?t=1048) - Ilker explains that optics is massively parallelizable, allowing many optical beams to coexist without interference, unlike electrical circuits where multiple paths are needed for signals.
+- [20:33](https://youtu.be/xc2FTBGRSJo?t=1233) - Ilker discusses the cost of converting digital information to optical domain and back, which adds to the overall energy budget of optical computing systems.
+- [23:38](https://youtu.be/xc2FTBGRSJo?t=1418) - Ilker describes the optical system architecture, where the physics of light propagation is used to perform the task, and the system iterates over the diffusion procedure to generate images.
+- [29:45](https://youtu.be/xc2FTBGRSJo?t=1785) - The speaker mentions a model with [29:45](https://youtu.be/xc2FTBGRSJo?t=1785) billion parameters, suggesting significant advancements in neural network performance.
+- [33:50](https://youtu.be/xc2FTBGRSJo?t=2030) - The speaker acknowledges that manufacturing challenges exist, such as the need for cheaper ways to achieve nonlinearity in deep networks, which is a key challenge in scaling optics-based computing.
+
+## TOP STOCKS & CRYPTO TO WATCH IN OCTOBER 🚨 LIVE CHART REQUESTS | October 1
+
+**Overkill Trading** · 1:37:39 · Oct 02 · [watch](https://www.youtube.com/watch?v=Gq2g7xfRMC0)
+
+**TL;DR:** Overkill Trading provides recommendations for three stocks (NE, Tesla, UPS) and three cryptocurrencies (H&T, Morpho, XCN) for October, based on their historical performance and current market conditions. The video also discusses the importance of buying into the mean and avoiding buying when others are excited.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers specific stock and cryptocurrency recommendations, historical performance analysis, and market conditions.
+
+**Bookmarks:**
+- [1:03](https://youtu.be/Gq2g7xfRMC0?t=63) - Three stocks (NE, Tesla, UPS) and three cryptocurrencies (H&T, Morpho, XCN) are recommended for October.
+- [4:06](https://youtu.be/Gq2g7xfRMC0?t=246) - Specific cryptocurrencies (H&T, Morpho, XCN) are recommended for their potential as a NEO bank and staking rewards.
+- [16:18](https://youtu.be/Gq2g7xfRMC0?t=978) - Specific cryptocurrencies (H&T, Morpho, XCN) are recommended for their potential as a NEO bank.
+- [25:38](https://youtu.be/Gq2g7xfRMC0?t=1538) - The real estate market is suffering due to high inflation and rising interest rates, and the speaker recommends avoiding stocks in this sector until rates come down.
+- [34:45](https://youtu.be/Gq2g7xfRMC0?t=2085) - The speaker emphasizes the importance of waiting for signals before entering positions, especially in volatile markets.
+- [41:53](https://youtu.be/Gq2g7xfRMC0?t=2513) - AVAV is trading in a very choppy range, making it a good day trading opportunity.
+- [49:05](https://youtu.be/Gq2g7xfRMC0?t=2945) - The speaker predicts crypto could break out, suggesting a potential climax in the market.
+
+**Key takeaways:**
+- Overkill Trading recommends buying NE, Tesla, and UPS based on their historical performance and current market conditions.
+- The speaker advises buying into the mean and avoiding buying when others are excited.
+- The real estate market is suffering due to high inflation and rising interest rates, and the speaker recommends avoiding stocks in this sector until rates come down.
+- The speaker recommends buying Planet Labs (PL) for its daily data insights about Earth and its web geo platform with satellite data.
+- The speaker recommends buying AVAV for its potential as a day trading opportunity.
+- The speaker recommends buying H Bar at 12, as it is currently at the average and the mean value.
+- The speaker recommends buying FLR and MYRG for their monthly and weekly signals, and suggests adding them to their watchlist.
+
+**Stocks mentioned:**
+- NE (NE)
+- Tesla (TSLA)
+- UPS (UPS)
+- H&T (HNT)
+
+## 11 stocks Rebecca Walser would add IMMEDIATELY 📈 👀
+
+**TheStreet** · 1:27 · Oct 01 · [watch](https://www.youtube.com/shorts/wDIbBlMGH0w)
+
+**TL;DR:** Rebecca Walser selects 11 stocks for a diversified portfolio, including AI, growth, value, and safe-haven stocks, while also recommending gold as a long-term investment. The main conclusion is to diversify the portfolio to mitigate risks, especially focusing on the global AI leadership competition and inflationary pressures.
+
+**Worth watching in full?** 5/5 — The summary cannot fully replace the insights and analysis provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/wDIbBlMGH0w?t=0) Rebecca's initial picks for AI stocks.
+- [0:30](https://youtu.be/wDIbBlMGH0w?t=30) Growth and value stocks.
+- [1:02](https://youtu.be/wDIbBlMGH0w?t=62) Safe haven stocks and the AI leadership risk.
+- [1:30](https://youtu.be/wDIbBlMGH0w?t=90) The role of gold in the portfolio.
+
+**Key takeaways:**
+- Nvidia and Micron for AI.
+- Everpure for value.
+- Exxon for rate hikes.
+- Bank of America for consumer stocks.
+- McDonald's as a non-stock.
+- Apple, Meta, and Amazon for long-term growth.
+- Gold as a long-term inflation hedge.
+
+**Stocks mentioned:**
+- Nvidia (bullish)
+- Micron (bullish)
+- Everpure (neutral)
+- Verizon (bullish)
+- Netflix (bullish)
+- Exxon (bullish)
+- Bank of America (bullish)
+- McDonald's (bearish)
+- T-Mobile (neutral)
+- Apple (bullish)
+- Meta (bullish)
+- Amazon (bullish)
+- Gold (bullish)
+
+## Milliseconds Are Too Slow for Physical AI
+
+**Six Five Media** · 1:42 · Sep 29 · [watch](https://www.youtube.com/shorts/HDHfAgEzVe4)
+
+**TL;DR:** The video discusses the challenges of scaling physical AI, particularly in real-time applications where even small delays can have significant consequences, and argues that traditional data center approaches need to be re-engineered to ensure deterministic performance at scale.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and examples provided in the video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/HDHfAgEzVe4?t=0) Introduction and context of physical AI
+- [1:01](https://youtu.be/HDHfAgEzVe4?t=61) Real-time applications and the importance of deterministic performance
+
+**Key takeaways:**
+- Physical AI has been deployed at scale in various applications like cameras, cars, drones, and robots.
+- The challenge is to scale this technology to millions of units and ensure operational efficiency.
+- Traditional data center approaches are insufficient for real-time applications, where even milliseconds can cause significant issues.
+- Deterministic performance is crucial for applications like real-time systems, such as braking systems in trains.
+
+## Bullish on Micron? When a 2X ETF Makes Sense — And When It Doesn’t
+
+**TheStreet** · 12:58 · Sep 29 · [watch](https://www.youtube.com/watch?v=lTN6IVa0K_w)
+
+**TL;DR:** The video discusses the use of leveraged ETFs, specifically those focused on Micron, for traders looking to capitalize on potential upside moves in the stock. Bal Little explains the mechanics and risks of these products and advises against using them for long-term investors.
+
+**Worth watching in full?** 3/5 — The summary covers the main points, but the full video provides additional context and examples.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/lTN6IVa0K_w?t=0) Introduction to Micron and the use of leveraged ETFs
+- [2:02](https://youtu.be/lTN6IVa0K_w?t=122) Why long-term investors should be cautious with leverage products
+- [3:04](https://youtu.be/lTN6IVa0K_w?t=184) Technical analysis and potential for leverage to amplify gains
+- [5:05](https://youtu.be/lTN6IVa0K_w?t=305) Analysis of the energy and bond markets
+- [7:07](https://youtu.be/lTN6IVa0K_w?t=427) Observations on the Bitcoin market
+- [8:08](https://youtu.be/lTN6IVa0K_w?t=488) Discussion on tech sectors and the NASDAQ
+- [10:10](https://youtu.be/lTN6IVa0K_w?t=610) Advice for retail investors on managing risk and diversifying their portfolio
+
+**Key takeaways:**
+- Leveraged ETFs can amplify gains but also losses.
+- Long-term investors should be cautious with leverage products.
+- The tech sector, particularly semiconductors, offers interesting setups for leverage.
+- Understanding how these products work is crucial for making informed decisions.
+
+**Stocks mentioned:**
+- Micron (ticker: MU)
+- Bitcoin (ticker: BTC)
+
+## $24 Trillion, China's Cost Edge, and Beating Nvidia's Rubin
+
+**TechSurge: Deep Tech VC Podcast** · 1:24 · Sep 29 · [watch](https://www.youtube.com/shorts/JwNqW_ho5GU)
+
+**TL;DR:** The video discusses the cost advantage China has in AI hardware, particularly in graphics processing units (GPUs), and introduces a new company aiming to compete with Nvidia. The main conclusion is that China's cost advantage threatens Western AI competitiveness.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and expert opinions provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/JwNqW_ho5GU?t=0) Introduction to the cost of AI infrastructure and Nvidia's role.
+- [1:01](https://youtu.be/JwNqW_ho5GU?t=61) China's cost target for AI hardware and its implications.
+- [1:24](https://youtu.be/JwNqW_ho5GU?t=84) Raja Koduri's background and his new company Astera.
+
+**Key takeaways:**
+- China aims to reduce the cost of AI hardware by 5-6 times compared to Western companies.
+- Raja Koduri's new company Astera is developing a new type of memory to compete with Nvidia's products.
+- The cost advantage could significantly impact Western companies' competitiveness in the AI hardware market.
+
+## Why AI Developers Are Turning to World Models
+
+**Practical AI** · 3:58 · Sep 29 · [watch](https://www.youtube.com/watch?v=X-7feL2svKA)
+
+**TL;DR:** The video discusses how AI developers are using world models in their work, particularly in self-driving cars and robots, to improve decision-making and iteration speed by simulating real-world scenarios. The main conclusion is that world models provide a foundation for better policy development and are crucial for physical AI applications.
+
+**Worth watching in full?** 5/5 — The summary covers the key points but misses out on the detailed technical aspects and examples.
+
+**Bookmarks:**
+- [0:05](https://youtu.be/X-7feL2svKA?t=5) Introduction and perspective
+- [1:09](https://youtu.be/X-7feL2svKA?t=69) World model in CMO context
+- [2:10](https://youtu.be/X-7feL2svKA?t=130) Simulation and verification of policies
+- [3:13](https://youtu.be/X-7feL2svKA?t=193) World model and policy model correlation
+
+**Key takeaways:**
+- World models are used to simulate real-world scenarios for AI development.
+- They help in verifying and narrowing down policy hypotheses.
+- They provide a strong correlation between latent space evolution and control signals.
+- They are crucial for improving policy models in limited data scenarios.
+
+## Flash Hit Its Physical Limit. ReRAM Is the Replacement: WeeBit Nano's Ilan Sever
+
+**Semi Doped** · 56:46 · Sep 29 · [watch](https://www.youtube.com/watch?v=3444zi04g98)
+
+**TL;DR:** The video discusses the physical limits of flash memory and introduces resistive RAM (ReRAM) as a potential replacement, focusing on Weebit Nano's technology and applications in the automotive industry.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but misses out on the detailed technical aspects and specific applications discussed in the full video.
+
+**Bookmarks:**
+- [12:23](https://youtu.be/3444zi04g98?t=743) Flash memory and its limitations
+- [17:36](https://youtu.be/3444zi04g98?t=1056) Flash memory's physical limit
+- [24:47](https://youtu.be/3444zi04g98?t=1487) Cost and integration of flash memory
+- [37:09](https://youtu.be/3444zi04g98?t=2229) Fab-friendly materials
+- [44:18](https://youtu.be/3444zi04g98?t=2658) Complete resistive RAM module
+- [50:26](https://youtu.be/3444zi04g98?t=3026) Comparison with flash memory
+- [55:36](https://youtu.be/3444zi04g98?t=3336) Ilan Sever's takeaway on problem-solving
+
+**Key takeaways:**
+- Flash memory has a limited number of programming cycles and small capacity, making it unsuitable for large applications.
+- Resistive RAM (ReRAM) uses oxygen vacancies to create conductive filaments, offering higher endurance and lower cost.
+- Weebit Nano's resistive RAM technology is already qualified for the AECQ 100 standard for automotive applications.
+- Resistive RAM can be used for in-memory compute, potentially reducing power consumption in AI calculations.
+- Ilan Sever emphasized the importance of solving personal problems as a viable business model.
+
+## Rural Venture Capital in Colorado — with Cory Finney
+
+**The Bear Roars** · 1:19:12 · Sep 29 · [watch](https://www.youtube.com/watch?v=t8xkwO6QUkA)
+
+**TL;DR:** Cory Finney discusses the importance of rural venture capital in Colorado, highlighting the economic impact of companies like agile space and the need for more capital flows to rural areas. He also addresses challenges such as housing affordability and the need for open discussions about economic issues.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses some detailed discussions and specific examples.
+
+**Bookmarks:**
+- [1:02](https://youtu.be/t8xkwO6QUkA?t=62) - Economic impact of agile space
+- [13:17](https://youtu.be/t8xkwO6QUkA?t=797) - 1234 Ventures and their focus
+- [22:28](https://youtu.be/t8xkwO6QUkA?t=1348) - Policy and job growth
+- [35:43](https://youtu.be/t8xkwO6QUkA?t=2143) - Caruso and data centers
+- [50:56](https://youtu.be/t8xkwO6QUkA?t=3056) - Concentration of economic growth
+- [56:02](https://youtu.be/t8xkwO6QUkA?t=3362) - State interests and broader impacts
+- [1:08:18](https://youtu.be/t8xkwO6QUkA?t=4098) - Community impact of Madami
+
+**Key takeaways:**
+- Agile space has an economic impact equivalent to a 2,500-person company in Denver.
+- Colorado ranks 49th in housing affordability.
+- Venture capital flows heavily into five major metropolitan areas, leaving rural areas like Colorado underfunded.
+- Texas and Arizona are attracting more capital and job growth, while New York and California are losing population and job growth.
+- Colorado needs to focus on making it easier for developers to build by providing more incentives, such as tax breaks or subsidies.
+- States like Texas are benefiting from Colorado's policies, leading to job losses and economic shifts.
+- Tariffs have not created a fair playing field, and the US government needs a persistent strategy to address vulnerabilities in critical minerals and technology sectors.
+
+## AI Needs $24 Trillion by 2030. GPU Pioneer Says the Money Isn't There
+
+**TechSurge: Deep Tech VC Podcast** · 1:00:53 · Sep 29 · [watch](https://www.youtube.com/watch?v=U_H1gItfGEQ)
+
+**TL;DR:** The video discusses Raja Kaduri's concerns about the high cost of AI infrastructure in China, which threatens Western AI competitiveness. He highlights the challenges of improving inference model performance and the need for deterministic tools in the chip industry. The speaker also mentions the importance of advanced packaging and chiplets in overcoming bottlenecks for AI startups.
+
+**Worth watching in full?** 5/5 — The summary cannot cover the nuances and specific points discussed in the video.
+
+**Bookmarks:**
+- [1:02](https://youtu.be/U_H1gItfGEQ?t=62) - China's cost per gigawatt for AI infrastructure
+- [18:20](https://youtu.be/U_H1gItfGEQ?t=1100) - Efficiency gains at OpenAI
+- [22:29](https://youtu.be/U_H1gItfGEQ?t=1349) - Improving AI model specification writing
+- [30:38](https://youtu.be/U_H1gItfGEQ?t=1838) - Need for coaches and infrastructure in AI methodologies
+- [44:56](https://youtu.be/U_H1gItfGEQ?t=2696) - TSMC's advanced packaging process
+- [46:58](https://youtu.be/U_H1gItfGEQ?t=2818) - Chiplets and hybrid bonding
+- [49:00](https://youtu.be/U_H1gItfGEQ?t=2940) - Scarcity of specialized memory and innovation in software
+
+**Key takeaways:**
+- China's cost per gigawatt for AI infrastructure is significantly lower than Western companies, threatening Western AI competitiveness.
+- Improving inference model performance is challenging and potentially lucrative.
+- Developing methods to test AI model skills is important for evaluation.
+- The need for deterministic tools in the chip industry is crucial for reliability.
+- Advanced packaging and chiplets are seen as potential solutions to bottlenecks for AI startups.
+- Innovation in software and memory hierarchy could help alleviate the need for specialized memory.
+- Token factories are predicted to become as common and accessible as office server rooms.
+
+## 5 Stocks To Buy If The S&P Falls 10%
+
+**TheStreet** · 1:51 · Sep 29 · [watch](https://www.youtube.com/shorts/PY92jjzjAjQ)
+
+**TL;DR:** The video discusses potential stock picks if the S&P 500 falls 10%, focusing on AI infrastructure, tech companies, and consumer discretionary stocks. The main conclusion is to buy AI infrastructure stocks like Micron, Taiwan Semiconductor, Nvidia, and Vertiv.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, which covers detailed analysis and specific stock recommendations.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/PY92jjzjAjQ?t=0) Introduction and initial stock picks
+- [1:01](https://youtu.be/PY92jjzjAjQ?t=61) Oil price implications and consumer stocks
+- [2:00](https://youtu.be/PY92jjzjAjQ?t=120) Long-term outlook and potential corrections
+
+**Key takeaways:**
+- Nvidia is a top AI infrastructure stock to buy if the S&P 500 falls 10%.
+- Micron and Taiwan Semiconductor are also recommended for memory and chip manufacturing.
+- Vertiv is suggested for cooling solutions in data centers.
+- Comfort Systems (FIX) is added as a potential alternative to Vertiv for data center cooling.
+
+**Stocks mentioned:**
+- Nvidia (bullish)
+- Micron (bullish)
+- Taiwan Semiconductor (bullish)
+- Vertiv (neutral, but FIX is suggested as an alternative)
+- Comfort Systems (FIX) (neutral)
+
+## If You Own Nvidia and AMD ... GET READY!!!
+
+**Jose Najarro Stocks** · 16:28 · Sep 29 · [watch](https://www.youtube.com/watch?v=7Lm8O0CuvLs)
+
+**TL;DR:** The video discusses significant moves by Nvidia and AMD in the semiconductor and AI sectors, including Nvidia's share repurchase program, the launch of the Open Agent Safety Platform, and AMD's acquisition of Nvidia's AI research. The video concludes by highlighting the strategic importance of these moves in the tech and AI landscape.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but misses out on the detailed analysis and expert insights provided in the full video.
+
+**Bookmarks:**
+- [1:01](https://youtu.be/7Lm8O0CuvLs?t=61) Nvidia's share repurchase program
+- [5:05](https://youtu.be/7Lm8O0CuvLs?t=305) Nvidia's Open Agent Safety Platform
+- [9:09](https://youtu.be/7Lm8O0CuvLs?t=549) AMD's acquisition of Anthropic
+- [14:15](https://youtu.be/7Lm8O0CuvLs?t=855) AMD's acquisition of Nvidia's AI research
+- [15:15](https://youtu.be/7Lm8O0CuvLs?t=915) AMD's plans to enter the AI space
+- [16:16](https://youtu.be/7Lm8O0CuvLs?t=976) AMD's acquisition of Nvidia's AI research
+
+**Key takeaways:**
+- Nvidia announced a $150 billion share repurchase program, representing about 5% of its market value.
+- Nvidia launched the Open Agent Safety Platform, designed to secure AI agents from escaping their sandboxes.
+- AMD acquired Anthropic, a company previously concerned about AI safety, indicating a growing demand for AI safety solutions.
+- AMD is expected to acquire Nvidia's AI research for $8.2 billion by the end of 2026, using an all-stock transaction.
+- AMD plans to improve their software stack and enter the AI space, leveraging Nvidia's research.
+- The acquisition of Nvidia's AI research is seen as a strategic move by AMD, expected to benefit their future in the AI market.
+
+**Stocks mentioned:**
+- Nvidia (NVDA)
+- AMD (AMD) — Neutral: The acquisition is viewed as a strategic move to stay competitive in the AI market.
+
+## Skipped as off-topic
+
+- [Are You Feeling the Streaming Fatigue? | Everybody's Business](https://www.youtube.com/watch?v=Ys2X7xl6IiU) — Bloomberg Podcasts
+- [How did a few hundred Spanish soldiers topple two empires? – Si Sheppard](https://www.youtube.com/watch?v=LwQQ7nBCGSs) — Dwarkesh Patel
+
+
+_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
