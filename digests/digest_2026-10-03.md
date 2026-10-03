@@ -235,3 +235,442 @@ This summary covers the main points and the core message of the video without in
 
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
+
+<!-- run 10:21Z -->
+
+## Using Decision Science in Investing: Masters in Business with Omar Aguilar | Masters in Business
+
+**Bloomberg Podcasts** · 1:05:34 · Oct 02 · [watch](https://www.youtube.com/watch?v=mOzP984O1Uc)
+
+**TL;DR:** Omar Aguilar discusses his career journey from academia to Wall Street, focusing on decision science in investing, and shares insights on asset management, technology, and market trends. The video concludes with advice for recent college graduates.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the speaker's career journey, key concepts, and practical advice.
+
+**Bookmarks:**
+- [1:03](https://youtu.be/mOzP984O1Uc?t=63) Omar Agalar discusses his background and education.
+- [6:11](https://youtu.be/mOzP984O1Uc?t=371) Omar Agalar explains the focus on strategic asset allocation models.
+- [15:21](https://youtu.be/mOzP984O1Uc?t=921) Omar Agalar explains Schwab's use of data to understand client needs.
+- [30:39](https://youtu.be/mOzP984O1Uc?t=1839) Omar Aguar emphasizes the need for clearer education about private equity liquidity.
+- [41:54](https://youtu.be/mOzP984O1Uc?t=2514) Omar Aguilar discusses the underweighted technology sector.
+- [44:59](https://youtu.be/mOzP984O1Uc?t=2699) Omar Aguilar explains the impact of trade policy.
+- [50:07](https://youtu.be/mOzP984O1Uc?t=3007) Omar Aguilar identifies dominant biases affecting investors.
+
+**Key takeaways:**
+- Omar Aguilar emphasizes the importance of marrying distribution with manufacturing in asset management.
+- Omar Aguilar explains the 4% rule for retirement withdrawals and its dynamic nature.
+- Omar Aguilar introduces the concept of semi-private and semi-liquid investments.
+- Omar Aguilar advises on the importance of understanding the liquidity premium in private assets.
+- Omar Aguilar projects a 15-20% annual asset growth based on macroeconomic conditions.
+- Omar Aguilar recommends staying in the middle of the yield curve with higher quality bonds.
+
+## Trump’s Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions
+
+**All-In Podcast** · 1:22:23 · Oct 02 · [watch](https://www.youtube.com/watch?v=ZJKs08oU1zg)
+
+**TL;DR:** The video discusses the Trump Super Intelligence Summit, an accord signed by major companies to ensure the safe development of AI through internal controls, external audits, and oversight by independent committees and regulatory bodies. The video also covers GDP growth, midterm predictions, and economic issues.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers a wide range of topics including the summit, GDP growth, and economic predictions.
+
+**Bookmarks:**
+- [1:00](https://youtu.be/ZJKs08oU1zg?t=60) - Discusses the rapid setup of the summit and the involvement of leading AI executives.
+- [6:08](https://youtu.be/ZJKs08oU1zg?t=368) - Discusses the immediate and practical nature of the governance structure.
+- [28:30](https://youtu.be/ZJKs08oU1zg?t=1710) - Discusses Daario's participation and the positive gesture of bringing him to the front.
+- [42:44](https://youtu.be/ZJKs08oU1zg?t=2564) - Discusses the imbalance in public perception of AI benefits and potential solutions.
+- [51:55](https://youtu.be/ZJKs08oU1zg?t=3115) - Discusses the potential impact of the Federal Reserve's monthly reports on the economy.
+- [1:04:08](https://youtu.be/ZJKs08oU1zg?t=3848) - Discusses key economic issues and the need to address them to turn the tide in the election.
+- [1:16:24](https://youtu.be/ZJKs08oU1zg?t=4584) - Discusses a recent attack on a Dubai airline and the importance of not whitewashing the facts.
+
+**Key takeaways:**
+- The summit resulted in a signed accord with internal controls, external audits, and a committee of the board.
+- The doubling trend of the power grid is crucial for continued growth.
+- Data centers are unfairly targeted in the current anti-data center witch hunt.
+- The media should focus on the facts rather than narratives.
+- Open-source and open-weight AI technologies are important for addressing the imbalance in public perception.
+- The federal spending problem is a bipartisan issue and needs to be addressed.
+- The potential paths to address the looming crises include taxing the middle class, cutting spending, or restructuring entitlement programs.
+
+## 4 STOCKS TO WATCH IN OCTOBER 📈 (PART 3)
+
+**Overkill Trading** · 2:55 · Oct 02 · [watch](https://www.youtube.com/shorts/DKS7r9kKB98)
+
+**TL;DR:** The video discusses four stocks—Gillette, Oracle, NXT, and AMSC—that are expected to perform well in October, with a focus on their historical performance and valuation.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed analysis and charts provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/DKS7r9kKB98?t=0) Introduction and overview of the stocks
+- [1:01](https://youtu.be/DKS7r9kKB98?t=61) Analysis of Gillette stock
+- [2:01](https://youtu.be/DKS7r9kKB98?t=121) Analysis of Oracle stock
+- [3:00](https://youtu.be/DKS7r9kKB98?t=180) Analysis of NXT solar stock
+-  Analysis of AMSC stock
+
+**Key takeaways:**
+- Gillette (ticker: GIL) is a satellite company with a 300% potential return, currently trading near its 4-year moving average.
+- Oracle (ticker: ORCL) has a 200% potential return, trading near its 4-year moving average.
+- NXT (ticker: NXT) is a solar company with earnings growth, currently trading near its 4-year moving average.
+- AMSC (ticker: AMSC) had a significant 2025 move, currently trading near its 4-year moving average.
+
+**Stocks mentioned:**
+- Gillette (GIL)
+- Oracle (ORCL)
+- NXT (NXT)
+- AMSC (AMSC)
+
+## Employment Traits of Gen Z, 'Juicy' Bond Yields, Americans Quit Bowling | Bloomberg Intelligence
+
+**Bloomberg Podcasts** · 50:24 · Oct 02 · [watch](https://www.youtube.com/watch?v=-9a-EKkArY4)
+
+**TL;DR:** The video discusses employment traits of Gen Z, the 'juicy' bond yields, and Americans quitting bowling. It covers investing and stock markets, individual companies, earnings and valuations, technology, AI and semiconductors, startups and venture capital, macroeconomics, government budgets, taxes, trade, tariffs, sanctions, elections and geopolitics, and concludes with a discussion on student loan repayment plans and the American Express card.
+
+**Worth watching in full?** 5/5 — The summary cannot replace it, as it covers a wide range of topics in detail.
+
+**Bookmarks:**
+- [1:02](https://youtu.be/-9a-EKkArY4?t=62) American Express card offer details
+- [14:16](https://youtu.be/-9a-EKkArY4?t=856) Susie Welch's introduction and research on Gen Z
+- [25:21](https://youtu.be/-9a-EKkArY4?t=1521) Torsten Slaf discussing the roaring economy and bond yields
+- [28:24](https://youtu.be/-9a-EKkArY4?t=1704) Torsten Slaf's suggestion to invest in high-quality credit and fixed income
+- [37:34](https://youtu.be/-9a-EKkArY4?t=2254) Sarah Foster discussing student loan repayment plans
+- [39:38](https://youtu.be/-9a-EKkArY4?t=2378) Composition of debt and student loan debt increase
+- [50:05](https://youtu.be/-9a-EKkArY4?t=3005) Sponsor's offer for the Delta Sky Miles Reserve Business American Express card ending
+
+**Key takeaways:**
+- American Express card offers 200,000 bonus miles for a limited time.
+- Gen Z values self-care, agency, and authentic self-expression over traditional career paths.
+- There is a significant gap between the values of the workforce and those of the managers.
+- The economy is roaring with strong AI spending and government spending, leading to higher interest rates.
+- Student loan debt has been a significant hurdle for personal finance, with student loans and auto loans being roughly identical in terms of outstanding balance.
+- Comcast Business provides secure AI-backed networking in over 100 countries.
+- The Delta Sky Miles Reserve Business American Express card offers bonus miles for business purchases.
+
+## Bloomberg Businessweek Daily: NFP Eases Fed Worries (Podcast)
+
+**Bloomberg Podcasts** · 43:55 · Oct 02 · [watch](https://www.youtube.com/watch?v=Z_m9AWdWmzk)
+
+**TL;DR:** The video discusses the recent jobs report and its implications for the Federal Reserve's interest rate decisions, highlighting the Fed's potential shift from focusing on the job market to inflation concerns. It also covers various economic factors including oil prices, mortgage rates, and tariffs.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers a wide range of economic and market factors in detail.
+
+**Bookmarks:**
+- [1:05](https://youtu.be/Z_m9AWdWmzk?t=65) — Kevin Hassett's perspective on the jobs report and its implications for the Fed
+- [6:13](https://youtu.be/Z_m9AWdWmzk?t=373) — The impact of oil market dynamics on gasoline prices
+- [14:26](https://youtu.be/Z_m9AWdWmzk?t=866) — Dean's comments on the shrinking labor pool and productivity growth
+- [20:37](https://youtu.be/Z_m9AWdWmzk?t=1237) — Dean's explanation of tariff refunds and the ongoing investigation into corporate corruption
+- [27:50](https://youtu.be/Z_m9AWdWmzk?t=1670) — The Trump administration's evolving tariff engagement
+- [39:07](https://youtu.be/Z_m9AWdWmzk?t=2347) — Wines featured at the "Wine on Wheels" event
+- [43:15](https://youtu.be/Z_m9AWdWmzk?t=2595) — The speaker's outlook on the wine market despite concerns about overproduction
+
+**Key takeaways:**
+- Kevin Hassett suggests the jobs report could be seen as "good news" for the economy, potentially delaying the Fed's interest rate hikes.
+- Kathy Beaudin notes that the labor market is solid but growth is coming from wage growth rather than job creation.
+- Nathan Dean discusses the impact of the G-7's decision to tap oil reserves and the potential for more tariffs in 2027.
+- The Trump administration is moving towards a more freedom-based approach to tariffs.
+- Ireland is committed to increasing its renewable energy generation capacity by five times over the next two decades.
+- The "Wine on Wheels" event features affordable wines from Argentina, highlighting the quality of local wines.
+
+## EM Assets Find Relief as US Jobs Data Eases Rate Fears
+
+**Bloomberg Podcasts** · 6:07 · Oct 02 · [watch](https://www.youtube.com/watch?v=rfhYBXAtGts)
+
+**TL;DR:** The video discusses the shift from low interest rates to higher rates, focusing on the bond market and emerging markets. The main conclusion is that the era of low interest rates is over, and investors should focus on value and opportunities in various markets.
+
+**Worth watching in full?** 5/5 — The summary covers the key points but the full video provides additional context and detailed analysis.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/rfhYBXAtGts?t=0) Introduction and overview of the bond market
+- [1:01](https://youtu.be/rfhYBXAtGts?t=61) Value in the bond market and opportunities in the US market
+- [2:02](https://youtu.be/rfhYBXAtGts?t=122) Opportunities in emerging markets, including Brazil and Nigeria
+- [3:03](https://youtu.be/rfhYBXAtGts?t=183) Differentiated rate and credit cycles in emerging markets
+- [4:07](https://youtu.be/rfhYBXAtGts?t=247) Top performers in emerging markets and opportunities in frontier markets
+- [5:07](https://youtu.be/rfhYBXAtGts?t=307) The role of the dollar in emerging markets
+
+**Key takeaways:**
+- The era of low interest rates is ending, and investors should focus on value and opportunities in various markets.
+- In the US market, opportunities are found in the front end, including UK and emerging markets duration.
+- Emerging markets have become more resilient, with opportunities in countries with stable currencies and lower interest rates.
+- Brazil and Colombia are examples of high-performing emerging markets with high carry and high interest rates.
+- The dollar's strength is less of a concern for emerging markets, as they benefit from a weakening or stable dollar.
+
+## Daybreak Weekend: US Mortgages, Nobel Prize, China Golden Week | Bloomberg Daybreak: US Edition
+
+**Bloomberg Podcasts** · 38:55 · Oct 02 · [watch](https://www.youtube.com/watch?v=yA6Y4ZeWTQs)
+
+**TL;DR:** The video covers the US mortgage market, the Nobel Prize nomination process, and economic trends in China during the Golden Week. It provides insights into mortgage rates, stock market performance, and geopolitical developments, concluding with observations on China's economic recovery.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers a wide range of topics in detail.
+
+**Bookmarks:**
+- [1:02](https://youtu.be/yA6Y4ZeWTQs?t=62) - Mortgage Rates and ARMs
+- [5:06](https://youtu.be/yA6Y4ZeWTQs?t=306) - Stocks Mentioned: Constellation Brands and Pepsico
+- [16:19](https://youtu.be/yA6Y4ZeWTQs?t=979) - Nobel Prize Nomination Process
+- [21:23](https://youtu.be/yA6Y4ZeWTQs?t=1283) - Independence of Nobel Committee
+- [23:27](https://youtu.be/yA6Y4ZeWTQs?t=1407) - Polymarket Betting on Nobel Peace Prize
+- [31:39](https://youtu.be/yA6Y4ZeWTQs?t=1899) - October Tourism and Consumer Confidence
+- [34:45](https://youtu.be/yA6Y4ZeWTQs?t=2085) - Hong Kong Visits and Tax Concerns
+
+**Key takeaways:**
+- US mortgage rates are climbing, with adjustable-rate mortgages (ARMs) becoming more popular among FHA borrowers.
+- Pepsico faces challenges in the food and beverage sector, particularly in North America, due to declining demand for salty snacks and increased use of GLP-1.
+- The Nobel Prize nomination process involves different institutions and award bodies, reflecting the complexity of the process.
+- Norway could face higher tariffs due to its export rates, potentially affecting the Nobel Prize committee's decisions.
+- Cross-border travel from China to overseas or to Hong Kong to Macau has increased, indicating weaker consumer confidence in destinations like Europe or Canada and the US.
+- The "K-shaped recovery" in China shows that while the wealthy continue to spend, the middle and lower classes have cut back on spending, especially on big-ticket items.
+- Mainland Chinese people are still visiting Hong Kong during Golden Week for wealth management plans, though concerns about the tax crackdown and broader economic slowdown have led to some caution.
+
+**Stocks mentioned:**
+- Constellation Brands (ticker: STZ)
+- Pepsico (ticker: PEP)
+- Delta Airlines (ticker: DAL)
+
+## Using Decision Science in Investing: Masters in Business with Omar Aguilar
+
+**Bloomberg Podcasts** · 1:05:23 · Oct 02 · [watch](https://www.youtube.com/watch?v=fR61V6ygxMc)
+
+**TL;DR:** Omar Aguait discusses his background in decision sciences and how he applied it to investing, focusing on technology, AI, and alternative investments. He shares insights on Schwab's growth and strategies, including their low fees and use of AI tools. He also addresses concerns about AI replacing human advisors and the importance of rebalancing portfolios.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and insights in detail.
+
+**Bookmarks:**
+- [12:34](https://youtu.be/fR61V6ygxMc?t=754) — Omar Aguait's background and education in decision sciences
+- [17:27](https://youtu.be/fR61V6ygxMc?t=1047) — Schwab's mandate and strategies for scaling the asset management business
+- [22:38](https://youtu.be/fR61V6ygxMc?t=1358) — The success of Schwab's dividend ETF and its high-quality, low-cost offerings
+- [31:56](https://youtu.be/fR61V6ygxMc?t=1916) — The potential for 401K platforms to provide access to private investments
+- [43:17](https://youtu.be/fR61V6ygxMc?t=2597) — Expected asset growth and the current state of the market
+- [55:39](https://youtu.be/fR61V6ygxMc?t=3339) — The importance of rebalancing portfolios
+- [58:44](https://youtu.be/fR61V6ygxMc?t=3524) — Differentiating between investing and gambling
+
+**Key takeaways:**
+- Omar Aguait's background in decision sciences and its application to investing.
+- Schwab's use of the "Diagnostics" tool to address client biases.
+- The success of Schwab's dividend ETF and its focus on high-quality, low-cost offerings.
+- The evolution of asset management and the trend from active to passive investing.
+- The importance of understanding and allocating risk within a portfolio.
+- The benefits of adopting AI for efficiency and personalized client service.
+- The importance of rebalancing portfolios and understanding the importance of risk allocation.
+
+## What’s the New AI Bottleneck?
+
+**No Priors: AI, Machine Learning, Tech, & Startups** · 1:19 · Oct 02 · [watch](https://www.youtube.com/shorts/eSBc-IduxvE)
+
+**TL;DR:** The video discusses a new AI bottleneck related to accelerating experiments, suggesting that as AI models improve, the time spent on experiments will become a critical factor. The speaker argues that this could lead to more intelligent experimentation and a greater emphasis on thinking before executing experiments.
+
+**Worth watching in full?** 5/5 — The summary cannot fully cover the nuances and insights provided in the video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/eSBc-IduxvE?t=0) Introduction and explanation of the bottleneck
+- [0:30](https://youtu.be/eSBc-IduxvE?t=30) Discussion on chip design and fuzzy placement algorithms
+- [1:00](https://youtu.be/eSBc-IduxvE?t=60) Emphasis on the importance of thinking before experiments
+
+**Key takeaways:**
+- AI models today are used for complex tasks like finite element analysis and thermal estimation.
+- As AI models improve, the time spent on experiments will become a bottleneck.
+- Fuzzy placement algorithms can help accelerate experiments and reduce trial and error.
+- The speaker believes this will lead to more intelligent experimentation and a greater emphasis on pre-experiment thinking.
+
+## A camera that can see through walls
+
+**Y Combinator** · 1:58 · Oct 02 · [watch](https://www.youtube.com/shorts/Lk_0TviLhnw)
+
+**TL;DR:** The video discusses a new camera technology developed by Bill, which can see through walls using radio waves and advanced processing. The main conclusion is that the technology is progressing and they are actively working on improving it.
+
+**Worth watching in full?** 5/5 — The summary covers the key points but the video provides additional context and visuals.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/Lk_0TviLhnw?t=0) Introduction and background
+- [1:00](https://youtu.be/Lk_0TviLhnw?t=60) Technology demonstration and explanation
+- [2:00](https://youtu.be/Lk_0TviLhnw?t=120) Advice to other companies
+
+**Key takeaways:**
+- The camera can see through walls using radio waves and advanced processing.
+- The technology is in its third iteration.
+- Iteration speed is crucial for hardware development.
+
+## Your AI Supply Chain Is Already a Target
+
+**Six Five Media** · 1:30 · Oct 02 · [watch](https://www.youtube.com/shorts/1-l4IICrY3E)
+
+**TL;DR:** The video discusses how AI has transformed enterprise technology, including cyber security, and how cyber criminals are now targeting AI workloads for supply chain and finance systems, emphasizing that AI does not make systems immune to attack.
+
+**Worth watching in full?** 5/5 — The summary cannot cover the detailed analysis and examples provided in the video.
+
+**Bookmarks:**
+- [0:30](https://youtu.be/1-l4IICrY3E?t=30) Introduction to AI and its impact on enterprise technology
+- [1:00](https://youtu.be/1-l4IICrY3E?t=60) Cyber criminals targeting AI workloads for supply chain and finance systems
+- [2:00](https://youtu.be/1-l4IICrY3E?t=120) Importance of data in enterprise storage and the risk of disruption
+
+**Key takeaways:**
+- Cyber criminals are now targeting AI workloads for supply chain and finance systems.
+- AI does not make systems immune to attack.
+- The risk of disruption to enterprise storage, whether AI or traditional, lies in the data.
+
+## NVIDIA Is Spending "Lots and Lots of Money" to Give Data Away
+
+**Six Five Media** · 1:06 · Oct 02 · [watch](https://www.youtube.com/shorts/N3nLcb5r12o)
+
+**TL;DR:** NVIDIA is investing heavily to share its AI models and data sets, aiming to unlock greater value for enterprises and individuals by making customizations and training models easier.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and conclusion.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/N3nLcb5r12o?t=0) Introduction and problem statement
+- [1:01](https://youtu.be/N3nLcb5r12o?t=61) Explanation of the model and its benefits
+
+**Key takeaways:**
+- NVIDIA is investing significant resources to share AI models and data sets.
+- The goal is to make customizations and model training easier for enterprises and individuals.
+- NVIDIA believes this will unlock substantial value by allowing enterprises to train models using their own data.
+
+## Why Mainframes Need a New Security Playbook
+
+**Six Five Media** · 1:17 · Oct 02 · [watch](https://www.youtube.com/shorts/JMtiyCpnonc)
+
+**TL;DR:** The video discusses the changing landscape of mainframe security in the face of increasingly sophisticated cyber threats, emphasizing the need for new strategies to counteract attackers who can now easily deploy tools across multiple targets. The main conclusion is that traditional security approaches are insufficient, and proactive measures are necessary to protect mainframes effectively.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and examples provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/JMtiyCpnonc?t=0) Introduction and the concept of attackers being easier to deal with than defenders.
+- [1:01](https://youtu.be/JMtiyCpnonc?t=61) Explanation of the challenges faced by defenders in the mainframe security context.
+
+**Key takeaways:**
+- Mainframe security is under threat due to the ease of deploying attacks across multiple targets.
+- Traditional security approaches are insufficient in the face of new threats.
+- Proactive measures are needed to protect mainframes effectively.
+
+**Stocks mentioned:** None None of the companies or stocks were mentioned in the transcript.
+
+## The Top Companies in Q4 2026
+
+**20VC with Harry Stebbings** · 2:20 · Oct 02 · [watch](https://www.youtube.com/shorts/UcUz-11xO-Q)
+
+**TL;DR:** The video discusses the top companies in Q4 2026, highlighting companies like Resolve AI, Latent, and Philip Johnson, and provides insights into their valuations, traction, and investor backing. The main conclusion is that these companies are moving in the right direction and are backed by significant investment.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and analysis provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/UcUz-11xO-Q?t=0) Introduction and overview of the top companies
+- [1:01](https://youtu.be/UcUz-11xO-Q?t=61) Latent's rapid growth and market penetration
+- [2:03](https://youtu.be/UcUz-11xO-Q?t=123) Investor backing and individual angel investors
+
+**Key takeaways:**
+- Resolve AI has 10x'd its valuation in 18 months and is hiring senior sales leaders.
+- Latent is now the highest ranking newcomer, serving half of the top 20 health systems.
+- Philip Johnson's StarCloud is back in the top three after being previously on the list.
+- Emerald AI is ranked sixth, focusing on managing power consumption for data centers.
+- General Catalyst and Y Combinator lead with six portfolio companies each.
+- Individual angels like Jeff Dean have five companies on the list, alongside larger firms like Sequoia.
+
+## Accelerating No-Code Enterprise AI: Inside Simplismart’s NVIDIA Inception Journey
+
+**NVIDIA** · 2:35 · Oct 02 · [watch](https://www.youtube.com/watch?v=UxOQ2qyY6Qo)
+
+**TL;DR:** The video discusses Simply Smart's journey in accelerating no-code enterprise AI solutions using NVIDIA GPUs, focusing on optimizing models for specific use cases and deploying them in data centers. The main conclusion is that NVIDIA has been crucial in supporting Simply Smart's growth and innovation in the AI infrastructure space.
+
+**Worth watching in full?** 5/5 — The summary covers the key points but the full video provides additional context and insights.
+
+**Bookmarks:**
+- [0:02](https://youtu.be/UxOQ2qyY6Qo?t=2) Introduction to Simply Smart and its mission
+- [1:04](https://youtu.be/UxOQ2qyY6Qo?t=64) Optimizing models for specific use cases and architectures
+- [2:05](https://youtu.be/UxOQ2qyY6Qo?t=125) NVIDIA Inception program and support
+
+**Key takeaways:**
+- Simply Smart accelerates no-code enterprise AI solutions using NVIDIA GPUs.
+- The company specializes in optimizing models for specific use cases like latency and throughput.
+- Simply Smart has been early contributors to NIM and partners with NCPs to deploy AI orchestration in data centers.
+- NVIDIA has provided support in connecting Simply Smart to enterprises, positioning the product, and offering credits.
+
+## The Future Could Be a World of Specialized AI Agents
+
+**Practical AI** · 4:58 · Oct 02 · [watch](https://www.youtube.com/watch?v=yNdnk05IJLo)
+
+**TL;DR:** The video discusses how the future of AI could involve specialized agents managing various tasks in a physical world, including manufacturing, transportation, and even healthcare, requiring complex coordination and specialization.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and examples provided.
+
+**Bookmarks:**
+- [00:11](https://youtu.be/yNdnk05IJLo?t=11) Introduction to the concept of specialized AI agents in the physical world.
+- [01:14](https://youtu.be/yNdnk05IJLo?t=74) Example of a manufacturer managing inventory and production with AI agents.
+- [02:15](https://youtu.be/yNdnk05IJLo?t=135) Example of a toy manufacturer using AI agents to manage production and logistics.
+- [03:16](https://youtu.be/yNdnk05IJLo?t=196) Example of a farm using drones for harvesting and packaging.
+
+**Key takeaways:**
+- AI agents will manage multiple tasks in a coordinated manner.
+- Specialization is key for different tasks, such as precise manipulation vs. general logistics.
+- Agents will require autonomy and decision-making capabilities.
+- The concept of a multi-agent system is crucial for complex physical tasks.
+
+## NIO Just Sold 30% of NIO Power?! (It’s Not What You Think)
+
+**The Market Monkeys** · 8:28 · Oct 02 · [watch](https://www.youtube.com/watch?v=nkUj41eqT1k)
+
+**TL;DR:** The video discusses the significant partnership between NIO (NEO) and Gilly (Giley) where Gilly will give NIO a 100% stake in Yi Power, a battery swapping company, in exchange for 30% of NIO Power, NIO's battery swapping business. The video also covers NIO's new ES9 model and compares its delivery numbers to the successful ES8 model.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed analysis and insights provided in the video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/nkUj41eqT1k?t=0) Main story introduction
+- [1:01](https://youtu.be/nkUj41eqT1k?t=61) Delivery numbers and growth
+- [3:04](https://youtu.be/nkUj41eqT1k?t=184) Partnership details and benefits
+- [4:06](https://youtu.be/nkUj41eqT1k?t=246) Explanation of the partnership structure
+- [5:06](https://youtu.be/nkUj41eqT1k?t=306) Benefits for both companies
+- [7:07](https://youtu.be/nkUj41eqT1k?t=427) ES9 delivery numbers and comparison to ES8
+- [8:07](https://youtu.be/nkUj41eqT1k?t=487) Discussion on ES9 margins
+
+**Key takeaways:**
+- NIO and Gilly signed a significant partnership deal.
+- Gilly will give NIO a 100% stake in Yi Power in return for 30% of NIO Power.
+- NIO will also get 10% of Hang Energy, Gilly's charging company.
+- This partnership will benefit both companies by combining their battery swapping networks.
+- NIO's ES9 model is performing well despite being more expensive.
+- NIO's ES9 has delivered 30,000 vehicles in 119 days, compared to 89 days for ES8.
+
+## @jessicainskip gives her rapid-fire investing calls for the toughest scenarios.
+
+**TheStreet** · 1:21 · Oct 02 · [watch](https://www.youtube.com/shorts/jF_zweLZmq0)
+
+**TL;DR:** The video provides rapid-fire investing advice for tough scenarios, covering various market and economic factors, and ends with a personal stock pick.
+
+**Worth watching in full?** 5/5 — The summary cannot fully cover the detailed advice and examples provided.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/jF_zweLZmq0?t=0) Your favorite stock drops 10%.
+- [0:15](https://youtu.be/jF_zweLZmq0?t=15) The S&P falls 5%.
+- [0:30](https://youtu.be/jF_zweLZmq0?t=30) A stock you love hits an all-time high.
+- [1:02](https://youtu.be/jF_zweLZmq0?t=62) Your biggest position becomes 25% of your portfolio.
+- [1:10](https://youtu.be/jF_zweLZmq0?t=70) Everyone on social media is talking about the same stock.
+- [1:20](https://youtu.be/jF_zweLZmq0?t=80) A stock you love jumps 20% before you get in.
+
+**Key takeaways:**
+- Add to your position if you believe in the underlying investment thesis.
+- Trim your position if a stock you love jumps 20% before you get in.
+- Avoid adding to your portfolio if your biggest position exceeds 25% of your portfolio.
+- Investigate a stock if everyone on social media is talking about it.
+- Hold or buy Apple, a stock with great free cash flow and no significant AI spending.
+
+**Stocks mentioned:**
+- Apple (AAPL) — bullish — The speaker loves Apple and believes it has great free cash flow.
+
+## Brian Chesky on the Best Startup Advice He Ever Got
+
+**Invest Like The Best** · 1:34 · Oct 02 · [watch](https://www.youtube.com/shorts/4HeyrawOpkI)
+
+**TL;DR:** Brian Chesky shares a piece of startup advice he received from Paul Buchheit at Y Combinator, emphasizing the importance of focusing on a small, specific problem to achieve rapid growth and product-market fit.
+
+**Worth watching in full?** 5/5 — The summary cannot fully cover the nuances and insights provided by Chesky.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/4HeyrawOpkI?t=0) The introduction of the advice and its origin.
+- [0:30](https://youtu.be/4HeyrawOpkI?t=30) The concept of product-market fit and its importance.
+- [1:00](https://youtu.be/4HeyrawOpkI?t=60) The advice to focus on a small problem and iterate rapidly.
+
+**Key takeaways:**
+- Focus on a small, specific problem to achieve rapid growth.
+- Understand the user deeply and put yourself in their shoes.
+- Prioritize rapid prototyping and iteration to prove the model.
+- Avoid scaling prematurely and focus on industrialization later.
+
+## Skipped as off-topic
+
+- [Pam Bondi’s Secret DOJ Email Address Revealed](https://www.youtube.com/watch?v=2S-PSPJKLPI) — Bloomberg Podcasts
+
+
+_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
