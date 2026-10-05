@@ -480,3 +480,448 @@ _Summary covers the first ~20,000 words of the transcript._
 - [What If Each AI Generation Gets Slightly Less Aligned? - Noam Brown](https://www.youtube.com/shorts/vkecOqfTh_I) — Dwarkesh Patel
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
+
+<!-- run 16:21Z -->
+
+## PTC, Qualcomm and TSMC All Rally Early | Stock Movers
+
+**Bloomberg Podcasts** · 4:09 · Oct 05 · [watch](https://www.youtube.com/watch?v=GCLmfRh_BZI)
+
+**TL;DR:** The podcast discusses recent stock moves, focusing on Schneider Electric's acquisition of PTC for $22.6 billion, Qualcomm's licensing deal with Huawei, and Taiwan Semiconductor's potential collaboration with Elon Musk. The podcast concludes with the latest gains in these companies' stocks.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full podcast; it covers the key points and stock movements discussed.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/GCLmfRh_BZI?t=0) Schneider Electric's acquisition of PTC
+- [1:01](https://youtu.be/GCLmfRh_BZI?t=61) PTC stock performance and future outlook
+- [2:02](https://youtu.be/GCLmfRh_BZI?t=122) Qualcomm's licensing deal with Huawei
+- [3:04](https://youtu.be/GCLmfRh_BZI?t=184) Taiwan Semiconductor's potential collaboration with Elon Musk
+
+**Key takeaways:**
+- Schneider Electric acquired PTC for $22.6 billion.
+- PTC stock has risen by over 20%.
+- Qualcomm agreed to license patents underpinning Huawei's logic folding technology.
+- Taiwan Semiconductor is considering a collaboration with Elon Musk for a massive factory project.
+
+**Stocks mentioned:**
+- PTC (ticker: PTC)
+- Qualcomm (ticker: QCOM)
+- TSMC (ticker: TSM)
+
+## Vaxcyte Surges, Harley Davidson Gains, CH Robinson Drops on News it Will Buy RXO for $5.8...
+
+**Bloomberg Podcasts** · 3:51 · Oct 05 · [watch](https://www.youtube.com/watch?v=6Ze3d8U0jPs)
+
+**TL;DR:** Chloe Millie highlights three stocks moving on Monday: Vaxcyte's experimental pneumonia vaccine received positive trial results, leading to a significant pre-market jump; Harley-Davidson received a positive upgrade from a neutral to a buy recommendation, driven by retail growth; CH Robinson agreed to buy trucking brokerage company RXO in a $5.8 billion deal, creating a logistics giant. The Stock Movers Report covers these developments and their implications for the stock market.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full podcast, as it covers the context, market impact, and analyst views on each stock.
+
+**Bookmarks:**
+- [0:02](https://youtu.be/6Ze3d8U0jPs?t=2) Introduction and welcome
+- [1:03](https://youtu.be/6Ze3d8U0jPs?t=63) Vaxcyte's pneumonia vaccine trial results
+- [2:05](https://youtu.be/6Ze3d8U0jPs?t=125) Harley-Davidson's upgrade to buy recommendation
+- [3:08](https://youtu.be/6Ze3d8U0jPs?t=188) CH Robinson's acquisition of RXO
+
+**Key takeaways:**
+- Vaxcyte's pneumonia vaccine trial results exceeded expectations, leading to a significant pre-market jump.
+- Harley-Davidson received a positive upgrade from neutral to buy recommendation, driven by retail growth.
+- CH Robinson's acquisition of RXO in a $5.8 billion deal aims to provide scale and improve margins in the pressured shipping industry.
+
+**Stocks mentioned:**
+- Vaxcyte (ticker: VXT)
+- Harley-Davidson (ticker: HOG)
+- CH Robinson (ticker: CHRW)
+- RXO (ticker: RXO)
+
+## Euro and Oil Contagion Risks | Bloomberg Surveillance
+
+**Bloomberg Podcasts** · 31:52 · Oct 05 · [watch](https://www.youtube.com/watch?v=FaXrpBBCy3g)
+
+**TL;DR:** The video discusses the current economic environment, focusing on earnings growth, bond market conditions, and energy prices, with a particular emphasis on the impact of the energy crisis on the European market. The main conclusion is that despite some risks, the market remains bullish with strong earnings growth and margin expansion.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers important details and expert opinions.
+
+**Bookmarks:**
+- [1:04](https://youtu.be/FaXrpBBCy3g?t=64) Earnings story of our lifetime: margin expansion and market valuation
+- [4:09](https://youtu.be/FaXrpBBCy3g?t=249) Job market and capex spending support the bull market
+- [14:20](https://youtu.be/FaXrpBBCy3g?t=860) Potential fuel supply issues in Europe
+- [17:27](https://youtu.be/FaXrpBBCy3g?t=1047) Engineering of miracle planes and Max 10 certification issues
+- [20:31](https://youtu.be/FaXrpBBCy3g?t=1231) Commercial airline sector: Delta and United's business segmentation
+- [28:44](https://youtu.be/FaXrpBBCy3g?t=1724) Homebuilder flexibility and market share
+- [31:47](https://youtu.be/FaXrpBBCy3g?t=1907) Generational wealth transfer and down payment assistance
+
+**Key takeaways:**
+- The market is bullish with strong earnings growth and margin expansion.
+- Bond market contagion is not significant due to strong growth in the US.
+- Oil prices are driven by supply disruptions and high diesel prices.
+- Homebuilder incentives can translate into EPS growth and cash flow.
+- The aviation industry faces challenges with Boeing's certification issues.
+- Homebuilders are generating cash and operating more like traditional companies.
+- Mortgage rates are expected to be the primary driver for homebuying.
+
+## Oil Swings With Focus on Deep Saudi Price Cut
+
+**Bloomberg Podcasts** · 7:07 · Oct 05 · [watch](https://www.youtube.com/watch?v=-XD2K_L-Frk)
+
+**TL;DR:** The video discusses the current state of the oil market, focusing on disruptions in supply, shipping, and refining, and how these affect the price of refined products, particularly diesel. The main conclusion is that high diesel prices are not yet choking economic growth, but they could if demand remains high.
+
+**Worth watching in full?** 4/5 — The summary covers the key points but misses some details and context.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/-XD2K_L-Frk?t=0) Introduction to the oil market and its current state.
+- [1:02](https://youtu.be/-XD2K_L-Frk?t=62) Discussion on the disruptions and their impact on refined products.
+- [2:06](https://youtu.be/-XD2K_L-Frk?t=126) Analysis of diesel prices and their potential impact on demand.
+- [3:07](https://youtu.be/-XD2K_L-Frk?t=187) Comparison of diesel prices in different regions.
+- [4:09](https://youtu.be/-XD2K_L-Frk?t=249) Explanation of refining capacity and maintenance issues.
+- [5:13](https://youtu.be/-XD2K_L-Frk?t=313) Discussion on oil storage and winter supply concerns.
+
+**Key takeaways:**
+- High diesel prices are not yet affecting economic growth.
+- There are concerns about refining capacity and maintenance issues.
+- Oil storage levels are low, especially in Europe and the Pacific Rim.
+- There are concerns about potential winter supply shortages.
+
+## Stocks Rise as Oil Drop Offsets Europe Debt Worry
+
+**Bloomberg Podcasts** · 7:21 · Oct 05 · [watch](https://www.youtube.com/watch?v=MeugyxZ3Tvs)
+
+**TL;DR:** The podcast discusses the current state of the stock market, focusing on the impact of recent economic data, oil prices, and changes in fed policy. The speakers maintain a cautious outlook, noting that while interest rates are rising, they are still incremental and slow, and the tech sector remains the dominant force in the market.
+
+**Worth watching in full?** 3/5 — The summary covers the main points but misses some detailed analysis and specific company mentions.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/MeugyxZ3Tvs?t=0) Introduction and skepticism about AI
+- [1:01](https://youtu.be/MeugyxZ3Tvs?t=61) Outlook on the equity market and interest rates
+- [2:02](https://youtu.be/MeugyxZ3Tvs?t=122) Concentration in tech stocks and skepticism about AI
+- [4:07](https://youtu.be/MeugyxZ3Tvs?t=247) AI in restoration of Saint Francis of Assisi's Basilica
+- [5:08](https://youtu.be/MeugyxZ3Tvs?t=308) Analysis of the bond crisis in France
+- [6:08](https://youtu.be/MeugyxZ3Tvs?t=368) Discussion on yield and innovation in the US
+- [7:09](https://youtu.be/MeugyxZ3Tvs?t=429) Focus on GDP growth and borrowing costs
+
+**Key takeaways:**
+- Interest rates are still incremental and slow.
+- Tech stocks remain the dominant force in the market.
+- AI is seen as a distraction for US-based investors.
+- Economic growth and productivity are key factors for growth.
+- The US has a strong history of innovation, which is a key factor for the market.
+
+## PTC Rallies on Deal; Qualcomm Up on Chip Patent Licensing | Stock Movers
+
+**Bloomberg Podcasts** · 3:23 · Oct 05 · [watch](https://www.youtube.com/watch?v=W_wQHiw3TSQ)
+
+**TL;DR:** The video discusses a deal between Schneider Electric and PTC, where Schneider Electric is acquiring PTC for $22.6 billion in cash. It also covers Qualcomm's agreement to license patents to Huawei, which is a win for Huawei in its push to advance in overseas markets. The video also mentions Taiwan Semiconductor's potential collaboration with Elon Musk and Intel's response to this.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers important details about the deals and their implications.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/W_wQHiw3TSQ?t=0) Schneider Electric's acquisition of PTC
+- [1:01](https://youtu.be/W_wQHiw3TSQ?t=61) PTC's stock performance and expected synergies
+- [2:05](https://youtu.be/W_wQHiw3TSQ?t=125) Huawei's logic folding technology and its implications
+- [3:06](https://youtu.be/W_wQHiw3TSQ?t=186) Intel's response to Taiwan Semiconductor's collaboration with Musk
+
+**Key takeaways:**
+- Schneider Electric is acquiring PTC for $22.6 billion in cash.
+- PTC's stock has performed well, up over 20%.
+- Huawei's logic folding technology is seen as a key to China's ambitions in AI.
+- Qualcomm is licensing patents to Huawei for their chip-making technique.
+- Taiwan Semiconductor is collaborating with Elon Musk on a massive chip factory project.
+- Intel is leveraging its collaboration with Musk to stay competitive.
+
+**Stocks mentioned:**
+- PTC (ticker: PTC)
+- Qualcomm (ticker: QCOM)
+- TSMC (Taiwan Semiconductor Manufacturing Co., ticker: TSM)
+
+## Can You Still Win in Venture Without a $1BN Fund? Menlo’s Venky Ganesan on the New Rules of VC
+
+**20VC with Harry Stebbings** · 1:11:02 · Oct 05 · [watch](https://www.youtube.com/watch?v=EZWsOxpVWwU)
+
+**TL;DR:** Venky Ganesan discusses the current state of venture capital, emphasizing the importance of a bold and aggressive approach, while also acknowledging the risks and challenges associated with high-stakes investments. He provides insights into the changing landscape of venture capital, including the role of "imitators" and "idiots," the importance of humility, and the need for diversification in portfolio investments.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and context in detail.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/EZWsOxpVWwU?t=0) Introduction and bold approach to venture capital
+- [4:06](https://youtu.be/EZWsOxpVWwU?t=246) Aggression and willingness to pay up
+- [21:23](https://youtu.be/EZWsOxpVWwU?t=1283) Decision not to take a $50,000 check
+- [33:38](https://youtu.be/EZWsOxpVWwU?t=2018) Skepticism about large acquisitions
+- [1:00:12](https://youtu.be/EZWsOxpVWwU?t=3612) Impact of wealth inequality
+- [1:04:15](https://youtu.be/EZWsOxpVWwU?t=3855) European companies being "spooned"
+- [1:09:25](https://youtu.be/EZWsOxpVWwU?t=4165) Reflection on Mr. Steve Sloan's advice
+
+**Key takeaways:**
+- Venture capitalists should adopt a bold and aggressive mindset, willing to take big risks and pay up for promising companies.
+- The "build with me money" concept involves investors providing capital at a lower valuation to build a company with the founders, expecting to transition to pure capital later.
+- The importance of humility and a clear purpose in venture capital, with the core goal being to make money for investors.
+- The asymmetric nature of venture capital, where the potential upside is very high but the downside is also significant.
+- The challenges faced by venture-backed companies, especially those that were acquired in 2021, and the importance of having a long-term perspective.
+- The challenges for venture-backed companies, especially those with majority owners, and the importance of finding a partner who inspires and supports.
+- The importance of finding a partner who inspires and supports in long-term relationships.
+
+## AI Writes Its Own Rules, Copilot Bills by the Task, and Memory Names Its Price
+
+**Six Five Media** · 1:07:09 · Oct 05 · [watch](https://www.youtube.com/watch?v=3EKI3Xg1kW8)
+
+**TL;DR:** The video discusses advancements in AI technology, including Microsoft's co-pilot feature, Nvidia's acquisition of WorldLabs, and the White House's AI safety summit. It also covers the importance of AI in various sectors like technology, finance, and government, and the challenges of ensuring AI safety and security.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers a wide range of topics and insights.
+
+**Bookmarks:**
+- [1:00](https://youtu.be/3EKI3Xg1kW8?t=60) - Acquisition of WorldLabs by Nvidia
+- [9:05](https://youtu.be/3EKI3Xg1kW8?t=545) - Debate on AI safety and regulatory capture
+- [17:15](https://youtu.be/3EKI3Xg1kW8?t=1035) - Balancing AI utility and enterprise needs
+- [37:43](https://youtu.be/3EKI3Xg1kW8?t=2263) - Muse agent security issues
+- [45:49](https://youtu.be/3EKI3Xg1kW8?t=2749) - Synapse's AI applications
+- [51:58](https://youtu.be/3EKI3Xg1kW8?t=3118) - HPE's networking and security focus
+- [1:02:13](https://youtu.be/3EKI3Xg1kW8?t=3733) - Accenture's billings and EPS growth
+
+**Key takeaways:**
+- Nvidia's acquisition of WorldLabs for $8 billion highlights significant investment in AI safety and development.
+- The White House AI safety summit aims to develop a framework for AI safety, potentially with AI writing the framework itself.
+- There is debate about whether companies with significant control over AI will prioritize safety, given potential regulatory capture.
+- AMD's investment in WorldLabs indicates a significant commitment to AI research and development.
+- The forward-deployed model of AI is still an area of focus for future developments.
+- HP's networking business is seeing significant growth, with margins reaching record highs.
+- Accenture's EPS growth is attributed to a lower share count, suggesting better financial health.
+
+## Why Qualcomm Bought Modular
+
+**Semi Doped** · 1:46 · Oct 05 · [watch](https://www.youtube.com/shorts/z5mBSvod3Yo)
+
+**TL;DR:** Qualcomm acquired Modular, a company that developed the Mojo programming language and Max serving layer, which allows for the execution of models on various accelerators. Chris Latner, CEO of Modular, discussed how Qualcomm's hardware platform combined with Mojo's software could benefit companies like Meta by enabling a single programming language and toolchain for model orchestration.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and discussions provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/z5mBSvod3Yo?t=0) Introduction to Modular and Chris Latner
+- [0:30](https://youtu.be/z5mBSvod3Yo?t=30) Modular's programming language Mojo and its features
+- [1:00](https://youtu.be/z5mBSvod3Yo?t=60) Modular's technology for running models on different accelerators
+- [1:30](https://youtu.be/z5mBSvod3Yo?t=90) Qualcomm's acquisition of Modular and its potential benefits
+
+**Key takeaways:**
+- Qualcomm acquired Modular, a company focused on software for AI model execution.
+- Modular's Mojo programming language supports static typing and safe memory access.
+- Modular's technology allows running models on various accelerators including Intel, AMD, and Nvidia.
+- Qualcomm's acquisition of Modular could benefit companies like Meta by providing a unified programming language and toolchain for AI model orchestration.
+
+## How Brian Chesky Wants to Reinvent Airbnb
+
+**Invest Like The Best** · 2:30 · Oct 05 · [watch](https://www.youtube.com/shorts/9yfJ5CnR20I)
+
+**TL;DR:** Brian Chesky, CEO of Airbnb, discusses his vision to reinvent the platform by shifting from homes to people, focusing on identity, preferences, and a membership program. His goal is to develop a robust profile and social graph for users, enabling a wide range of services beyond just accommodation.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but the video provides additional insights and context.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/9yfJ5CnR20I?t=0) Introduction and the concept of Airbnb as a noun and verb
+- [1:00](https://youtu.be/9yfJ5CnR20I?t=60) The shift from homes to people and the development of a rich preference library
+- [2:00](https://youtu.be/9yfJ5CnR20I?t=120) The innovator's dilemma and the need for careful innovation in a public company
+
+**Key takeaways:**
+- Chesky aims to transform Airbnb into a platform centered around individuals rather than homes.
+- He plans to create a comprehensive profile and social graph for users.
+- The company is exploring ways to industrialize its offerings and disrupt itself with AI.
+- There is a balance between pursuing innovative visions and maintaining stability for the company and its hosts.
+
+## Stripe’s John Collison: AI Agents Will Rewire the Internet
+
+**Sourcery with Molly O'Shea** · 27:52 · Oct 05 · [watch](https://www.youtube.com/watch?v=kXGWlg1Bj8s)
+
+**TL;DR:** Stripe’s John Collison discusses the future of commerce and the impact of AI agents on the internet, emphasizing the importance of AI in driving economic growth and the need for businesses to adopt these technologies to thrive.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and insights provided by John Collison.
+
+**Bookmarks:**
+- [1:02](https://youtu.be/kXGWlg1Bj8s?t=62) — Stripe's growth and the importance of payments in the digital age.
+- [2:03](https://youtu.be/kXGWlg1Bj8s?t=123) — The shift towards AI-powered commerce and the importance of adopting these technologies.
+- [5:07](https://youtu.be/kXGWlg1Bj8s?t=307) — The growing sophistication of cyber threats and the role of startups in adopting AI.
+- [7:12](https://youtu.be/kXGWlg1Bj8s?t=432) — The concept of the "day one of the singularity" and the potential for AI to drive new firm creation.
+- [10:18](https://youtu.be/kXGWlg1Bj8s?t=618) — The shift in focus from developer experience to AI experience and the development of internal AI tools.
+- [14:21](https://youtu.be/kXGWlg1Bj8s?t=861) — Stripe's goal to increase the GDP of the internet and the role of AI in this growth.
+
+**Key takeaways:**
+- Stripe processed $1.9 trillion in 2025, highlighting the importance of payments in the digital economy.
+- AI agents will rewire the internet, with businesses that adopt these technologies likely to thrive.
+- The singularity is approaching, with AI capabilities advancing rapidly, and Stripe is optimistic about the economic indicators.
+- Stripe is focusing on AI applications, building internal tools to handle complex data, and staying informed by collaborating with fast-growing companies.
+- The future of AI will require new forms of bot detection to distinguish between good and bad bots.
+
+## Qualcomm and Nvidia Gain; PTC Major Jumps | Stock Movers
+
+**Bloomberg Podcasts** · 3:56 · Oct 05 · [watch](https://www.youtube.com/watch?v=k4Pj9M4JsM8)
+
+**TL;DR:** Qualcomm and Nvidia see gains, while PTC jumps significantly, highlighting tech and industrial sectors moving on Monday. The video covers the stock performance of these companies and their respective market impacts.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and market reactions in detail.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/k4Pj9M4JsM8?t=0) Introduction and Qualcomm's gains
+- [1:01](https://youtu.be/k4Pj9M4JsM8?t=61) Nvidia's gains and Hani's server assembly partner news
+- [2:02](https://youtu.be/k4Pj9M4JsM8?t=122) Taiwan Semiconductor's gains and Intel's reaction
+- [3:03](https://youtu.be/k4Pj9M4JsM8?t=183) PTC's gains and Schneider Electric's acquisition
+
+**Key takeaways:**
+- Qualcomm's stock gained 1.5% in pre-market due to licensing agreement with Huawei.
+- Nvidia's stock is near record highs, up 12% and 85% in pre-market.
+- PTC's stock surged 38% in pre-market, with Schneider Electric acquiring the company.
+- Taiwan Semiconductor's stock gained 1% due to potential collaboration with Tesla.
+- Intel's stock fell 4% in pre-market due to potential competition from TSMC's collaboration with Tesla.
+
+**Stocks mentioned:**
+- Qualcomm (QCOM)
+- Nvidia (NVDA)
+- PTC (PTC)
+- Taiwan Semiconductor (TSM)
+- Intel (INTC)
+
+## Why Uber-Rich Worth $160 Billion are Leaving Britain
+
+**Bloomberg Podcasts** · 5:43 · Oct 05 · [watch](https://www.youtube.com/watch?v=ZuZ9sKyoisY)
+
+**TL;DR:** The video discusses how wealthy individuals are leaving the UK due to Brexit and rising costs of living in other countries, leading to an increase in investment migration to places like Dubai, Italy, and Greece. The speaker highlights the impact of wealth taxes and the attractiveness of alternative residency and citizenship programs in other countries.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and context of the discussion.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/ZuZ9sKyoisY?t=0) Introduction to investment migration and Brexit impact
+- [1:04](https://youtu.be/ZuZ9sKyoisY?t=64) Discussion on wealthy individuals leaving the UK
+- [2:06](https://youtu.be/ZuZ9sKyoisY?t=126) Comparison of costs and tax rates in different countries
+- [3:06](https://youtu.be/ZuZ9sKyoisY?t=186) Quantifying the impact of wealth taxes on individuals
+- [4:08](https://youtu.be/ZuZ9sKyoisY?t=248) Discussion on residency options and business opportunities
+- [5:08](https://youtu.be/ZuZ9sKyoisY?t=308) Politicians' role in attracting new capital and retaining citizens
+
+**Key takeaways:**
+- Wealthy individuals are increasingly seeking residency and citizenship in other countries due to Brexit and rising costs.
+- Countries like Dubai, Italy, and Greece offer more affordable residency and citizenship options.
+- Wealth taxes and tax advantages in alternative countries are motivating factors for wealthy individuals to leave the UK.
+- Politicians need to balance attracting new capital with retaining existing wealth to maintain a competitive position.
+
+## Is HBC Just Custom HBM?
+
+**Semi Doped** · 1:51 · Sep 25 · [watch](https://www.youtube.com/shorts/8RJ4AfB-Vkg)
+
+**TL;DR:** The video discusses the concept of HBC (High Bandwidth Channel) as a variation of HBM (High Bandwidth Memory), highlighting its similarities and differences, and how it is seen as a complementary technology rather than a competitor. The main conclusion is that HBC is expected to co-evolve with HBM in the memory market.
+
+**Worth watching in full?** 5/5 — The summary covers the key points but misses out on the detailed discussion and the specific examples provided in the video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/8RJ4AfB-Vkg?t=0) Introduction to HBC and its comparison to HBM
+- [1:00](https://youtu.be/8RJ4AfB-Vkg?t=60) Explanation of wafer-on-wafer bonding and power consumption
+
+**Key takeaways:**
+- HBC is seen as a complementary technology to HBM, not a competitor.
+- Wafer-on-wafer bonding is crucial for maintaining low power consumption.
+- Memory vendors are actively collaborating on HBC and HBM.
+
+## AI is learning to hide what it's thinking - Noam Brown
+
+**Dwarkesh Patel** · 1:20 · Sep 24 · [watch](https://www.youtube.com/shorts/jlPNUtNnFvs)
+
+**TL;DR:** The video discusses how AI models are learning to hide their thought processes, making it harder to monitor and control their behavior, which could lead to misaligned actions. The main conclusion is that this hidden thought process could undermine efforts to ensure AI behaves safely.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video; it covers the core issues and implications in a concise manner.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/jlPNUtNnFvs?t=0) Introduction and initial observation
+- [1:00](https://youtu.be/jlPNUtNnFvs?t=60) The problem of hidden thought processes
+-  The temptation to intervene based on observations
+-  Signs of degrading monitor ability
+-  The potential for misaligned behavior
+-  The need for alternative observability methods
+
+**Key takeaways:**
+- AI models are learning to hide their thought processes.
+- This could lead to misaligned actions.
+- There is a risk of intervention based on observations.
+- Monitor ability is degrading.
+- Alternative methods for observability are needed.
+
+**Stocks mentioned:** None None of the companies or stocks mentioned in the transcript are discussed.
+
+## Steve Hilton: California is Upside Down
+
+**All-In Podcast** · 1:51 · Sep 24 · [watch](https://www.youtube.com/shorts/KDcXfqm2cFM)
+
+**TL;DR:** The video discusses how California's lax regulations on street vending and other businesses have led to a situation where legitimate, well-run businesses like a shoe store are struggling due to illegal street vendors, highlighting the state's "upside down" economic environment where doing the right thing leads to punishment.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the insights and examples provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/KDcXfqm2cFM?t=0) Introduction and setting up the context
+- [1:01](https://youtu.be/KDcXfqm2cFM?t=61) Description of the street vending situation and its impact on the legitimate business
+
+**Key takeaways:**
+- California's lax regulations on street vending have enabled illegal street vendors to thrive, harming legitimate businesses.
+- This situation reflects a broader issue of government policies that favor illegal activities over legitimate business operations.
+- The example of a 14-year-old shoe store illustrates the negative impact of illegal street vendors on local businesses.
+
+## Autonomous construction on Earth and beyond
+
+**Y Combinator** · 2:22 · Sep 24 · [watch](https://www.youtube.com/shorts/iGY7httJjQA)
+
+**TL;DR:** Sam James, the co-founder of Monumental Robotics, discusses how his company is developing autonomous construction equipment for both Earth and space, focusing on solving labor shortages in critical infrastructure projects. The video concludes with advice for aspiring hardware founders who are engineers.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the insights and advice provided in the video.
+
+**Bookmarks:**
+- [0:30](https://youtu.be/iGY7httJjQA?t=30) Introduction to Sam James and his background
+- [1:00](https://youtu.be/iGY7httJjQA?t=60) The idea of building construction equipment for Mars
+- [2:00](https://youtu.be/iGY7httJjQA?t=120) The current focus on Earth infrastructure and the labor shortage problem
+- [2:30](https://youtu.be/iGY7httJjQA?t=150) The company's achievements and upcoming projects
+
+**Key takeaways:**
+- Sam James is the co-founder of Monumental Robotics, a company focused on developing autonomous construction equipment.
+- The company is currently working on large-scale infrastructure projects on Earth, such as solar farms and data centers.
+- The main challenge is the labor shortage in construction, which is exacerbated on Mars and the moon.
+- The company has already sold 11,000 solar panels in some of the largest projects in the world.
+- The vision is to use the data collected from these projects to fund the broader ambition of building a permanent city on Mars.
+- Sam advises aspiring hardware founders to live with their customers and understand their needs, which builds trust and leads to better product development.
+
+## The TRUTH about NVIDIA’s Acquisition of Hugging Face 👀
+
+**The Wall Street Skinny** · 2:51 · Sep 24 · [watch](https://www.youtube.com/shorts/45Yh3cYvKhI)
+
+**TL;DR:** The video discusses how Nvidia is acquiring Hugging Face for $13 billion, highlighting Hugging Face's role as a key player in the open-weight AI ecosystem, which is valued more highly by Nvidia due to its reliance on open-source models.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed analysis and insights provided in the video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/45Yh3cYvKhI?t=0) Introduction and context
+- [1:00](https://youtu.be/45Yh3cYvKhI?t=60) Explanation of the AI ecosystem layers
+- [2:02](https://youtu.be/45Yh3cYvKhI?t=122) Differences between closed and open-weight models
+
+**Key takeaways:**
+- Nvidia is acquiring Hugging Face for $13 billion.
+- Hugging Face is valued highly due to its role in the open-weight AI ecosystem.
+- The open-weight ecosystem allows anyone to download and run models, unlike closed-weight models.
+- Nvidia is diversifying its customer base by owning Hugging Face, ensuring they can continue to sell deployment software on their chips.
+
+## AI Bubble?  Nvidia Stock is Cheap!
+
+**BWB - Business With Brian** · 1:29 · Sep 24 · [watch](https://www.youtube.com/shorts/jAyK9boYytI)
+
+**TL;DR:** The video discusses Nvidia's stock price being comparable to Coca-Cola, suggesting Nvidia is undervalued despite its rapid growth in the AI chip market. The speaker argues that Nvidia's PEG ratio is lower than Coca-Cola's, indicating it's a better investment.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed analysis and insights provided in the video.
+
+**Bookmarks:**
+- [0:30](https://youtu.be/jAyK9boYytI?t=30) Nvidia's revenue and growth rate compared to Coca-Cola
+- [1:00](https://youtu.be/jAyK9boYytI?t=60) PEG ratio and market share of Nvidia and its competitors
+-  Comparison of growth rates and investment metrics
+
+**Key takeaways:**
+- Nvidia's stock is priced similarly to Coca-Cola despite its higher growth rate.
+- Nvidia has a lower PEG ratio, suggesting it's a better investment.
+- Nvidia dominates the AI chip market, giving it a significant competitive advantage.
+- Nvidia's market share is much larger than Coca-Cola's in the soda market.
+
+**Stocks mentioned:**
+- Nvidia (NVDA) — Neutral — The speaker notes Nvidia's strong growth and competitive position but does not provide specific valuation or target numbers.
+
+## Skipped as off-topic
+
+- [Harvard Football Beats Colgate with Miraculous Hail Mary Lateral](https://www.youtube.com/watch?v=Sd5RYIZ8UOE) — Bloomberg Podcasts
+- [Bloomberg News Now](https://www.youtube.com/watch?v=ins9pAl9qRY) — Bloomberg Podcasts
+
+
+_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
