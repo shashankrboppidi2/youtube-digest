@@ -209,3 +209,353 @@
 
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
+
+<!-- run 11:57Z -->
+
+## Monte Paschi Falls, Aberdeen Rises, Argenx Plunges | Stock Movers
+
+**Bloomberg Podcasts** · 3:41 · Oct 08 · [watch](https://www.youtube.com/watch?v=xuRnQeN0BcU)
+
+**TL;DR:** The podcast covers stock movements in Europe, focusing on Monti Paschi, Renx, and Abedine, highlighting their performance and the implications for their respective companies.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video as it covers important details and context not present in the summary.
+
+**Bookmarks:**
+- [0:02](https://youtu.be/xuRnQeN0BcU?t=2) Introduction and hosts
+- [1:03](https://youtu.be/xuRnQeN0BcU?t=63) Monti Paschi takeover drama and shareholder opposition
+- [2:05](https://youtu.be/xuRnQeN0BcU?t=125) Renx late-stage trial failure and future plans
+- [3:05](https://youtu.be/xuRnQeN0BcU?t=185) Abedine selling stake in Standard Life
+
+**Key takeaways:**
+- Monti Paschi's takeover plan faces significant resistance from shareholders.
+- Renx's late-stage trial failure for a chronic autoimmune disorder medicine results in a 18% drop.
+- Abedine Group's sale of Standard Life stake leads to Standard Life shares falling 8%, the most in 18 months.
+
+**Stocks mentioned:**
+- Monti Paschi (ticker: MPAS)
+- Renx (ticker: ARGX)
+- Abedine Group (ticker: ABDE)
+
+## Can Corgi Become the Walmart of ETFs? | Trillions
+
+**Bloomberg Podcasts** · 42:52 · Oct 08 · [watch](https://www.youtube.com/watch?v=4oj6dyYGRIk)
+
+**TL;DR:** Corgi, a young ETF issuer, is rapidly expanding its product lineup, aiming to become the sixth or seventh largest ETF issuer by the end of the year. The company is leveraging its insurance revenue to support this growth, focusing on launching as many ETFs as possible, with the potential to have up to 400 registered products by the end of the year. The company is also considering a lean and mean approach, similar to Walmart, focusing on low-cost, active strategies.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and conclusions but misses out on the detailed explanations and insights provided in the full video.
+
+**Bookmarks:**
+- [1:03](https://youtu.be/4oj6dyYGRIk?t=63) Corgi's current and potential market position.
+- [12:17](https://youtu.be/4oj6dyYGRIk?t=737) Comparison of Corgi's growth to Wisdom Tree.
+- [18:22](https://youtu.be/4oj6dyYGRIk?t=1102) Corgi's market share and growth strategy.
+- [24:31](https://youtu.be/4oj6dyYGRIk?t=1471) CRM development and lean approach.
+- [27:34](https://youtu.be/4oj6dyYGRIk?t=1654) Focus on low-cost, active strategies.
+- [37:52](https://youtu.be/4oj6dyYGRIk?t=2272) Process of getting an ETF onto a platform.
+- [40:55](https://youtu.be/4oj6dyYGRIk?t=2455) Wisdom Tree's position in the "Three C's" framework.
+
+**Key takeaways:**
+- Corgi aims to have up to 400 ETFs by the end of the year.
+- Corgi is leveraging its insurance revenue to support its ETF growth.
+- Corgi is focusing on fixed income mandates to differentiate itself.
+- Corgi is considering a lean and mean approach, similar to Walmart.
+- Corgi is focusing on low-cost, active strategies.
+- Corgi is building relationships with financial advisers and their clients.
+- Corgi is positioned as a potential competitor to Wisdom Tree in the ETF industry.
+
+## Hawkish Fed Minutes Drag Stocks From All-Time Highs | Bloomberg Businessweek
+
+**Bloomberg Podcasts** · 48:47 · Oct 07 · [watch](https://www.youtube.com/watch?v=_bjI3TWTalc)
+
+**TL;DR:** The video discusses the impact of the hawkish Federal Reserve Minutes on the stock market, focusing on AI investment, interest rates, and geopolitical tensions. It highlights the concentration of equity portfolios and the challenges of diversification in an AI-driven market environment.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and expert analysis provided in the full video.
+
+**Bookmarks:**
+- [1:02](https://youtu.be/_bjI3TWTalc?t=62) AI investment wave and its impact on interest rates and macroeconomic trends.
+- [5:08](https://youtu.be/_bjI3TWTalc?t=308) The example of "Muse" AI technology.
+- [8:10](https://youtu.be/_bjI3TWTalc?t=490) Discussion on the concentration of equity portfolios and the need for diversification.
+- [26:29](https://youtu.be/_bjI3TWTalc?t=1589) Iran's oil shipments and alternative routes.
+- [30:38](https://youtu.be/_bjI3TWTalc?t=1838) SpaceX's bond market performance and AI technology.
+- [38:48](https://youtu.be/_bjI3TWTalc?t=2328) Companies' responsibility in AI technology and Lockheed Martin's parameters.
+- [43:52](https://youtu.be/_bjI3TWTalc?t=2632) WHO's reassurance and more data needed for risk-stratification.
+
+**Key takeaways:**
+- AI investment is driving both investment and consumption growth.
+- The bond market and interest rates are influenced by the AI investment boom.
+- The concentration of equity portfolios poses challenges for diversification.
+- The AI task force is still being debated between politics and industry.
+- The WHO is pressuring Russia for more information on a plague lab incident.
+
+**Stocks mentioned:**
+- SpaceX (ticker: SPCE) — bullish — The company's bonds are tumbling due to concerns about its credit risk and the need for capital to expand its data center footprint, which is heavily reliant on Nvidia GPUs.
+
+## ETHEREUM GIVING A BIG SIGNAL 🚨 OCTOBER 7
+
+**Overkill Trading** · 2:53 · Oct 07 · [watch](https://www.youtube.com/shorts/yxHOR-cS4LI)
+
+**TL;DR:** The video discusses a sell signal for Ethereum, highlighting a 67% gain from a previous position and suggesting a stop loss at 2,300. The speaker recommends trimming or setting a stop loss to lock in profits if the price falls below this level.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed analysis and charts provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/yxHOR-cS4LI?t=0) Introduction and initial position details
+- [1:02](https://youtu.be/yxHOR-cS4LI?t=62) Explanation of moving averages and sell signals
+- [2:03](https://youtu.be/yxHOR-cS4LI?t=123) Discussion on Ethereum's recent performance and support levels
+
+**Key takeaways:**
+- Ethereum has gained 67% from a previous position.
+- The speaker recommends setting a stop loss at 2,300.
+- Ethereum is currently sitting on its 4-year moving average.
+- The bear trap scenario is discussed, with 2,300 being strong support.
+
+## 5 STOCKS TO WATCH NOW 📈 DISCORD CHART REQUESTS 10/7
+
+**Overkill Trading** · 2:58 · Oct 07 · [watch](https://www.youtube.com/shorts/bNCXLexca7k)
+
+**TL;DR:** The video discusses five stocks (S YK, USR, BU, Nam, and FUL) that are expected to print weekly green dots, indicating potential buy signals, based on their historical performance and current support levels. The viewer is advised to use stop losses and wait for confirmation of the signals before entering trades.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses out on the detailed analysis and specific numbers provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/bNCXLexca7k?t=0) Introduction and initial stocks discussed
+- [1:01](https://youtu.be/bNCXLexca7k?t=61) S YK and its potential buy signal
+- [2:02](https://youtu.be/bNCXLexca7k?t=122) BU and its existing buy signal
+- [3:00](https://youtu.be/bNCXLexca7k?t=180) Nam and its potential buy signal
+-  FUL and its potential buy signal
+
+**Key takeaways:**
+- S YK is expected to print a weekly green dot, with a stop loss at the September low.
+- USR is showing a potential buy signal, with support around $12.
+- BU already has a buy signal due to its support level at $85.
+- Nam is positioned on the four-year average with a green dot, indicating a potential buy.
+- FUL is showing a potential buy signal, having already printed a weekly green dot.
+
+**Stocks mentioned:**
+- S YK (ticker: NMS)
+- USR (ticker: USR)
+- BU (ticker: BU)
+- Nam (ticker: Nam)
+- FUL (ticker: FUL)
+
+## $IREN STOCK ANALYSIS 📈 OCTOBER 7
+
+**Overkill Trading** · 1:56 · Oct 07 · [watch](https://www.youtube.com/shorts/BNZOYrgMc14)
+
+**TL;DR:** The video analyzes the stock performance of Iron, noting its peak at $74 and subsequent decline to $28, with a recent buy signal at $5. The video suggests waiting for a green dot to buy Iron, currently at $38, as the stock is in a consolidation phase and appears weak.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses the detailed analysis and specific timing suggestions.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/BNZOYrgMc14?t=0) Overview of Iron's performance and the sell and buy signals
+- [1:01](https://youtu.be/BNZOYrgMc14?t=61) Current price and the bearish view on Iron
+- [1:20](https://youtu.be/BNZOYrgMc14?t=80) Recent buy signal and potential buying opportunity
+- [2:00](https://youtu.be/BNZOYrgMc14?t=120) Iron's current price and technical indicators
+-  Suggested entry point for buying Iron
+
+**Key takeaways:**
+- Iron had a peak at $74 and a recent buy signal at $5.
+- The stock is currently in a consolidation phase.
+- The video suggests waiting for a green dot to buy Iron, currently at $38.
+- Iron is weak and below the 50 EMA and 9 EMA.
+
+**Stocks mentioned:**
+- Iron (ticker: IR) — Neutral — The stock is weak and below the 50 EMA and 9 EMA.
+
+## W $QNT CRYPTO ANALYSIS 📈 OCTOBER 7
+
+**Overkill Trading** · 1:56 · Oct 07 · [watch](https://www.youtube.com/shorts/-tO0jREJUUU)
+
+**TL;DR:** The video discusses the significant price movement of QNT (Quantum Technology) from $60 to $350, and provides trading signals and strategies for managing risk and potential losses.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses the detailed strategies and specific numbers provided in the video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/-tO0jREJUUU?t=0) Introduction and initial price movement
+- [1:01](https://youtu.be/-tO0jREJUUU?t=61) Trading strategy and risk management
+- [2:00](https://youtu.be/-tO0jREJUUU?t=120) Discussion on the importance of taking profits
+
+**Key takeaways:**
+- QNT (Quantum Technology) experienced a 520% price increase in one week.
+- The video suggests taking profits when the price is at the top.
+- Risk management includes setting stop loss orders at $220 or $215.
+- The strategy involves buying when the price is down, like at $60, and selling when it reaches the top, like at $350.
+
+## What Happens When AI Starts Designing the Chips That Power It | Synopsys at AI Infra Summit
+
+**Six Five Media** · 15:55 · Oct 07 · [watch](https://www.youtube.com/watch?v=eBCYZuRWG5Y)
+
+**TL;DR:** The video discusses how AI is automating chip design workflows, reducing the need for large teams and improving productivity.
+
+**Worth watching in full?** 5/5 — The summary cannot fully replace the insights and details provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/eBCYZuRWG5Y?t=0) Introduction and topic overview
+- [2:00](https://youtu.be/eBCYZuRWG5Y?t=120) Automation solutions for chip design
+- [5:05](https://youtu.be/eBCYZuRWG5Y?t=305) Importance of domain-specific knowledge in AI models
+- [8:08](https://youtu.be/eBCYZuRWG5Y?t=488) Engaging with customers and foundries to build the ecosystem
+- [10:09](https://youtu.be/eBCYZuRWG5Y?t=609) Role of agents in different stages of chip design
+- [12:11](https://youtu.be/eBCYZuRWG5Y?t=731) Spec to tapeout process and potential for AGI
+- [15:14](https://youtu.be/eBCYZuRWG5Y?t=914) Self-learning systems and the future of engineering
+
+**Key takeaways:**
+- AI is automating chip design workflows, reducing the need for large teams.
+- Multi-agent workflows and autonomous engineering are the future of chip design.
+- Domain-specific knowledge is crucial for AI models to achieve high accuracy.
+- Building a comprehensive ecosystem of domain knowledge across vendors and foundries is essential.
+- Self-learning systems could eventually surpass human engineers in certain tasks.
+- The future of chip design will see a faster cadence, more custom silicon, and reduced costs.
+
+## Narrative Intelligence, Leadership, Storytelling, Human Advantage, Entrepreneurship |Episode 375|
+
+**Practical AI** · 42:08 · Oct 07 · [watch](https://www.youtube.com/watch?v=qe1Tu52ccLQ)
+
+**TL;DR:** The video discusses the challenges and opportunities for founders and entrepreneurs in the tech industry, particularly focusing on the role of storytelling and narrative intelligence in leadership, the importance of humility and openness, and the potential of AI in enhancing productivity and collaboration. The main conclusion is the importance of continuous learning and adaptability in a rapidly changing environment.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the essence of the discussion without the detailed insights and anecdotes.
+
+**Bookmarks:**
+- [1:12](https://youtu.be/qe1Tu52ccLQ?t=72) Reed Freri shares his journey and emphasizes the importance of narrative intelligence.
+- [15:26](https://youtu.be/qe1Tu52ccLQ?t=926) - Reed Hastings talks about setting realistic goals.
+- [18:29](https://youtu.be/qe1Tu52ccLQ?t=1109) - Daniel Ek reflects on leading an AI company.
+- [22:34](https://youtu.be/qe1Tu52ccLQ?t=1354) - Eric Shamlin discusses concerns about being replaced by technology.
+- [27:36](https://youtu.be/qe1Tu52ccLQ?t=1656) - The speaker emphasizes the importance of self-awareness and presence.
+- [38:49](https://youtu.be/qe1Tu52ccLQ?t=2329) - Reed recommends creating something related to one's passion.
+- [41:52](https://youtu.be/qe1Tu52ccLQ?t=2512) - Reed encourages embracing AI and storytelling.
+
+**Key takeaways:**
+- Founders need to continuously adapt and learn in a rapidly changing environment.
+- Narrative intelligence is crucial for founders and entrepreneurs.
+- Embracing humility and openness is essential for leadership.
+- Emotional intelligence skills are vital for managing anxiety and distraction.
+- AI tools like Prediction Guard can help organizations manage AI adoption.
+- Continuous learning and adaptability are key to success.
+- AI could enhance productivity and collaboration, potentially connecting people's stories.
+
+## The TRUTH about Nvidia Circular Financing (Part 1) 👀
+
+**The Wall Street Skinny** · 2:58 · Oct 07 · [watch](https://www.youtube.com/shorts/bBbslTTEOW8)
+
+**TL;DR:** The video discusses suspicions that Nvidia's AI chips are being used in a circular financing scheme by companies like Coreweave, where Nvidia's chips are bought by Coreweave and resold to OpenAI, creating a loop of debt and financing. The video breaks down the structure of the neo cloud business and how Nvidia is involved in this process.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed breakdown of the circular financing scheme and the intricate relationships between Nvidia, Coreweave, and other companies.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/bBbslTTEOW8?t=0) Introduction to the AI ecosystem and neo clouds
+- [1:01](https://youtu.be/bBbslTTEOW8?t=61) Explanation of the AI factory and different business models
+- [2:02](https://youtu.be/bBbslTTEOW8?t=122) Discussion of the challenges neo clouds face in financing their AI operations
+
+**Key takeaways:**
+- Neo clouds like Coreweave use chip-backed financing to buy Nvidia's AI chips.
+- Nvidia has a significant stake in Coreweave and a buy-back agreement.
+- The circular financing scheme involves multiple contracts and short-term commitments.
+- The structure is vulnerable to depreciation and interest expenses.
+
+**Stocks mentioned:**
+- Nvidia (NVDA) — Neutral — The video discusses Nvidia's involvement but does not provide specific financial views.
+- Coreweave (CORE) — Neutral — The video mentions Coreweave but does not provide specific financial views.
+
+## AI ROI Starts in the Corner Office
+
+**Six Five Media** · 1:28 · Oct 07 · [watch](https://www.youtube.com/shorts/HP1ZuRGrSsM)
+
+**TL;DR:** The video discusses how companies are using AI to save time and money, with examples from 3M and a legal VP. The key takeaway is that for significant ROI, companies need a cultural shift from top to bottom, not just small pilots.
+
+**Worth watching in full?** 5/5 — The summary cannot fully cover the detailed examples and the importance of cultural change.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/HP1ZuRGrSsM?t=0) Introduction and examples of AI ROI
+- [1:00](https://youtu.be/HP1ZuRGrSsM?t=60) Cultural shift and holistic approach needed for significant impact
+
+**Key takeaways:**
+- AI can save significant time and money in customer prep and patent infringement analysis
+- Cultural commitment from top management is crucial for successful AI implementation
+- Holistic reimagining of operational processes yields the biggest ROI
+**Notes:**
+- [3M] (ticker: MMM) - The company mentioned, but no specific view or numbers were provided
+- [Patent infringements and new laws] - The VP's company uses AI for these tasks, but no specific targets or valuation were provided
+
+## AI Stocks Will “Outrun The Avalanche”: CIO On What To Buy And What To Avoid
+
+**TheStreet** · 23:28 · Oct 07 · [watch](https://www.youtube.com/watch?v=xK6FAcjYCiE)
+
+**TL;DR:** The video discusses the performance of growth stocks, particularly in the AI ecosystem, and provides advice on which sectors and stocks to invest in or avoid based on their risk-reward profiles. The main conclusion is that AI stocks are expected to outperform due to their growth potential, but investors need to be cautious and diversify their portfolio.
+
+**Worth watching in full?** 5/5 — The summary covers the key points but misses the detailed analysis and expert insights provided in the full video.
+
+**Bookmarks:**
+- [1:00](https://youtu.be/xK6FAcjYCiE?t=60) - Overview of market pullbacks and growth stocks
+- [5:09](https://youtu.be/xK6FAcjYCiE?t=309) - Diversification of growth stocks
+- [6:10](https://youtu.be/xK6FAcjYCiE?t=370) - Risk assessment of different company tiers
+- [8:14](https://youtu.be/xK6FAcjYCiE?t=494) - Avoiding tier three companies
+- [16:23](https://youtu.be/xK6FAcjYCiE?t=983) - Financials sector outlook
+- [21:29](https://youtu.be/xK6FAcjYCiE?t=1289) - Advice on market timing and stock selection
+- [22:31](https://youtu.be/xK6FAcjYCiE?t=1351) - Recommendations for specific stocks and sectors
+
+**Key takeaways:**
+- Growth stocks, especially in AI, are expected to outperform due to their growth potential.
+- Tier one companies like Microsoft and Amazon are more resilient to interest rate changes.
+- Tier three companies, like newer upstarts, are riskier but offer potential for significant returns if they justify their valuation.
+- Financials sector has strong prospects with positive management and deal flow.
+- CIO Malik recommends diversifying outside of AI and tech stocks, mentioning pharmaceuticals and financials as attractive sectors.
+- CIO Malik suggests buying individual stocks with strong growth prospects, like the S&P 500, and avoiding consumer discretionary stocks.
+- CIO Malik advises watching the market like musical chairs, ready to invest in opportunities as they present themselves.
+
+**Stocks mentioned:**
+- NVIDIA (bullish)
+- Microsoft (bullish)
+- Amazon (bullish)
+- Oracle (neutral)
+- Caterpillar (bullish)
+- Verdive (neutral)
+- Eaton (neutral)
+- S&P 500 (bullish)
+- Financials (bullish)
+
+## White House AI Accord: Real Progress or Photo Op?
+
+**Six Five Media** · 9:03 · Oct 07 · [watch](https://www.youtube.com/watch?v=jVyuDbvpoTs)
+
+**TL;DR:** The video discusses the White House AI Accord, questioning whether it represents real progress or merely a photo opportunity. The speaker argues that the accord includes meaningful commitments and mechanisms for AI safety, while the counter-argument suggests the accord lacks enforcement and teeth.
+
+**Worth watching in full?** 2/5 — The summary covers the main points, but the detailed discussion of specific points and examples would be beneficial.
+
+**Bookmarks:**
+- [1:01](https://youtu.be/jVyuDbvpoTs?t=61) Independent evaluation and board-level review mechanisms
+- [2:04](https://youtu.be/jVyuDbvpoTs?t=124) Cost reductions and containment failures
+- [3:06](https://youtu.be/jVyuDbvpoTs?t=186) Zuckerberg's Muse agent security concerns
+- [4:07](https://youtu.be/jVyuDbvpoTs?t=247) Lack of enforcement and oversight
+- [5:09](https://youtu.be/jVyuDbvpoTs?t=309) Incentives and the need for concrete evidence
+
+**Key takeaways:**
+- The White House AI Accord includes independent evaluation and board-level review mechanisms.
+- OpenAI and Anthropic had already committed to third-party evaluators before the accord.
+- The accord lacks enforcement and teeth, with no way to hold companies accountable.
+- The message to markets is that the pledge is the guardrail, but safety should clear the same bar.
+
+## Your ULTIMATE Guide the NEOCLOUDS: AI’s Least Understood Business
+
+**The Wall Street Skinny** · 2:54 · Oct 07 · [watch](https://www.youtube.com/shorts/e2S2i0rNVwY)
+
+**TL;DR:** The video discusses the neo-clouds, a group of companies that rely on AI for their business model, and how their business models are misunderstood and risky. The video concludes by explaining the neo-clouds' business model and the challenges they face, including reliance on chip-backed financing and short-term contracts.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed explanation and insights provided in the video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/e2S2i0rNVwY?t=0) Introduction to neo-clouds and their role in the AI ecosystem.
+- [1:00](https://youtu.be/e2S2i0rNVwY?t=60) Explanation of the AI factory model and the different types of neo-clouds.
+- [2:00](https://youtu.be/e2S2i0rNVwY?t=120) Discussion on the challenges neo-clouds face, including reliance on chip-backed financing and short-term contracts.
+
+**Key takeaways:**
+- Neo-clouds rely on chip-backed financing to fund their AI compute needs.
+- They often have short-term contracts with large clients like Meta.
+- Their business models are highly dependent on the success of their contracts and the longevity of their assets.
+- The risks associated with their business models include high borrowing costs and the need for substantial cash flows.
+
+## Skipped as off-topic
+
+- [Trump Weighs Iran Strikes Before Midterms; Hurricane Isaias Forms in the Gulf | Bloomberg...](https://www.youtube.com/watch?v=87CNqazeuG8) — Bloomberg Podcasts
+- [Bloomberg News Now: Trump Mulls Iran Strike Ahead of Midterm Election: Report](https://www.youtube.com/watch?v=4RsVkPJDRro) — Bloomberg Podcasts
+- [.edward checkout my free trading course 📈 link in bio!](https://www.youtube.com/shorts/oVspwXbTHY0) — Overkill Trading
+
+
+_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
