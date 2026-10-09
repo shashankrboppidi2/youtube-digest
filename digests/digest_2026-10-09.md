@@ -690,3 +690,138 @@ None of the companies or stocks were mentioned in the transcript.
 
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
+
+<!-- run 14:37Z -->
+
+## Delta and Apple Slip; Humana Higher | Stock Movers
+
+**Bloomberg Podcasts** · 3:20 · Oct 09 · [watch](https://www.youtube.com/watch?v=MZM3Jl7y-QI)
+
+**TL;DR:** Delta Airlines and Apple experienced stock declines, while Humana saw a significant increase. The report highlights the impact of high fuel costs on Delta and the positive impact of improved Medicare Advantage ratings on Humana. Apple is set to launch its first touchscreen MacBook.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video as it covers important details and context.
+
+**Bookmarks:**
+- [0:02](https://youtu.be/MZM3Jl7y-QI?t=2) Introduction and context
+- [1:03](https://youtu.be/MZM3Jl7y-QI?t=63) Delta Airlines earnings outlook and fuel costs
+- [2:05](https://youtu.be/MZM3Jl7y-QI?t=125) Humana's improved Medicare Advantage ratings
+- [3:05](https://youtu.be/MZM3Jl7y-QI?t=185) Apple's upcoming product launch
+
+**Key takeaways:**
+- Delta Airlines reported a 2.6% pre-market decline due to higher fuel costs.
+- Humana saw a 2.3% pre-market increase due to improved Medicare Advantage ratings.
+- Apple is set to launch its first touchscreen MacBook, indicating a significant product launch.
+- Delta Airlines is more exposed to high fuel costs compared to European airlines.
+- Humana's improved Medicare Advantage ratings could lead to billions of dollars in bonuses.
+
+**Stocks mentioned:**
+- Delta Airlines (DAL): Bearish
+- Humana (HUM): Bullish
+- Apple (AAPL): Neutral
+
+## Onsemi After the Synaptics Deal Change, Investor Day (ON Stock Analysis)
+
+**Chip Stock Investor** · 17:38 · Oct 09 · [watch](https://www.youtube.com/watch?v=50NHf-JpQxE)
+
+**TL;DR:** The video discusses the acquisition of Synaptics by On Semiconductor and its impact on the company's future performance, including the revised merger agreement, potential synergies, and the company's financial outlook.
+
+**Worth watching in full?** 3/5 — While the summary covers the main points, the full video provides additional context and analysis not present in the summary.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/50NHf-JpQxE?t=0) Introduction and comparison with Monolithic Power
+- [3:05](https://youtu.be/50NHf-JpQxE?t=185) Synaptics' fabless nature and potential for On Semiconductor to insource some production
+- [5:13](https://youtu.be/50NHf-JpQxE?t=313) Additional synergies identified by On Semiconductor
+- [8:26](https://youtu.be/50NHf-JpQxE?t=506) On Semiconductor's financial targets for 2027
+- [11:30](https://youtu.be/50NHf-JpQxE?t=690) On Semiconductor's financial targets for 2030
+- [13:36](https://youtu.be/50NHf-JpQxE?t=816) Potential benefits of adding Synaptics to the portfolio
+- [16:47](https://youtu.be/50NHf-JpQxE?t=1007) On Semiconductor's future outlook and the potential impact on the stock price
+
+**Key takeaways:**
+- On Semiconductor is expected to remain range bound post-acquisition due to debt and integration risks.
+- Monolithic Power has become On Semiconductor's largest position due to its strong performance.
+- On Semiconductor's financial targets for 2027 are not expected to be met, but free cash flow margins are expected to remain strong.
+- Synaptics' fabless nature could lead to higher profit margins and faster revenue growth.
+- On Semiconductor may insource some of Synaptics' manufacturing needs, potentially using its advanced packaging capabilities.
+- The acquisition is expected to be finalized by the middle of 2027, with On Semiconductor's position in the portfolio remaining unchanged.
+
+## David Sacks: The Economy Is Stronger Than You Think
+
+**All-In Podcast** · 2:24 · Oct 09 · [watch](https://www.youtube.com/shorts/oF8aDmU_8nE)
+
+**TL;DR:** The video discusses how recent economic data, including revised GDP figures, cooling inflation, and strong manufacturing indicators, suggest the economy is stronger than previously thought, with record high median household income and falling poverty rates. The speaker disputes the "K-shaped recovery" narrative, arguing that both the wealthy and average households are benefiting.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but misses the detailed analysis and specific data points.
+
+**Bookmarks:**
+- [0:30](https://youtu.be/oF8aDmU_8nE?t=30) Q2 GDP revision and its implications
+- [1:02](https://youtu.be/oF8aDmU_8nE?t=62) Inflation and manufacturing sector performance
+- [2:04](https://youtu.be/oF8aDmU_8nE?t=124) Poverty rate and after-tax household income
+
+**Key takeaways:**
+- Q2 GDP revised up to 2.2% from 1.5%, showing strong economic growth.
+- Core PCE inflation at 3.0%, below expectations and cooling.
+- Manufacturing sector is in expansion territory, with Chicago PMI and ISM manufacturing both well into expansion.
+- Median household income is at record high, at almost $90,000.
+- Poverty rate has fallen to 10.2%, its lowest level in history.
+- After-tax household income has risen by 3.1% in the second Trump term.
+
+## Delta Lowers Outlook; Apple Slips; Humana Surges | Stock Movers
+
+**Bloomberg Podcasts** · 4:42 · Oct 09 · [watch](https://www.youtube.com/watch?v=37I-tHEKHqA)
+
+**TL;DR:** The video discusses earnings reports from Delta, SpaceX, and Apple, along with Medicare Advantage ratings for health care companies, highlighting stock movements and their implications.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video as it covers the main points and implications of the earnings reports and ratings.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/37I-tHEKHqA?t=0) Introduction and overview of the Stock Movers Report
+- [1:00](https://youtu.be/37I-tHEKHqA?t=60) Delta Airlines earnings miss and outlook
+- [2:01](https://youtu.be/37I-tHEKHqA?t=121) SpaceX acquiring low-band spectrum for mobile carrier
+- [3:02](https://youtu.be/37I-tHEKHqA?t=182) Apple cutting component orders for iPhone 18 Pro and Pro Max
+- [4:03](https://youtu.be/37I-tHEKHqA?t=243) Medicare Advantage ratings and their impact on health care stocks
+
+**Key takeaways:**
+- Delta Airlines shares down 3% due to fuel cost increases and earnings miss
+- SpaceX shares up 4% after acquiring low-band spectrum for mobile carrier
+- Apple shares down 2% due to cut in iPhone 18 Pro and Pro Max component orders
+- Humanana shares up 15% after improving Medicare Advantage ratings
+- Clover Health shares down 23% after its largest contract fell below the four-star threshold for Medicare Advantage ratings
+
+**Stocks mentioned:**
+- Delta (ticker: DAL)
+- SpaceX (ticker: SBCX)
+- Apple (ticker: AAPL)
+- Humanana (ticker: HUM)
+- Clover Health (ticker: CLV)
+
+## Airtel Money Debut, Salzgitter Rises, Kering Up | Stock Movers
+
+**Bloomberg Podcasts** · 3:43 · Oct 09 · [watch](https://www.youtube.com/watch?v=QLKGZV5G2ho)
+
+**TL;DR:** The video discusses the debut of Airtel Money, its performance, and the impact on the London stock market, alongside the rise of Salzgitter and Kering. The main conclusion is that Airtel Money's debut was challenging, with shares slipping despite initial gains, while Salzgitter and Kering continued to rise.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers important details and context not present in the summary.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/QLKGZV5G2ho?t=0) Introduction and Airtel Money debut
+- [1:01](https://youtu.be/QLKGZV5G2ho?t=61) Airtel Money performance and CEO's concerns
+- [2:02](https://youtu.be/QLKGZV5G2ho?t=122) Salzgitter and European steel market
+- [3:03](https://youtu.be/QLKGZV5G2ho?t=183) Eve Lauder and Kering performance
+
+**Key takeaways:**
+- Airtel Money shares initially rose but slipped slightly, with CEO expressing concerns.
+- Salzgitter's shares rose over 11% due to EU steel import quotas and falling inventories.
+- Eve Lauder's shares have declined by about 30% over the past year, with a CEO-led overhaul underway.
+
+**Stocks mentioned:**
+- Airtel Money (ticker: AIRT.L)
+- Salzgitter (ticker: SZZG.DE)
+- Kering (ticker: KER.PA)
+- Eve Lauder (ticker: EL)
+
+## Skipped as off-topic
+
+- [Flag Football Is Taking Over High Schools, and Soon the Olympics | Bloomberg Businessweek](https://www.youtube.com/watch?v=FCn6G91pckk) — Bloomberg Podcasts
+
+
+_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
