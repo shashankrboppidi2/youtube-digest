@@ -266,3 +266,46 @@ _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
 - [NVIDIA RTX Spark | Made to Create](https://www.youtube.com/watch?v=4XZzjY4X13A) — NVIDIA
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
+
+<!-- run 14:21Z -->
+
+## If You Missed Palantir in 2023, These 4 Stocks Are Spring-Loaded
+
+**BWB - Business With Brian** · 19:59 · Oct 11 · [watch](https://www.youtube.com/watch?v=I3tyDUSTRq4)
+
+**TL;DR:** The video discusses four stocks—Palantir, Amazon, Broadcom, and Applied Digital—that have underperformed despite strong fundamentals. The speaker argues that these stocks are currently in a "coiled spring" state, indicating that they are undervalued and poised for significant upside once certain conditions are met.
+
+**Worth watching in full?** 5/5 — The summary cannot fully replace the insights and analysis provided in the full video.
+
+**Bookmarks:**
+- [1:00](https://youtu.be/I3tyDUSTRq4?t=60) - Palantir's profitability and the concept of a "coiled spring" in the stock market.
+- [5:03](https://youtu.be/I3tyDUSTRq4?t=303) - Amazon's AWS cloud business and its potential for significant upside.
+- [6:04](https://youtu.be/I3tyDUSTRq4?t=364) - Amazon's stock performance and the current "buy" zone.
+- [8:06](https://youtu.be/I3tyDUSTRq4?t=486) - Broadcom's AI chip sales and its current valuation.
+- [11:09](https://youtu.be/I3tyDUSTRq4?t=669) - SanDisk's expected growth and its data center contracts.
+- [13:11](https://youtu.be/I3tyDUSTRq4?t=791) - Applied Digital's rent growth and its valuation.
+
+**Key takeaways:**
+- Palantir is undervalued and could see a significant price increase once it meets certain conditions.
+- Amazon's AWS cloud business is expected to be fully utilized by 2026, but the stock has underperformed.
+- Broadcom's AI chip sales have grown by 220% in a single quarter, but the stock has only risen 4% year-to-date.
+- SanDisk is expected to earn $7 for every dollar it earns, with data center spending driving its growth.
+- Applied Digital's rent is growing rapidly, but the company is heavily leveraged, with interest payments being the primary factor holding the stock price down.
+
+**Stocks mentioned:**
+- Palantir (none)
+- Amazon (AWS: AWS)
+- Broadcom (none)
+- Applied Digital (none)
+
+## Skipped as off-topic
+
+- [Saudi Airport Attack Kills 12 as Conflict Escalates](https://www.youtube.com/watch?v=eJRyhSxrZFg) — Bloomberg Podcasts
+- [By The Way: Headlines You May Have Missed](https://www.youtube.com/watch?v=UczAW--SHW8) — Bloomberg Podcasts
+- [Trump Calls for Zelenskyy to Step Aside](https://www.youtube.com/watch?v=8XWu4y_lQ6k) — Bloomberg Podcasts
+- [Inside Italy's Changing Politics and Papacy](https://www.youtube.com/watch?v=gG4xVvq_ieM) — Bloomberg Podcasts
+- [BONUS SERIES: Levittown Episode 3 | The Hunter | Bloomberg Daybreak: US Edition](https://www.youtube.com/watch?v=FVnil5TkDKY) — Bloomberg Podcasts
+- [India Protests Trigger Security Crackdown in New Delhi](https://www.youtube.com/watch?v=CvGc23QCdao) — Bloomberg Podcasts
+
+
+_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
