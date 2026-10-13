@@ -528,3 +528,168 @@ NOTES:
 
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
+
+<!-- run 15:15Z -->
+
+## Should Students Be Allowed to Use AI in School? #aiineducation    #FutureOfLearning
+
+**Practical AI** · 4:47 · Oct 13 · [watch](https://www.youtube.com/watch?v=J6Rv8IQM5oI)
+
+**TL;DR:** The video discusses whether teachers should allow students to use AI tools for assignments, suggesting that schools should provide curricula in advance and encourage students to use AI to learn, rather than penalizing it as cheating. The main conclusion is that teachers should adapt their role to facilitate personalized learning using AI tools.
+
+**Worth watching in full?** 4/5 — The summary covers the main points, but the full video provides additional context and examples.
+
+**Bookmarks:**
+- [0:12](https://youtu.be/J6Rv8IQM5oI?t=12) Introduction and teachers' concerns about AI use in assignments.
+- [1:12](https://youtu.be/J6Rv8IQM5oI?t=72) The speaker's personal experience with using AI tools for learning.
+- [2:14](https://youtu.be/J6Rv8IQM5oI?t=134) The speaker suggests a systemic approach to using AI in school.
+- [3:14](https://youtu.be/J6Rv8IQM5oI?t=194) The need for school systems to provide curricula in advance.
+- [4:17](https://youtu.be/J6Rv8IQM5oI?t=257) The potential for teachers to become facilitators of personalized learning.
+
+**Key takeaways:**
+- Teachers should adapt their role to become facilitators of personalized learning.
+- School systems should provide curricula in advance to allow for AI use.
+- Students can use AI tools to learn and explore material more deeply.
+
+## Goldman Sachs Rises, UnitedHealth Mixed, Seagate Drops as it Vies for TDK’s Hard-Drive Head Unit...
+
+**Bloomberg Podcasts** · 4:12 · Oct 13 · [watch](https://www.youtube.com/watch?v=naKPaOo8bf0)
+
+**TL;DR:** The video discusses Goldman Sachs, UnitedHealth, and Seagate, highlighting their stock performance and earnings, with a focus on Goldman's strong performance and Seagate's weakness due to competition from Chinese memory chip giant CXMT.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses the detailed analysis and market context provided in the full video.
+
+**Bookmarks:**
+- [0:02](https://youtu.be/naKPaOo8bf0?t=2) Goldman Sachs earnings and share performance
+- [1:04](https://youtu.be/naKPaOo8bf0?t=64) Goldman Sachs CEO David Solomon's comments on succession plans
+- [2:05](https://youtu.be/naKPaOo8bf0?t=125) UnitedHealth earnings and cost trends
+- [3:06](https://youtu.be/naKPaOo8bf0?t=186) Seagate earnings and competition from CXMT
+
+**Key takeaways:**
+- Goldman Sachs reported a strong quarter with equity trading revenue of $6.44 billion, outperforming estimates.
+- UnitedHealth saw a beat and beat quarter but is facing challenges from rising healthcare costs.
+- Seagate's shares dropped due to competition from Chinese memory chip giant CXMT.
+
+**Stocks mentioned:**
+- Goldman Sachs (GS)
+- UnitedHealth Group (UNH)
+- Seagate Technology (STX)
+- CXMT (Chinese memory chip giant)
+
+## Domino's Drops; JNJ Reports; Bumble Acquired | Stock Movers
+
+**Bloomberg Podcasts** · 3:57 · Oct 13 · [watch](https://www.youtube.com/watch?v=GU37JzhnEeQ)
+
+**TL;DR:** The video covers the performance of Domino's Pizza, Johnson & Johnson, and the acquisition of Bumble, highlighting their stock movements and financial performance. The main conclusion is that these companies are experiencing varied performance in the stock market.
+
+**Worth watching in full?** 4/5 — The summary covers the key points but misses some details that could be important for a full understanding.
+
+**Bookmarks:**
+- [0:02](https://youtu.be/GU37JzhnEeQ?t=2) Domino's Pizza stock performance
+- [1:03](https://youtu.be/GU37JzhnEeQ?t=63) Johnson & Johnson earnings report
+- [2:04](https://youtu.be/GU37JzhnEeQ?t=124) Bumble acquisition details
+
+**Key takeaways:**
+- Domino's Pizza (DPZ) down 3.5% due to disappointing same store sales.
+- Johnson & Johnson (JNJ) down 2% in pre-market, but up 27% year-to-date.
+- Bumble (BMBM) up 87% after being acquired by Ithaca Holdings for $1.3 billion.
+
+## Is SpaceX Stock a Buy After Its Post-IPO Drop?
+
+**Chip Stock Investor** · 20:35 · Oct 13 · [watch](https://www.youtube.com/watch?v=pCS1qOcd0I8)
+
+**TL;DR:** The video discusses SpaceX's recent acquisition of Cursor and its impact on the company's AI data center revenue, which is projected to reach $41 billion by the end of 2026. Despite positive revenue growth, SpaceX reported negative EBIT for its AI business, indicating significant cash burn. The speaker at CSI is not interested in investing at the current valuation and is keeping SpaceX on their watch list for potential opportunities in early 2027.
+
+**Worth watching in full?** 3/5 — The summary covers the main points but misses the detailed financial analysis and the speaker's investment decision.
+
+**Bookmarks:**
+- [12:34](https://youtu.be/pCS1qOcd0I8?t=754) — SpaceX's acquisition of Cursor and its impact on the AI data center revenue.
+- [14:36](https://youtu.be/pCS1qOcd0I8?t=876) — Projected AI data center revenue growth and capital expenditures.
+- [15:38](https://youtu.be/pCS1qOcd0I8?t=938) — SpaceX's adjusted EBITDA for the AI segment and the positive growth in the data center business.
+- [16:44](https://youtu.be/pCS1qOcd0I8?t=1004) — SpaceX's negative EBIT for its AI business in Q2 2026.
+- [17:46](https://youtu.be/pCS1qOcd0I8?t=1066) — Improvement in the data center business from Q1 to Q2 2026.
+- [18:46](https://youtu.be/pCS1qOcd0I8?t=1126) — SpaceX's financial resources and debt structure.
+
+**Key takeaways:**
+- SpaceX's AI data center revenue is projected to reach $41 billion by the end of 2026.
+- SpaceX's adjusted EBITDA for the AI segment reached $1.15 billion in Q2 2026, indicating a strong profit margin of over 50%.
+- SpaceX reported negative EBIT of $1.26 billion for its AI business in Q2 2026, indicating significant cash burn.
+- SpaceX has substantial cash and equivalents ($100 billion), offset by current portion of long-term debt ($2.5 billion) and long-term debt ($36.8 billion).
+
+**Stocks mentioned:**
+- SpaceX (F) — Neutral — The speaker is not interested in investing at the current valuation and is keeping it on their watch list for potential opportunities in early 2027.
+
+## Bull market at year 4: Ending soon or going strong? Adam Turnquist goes rapid-fire in This or That.
+
+**TheStreet** · 1:47 · Oct 13 · [watch](https://www.youtube.com/shorts/BOb70R6aFa8)
+
+**TL;DR:** The video discusses the S&P 500 bull market, its potential duration, and various market indicators, concluding that the market is likely to continue strong but with some warning signs.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and expert analysis provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/BOb70R6aFa8?t=0) S&P 500 bull market ending at year four or going on to year five?
+- [0:40](https://youtu.be/BOb70R6aFa8?t=40) New highs, buy the breakout or wait for a pullback?
+- [1:01](https://youtu.be/BOb70R6aFa8?t=61) Market breadth, warning sign or overrated?
+- [1:40](https://youtu.be/BOb70R6aFa8?t=100) 10-year yield, higher or lower by year end?
+-  Tech after a 20% rally, more room to run or due for a reset?
+-  Banks into earnings, buy the weakness or stay away?
+-  How much higher?
+
+**Key takeaways:**
+- The S&P 500 bull market is likely to continue with strong fundamentals.
+- The 10-year yield is expected to rise to 6% by year end.
+- Mega cap tech stocks are expected to outperform the rest of the market.
+- Interest rate volatility is a potential risk to the market.
+- The tech sector chart is the most bullish indicator.
+- The consumer discretionary sector chart is the most worrisome indicator.
+- The 200-day moving average at 7255 is the level at which the speaker would turn bearish.
+
+## The Staggering Costs of a Single Data Center, From Land to Chips | Bloomberg Businessweek
+
+**Bloomberg Podcasts** · 12:46 · Oct 13 · [watch](https://www.youtube.com/watch?v=deXDOIW1fqw)
+
+**TL;DR:** The video discusses the staggering costs involved in building a single AI data center, from land acquisition to chip manufacturing, and how these costs have skyrocketed, particularly for Meta, Amazon, Microsoft, and Alphabet. The video highlights the immense investment these companies are making, amounting to $750 billion in capital expenditures alone, and the potential for even higher costs as demand for data centers and semiconductor components continues to rise.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and context of the story in a concise manner.
+
+**Bookmarks:**
+- [0:02](https://youtu.be/deXDOIW1fqw?t=2) Introduction and context of the $750 billion investment
+- [1:04](https://youtu.be/deXDOIW1fqw?t=64) The scale of the investment compared to GDP of countries
+- [2:06](https://youtu.be/deXDOIW1fqw?t=126) The complexity and cost of building data centers
+- [3:08](https://youtu.be/deXDOIW1fqw?t=188) The role of semiconductors in data centers
+- [4:09](https://youtu.be/deXDOIW1fqw?t=249) The challenge of building enough chip plants to meet demand
+- [5:09](https://youtu.be/deXDOIW1fqw?t=309) The cyclical nature of the chip industry and its impact on data center costs
+- [6:10](https://youtu.be/deXDOIW1fqw?t=370) The industry's history of overbuilding and potential for future cycles
+
+**Key takeaways:**
+- The $750 billion investment in data centers by Meta, Amazon, Microsoft, and Alphabet is equivalent to the GDP of Ireland or Belgium.
+- Data centers require a significant amount of power, with one server potentially using as much electricity as several large flat-screen TVs.
+- The cost of semiconductors, which are crucial for data centers and AI systems, has increased dramatically.
+- The industry faces a challenge in building enough chip plants to meet the demand for data centers, leading to a compounding issue.
+- The video suggests that the current cycle is unprecedented in terms of the magnitude and duration of the investment and demand.
+
+## Can AI Detect Cyber Threats Before Alerts Are Triggered?
+
+**Six Five Media** · 1:50 · Oct 12 · [watch](https://www.youtube.com/shorts/wmhYDKUvCUc)
+
+**TL;DR:** The video discusses how AI can now detect cyber threats before alerts are triggered, addressing concerns about the reliability of AI in security tools and proposing a shift in how alerts are generated and handled.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the core concepts and implications in detail.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/wmhYDKUvCUc?t=0) Introduction and initial context
+- [1:01](https://youtu.be/wmhYDKUvCUc?t=61) Explanation of the current alert generation process
+- [2:00](https://youtu.be/wmhYDKUvCUc?t=120) Discussion on the limitations of human-defined signatures
+-  Overview of how AI can analyze infinite signals
+-  Explanation of missed signals due to human limitations
+-  Conclusion on the shift in alert handling with AI
+
+**Key takeaways:**
+- AI can detect cyber threats before alerts are triggered.
+- Current alert generation relies on human-defined signatures, which are limited.
+- AI can analyze infinite signals, potentially catching more threats.
+- The shift to AI-driven alert generation requires trust in AI systems.
+
+
+_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
