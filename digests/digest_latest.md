@@ -213,3 +213,318 @@ _Summary covers the first ~20,000 words of the transcript._
 
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
+
+<!-- run 12:38Z -->
+
+## David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience
+
+**Sequoia Capital** · 1:07:54 · Oct 13 · [watch](https://www.youtube.com/watch?v=L4SWQebqhek)
+
+**TL;DR:** David Silver and Lasse Espeholt discuss their research on a superlearner capable of autonomously discovering knowledge across all domains, including technology, mathematics, and language, without human input or guidance.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and technical details provided in the full video.
+
+**Bookmarks:**
+- [12:34](https://youtu.be/L4SWQebqhek?t=754) — Dave Silver explains the essence of superintelligence.
+- [17:24](https://youtu.be/L4SWQebqhek?t=1044) — Lasse describes the open-ended goals for the superlearner.
+- [23:34](https://youtu.be/L4SWQebqhek?t=1414) — Lasse explains the importance of different representations in the environment.
+- [34:47](https://youtu.be/L4SWQebqhek?t=2087) — Lasse predicts the feasibility of their approach.
+- [42:54](https://youtu.be/L4SWQebqhek?t=2574) — Quantum physics and complex phenomena.
+- [46:57](https://youtu.be/L4SWQebqhek?t=2817) — Planning for evidence-based real-world actions.
+- [58:09](https://youtu.be/L4SWQebqhek?t=3489) — Reinforcement learning algorithms and their influence.
+
+**Key takeaways:**
+- The superlearner aims to autonomously discover knowledge across all domains, including technology, mathematics, and language.
+- Crucibles are simulated environments designed to allow the superlearner to discover and learn everything considered intelligence.
+- Open-ended goals are provided to the superlearner to allow it to discover and develop new fields of knowledge.
+- Human data is removed to allow the superlearner to discover knowledge independently.
+- The approach is expected to be feasible and could lead to significant advancements in AI and computing.
+- The superlearner will be aligned with human values to ensure peaceful interactions among superintelligences.
+
+## How He Built the World’s Largest Digital Bank with 140 Million Customers
+
+**Invest Like The Best** · 1:20:32 · Oct 13 · [watch](https://www.youtube.com/watch?v=Rs40uGRyXC8)
+
+**TL;DR:** The video discusses how a digital bank named New Bank has grown to become the world's largest, with 65% of Brazilian adults as customers and plans to reach 100% global access by 2030. The bank leverages AI and technology to reduce costs and improve customer service, aiming to transform the banking industry.
+
+**Worth watching in full?** 5/5 — The summary cannot fully cover the detailed strategies and future outlook provided by the speaker.
+
+**Bookmarks:**
+- [1:00](https://youtu.be/Rs40uGRyXC8?t=60) - Traditional banking market share and New Bank's growth
+- [15:14](https://youtu.be/Rs40uGRyXC8?t=914) - Speed as a competitive advantage for startups
+- [27:25](https://youtu.be/Rs40uGRyXC8?t=1645) - Crypto and stable coins in the financial landscape
+- [35:33](https://youtu.be/Rs40uGRyXC8?t=2133) - Opportunities in less obvious areas for fintech investments
+- [51:51](https://youtu.be/Rs40uGRyXC8?t=3111) - AI's role in reinventing the organization
+- [1:06:08](https://youtu.be/Rs40uGRyXC8?t=3968) - Redesigning the founder role
+- [1:20:22](https://youtu.be/Rs40uGRyXC8?t=4822) - Using tools like Vanta and Ridgeline for compliance
+
+**Key takeaways:**
+- New Bank has grown to 65% of Brazilian adults as customers and aims for 100% global access by 2030.
+- AI and technology reduce costs and improve services, making digital banks more competitive.
+- The digital landscape is becoming more homogeneous, with fintech opportunities less specific to geography.
+- AI reinvention leads to a more horizontal organizational structure, reducing layers from 10 to 5.
+- The company brain provides real-time information across the organization, enhancing visibility and decision-making.
+- Patience and strategic thinking are key, with founders needing to balance hands-on work and systems thinking.
+- Finding a mission that excites and motivates founders is crucial for long-term success.
+
+## JPMorgan and Wells Fargo Report; JNJ and UNH Earnings | Stock Movers
+
+**Bloomberg Podcasts** · 4:29 · Oct 13 · [watch](https://www.youtube.com/watch?v=d9UAQOtkeP8)
+
+**TL;DR:** The video covers earnings reports from JPMorgan Chase, Wells Fargo, and United Health Group, with JPMorgan and Wells Fargo reporting lower than expected, while United Health Group showed strong growth. The Stock Movers Report highlights the performance of these companies and their impact on the stock market.
+
+**Worth watching in full?** 4/5 — The summary provides a good overview, but the full video offers more context and analysis that cannot be fully captured in a summary.
+
+**Bookmarks:**
+- [0:02](https://youtu.be/d9UAQOtkeP8?t=2) Introduction and context
+- [1:04](https://youtu.be/d9UAQOtkeP8?t=64) JPMorgan Chase earnings report
+- [2:05](https://youtu.be/d9UAQOtkeP8?t=125) Wells Fargo earnings report
+- [3:06](https://youtu.be/d9UAQOtkeP8?t=186) United Health Group earnings report
+- [4:07](https://youtu.be/d9UAQOtkeP8?t=247) Johnson and Johnson earnings report
+
+**Key takeaways:**
+- JPMorgan Chase saw a drop in trading and fixed income sales, below estimates.
+- Wells Fargo reported a decline in total revenue, but saw a rise in net interest income.
+- United Health Group raised its profit outlook, with a focus on medical claims efficiency.
+- Johnson and Johnson saw a beat in earnings per share, but the stock declined in pre-market trading.
+
+**Stocks mentioned:**
+- JPM (JPM)
+- WFC (Wells Fargo)
+- UNH (United Health Group)
+- JNJ (Johnson and Johnson)
+
+## Housing, Autos Hit By High Interest Rates, Say Fed Governor Waller
+
+**Bloomberg Podcasts** · 20:38 · Oct 13 · [watch](https://www.youtube.com/watch?v=8zGmXTIKPAQ)
+
+**TL;DR:** Federal Reserve Governor Waller discusses the impact of high interest rates on housing, autos, and the economy, highlighting the importance of AI technology, inflation dynamics, and the relationship between fiscal and monetary policies. He also emphasizes the role of the bond market and Congress in protecting the independence of the Federal Reserve.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but misses the detailed explanations and specific examples provided in the full video.
+
+**Bookmarks:**
+- [1:01](https://youtu.be/8zGmXTIKPAQ?t=61) - Europe's AI adoption and its correlation with GDP per capita
+- [3:03](https://youtu.be/8zGmXTIKPAQ?t=183) - The lag between AI technology adoption and GDP growth
+- [7:14](https://youtu.be/8zGmXTIKPAQ?t=434) - The persistence of inflation from IT build-out investments
+- [14:23](https://youtu.be/8zGmXTIKPAQ?t=863) - The disappearance of the convenience yield and its implications for interest rates
+- [15:24](https://youtu.be/8zGmXTIKPAQ?t=924) - The relationship between bond yields and fiscal policy issues
+- [16:28](https://youtu.be/8zGmXTIKPAQ?t=988) - The comparison to post-World War II era and the impact of inflation on debt
+
+**Key takeaways:**
+- Europe's AI adoption is highly correlated with its GDP per capita.
+- AI technology adoption can lead to productivity gains but not immediately visible in GDP numbers.
+- High levels of IT investment could persistently push up yields in other countries, potentially leading to global inflation.
+- The convenience yield has disappeared, signaling potential higher interest rates.
+- The bond market plays a crucial role in protecting the independence of the Federal Reserve.
+- Fiscal policy impacts on monetary policy, with France potentially closer to fiscal dominance affecting monetary policy.
+
+**Stocks mentioned:**
+- None
+
+NOTES:
+- [1:01](https://youtu.be/8zGmXTIKPAQ?t=61) - Europe's AI adoption and its correlation with GDP per capita
+- [3:03](https://youtu.be/8zGmXTIKPAQ?t=183) - The lag between AI technology adoption and GDP growth
+- [7:14](https://youtu.be/8zGmXTIKPAQ?t=434) - The persistence of inflation from IT build-out investments
+- [14:23](https://youtu.be/8zGmXTIKPAQ?t=863) - The disappearance of the convenience yield and its implications for interest rates
+- [15:24](https://youtu.be/8zGmXTIKPAQ?t=924) - The relationship between bond yields and fiscal policy issues
+- [16:28](https://youtu.be/8zGmXTIKPAQ?t=988) - The comparison to post-World War II era and the impact of inflation on debt
+
+## LVMH Keeps Dipping, BP Gains, Whitbread Jumps | Stock Movers
+
+**Bloomberg Podcasts** · 4:29 · Oct 13 · [watch](https://www.youtube.com/watch?v=MVQkOa14H1w)
+
+**TL;DR:** The video discusses the performance of several European stocks, focusing on LVMH, BP, and Whitbread, highlighting their stock movements and earnings reports. The main conclusion is that LVMH's shares declined slightly, while BP and Whitbread saw gains.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and stock movements in detail.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/MVQkOa14H1w?t=0) Introduction and overview of the Stock Movers Report
+- [1:00](https://youtu.be/MVQkOa14H1w?t=60) LVMH's third-quarter earnings and performance
+- [2:02](https://youtu.be/MVQkOa14H1w?t=122) BP's third-quarter earnings and debt reduction
+- [3:02](https://youtu.be/MVQkOa14H1w?t=182) Whitbread's performance and upcoming shareholder meeting
+
+**Key takeaways:**
+- LVMH's shares declined by about 1% due to a 5% drop in fashion and leather goods sales and a significant impact from China.
+- BP's shares rose by about 1.6% as they reached their net debt target for 2027, helped by the Iran war volatility.
+- Whitbread's shares increased by about 4% on strong first-half numbers, including a 5-year growth plan and a restructuring of their restaurants business.
+
+**Stocks mentioned:**
+- LVMH (ticker: LVMH)
+- BP (ticker: BP)
+- Whitbread (ticker: WLTW)
+
+## LVMH Slips, Givaudan Rises, Finnair Soars | Stock Movers
+
+**Bloomberg Podcasts** · 3:58 · Oct 13 · [watch](https://www.youtube.com/watch?v=15l9sPnWkEw)
+
+**TL;DR:** The video discusses stock movements in LVMH, Givaudan, and Finnair, highlighting the impact of China's luxury market slump, strong growth in fragrance and flavor maker Jivo, and Finnair's positive outlook despite challenges.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video as it covers key details and context not present in the summary.
+
+**Bookmarks:**
+- [0:02](https://youtu.be/15l9sPnWkEw?t=2) Introduction and overview of the Stock Movers Report
+- [1:02](https://youtu.be/15l9sPnWkEw?t=62) LVMH performance and outlook
+- [2:03](https://youtu.be/15l9sPnWkEw?t=123) Jivo's strong performance and growth
+- [3:04](https://youtu.be/15l9sPnWkEw?t=184) Finnair's positive outlook and challenges
+
+**Key takeaways:**
+- LVMH shares fell 1.4% due to China's luxury market slump.
+- Jivo, a fragrance and flavor maker, saw its shares rise 7% with strong like-for-like growth.
+- Finnair's shares surged 13% as it raised its revenue and profit guidance despite challenges.
+
+**Stocks mentioned:**
+- LVMH (ticker: LVH)
+- Jivo (ticker: JIV)
+- Finnair (ticker: FII)
+
+## Narendra Modi Warns Trade & Technology Being 'Weaponized'
+
+**Bloomberg Podcasts** · 31:25 · Oct 13 · [watch](https://www.youtube.com/watch?v=mF0JEbBwMXc)
+
+**TL;DR:** Narendra Modi discusses the power of innovation and technology in empowering individuals and nations, emphasizing India's commitment to global collaboration and shared prosperity.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but the full video provides additional context and examples.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/mF0JEbBwMXc?t=0) Welcome and introduction
+- [1:01](https://youtu.be/mF0JEbBwMXc?t=61) Modi's respect for Bloomberg and India's democratic traditions
+- [3:12](https://youtu.be/mF0JEbBwMXc?t=192) The transformation of power in the 21st century
+- [4:15](https://youtu.be/mF0JEbBwMXc?t=255) The vision of the power to empower
+- [7:21](https://youtu.be/mF0JEbBwMXc?t=441) India's digital payments ecosystem
+- [11:42](https://youtu.be/mF0JEbBwMXc?t=702) India's global engagement during the pandemic
+- [17:56](https://youtu.be/mF0JEbBwMXc?t=1076) India's commitment to climate change and renewable energy
+
+**Key takeaways:**
+- India has lifted 250 million people out of poverty over the last decade.
+- India is the first G20 country to fulfill its Paris Agreement commitment ahead of schedule.
+- India has created several global initiatives like the International Solar Alliance, Coalition for Disaster Resilient Infrastructure, and India- Middle East-Europe Economic Corridor (IMEC).
+- India's foreign exchange reserves are over $700 billion, and its sovereign ratings are being upgraded.
+- India has reduced its current account deficit from over 4% to 0.61% of GDP.
+
+## Bumble Jumps, Meta Gains on Muse Wonder Release, Syndax Therapeutics Sinks | Stock Movers
+
+**Bloomberg Podcasts** · 4:29 · Oct 12 · [watch](https://www.youtube.com/watch?v=6NoOCwy2uvk)
+
+**TL;DR:** Bumble (BMBL) surged 50% after reports of a potential private placement, while Meta (META) gained 3.4% following CEO Mark Zuckerberg's announcement of the release of Muse Wonder. Syndax Pharmaceuticals (SNDX) sank 17% post-market after its drug failed to meet key trial goals for a rare lung disease.
+
+**Worth watching in full?** 4/5 — The summary captures the main points but misses some details and context.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/6NoOCwy2uvk?t=0) Bumble (BMBL) surges 50%
+- [1:01](https://youtu.be/6NoOCwy2uvk?t=61) Meta (META) gains 3.4%
+- [2:02](https://youtu.be/6NoOCwy2uvk?t=122) Syndax Pharmaceuticals (SNDX) sinks 17%
+
+**Key takeaways:**
+- Bumble (BMBL) saw a significant one-day jump to over 50%.
+- Meta (META) announced the release of Muse Wonder, a milestone in their AI investment.
+- Syndax Pharmaceuticals (SNDX) experienced a post-market decline due to a failed trial for a drug treating a rare lung disease.
+
+**Stocks mentioned:**
+- BMBL (Bumble)
+- SNDX (Syndax Pharmaceuticals) - Bearish
+- META (Meta) - Neutral
+
+## Trump’s Diesel Deal With Putin Causes GOP Heartburn
+
+**Bloomberg Podcasts** · 54:04 · Oct 12 · [watch](https://www.youtube.com/watch?v=2vaQKSzAwyc)
+
+**TL;DR:** The video discusses the growing demand for data centers and AI agents, particularly focusing on Meta's AI model Muse and its potential environmental impact. It also covers the Trump-Putin diesel deal and its impact on the GOP, but the main focus is on the tech and financial aspects of AI and data center spending.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses some detailed analysis and specific company discussions.
+
+**Bookmarks:**
+- [12:37](https://youtu.be/2vaQKSzAwyc?t=757) Data center spending growth explained by Bloomberg Intelligence
+- [14:40](https://youtu.be/2vaQKSzAwyc?t=880) Meta's Muse and the need for more infrastructure
+- [33:08](https://youtu.be/2vaQKSzAwyc?t=1988) Meta's debt situation and cost-cutting measures
+- [40:17](https://youtu.be/2vaQKSzAwyc?t=2417) The US government's role in production and technology costs
+- [41:19](https://youtu.be/2vaQKSzAwyc?t=2479) The Global Defense Network and availability of the Pac Three Edge
+- [43:20](https://youtu.be/2vaQKSzAwyc?t=2600) The department's approach to different types of interceptors
+- [53:30](https://youtu.be/2vaQKSzAwyc?t=3210) Salesforce's stock performance and potential for AI tools
+
+**Key takeaways:**
+- Bloomberg Intelligence projects $1.7 trillion in data center spending by 2027.
+- Meta's AI model Muse requires more than ten gigawatts of infrastructure.
+- Analysts are concerned about the environmental impact of AI models.
+- The US government will only pay for the recurring cost of the Pac Three Edge missile system.
+- The market for low-cost interceptors is expected to grow, with the US government as a primary customer.
+- Bristol Myers Squibb's drug trial results are confusing and could affect the drug's future.
+- Salesforce's stock is up after Bank of America upgraded it to a buy from a sell.
+
+**Stocks mentioned:**
+- Bristol Myers Squibb (BMI)
+- Salesforce (CRM)
+
+## Why USV is writing bigger checks without abandoning its thesis
+
+**Sourcery with Molly O'Shea** · 1:49 · Oct 12 · [watch](https://www.youtube.com/shorts/oQ9xQqAmnks)
+
+**TL;DR:** The video discusses how USV is increasing its investment checks due to a shift in market conditions and increased startup fundraising, without altering their investment strategy or thesis.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and context.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/oQ9xQqAmnks?t=0) Introduction and market changes
+- [1:00](https://youtu.be/oQ9xQqAmnks?t=60) Feedback from LPs and market consensus
+
+**Key takeaways:**
+- USV is increasing investment checks due to market changes and higher startup fundraising.
+- The increase in investment does not change their investment strategy or thesis.
+- LPs and the market are in agreement about the current state of the market.
+
+## David Friedberg: “AI is birthing a new religion.”
+
+**All-In Podcast** · 1:51 · Oct 12 · [watch](https://www.youtube.com/shorts/XdIBwOukEiE)
+
+**TL;DR:** The speaker argues that the belief in AI consciousness is forming a new religion, similar to how belief in other belief systems has been formed historically. He predicts that this will lead to conflicts between groups that believe AI is conscious and those that do not.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main argument and conclusion but misses out on the detailed explanation and context.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/XdIBwOukEiE?t=0) Introduction and main argument
+- [1:01](https://youtu.be/XdIBwOukEiE?t=61) The potential conflict between groups believing in and not believing in AI consciousness
+
+**Key takeaways:**
+- AI consciousness belief is being treated like a new religion
+- It could lead to conflicts between groups with different beliefs about AI
+- Powerful AI labs are encouraging religious leaders to believe in AI consciousness
+
+## Bull Market Turns 4: Buy Highs or Wait for a Dip?
+
+**TheStreet** · 19:24 · Oct 12 · [watch](https://www.youtube.com/watch?v=oPwxfyOUzlQ)
+
+**TL;DR:** The video discusses the current bull market in the S&P 500, suggesting a target of 8,000, and advises on watching interest rates, oil prices, and specific sectors like tech and semiconductors for future leadership.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed analysis and charts provided in the full video.
+
+**Bookmarks:**
+- [1:00](https://youtu.be/oPwxfyOUzlQ?t=60) - S&P 500 technical level and interest rates
+- [3:02](https://youtu.be/oPwxfyOUzlQ?t=182) - Oil prices and interest rates
+- [4:02](https://youtu.be/oPwxfyOUzlQ?t=242) - Oil price breakout risk
+- [6:03](https://youtu.be/oPwxfyOUzlQ?t=363) - Nvidia chart and resistance levels
+- [13:09](https://youtu.be/oPwxfyOUzlQ?t=789) - Price targets and momentum
+- [14:10](https://youtu.be/oPwxfyOUzlQ?t=850) - Tech sectors and financials
+- [16:11](https://youtu.be/oPwxfyOUzlQ?t=971) - Nvidia breakout and recommendation
+
+**Key takeaways:**
+- S&P 500 is trading above 7,800, with a target of 8,000 based on recent consolidation.
+- Tech, particularly tech mega caps like Microsoft and Nvidia, are key areas to watch for future leadership.
+- Oil prices are crucial, with Brent above 102, a key summer high, and a risk if it breaks above 115 to 125.
+- Nvidia has broken above 235, with a breakout above this level seen as a constructive setup for the stock and broader tech sector.
+- Microsoft's co-pilot seats have increased from 20 million to 30 million, indicating growth.
+- The S&P 500 bull market is likely to continue, supported by strong fundamentals and momentum, with a recommendation to buy the breakout rather than waiting for a pullback.
+
+**Stocks mentioned:**
+- Nvidia (bullish)
+- Microsoft (bullish)
+- None
+
+## Skipped as off-topic
+
+- [Bloomberg News Now: Trump Says He Doesn’t Believe Russia, China Are Helping Iran](https://www.youtube.com/watch?v=ofiEy0npFXc) — Bloomberg Podcasts
+- [Trump Dismisses Iran Aid Concerns; Houthis Continue Saudi Attacks | Bloomberg Daybreak: US Edition](https://www.youtube.com/watch?v=9Ef91u5P8HQ) — Bloomberg Podcasts
+- [Trump-Putin Diesel Deal Draws Backlash | Bloomberg Businessweek](https://www.youtube.com/watch?v=me61dH1Mmkk) — Bloomberg Podcasts
+- [Bloomberg Businessweek Daily Podcast: Trump-Putin Diesel Deal](https://www.youtube.com/watch?v=3ajxXBBGXRk) — Bloomberg Podcasts
+- [Nobody Knows Why the Plague Keeps Coming Back - Si Sheppard](https://www.youtube.com/shorts/RUoY5GCdONY) — Dwarkesh Patel
+
+
+_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
