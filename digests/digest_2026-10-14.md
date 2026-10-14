@@ -243,3 +243,353 @@
 
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
+
+<!-- run 13:03Z -->
+
+## ASML Rises, Orsted Drops, Galderma Slips | Stock Movers
+
+**Bloomberg Podcasts** · 4:11 · Oct 14 · [watch](https://www.youtube.com/watch?v=5grg43KBFYg)
+
+**TL;DR:** The video discusses earnings reports for ASML and Galderma, highlighting ASML's strong performance and Galderma's mixed performance due to a high valuation. The main conclusion is that ASML's earnings report shows strong demand for their semiconductor manufacturing equipment, while Galderma's acquisition of a skincare company faces challenges due to a high valuation.
+
+**Worth watching in full?** 4/5 — The summary captures the key points but misses some details that are crucial for understanding the full context.
+
+**Bookmarks:**
+- [0:02](https://youtu.be/5grg43KBFYg?t=2) ASML's earnings and their outlook
+- [1:04](https://youtu.be/5grg43KBFYg?t=64) ASML's lead time and AI demand
+- [2:06](https://youtu.be/5grg43KBFYg?t=126) ASML's offshore wind farm permit issue
+- [3:07](https://youtu.be/5grg43KBFYg?t=187) Galderma's acquisition and its impact on shares
+
+**Key takeaways:**
+- ASML's shares rose 3.5% on strong earnings and strong demand for semiconductor manufacturing equipment.
+- Galderma's shares dropped 1.5% due to a high valuation despite a favorable acquisition of a skincare company.
+- ASML has a lead time of about a year between order and delivery, showing the strength of AI demand.
+- Galderma's CEO expects the US to account for a majority of their sales in the future.
+
+**Stocks mentioned:**
+- ASML (ASML.DE): Bullish
+- Galderma (GAL.DE): Neutral
+
+## Bank of America and BlackRock Report; ASML and GME Gain | Stock Movers
+
+**Bloomberg Podcasts** · 3:59 · Oct 14 · [watch](https://www.youtube.com/watch?v=PmDx99ZHG7s)
+
+**TL;DR:** The Stock Movers Report covers earnings reports from Bank of America and BlackRock, with ASML also in focus due to its earnings guidance. Bank of America's shares are down, while BlackRock's are up. ASML's shares are down due to concerns about meeting demand in the AI boom.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full podcast, as it covers the context, key numbers, and market reactions in detail.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/PmDx99ZHG7s?t=0) Introduction and opening stock moves
+- [1:01](https://youtu.be/PmDx99ZHG7s?t=61) Bank of America earnings and revenue performance
+- [2:02](https://youtu.be/PmDx99ZHG7s?t=122) BlackRock earnings and asset inflows
+- [3:04](https://youtu.be/PmDx99ZHG7s?t=184) ASML earnings guidance and demand concerns
+
+**Key takeaways:**
+- Bank of America's shares fell 3.7% pre-market due to revenue shortfalls.
+- BlackRock's shares rose 3% post-earnings, with revenue up 19% and asset inflows of $25 billion.
+- ASML's shares dropped 1% due to concerns about meeting demand in the AI boom and potential impact from Tesla's chip plans.
+
+**Stocks mentioned:**
+- Bank of America (BAC)
+- BlackRock (BLK)
+- ASML (ASML)
+
+## Could A 'Beige' Budget Be Good For The UK?
+
+**Bloomberg Podcasts** · 7:39 · Oct 14 · [watch](https://www.youtube.com/watch?v=4nioqfhgnmw)
+
+**TL;DR:** The video discusses the upcoming UK budget under a new Labour government, focusing on the potential size and impact of the budget, tax changes, economic growth, job creation, and the lessons from France's fiscal challenges. The main conclusion is that the budget is expected to be relatively modest, but it will still need to address significant spending commitments and inflation pressures.
+
+**Worth watching in full?** 4/5 — The summary covers the key points but misses out on the detailed analysis and expert insights provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/4nioqfhgnmw?t=0) Introduction and context
+- [1:03](https://youtu.be/4nioqfhgnmw?t=63) Taxation changes and headroom estimates
+- [2:03](https://youtu.be/4nioqfhgnmw?t=123) Bank tax and capital gains tax
+- [3:05](https://youtu.be/4nioqfhgnmw?t=185) Spending commitments and inflation impact
+- [4:06](https://youtu.be/4nioqfhgnmw?t=246) Focus on economic growth and job creation
+- [5:09](https://youtu.be/4nioqfhgnmw?t=309) Labour's approach to the labour market and welfare
+
+**Key takeaways:**
+- The UK budget is expected to be relatively modest, but it will need to address significant spending commitments and inflation pressures.
+- Tax changes, particularly on capital gains, are expected to be small, with small taxation changes at the margins.
+- The budget will need to address a £35 billion gap, likely through savings or increased borrowing.
+- Economic growth from AI investments is expected to be growth-focused rather than job-rich.
+- Labour is expected to take action on the spending side alongside the taxation side, given the need to address inflation and spending commitments.
+
+## Europe's Power Markets Face a New Balancing Act | Switched On
+
+**Bloomberg Podcasts** · 31:06 · Oct 14 · [watch](https://www.youtube.com/watch?v=Qf0Rwt8ZSw8)
+
+**TL;DR:** The video discusses the changing dynamics of European power markets, focusing on the shift from fossil fuels to renewable energy sources and its impact on wholesale and retail prices. The main conclusion is that while renewables are reducing wholesale power prices, they also affect the profitability of existing fossil fuel plants, leading to a potential rebalancing of the market over the long term.
+
+**Worth watching in full?** 4/5 — The summary covers the key points but misses the detailed analysis and expert insights provided in the full video.
+
+**Bookmarks:**
+- [1:01](https://youtu.be/Qf0Rwt8ZSw8?t=61) - Overview of European power markets
+- [7:05](https://youtu.be/Qf0Rwt8ZSw8?t=425) - Reduction in fossil fuel reliance
+- [13:11](https://youtu.be/Qf0Rwt8ZSw8?t=791) - Bloomberg Intelligence forecast for UK power prices
+- [18:17](https://youtu.be/Qf0Rwt8ZSw8?t=1097) - Role of long-term contracts in renewables
+- [20:18](https://youtu.be/Qf0Rwt8ZSw8?t=1218) - Long-term outlook for renewables
+- [26:23](https://youtu.be/Qf0Rwt8ZSw8?t=1583) - Growth in Nordic and Spanish markets
+- [30:32](https://youtu.be/Qf0Rwt8ZSw8?t=1832) - Importance of looking at the bigger picture
+
+**Key takeaways:**
+- Wholesale power prices are influenced by the cost of the most expensive generating facility.
+- Renewable energy sources like wind and solar can reduce wholesale power prices but also cannibalize the revenues of existing fossil fuel plants.
+- Long-term contracts like Power Purchase Agreements (PPAs) and Contracts for Difference (CFDs) provide stability for renewable projects.
+- The Nordic markets and Spain are attractive for solar and battery projects due to their gas-heavy markets and lack of nuclear power.
+- Power marketers need to be more flexible, emphasizing demand-side flexibility to make power systems more robust.
+
+## ASML Gains, Big Yellow Jumps, Admiral Dips | Stock Movers
+
+**Bloomberg Podcasts** · 4:18 · Oct 14 · [watch](https://www.youtube.com/watch?v=jOgSa4lTsxE)
+
+**TL;DR:** The video discusses the performance of ASML, Big Yellow Group, and Admiral, highlighting their stock movements and the reasons behind them. The main conclusion is that ASML's positive earnings report has boosted its stock, while Admiral's insurance provider status faces challenges due to rising claims inflation.
+
+**Worth watching in full?** 4/5 — The summary captures the essence of the video, but some details are omitted, leaving out the full context of the earnings reports and activist investor actions.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/jOgSa4lTsxE?t=0) Introduction and ASML's earnings report
+- [1:01](https://youtu.be/jOgSa4lTsxE?t=61) ASML's capacity growth and demand outlook
+- [2:01](https://youtu.be/jOgSa4lTsxE?t=121) Big Yellow Group's stock performance and activist investor Anora Holdings
+- [3:02](https://youtu.be/jOgSa4lTsxE?t=182) Admiral's insurance provider status and earnings season
+
+**Key takeaways:**
+- ASML's shares up 2% after positive earnings report
+- Big Yellow Group's shares up 5% due to activist investor Anora Holdings
+- Admiral's shares down 2% due to concerns over rising claims inflation and competitive market conditions
+
+**Stocks mentioned:**
+- ASML (Nasdaq: ASML)
+- Big Yellow Group (LSE: BIGY)
+- Admiral (LSE: ADMR)
+
+## Bloomberg Businessweek Daily Podcast: Big Bank Earnings Begin
+
+**Bloomberg Podcasts** · 34:57 · Oct 13 · [watch](https://www.youtube.com/watch?v=XRMv2b5rEfE)
+
+**TL;DR:** The video discusses the earnings of major banks, focusing on Goldman Sachs and JPMorgan, and their impact on the financial markets, including credit, interest rates, and geopolitical risks. It also covers the AI and technology sector, with a focus on the banking sector's response to AI credit underwriting and the Federal Reserve's interest rate projections. The discussion also touches on the potential impact of the midterm elections and the role of OpenAI in the AI industry.
+
+**Worth watching in full?** 5/5 — The summary cannot fully replace the detailed insights and discussions in the full video.
+
+**Bookmarks:**
+- [1:04](https://youtu.be/XRMv2b5rEfE?t=64) — Goldman Sachs and JPMorgan's earnings and their implications
+- [4:07](https://youtu.be/XRMv2b5rEfE?t=247) — JPMorgan's CEO's comments on AI credit underwriting
+- [9:18](https://youtu.be/XRMv2b5rEfE?t=558) — V Squared Quantitative Management's focus on cash flow expectations
+- [15:31](https://youtu.be/XRMv2b5rEfE?t=931) — Potential impact of midterm elections on financial markets
+- [22:38](https://youtu.be/XRMv2b5rEfE?t=1358) — Bloomberg Opinion columnist's concerns about AI risks and industry lobbying
+- [27:53](https://youtu.be/XRMv2b5rEfE?t=1673) — Studies on the importance of in-person interaction for productivity
+- [31:59](https://youtu.be/XRMv2b5rEfE?t=1919) — CEO's views on remote work benefits and challenges
+
+**Key takeaways:**
+- Goldman Sachs saw a 72% year-over-year increase in equity trading, while JPMorgan's equity trading was strong but fixed income lagged due to higher interest rates.
+- JPMorgan's CEO, Jamie Dimon, indicated that the banks are being more cautious with AI credit underwriting due to underlying risks.
+- The Federal Reserve Bank of New York's President, John Williams, projected one more interest rate hike for the year, which is seen as positive for banks.
+- OpenAI discovered a sophisticated recording device in one of their offices, leading to the termination of the employee and referral to the FBI.
+- Bloomberg Opinion columnist Gotham discussed the potential for AI to cause major disasters and the industry's response, including lobbying Congress.
+- The pandemic accelerated remote work trends, but studies indicate that in-person interaction is crucial for productivity, especially for junior workers.
+- The CEO suggested that remote work can benefit families, particularly for childcare, and help keep more women in the labor market.
+
+## Frontier AI Is Coming for the Patch Backlog
+
+**Six Five Media** · 1:44 · Oct 13 · [watch](https://www.youtube.com/shorts/0Jk9pznbBMA)
+
+**TL;DR:** The video discusses how organizations are increasingly relying on AI tools to quickly patch security vulnerabilities, as the risk of a breach is higher than the risk of backtracking on a patch. It emphasizes the importance of security over functionality and availability, especially for large organizations.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and examples provided in the video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/0Jk9pznbBMA?t=0) Introduction to the topic
+- [1:02](https://youtu.be/0Jk9pznbBMA?t=62) Explanation of how Frontier AI tools can speed up the patching process
+
+**Key takeaways:**
+- Organizations are now prioritizing security over functionality, especially in the context of security vulnerabilities.
+- AI tools are being used to generate and suggest secure configurations, which can help speed up the patching process.
+- The trend will start with large organizations and will eventually affect how people choose to do their banking, prioritizing security over availability.
+
+## Why Post-Quantum Planning Can't Wait
+
+**Six Five Media** · 1:33 · Oct 13 · [watch](https://www.youtube.com/shorts/AYATT1rpnhY)
+
+**TL;DR:** The video discusses the challenges of post-quantum cryptography planning, highlighting the lack of a specific deadline and the potential for a technology breakthrough to occur sooner rather than later. The main conclusion is that planning should begin now to mitigate risks and prepare for the transition to quantum-resistant cryptography.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and expert analysis provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/AYATT1rpnhY?t=0) Introduction and the need for post-quantum cryptography planning
+- [1:01](https://youtu.be/AYATT1rpnhY?t=61) The challenges of planning due to the lack of a specific deadline and potential for early breakthroughs
+
+**Key takeaways:**
+- Post-quantum cryptography planning should begin now to avoid delays
+- The timeline for the development of quantum computers is uncertain
+- Understanding dependencies and preparing for the transition is crucial
+
+## AlphaGo Took 2 Years. AlphaZero Beat It in Hours | David Silver, Ineffable Intelligence
+
+**Sequoia Capital** · 1:35 · Oct 13 · [watch](https://www.youtube.com/shorts/cgV74qRWolo)
+
+**TL;DR:** The video discusses how AlphaGo, which took 2 years to develop, was quickly surpassed by AlphaZero, which learned independently without human intervention. The main conclusion is that letting go of human data is crucial for achieving breakthroughs in artificial intelligence.
+
+**Worth watching in full?** 5/5 — The summary cannot cover the full depth and insights provided in the video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/cgV74qRWolo?t=0) Introduction to AlphaGo and AlphaZero
+- [1:01](https://youtu.be/cgV74qRWolo?t=61) Comparison of AlphaGo and AlphaZero performance
+
+**Key takeaways:**
+- AlphaZero outperformed AlphaGo in just a few hours.
+- The key to breakthroughs in AI is letting go of human data.
+- The video emphasizes the importance of developing algorithms that can learn independently.
+
+## Salesforce CEO Marc Benioff Says to Get Your Data Right
+
+**Six Five Media** · 2:12 · Oct 13 · [watch](https://www.youtube.com/shorts/k933pimMu00)
+
+**TL;DR:** Salesforce CEO Marc Benioff emphasizes the importance of getting data right for AI accuracy, mentioning acquisitions like Informatica and Mulesoft to harmonize and integrate data. He also discusses the need for semantic layers and agentic layers in applications, and the importance of building interfaces on top of these layers.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but misses out on the detailed explanations and examples provided in the video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/k933pimMu00?t=0) Overview of the four layers: data, apps, semantics, and agents
+- [1:00](https://youtu.be/k933pimMu00?t=60) Importance of semantic layers for accurate data application
+- [2:04](https://youtu.be/k933pimMu00?t=124) Discussion on the hardware layer and the importance of infrastructure
+
+**Key takeaways:**
+- Salesforce CEO Benioff highlights the importance of getting data right for AI.
+- He mentions acquisitions like Informatica and Mulesoft to integrate data.
+- He stresses the need for semantic layers in applications to ensure accuracy.
+- The video discusses the importance of building interfaces on top of these layers.
+
+## This Bank Has More Upside than JP Morgan: Stocks To Buy After Earnings
+
+**TheStreet** · 20:27 · Oct 13 · [watch](https://www.youtube.com/watch?v=DXsdn-Aoits)
+
+**TL;DR:** The video discusses the potential upside in stocks like Croup, emphasizing the importance of investing in companies that are actively investing in areas like AI and cybersecurity. It also provides advice on how to allocate a portfolio, particularly for a shorter-term portfolio manager.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but the full video provides additional context and insights.
+
+**Bookmarks:**
+- [1:01](https://youtu.be/DXsdn-Aoits?t=61) - Croup's upside potential
+- [4:02](https://youtu.be/DXsdn-Aoits?t=242) - Investing in companies investing
+- [5:03](https://youtu.be/DXsdn-Aoits?t=303) - Cash flow concerns for Mag 7 companies
+- [6:04](https://youtu.be/DXsdn-Aoits?t=364) - Companies investing in AI and cybersecurity
+- [13:10](https://youtu.be/DXsdn-Aoits?t=790) - Short-term portfolio allocation
+- [15:12](https://youtu.be/DXsdn-Aoits?t=912) - Micron and other tech stocks
+- [16:13](https://youtu.be/DXsdn-Aoits?t=973) - Specific tech stock recommendations
+
+**Key takeaways:**
+- Croup has the most upside potential.
+- Dave Ellison recommends a balanced portfolio with 50% in the S&P 500, 20% in cash, and the rest in individual stocks.
+- Companies investing in AI and cybersecurity are seen as more promising.
+- Micron is not recommended, but companies like Amazon, Nvidia, ASML, and TSMC are.
+- Wells Fargo is not recommended for the next 12 months.
+
+**Stocks mentioned:**
+- Croup
+- Amazon (AMZN)
+- Nvidia (NVDA)
+- Micron (MU)
+- ASML (ASML)
+- TSMC (TSM)
+- Dave Ellison (not a stock)
+
+## What surprised PG about AI
+
+**Y Combinator** · 1:50 · Oct 13 · [watch](https://www.youtube.com/shorts/cp7mBZJkaCs)
+
+**TL;DR:** The speaker discusses how early AI models, like the first versions of chat GPT, were surprisingly human-like and flawed, rather than perfect and advanced, as initially expected.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but misses the detailed insights and anecdotes shared in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/cp7mBZJkaCs?t=0) Introduction and initial expectation of AI development
+- [1:00](https://youtu.be/cp7mBZJkaCs?t=60) Description of early AI models and their shortcomings
+-  Discussion on the "jagged frontier" and AI's limitations
+-  Explanation of how AI models are improving but still have significant flaws
+
+**Key takeaways:**
+- Early AI models were surprisingly human-like and flawed, rather than perfect and advanced.
+- The development of AI is not a linear progression from simple to complex, but rather a jagged path with significant gaps.
+- AI can solve complex problems but still struggles with basic everyday tasks.
+
+## Fred Wilson: AI Is Still Waiting for Its Facebook Moment
+
+**Sourcery with Molly O'Shea** · 1:31 · Oct 13 · [watch](https://www.youtube.com/shorts/5ItmitgyFvk)
+
+**TL;DR:** Fred Wilson discusses the current state of AI, comparing it to the internet in 2003, where the infrastructure was in place but applications were still developing. He suggests we are now at a similar stage with AI, with the infrastructure built but the applications and use cases still emerging.
+
+**Worth watching in full?** 5/5 — The summary cannot fully cover the nuances and insights provided by Wilson in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/5ItmitgyFvk?t=0) Introduction and comparison to the internet in 2003
+- [1:00](https://youtu.be/5ItmitgyFvk?t=60) Current state of AI applications and the emergence of new layers
+
+**Key takeaways:**
+- AI infrastructure has been built, but applications are still developing
+- The current moment feels like the internet in 2003, with new layers of applications emerging
+- New AI applications like Instinct and Muse are powering new experiences for both enterprise and consumers
+
+## More likely: S&P 500 7,000 or S&P 500 8,500? Art Hogan goes rapid-fire in a game of “This or That.”
+
+**TheStreet** · 1:26 · Oct 13 · [watch](https://www.youtube.com/shorts/6cTatGJaDlE)
+
+**TL;DR:** The video discusses various market predictions and investment strategies, concluding that the S&P 500 is more likely to reach 8,500 rather than 7,000, and that financials are the best sector for the rest of 2026.
+
+**Worth watching in full?** 5/5 — The summary cannot replace it, as it covers key points but misses the detailed analysis and expert opinions.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/6cTatGJaDlE?t=0) Stocks near highs, take profits or add more? — Art Hogan's advice to add more to the market.
+- [1:01](https://youtu.be/6cTatGJaDlE?t=61) Year-end S&P 500 price target — Hogan's forecast for the S&P 500.
+-  The best place to put new money today is — Art Hogan's recommendation for financials.
+-  The one stock I'd buy today is — Hogan's pick for Micron.
+-  The one stock I'd sell today is — Hogan's recommendation to sell Oracle.
+-  The one thing that could break this rally is — The risk of higher yields on the 10-year.
+
+**Key takeaways:**
+- The S&P 500 is more likely to reach 8,500 rather than 7,000.
+- Financials are the best sector for the rest of 2026.
+- Micron is the stock to buy today.
+- Oracle is the stock to sell today.
+- Higher yields on the 10-year could break the current rally.
+
+**Stocks mentioned:**
+- Nvidia
+- Apple
+- Microsoft
+- Micron
+- Oracle
+
+## Is a $6,000 AI PC Actually a Bargain?
+
+**Six Five Media** · 7:50 · Oct 13 · [watch](https://www.youtube.com/watch?v=0yOR3KY0D1c)
+
+**TL;DR:** The video discusses the announcement of a $6,000 AI PC by Microsoft and Nvidia, focusing on how local AI models can reduce costs and protect intellectual property. It highlights the benefits of having local AI agents and the importance of cost-effective compute resources. [1:02](https://youtu.be/0yOR3KY0D1c?t=62)
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and context of the announcement. [1:02](https://youtu.be/0yOR3KY0D1c?t=62)
+
+**Bookmarks:**
+- [2:03](https://youtu.be/0yOR3KY0D1c?t=123) Local AI models and their cost-effectiveness
+- [3:04](https://youtu.be/0yOR3KY0D1c?t=184) Microsoft's sandbox for local vs. cloud AI agents
+- [4:04](https://youtu.be/0yOR3KY0D1c?t=244) Microsoft's push-button installation for local AI agents
+- [5:06](https://youtu.be/0yOR3KY0D1c?t=306) Pinnacle's tool for determining compute needs and pricing
+- [6:06](https://youtu.be/0yOR3KY0D1c?t=366) The role of intelligence capabilities and compute pricing
+- [7:06](https://youtu.be/0yOR3KY0D1c?t=426) The importance of tooling and ease of deployment [7:06](https://youtu.be/0yOR3KY0D1c?t=426)
+
+**Key takeaways:**
+- Microsoft and Nvidia announced a $6,000 AI PC for local AI models.
+- The PC can run 20% of developer workload locally, making it cost-effective.
+- Microsoft introduced a sandbox for local vs. cloud AI agents.
+- Pinnacle offers a tool to determine compute needs and pricing.
+- The key is finding the right balance between cost and intelligence capabilities. [7:06](https://youtu.be/0yOR3KY0D1c?t=426)
+
+**Stocks mentioned:**
+- None [None]
+
+## Skipped as off-topic
+
+- [Midterm Debates Heat Up; Russia-Ukraine Energy Ceasefire in Limbo | Bloomberg Daybreak: US Edition](https://www.youtube.com/watch?v=W8NxCvE0mAo) — Bloomberg Podcasts
+- [Bloomberg News Now: Hochul Defends Cornell Case Probe in Debate](https://www.youtube.com/watch?v=MNbVS7GctVM) — Bloomberg Podcasts
+
+
+_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
