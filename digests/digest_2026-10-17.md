@@ -549,3 +549,371 @@
 
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
+
+<!-- run 11:45Z -->
+
+## The case for Mamdani-style populism
+
+**Bloomberg Podcasts** · 1:51 · Oct 17 · [watch](https://www.youtube.com/shorts/6wj2ZRJIBwU)
+
+**TL;DR:** The speaker discusses the challenges of controlling inflation through interest rates, particularly in the context of supply shocks and how this affects labor's share of national income. The main conclusion is that interest rate hikes to combat inflation may not be effective and could lead to increased unemployment, which could result in a democratic backlash.
+
+**Worth watching in full?** 4/5 — The summary covers the core points but misses some of the nuanced explanations and examples provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/6wj2ZRJIBwU?t=0) Introduction and explanation of inflation
+- [1:02](https://youtu.be/6wj2ZRJIBwU?t=62) Discussion on cost of living crisis and its impact
+
+**Key takeaways:**
+- Inflation driven by supply shocks rather than demand
+- Companies passed on cost shocks to maintain profit margins
+- Labor's share of national income has decreased
+- Interest rate hikes may lead to increased unemployment and potential democratic backlash
+
+## AI Is Changing Education. What Should Students Still Learn?
+
+**Practical AI** · 4:16 · Oct 16 · [watch](https://www.youtube.com/watch?v=v5WMYzYJ8BY)
+
+**TL;DR:** The video discusses whether AI will change the educational system and what fundamental skills students should still learn, even as AI integration increases.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the insights and discussions in the full video.
+
+**Bookmarks:**
+- [0:04](https://youtu.be/v5WMYzYJ8BY?t=4) Introduction of the distinction between AI integration and fundamental skills.
+- [1:04](https://youtu.be/v5WMYzYJ8BY?t=64) The potential problem of relying solely on AI for learning basic skills.
+- [2:04](https://youtu.be/v5WMYzYJ8BY?t=124) Example of math learning through AI interfaces.
+- [3:04](https://youtu.be/v5WMYzYJ8BY?t=184) Discussion on the potential loss of skills like spelling if AI becomes prevalent.
+- [4:07](https://youtu.be/v5WMYzYJ8BY?t=247) Importance of critical thinking and creativity in the context of AI.
+
+**Key takeaways:**
+- AI will integrate into various aspects of education.
+- Fundamental skills like critical thinking and creativity are crucial.
+- Basic skills like math may need to be re-evaluated in an AI-integrated world.
+- The educational system needs to adapt to include AI education.
+- Contextual learning is essential for effective collaboration with AI.
+
+## Why More GPUs Won't Fix Your AI Infrastructure Problem
+
+**Six Five Media** · 10:52 · Oct 16 · [watch](https://www.youtube.com/watch?v=jRoi1iKU8JE)
+
+**TL;DR:** The video discusses the challenges of scaling AI infrastructure, particularly the need for integrated cooling solutions as traditional air cooling struggles to handle the high-density thermal conditions of modern GPUs. The main conclusion is that AI infrastructure now requires a full rack integration approach rather than just purchasing separate components.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and technical explanations provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/jRoi1iKU8JE?t=0) Introduction and context
+- [2:03](https://youtu.be/jRoi1iKU8JE?t=123) The shift to full rack integration
+- [3:04](https://youtu.be/jRoi1iKU8JE?t=184) Mytek's approach to addressing operational challenges
+- [5:07](https://youtu.be/jRoi1iKU8JE?t=307) The impact of high power consumption and heat management
+- [7:07](https://youtu.be/jRoi1iKU8JE?t=427) The importance of openness in large-scale environments
+- [8:09](https://youtu.be/jRoi1iKU8JE?t=489) Mytek's in-house development tools for firmware
+- [10:11](https://youtu.be/jRoi1iKU8JE?t=611) The concept of GPU as a service and dynamic workload support
+
+**Key takeaways:**
+- AI infrastructure now requires a full rack integration approach.
+- High power consumption and heat management are major challenges.
+- Mytek's approach includes open architecture, advanced cooling technologies, and standardized firmware.
+- Openness in hardware and firmware is crucial for simplifying management and deployment.
+- Mytek offers a GPU as a service model for more efficient resource utilization.
+- The importance of rapid deployment and scalability in AI infrastructure.
+
+## Wix at 7.5x Free Cash Flow: Deep Value or Value Trap?
+
+**Chip Stock Investor** · 26:05 · Oct 16 · [watch](https://www.youtube.com/watch?v=oHpxGDTzzDs)
+
+**TL;DR:** The video discusses Wix's financial health, particularly its positive free cash flow, and its acquisition of Base44, a startup that has achieved significant revenue growth. Chipstockinvestor concludes that Wix is currently undervalued but suggests a cautious approach given the company's competitive landscape and potential for future growth.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses out on the detailed financial analysis and specific company comparisons.
+
+**Bookmarks:**
+- [1:00](https://youtu.be/oHpxGDTzzDs?t=60) - Revenue growth and Base44 contribution
+- [3:08](https://youtu.be/oHpxGDTzzDs?t=188) - Competing with major AI labs
+- [5:12](https://youtu.be/oHpxGDTzzDs?t=312) - Positive cash flow and share repurchases
+- [11:25](https://youtu.be/oHpxGDTzzDs?t=685) - Declining free cash flow
+- [12:27](https://youtu.be/oHpxGDTzzDs?t=747) - Future growth potential and net profit margin
+- [16:37](https://youtu.be/oHpxGDTzzDs?t=997) - Projected financial metrics and valuation
+
+**Key takeaways:**
+- Wix acquired Base44, a startup that has achieved $150 million in annualized recurring revenue.
+- Wix's positive free cash flow is used to repurchase shares, indicating management's confidence.
+- Wix's net profit margin is projected to increase to 10% over the next five years.
+- Wix has a price to free cash flow ratio of 7.5x, suggesting it is undervalued.
+
+**Stocks mentioned:**
+- Wix (ticker: WIX) — Neutral — The view is based on the company's financial performance and potential for future growth. No specific valuation or targets are provided.
+
+## Nvidia or Amazon? Dave Ellison goes rapid-fire in a game of “This or That.”
+
+**TheStreet** · 1:37 · Oct 16 · [watch](https://www.youtube.com/shorts/rV5B3K5MeCA)
+
+**TL;DR:** Dave Ellison, a tech investor, discusses his views on various stock market and economic topics, including AI, tech stocks, and banking sectors, in a rapid-fire Q&A format.
+
+**Worth watching in full?** 5/5 — The summary cannot fully capture the rapid-fire nature and depth of the insights provided by Dave Ellison.
+
+**Bookmarks:**
+- [0:20](https://youtu.be/rV5B3K5MeCA?t=20) Bank stocks or tech stocks for the next 12 months?
+- [0:30](https://youtu.be/rV5B3K5MeCA?t=30) AI infrastructure or AI software?
+- [0:40](https://youtu.be/rV5B3K5MeCA?t=40) Memory selloff. Healthy shakeout or warning sign?
+- [1:00](https://youtu.be/rV5B3K5MeCA?t=60) Nvidia or Amazon?
+- [1:10](https://youtu.be/rV5B3K5MeCA?t=70) JP Morgan or Goldman Sachs?
+- [1:20](https://youtu.be/rV5B3K5MeCA?t=80) Big banks or regionals from here?
+
+**Key takeaways:**
+- Ellison believes tech stocks will outperform bank stocks in the next 12 months.
+- He views AI infrastructure as more important than software.
+- He sees a healthy shakeout in the memory sector, not a warning sign.
+- He favors Amazon over Nvidia for the next 12 months.
+- He recommends JP Morgan over Goldman Sachs.
+- He thinks the larger banks are more threatened by inflation than rising yields.
+
+**Stocks mentioned:**
+- Amazon (bullish)
+- Nvidia (bearish)
+- JP Morgan (bullish)
+- Goldman Sachs (bearish)
+
+## Vercel CEO Guillermo Rauch on Building the Internet for Agents
+
+**Sourcery with Molly O'Shea** · 1:29:03 · Oct 16 · [watch](https://www.youtube.com/watch?v=WuorvLfAFmA)
+
+**TL;DR:** Vercel CEO Guillermo Rauch discusses the rise of coding agents and the impact of Vercel's platform on the tech industry, emphasizing the importance of transparency, innovation, and secure infrastructure. He also addresses the challenges and future of AI, including the importance of iteration velocity and the role of mentors in the AI-driven hiring process.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and examples provided in the video.
+
+**Bookmarks:**
+- [1:00](https://youtu.be/WuorvLfAFmA?t=60) - Vercel's recent funding and its impact on the tech industry.
+- [3:01](https://youtu.be/WuorvLfAFmA?t=181) - Vercel's focus on innovation and its impact on the tech landscape.
+- [4:02](https://youtu.be/WuorvLfAFmA?t=242) - Rauch's commitment to transparency and giving back to the ecosystem.
+- [6:05](https://youtu.be/WuorvLfAFmA?t=365) - Vercel's adaptation to the AI industry and its role in simplifying complex processes.
+- [8:10](https://youtu.be/WuorvLfAFmA?t=490) - The growth of Vercel's deployments and its impact on the industry.
+- [9:12](https://youtu.be/WuorvLfAFmA?t=552) - The emergence of coding agents and their role in the AI ecosystem.
+
+**Key takeaways:**
+- Vercel has a 90% customer acquisition growth rate, with 60% of AI coding agents using their platform.
+- Vercel's fluid compute technology will be a key part of the future of serverless.
+- Vercel emphasizes the importance of iteration velocity and the role of mentors in the AI-driven hiring process.
+- Vercel's secure infrastructure is crucial for supporting agents and preventing potential security threats.
+**Notes:**
+- [1:00](https://youtu.be/WuorvLfAFmA?t=60) - Vercel raised $300 million in a Series F funding round, bringing its valuation to $9.3 billion.
+- [8:10](https://youtu.be/WuorvLfAFmA?t=490) - Vercel's deployments increased from 1 billion to 1.5 billion in just 10 months.
+- [21:23](https://youtu.be/WuorvLfAFmA?t=1283) - Understanding interactions with bots is crucial for businesses.
+- [29:28](https://youtu.be/WuorvLfAFmA?t=1768) - Salesforce is moving towards a headless model, where software can be used without needing to go directly to the Salesforce interface.
+- [42:52](https://youtu.be/WuorvLfAFmA?t=2572) - The use of agents is exponentially increasing compute.
+- [1:00:12](https://youtu.be/WuorvLfAFmA?t=3612) - The biggest risk for Frontier models is that they may struggle to retain customers if they can't offer unique or differentiated services.
+- [1:04:18](https://youtu.be/WuorvLfAFmA?t=3858) - Iteration velocity is important when implementing AI in a business.
+
+## The TRUTH about Coreweave: Your Ultimate Guide to AI Debt
+
+**The Wall Street Skinny** · 2:40 · Oct 15 · [watch](https://www.youtube.com/shorts/tGrMe2nie1U)
+
+**TL;DR:** The video discusses Coreweave's plunge and its impact on other AI stocks, explaining the AI ecosystem and the financial structure of neoclouds like Coreweave, highlighting the challenges they face in financing their AI investments.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed explanation and insights provided in the video.
+
+**Bookmarks:**
+- [1:00](https://youtu.be/tGrMe2nie1U?t=60) Layer of the AI ecosystem and neoclouds
+- [2:01](https://youtu.be/tGrMe2nie1U?t=121) Chip-backed financing and its implications
+
+**Key takeaways:**
+- Neoclouds like Coreweave need to borrow to buy AI chips, facing challenges in cash flows and debt.
+- Chip-backed financing allows neoclouds to borrow at lower rates due to Meta's creditworthiness.
+- The structure of contracts and the short lifespan of assets backing the debt create financial risks for neoclouds.
+- Nvidia plays a crucial role in financing for neoclouds like Coreweave, benefiting from its ownership stake and capacity purchase agreement.
+
+## Is the Neocloud Bubble Popping? What TSMC Q3 Tells Us
+
+**Chip Stock Investor** · 12:34 · Oct 15 · [watch](https://www.youtube.com/watch?v=0evKvwL_ywY)
+
+**TL;DR:** The video discusses Taiwan Semiconductor Manufacturing (TSMC) Q3 2026 earnings, highlighting the company's strong performance and its dominant position in the semiconductor manufacturing industry. It also covers the Neocloud bubble, warning about the risks associated with these companies and suggesting a potential market shakeout.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses out on the detailed analysis of TSMC's financials and the Neocloud bubble's specifics.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/0evKvwL_ywY?t=0) Introduction and TSMC's performance
+- [1:03](https://youtu.be/0evKvwL_ywY?t=63) TSMC's revenue and profit growth
+- [2:05](https://youtu.be/0evKvwL_ywY?t=125) TSMC's advanced manufacturing nodes and HPC revenue
+- [3:06](https://youtu.be/0evKvwL_ywY?t=186) TSMC's investment in advanced packaging
+- [4:09](https://youtu.be/0evKvwL_ywY?t=249) TSMC's plans for expansion and partnerships
+- [5:10](https://youtu.be/0evKvwL_ywY?t=310) TSMC's strategy to remain a leader in semiconductor manufacturing
+
+**Key takeaways:**
+- TSMC has seen strong revenue and profit growth in Q3 2026.
+- The company is expanding its manufacturing capabilities, including in the US, Japan, and Europe.
+- TSMC is investing in advanced packaging to support high-performance computing and AI data centers.
+- The Neocloud bubble is a significant risk, with companies like CoreWeave facing high debt levels and limited revenue potential.
+- Investors should be cautious and reevaluate their positions in the Neocloud sector.
+
+## Valar Atomics Sues Day One Ventures | Meta's Back to the AI Frontier | NVIDIA's $30B Reflection Deal
+
+**20VC with Harry Stebbings** · 1:16:58 · Oct 15 · [watch](https://www.youtube.com/watch?v=B-QeGihxbFE)
+
+**TL;DR:** The video discusses a lawsuit filed by Valor Atomics against Day One Ventures over a Series B round led by Sequoia Capital, focusing on the concept of pro-rata rights and the challenges faced by startups and venture capital in a challenging market environment. It also touches on other tech and AI developments, including Meta's investment in Muse Wonder and Nvidia's $30B reflection deal.
+
+**Worth watching in full?** 4/5 — While the summary covers the main points, the full video provides additional context and insights that are not captured in the summary.
+
+**Bookmarks:**
+- [1:07](https://youtu.be/B-QeGihxbFE?t=67) - Day One Ventures sues Valor Atomics over a Series B round led by Sequoia Capital.
+- [12:21](https://youtu.be/B-QeGihxbFE?t=741) - Jason's advice on letting go of past grievances.
+- [23:29](https://youtu.be/B-QeGihxbFE?t=1409) - Nvidia's investment in its own AI model.
+- [37:48](https://youtu.be/B-QeGihxbFE?t=2268) - Jason's estimation of the growth needed for success.
+- [51:01](https://youtu.be/B-QeGihxbFE?t=3061) - Jason's elaboration on the speed and cost benefits of Haiku 55.
+- [1:06:16](https://youtu.be/B-QeGihxbFE?t=3976) - Harry Stebbings' reflections on the SaaS market.
+- [1:15:30](https://youtu.be/B-QeGihxbFE?t=4530) - Jensen Huang's investment strategy to mitigate geopolitical risks.
+
+**Key takeaways:**
+- Pro-rata rights and "spring back" clauses are complex and can lead to unfair outcomes for startups.
+- The industry often operates with a two-tiered system where some investors can take more stakes than others.
+- The market for AI and SaaS is challenging, with smaller companies facing significant risks.
+- Residential robotics pose significant risks, especially if they could harm personal property.
+- Deflationary models like Haiku 55 offer significant benefits in terms of speed and cost savings.
+- The SaaS market is still relevant, but companies with massive scale and market cap are the ones who will thrive.
+- Overpaying for winners is a common strategy in venture capital to compensate for the losses from such investments.
+
+## AI and Education, AI-Assisted Learning, Academic Integrity, Workforce Readiness |Episode 376|
+
+**Practical AI** · 41:20 · Oct 15 · [watch](https://www.youtube.com/watch?v=9H1rwzV41fw)
+
+**TL;DR:** The video discusses the integration of AI in education, workforce readiness, and the importance of foundational skills. It highlights the benefits and challenges of AI in learning and the need for a balanced approach to AI integration.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but misses out on the detailed discussion and examples provided in the full video.
+
+**Bookmarks:**
+- [1:04](https://youtu.be/9H1rwzV41fw?t=64) Companies investing in AI
+- [3:07](https://youtu.be/9H1rwzV41fw?t=187) Universities adopting AI tools
+- [4:08](https://youtu.be/9H1rwzV41fw?t=248) Concerns about traditional learning methods
+- [5:10](https://youtu.be/9H1rwzV41fw?t=310) Education sector lagging behind AI
+- [8:15](https://youtu.be/9H1rwzV41fw?t=495) Schools experimenting with AI
+- [14:25](https://youtu.be/9H1rwzV41fw?t=865) Importance of foundational skills
+
+**Key takeaways:**
+- Companies like Meta and Google are heavily investing in AI.
+- Universities are using AI to provide personalized learning paths.
+- Critics argue that AI could undermine fundamental skills.
+- Some schools are using AI chatbots for math problem solving.
+- High school teachers should consider how to allow students to use AI.
+- Universities should acknowledge AI and encourage responsible use.
+- The PhD process is valuable for developing critical thinking and creativity.
+**Notes:**
+- [1:04](https://youtu.be/9H1rwzV41fw?t=64) Companies like Meta (META) and Google (GOOGL) are investing in AI, with META announcing a $10 billion investment and GOOGL allocating a significant portion of its earnings to AI research.
+- [4:08](https://youtu.be/9H1rwzV41fw?t=248) Critics argue that relying too heavily on AI could undermine fundamental skills like critical thinking and creativity.
+- [14:25](https://youtu.be/9H1rwzV41fw?t=865) The speaker emphasizes the importance of foundational skills like math and spelling.
+- [17:28](https://youtu.be/9H1rwzV41fw?t=1048) The speaker advises high school teachers to consider how to allow students to use AI on their assignments.
+- [22:35](https://youtu.be/9H1rwzV41fw?t=1355) The speaker advocates for human teachers to facilitate customized learning experiences.
+- [32:45](https://youtu.be/9H1rwzV41fw?t=1965) The speaker discusses the value of the PhD process.
+- [39:54](https://youtu.be/9H1rwzV41fw?t=2394) The speaker reflects on the value of ambiguity, creativity, and struggle in education.
+
+## CoreWeave, Nebius & IREN Are Crashing...The Market Is Wrong
+
+**Jose Najarro Stocks** · 10:29 · Oct 14 · [watch](https://www.youtube.com/watch?v=WZtK2549w7Q)
+
+**TL;DR:** The video discusses the recent sell-off in CoreWeave, Nebius, and IREN stocks due to their bond yields touching 15%, and the market's concerns about the AI infrastructure buildout. The speaker argues that CoreWeave is the one building AI infrastructure at the fastest rate and remains bullish on the sector.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses some detailed analysis and specific company views.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/WZtK2549w7Q?t=0) - [1:00](https://youtu.be/WZtK2549w7Q?t=60) - Introduction and CoreWeave's bond yield
+- [1:00](https://youtu.be/WZtK2549w7Q?t=60) - [2:01](https://youtu.be/WZtK2549w7Q?t=121) - ASML's earnings and AI chip supply
+- [2:01](https://youtu.be/WZtK2549w7Q?t=121) - [3:01](https://youtu.be/WZtK2549w7Q?t=181) - Oracle's request for expedited data center pipeline
+- [4:02](https://youtu.be/WZtK2549w7Q?t=242) - [5:02](https://youtu.be/WZtK2549w7Q?t=302) - CoreWeave's position in the AI infrastructure market
+- [5:02](https://youtu.be/WZtK2549w7Q?t=302) - [6:04](https://youtu.be/WZtK2549w7Q?t=364) - Nebius and IREN's performance
+- [6:04](https://youtu.be/WZtK2549w7Q?t=364) - [7:06](https://youtu.be/WZtK2549w7Q?t=426) - Elon Musk's potential negative sentiment
+- [7:06](https://youtu.be/WZtK2549w7Q?t=426) - [8:08](https://youtu.be/WZtK2549w7Q?t=488) - Nvidia's financing plan and partnerships
+
+**Key takeaways:**
+- CoreWeave is the largest neo cloud player by far, adding 500 MW of AI infrastructure in one quarter.
+- CoreWeave's bond yield touching 15% is seen as a risk, but the market is pricing future debt at higher yields.
+- CoreWeave is the fastest-growing AI infrastructure player, with no other leg to stand on.
+- Nvidia is establishing a financing platform to help customers access AI compute at scale.
+- The market is punishing CoreWeave due to its high debt and fast growth, but the speaker argues this is mispriced.
+
+**Stocks mentioned:**
+- CoreWeave (ticker: CW)
+- Nebius (ticker: NBX)
+- IREN (ticker: IRN)
+
+## Thrive Capital’s Dr. Nworah Ayogu on why Neuralink is more interesting than SpaceX
+
+**Sourcery with Molly O'Shea** · 1:15 · Oct 14 · [watch](https://www.youtube.com/shorts/nVQ4yR6WiuA)
+
+**TL;DR:** Dr. Nworah Ayogu from Thrive Capital discusses why Neuralink is more interesting than SpaceX, focusing on the potential impact of AI in healthcare and drug discovery.
+
+**Worth watching in full?** 5/5 — The summary cannot fully cover the detailed insights and arguments presented by Dr. Ayogu.
+
+**Bookmarks:**
+- [0:30](https://youtu.be/nVQ4yR6WiuA?t=30) Dr. Ayogu introduces Thrive Capital and its focus on AI and healthcare.
+- [1:00](https://youtu.be/nVQ4yR6WiuA?t=60) Dr. Ayogu highlights the impact of AI in healthcare and the potential of companies like OpenAI.
+- [1:30](https://youtu.be/nVQ4yR6WiuA?t=90) Dr. Ayogu compares Neuralink to SpaceX, emphasizing its potential impact on healthcare.
+
+**Key takeaways:**
+- Dr. Ayogu believes Neuralink is more interesting than SpaceX due to its potential impact on healthcare.
+- OpenAI is one of the largest health care providers in America, with 300 million people asking health care questions weekly.
+- AI is transforming drug discovery and healthcare delivery.
+- Dr. Ayogu argues for a greater focus on improving healthcare systems rather than just investing in technology.
+
+## The billion-dollar Amazon IP deal
+
+**Semi Doped** · 1:50 · Oct 14 · [watch](https://www.youtube.com/shorts/JFfaIsrljks)
+
+**TL;DR:** The video discusses a billion-dollar deal between Amazon and a company for delivering application-optimized IP, highlighting the importance of custom silicon and IP for optimizing workloads in high-performance computing environments. The main conclusion is that this deal underscores the growing importance of application-optimized IP in the tech industry.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the key points and the significance of the deal.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/JFfaIsrljks?t=0) What's been happening recently, over the last 5 years, is the rise of custom silicon is growing.
+- [1:02](https://youtu.be/JFfaIsrljks?t=62) This is what we announced with Amazon, which is a multi-year, uh $1 billion-plus deal to up deliver application-optimized IP.
+
+**Key takeaways:**
+- Amazon made a multi-year, $1 billion-plus deal for delivering application-optimized IP.
+- Application-optimized IP is IP optimized for specific workloads, such as ultra-low latency PCIe Gen 6 for high-frequency trading.
+- The five key interface IPs are PCIe, HBM, LPDDR, UCIe, and Ethernet.
+
+## Buy the Dip? ASML's Early 2027-28 Outlook After A 55% Sales Surge
+
+**Chip Stock Investor** · 13:23 · Oct 14 · [watch](https://www.youtube.com/watch?v=BDBKBDCVl5Y)
+
+**TL;DR:** ASML, a key player in semiconductor manufacturing, is expected to see significant revenue growth in 2027 and 2028, driven by AI and equipment upgrades. The company's strong position in lithography and its monopoly on EUV lithography could mitigate any potential slowdown in the market.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and conclusions in a concise manner.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/BDBKBDCVl5Y?t=0) Introduction to ASML and its importance in semiconductor manufacturing.
+- [1:02](https://youtu.be/BDBKBDCVl5Y?t=62) ASML's monopoly on lithography and barriers to entry.
+- [4:06](https://youtu.be/BDBKBDCVl5Y?t=246) ASML's revenue growth and the impact of memory and equipment upgrades.
+- [6:09](https://youtu.be/BDBKBDCVl5Y?t=369) ASML's profitability and free cash flow trends.
+- [8:10](https://youtu.be/BDBKBDCVl5Y?t=490) ASML's outlook for 2027 and 2028 revenue growth and capacity constraints.
+- [11:13](https://youtu.be/BDBKBDCVl5Y?t=673) ASML's outlook and potential for growth and profit growth.
+- [12:18](https://youtu.be/BDBKBDCVl5Y?t=738) Advice on sector allocation and stock picking.
+
+**Key takeaways:**
+- ASML's total net sales by end use: Logic (11.66 billion euros), Memory (10.3 billion euros), and Installed base management (8.5 billion euros).
+- ASML's Q3 2026 revenue growth of 55% year-over-year.
+- ASML's projected 2027 and 2028 revenue growth of 52% and 57% gross margin, respectively.
+- ASML's capacity constraints could potentially smooth out revenue growth over the next two years.
+- ASML's monopoly on EUV lithography and metrology could mitigate any potential slowdown in the market.
+
+**Stocks mentioned:**
+- ASML (ticker: ASML) — Neutral — ASML is expected to benefit from AI demand and has a strong position in the market, but capacity constraints could impact revenue growth.
+
+## Thrive Capital’s Dr. Nworah Ayogu on Why Neuralink Is More Interesting Than SpaceX
+
+**Sourcery with Molly O'Shea** · 1:10:20 · Oct 14 · [watch](https://www.youtube.com/watch?v=gYA2yyV6U5E)
+
+**TL;DR:** 
+
+**Worth watching in full?** <5> — 
+
+**Bookmarks:**
+- [1:01](https://youtu.be/gYA2yyV6U5E?t=61) - Neuralink's approach to integrating hardware, software, and AI is exemplified by their use of microscopic threads for neuron readout, which requires a highly specialized manufacturing process. This thread count is currently at over a thousand, indicating a significant level of precision and complexity in their manufacturing capabilities.
+- [17:17](https://youtu.be/gYA2yyV6U5E?t=1037) - The integration of neurosurgeons, pathologists, and other specialists into the company's structure reflects their holistic approach to developing and deploying their technology. This collaborative environment is seen as crucial for advancing the field and ensuring the safety and efficacy of their solutions.
+- [24:23](https://youtu.be/gYA2yyV6U5E?t=1463) - Dr. Ayogu mentions that hearing loss affects approximately 1.5 billion people worldwide, highlighting the prevalence and potential for significant market opportunity in hearing aids.
+- [29:29](https://youtu.be/gYA2yyV6U5E?t=1769) - Dr. Ayogu explains that Fortel's process for a customer to get a Fortel hearing aid involves a wait list due to the limited supply. They have an office in New York and plan to expand rapidly to meet demand.
+- [35:36](https://youtu.be/gYA2yyV6U5E?t=2136) Moderna's mRNA technology for cancer vaccines is a prime example of frontier science. The company uses tumor sequencing to create personalized vaccines, which have shown significant efficacy in reducing cancer recurrence rates by 50% within five years post-treatment.
+- [39:42](https://youtu.be/gYA2yyV6U5E?t=2382) The trend of ambitious biotech companies expanding their business horizons by incorporating manufacturing and care delivery into their core operations is expected to lead to more trillion-dollar companies. These companies are leveraging the increased ease of building with AI to create more extensive and defensible business models.
+- [46:49](https://youtu.be/gYA2yyV6U5E?t=2809) - Dr. Ayogu states that healthcare is the largest line item in the federal budget, six times larger than defense spending, highlighting its significant impact on the economy and job market.
+
+## Skipped as off-topic
+
+- [Special Edition: Porsche CEO Michael Leiters on New Supercar Concept | Bloomberg Hot Pursuit!](https://www.youtube.com/watch?v=VcKB84c3h9Q) — Bloomberg Podcasts
+
+
+_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
