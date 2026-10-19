@@ -238,3 +238,78 @@
 
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
+
+<!-- run 10:41Z -->
+
+## Inside Marc Andreessen’s Growing Political Influence
+
+**Bloomberg Podcasts** · 7:55 · Oct 18 · [watch](https://www.youtube.com/watch?v=NY6z4aSHAUs)
+
+**TL;DR:** The video discusses Marc Andreessen's shift from supporting Democrats to backing Republicans, particularly focusing on his involvement in the tech policy meeting with Biden officials where he reportedly opposed several regulations. The video explores Andreessen's complex personality and his unique position as a prominent tech investor with significant political influence.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses some detailed insights and anecdotes.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/NY6z4aSHAUs?t=0) Introduction
+- [1:03](https://youtu.be/NY6z4aSHAUs?t=63) The White House meeting and its aftermath
+- [2:05](https://youtu.be/NY6z4aSHAUs?t=125) Different perspectives on Marc Andreessen
+- [4:14](https://youtu.be/NY6z4aSHAUs?t=254) Marc Andreessen's unique position compared to other tech billionaires
+- [5:17](https://youtu.be/NY6z4aSHAUs?t=317) Marc Andreessen's influence and relationships in Washington
+- [6:20](https://youtu.be/NY6z4aSHAUs?t=380) Historical pattern of support for different political candidates
+- [7:21](https://youtu.be/NY6z4aSHAUs?t=441) The audience for Andreessen's writings
+
+**Key takeaways:**
+- Marc Andreessen shifted from supporting Democrats to backing Republicans.
+- He reportedly opposed several Biden administration regulations.
+- His personality is complex, with a rational side and a more charged rhetoric in DC.
+- He has a history of shifting support between political parties.
+- He has significant influence in both tech and political circles.
+- His writings, like the techno optimist manifesto, are highly influential within his network.
+
+## AI Stocks Are on Sale. It Won’t Last
+
+**BWB - Business With Brian** · 18:03 · Oct 18 · [watch](https://www.youtube.com/watch?v=k1xJbNAGmFg)
+
+**TL;DR:** The video discusses the performance of AI-related stocks, highlighting how profit growth and market conditions are influencing stock prices. Brian advises against investing in certain stocks due to concentration risks and volatility, while recommending others based on their growth potential and valuation.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but the video provides additional context and specific examples that are not evident from the summary.
+
+**Bookmarks:**
+- [1:00](https://youtu.be/k1xJbNAGmFg?t=60) — Nvidia's stock performance despite profit growth forecasts
+- [4:03](https://youtu.be/k1xJbNAGmFg?t=243) — Verdive's stock performance and the impact of rate hikes
+- [7:06](https://youtu.be/k1xJbNAGmFg?t=426) — The importance of AI skills and courses
+- [9:08](https://youtu.be/k1xJbNAGmFg?t=548) — Invent's stock performance and the impact of higher interest rates
+- [13:12](https://youtu.be/k1xJbNAGmFg?t=792) — Comfort Systems USA's backlog growth and PEG ratio
+- [16:16](https://youtu.be/k1xJbNAGmFg?t=976) — Brian's advice against investing in Enoata
+- [17:18](https://youtu.be/k1xJbNAGmFg?t=1038) — Brian's recommendation for Enoata and the need for patience
+
+**Key takeaways:**
+- Nvidia's stock dropped despite profit growth forecasts, highlighting the importance of profit growth in stock selection.
+- Verdive's stock dropped significantly despite profit per share growth, showing the impact of rate hikes.
+- The AI boom requires effective AI skills, as seen in companies offering training courses.
+- Invent's sales grew significantly but its stock dropped, reflecting the impact of higher interest rates.
+- Comfort Systems USA's backlog grew significantly, driven by data center sales, and its stock is near the top of its price range.
+- Enoata is advised against due to concentration risks and potential conflicts of interest.
+- Brian recommends keeping investments in Enoata very small and waiting for earnings reports before considering any investment.
+
+**Stocks mentioned:**
+- Nvidia (ticker: NVDA) — Neutral
+- Verdive — Neutral
+- Invent (ticker: INVT) — Neutral
+- Antto (ticker: ANTO) — Neutral
+- Comfort Systems USA (ticker: CSUSA) — Neutral
+- Inodata (ticker: INOD) — Neutral
+- Enoata (ticker: ENOA) — Neutral
+
+## Skipped as off-topic
+
+- [US Ukraine Disagree on Starshield, Riots in France, Watching Wall Street](https://www.youtube.com/watch?v=izMSH3kjPE0) — Bloomberg Podcasts
+- [Bookmarked: Stories On Our Reading List](https://www.youtube.com/watch?v=CJLqqKGR_no) — Bloomberg Podcasts
+- [Weekend Listen: The Secret History of the Mar-a-Lago Document Seizure | Big Take](https://www.youtube.com/watch?v=5cfAY3cgRxU) — Bloomberg Podcasts
+- [Senate Control Moves Toward a Toss-Up For Midterms](https://www.youtube.com/watch?v=Cc8YVF8NtdI) — Bloomberg Podcasts
+- [Rep. Marc Veasey Calls for Scrutiny of Trump Russia Ties](https://www.youtube.com/watch?v=uhoAh-8yA9Q) — Bloomberg Podcasts
+- [Chicago Tops Favorite US Cities to Visit](https://www.youtube.com/watch?v=DokPstZatDY) — Bloomberg Podcasts
+- [Rethinking Faith in American Innovation](https://www.youtube.com/watch?v=f50819zkods) — Bloomberg Podcasts
+
+
+_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
