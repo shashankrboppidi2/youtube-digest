@@ -313,3 +313,309 @@ _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
 
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
+
+<!-- run 14:57Z -->
+
+## Nasdaq 100 Climbs on AI Trade Revival After Rout
+
+**Bloomberg Podcasts** · 6:07 · Oct 19 · [watch](https://www.youtube.com/watch?v=G5KWRSqgvBo)
+
+**TL;DR:** The video discusses the Nasdaq 100's performance and earnings momentum, particularly in the AI sector, while also touching on broader economic factors like inflation, interest rates, and government policies. The main conclusion is that the Nasdaq 100's strong performance is expected to continue, but there are concerns about potential headwinds from regulatory changes and economic headwinds.
+
+**Worth watching in full?** 4/5 — The summary covers the key points but misses some detailed analysis and specific company views.
+
+**Bookmarks:**
+- [1:00](https://youtu.be/G5KWRSqgvBo?t=60) Overview of earnings growth and AI sector performance
+- [2:01](https://youtu.be/G5KWRSqgvBo?t=121) Discussion on earnings momentum and productivity benefits
+- [3:04](https://youtu.be/G5KWRSqgvBo?t=184) Analysis of political factors and potential market impact
+- [4:07](https://youtu.be/G5KWRSqgvBo?t=247) Explanation of the uneven market performance
+- [5:10](https://youtu.be/G5KWRSqgvBo?t=310) Discussion on bond yields and portfolio allocation
+
+**Key takeaways:**
+- The Nasdaq 100 is expected to continue its strong earnings momentum.
+- There are concerns about regulatory changes and economic headwinds.
+- The market is currently two-tiered, with strong performance in AI-related sectors and weaker performance in non-AI sectors.
+- Bond yields are seen as a buffer against volatility in equity markets.
+
+## Inflation Jolt to Fade, Fed to Stay on Sidelines
+
+**Bloomberg Podcasts** · 6:19 · Oct 19 · [watch](https://www.youtube.com/watch?v=heJJL3Pu8D8)
+
+**TL;DR:** The video discusses the Federal Reserve's response to rising inflation, including potential rate hikes and the Fed's stance on the economy. It also touches on the broader economic landscape, including technology, employment, and global trade impacts.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses some detailed analysis and specific company mentions.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/heJJL3Pu8D8?t=0) Inflation and Fed response
+- [1:00](https://youtu.be/heJJL3Pu8D8?t=60) GDP and employment outlook
+- [2:02](https://youtu.be/heJJL3Pu8D8?t=122) Consumer health and spending
+- [3:04](https://youtu.be/heJJL3Pu8D8?t=184) Impact of eye trade on the economy
+- [4:06](https://youtu.be/heJJL3Pu8D8?t=246) Interest rates and Fed's approach
+- [5:07](https://youtu.be/heJJL3Pu8D8?t=307) Fed's December rate hike prediction
+
+**Key takeaways:**
+- The Fed is nudging up interest rates to combat inflation.
+- The Atlanta Fed GDP model forecasts 3.6% growth for Q3.
+- Consumer health is strong, but spending is cautious.
+- The eye trade is causing significant changes in work processes.
+- Interest rates are expected to rise, but at a slower pace.
+- Energy costs persistently higher, affecting both producers and consumers.
+
+## Coreweave Gets Stock Upgrade; Cleveland-Cliffs Jumps on Earnings | Stock Movers
+
+**Bloomberg Podcasts** · 3:12 · Oct 19 · [watch](https://www.youtube.com/watch?v=6tksqHAFM80)
+
+**TL;DR:** The video discusses stock movements for Core Weave and Cleveland-Cliffs, with Goldman Sachs upgrading Core Weave and Cleveland-Cliffs seeing strong gains due to positive earnings reports and favorable market conditions.
+
+**Worth watching in full?** 5/5 — The summary cannot fully cover the nuances and details of the full video.
+
+**Bookmarks:**
+- [0:15](https://youtu.be/6tksqHAFM80?t=15) Core Weave's stock performance and Goldman Sachs upgrade
+- [1:01](https://youtu.be/6tksqHAFM80?t=61) Cleveland-Cliffs' earnings and market performance
+- [2:02](https://youtu.be/6tksqHAFM80?t=122) Intel's stock performance and JP Morgan upgrade
+
+**Key takeaways:**
+- Goldman Sachs upgraded Core Weave's stock from neutral to buy.
+- Cleveland-Cliffs saw a significant market cap increase due to strong earnings.
+- Intel's stock rose 3% after a week of declines.
+- Trivium Packaging and Cygwin are merging, valued at $3.4 billion.
+
+**Stocks mentioned:**
+- Core Weave (KRE)
+- Cleveland-Cliffs (CLF)
+- Intel (INTC)
+
+## Intel and Cleveland-Cliffs Gains; CoreWeave Upgrade | Stock Movers
+
+**Bloomberg Podcasts** · 3:58 · Oct 19 · [watch](https://www.youtube.com/watch?v=67P-diVLc5s)
+
+**TL;DR:** The podcast covers the performance of CoreWeave, Cleveland-Cliffs, and Silan, highlighting positive moves in Intel and upgrades for CoreWeave and Cleveland-Cliffs. The main conclusion is that CoreWeave and Cleveland-Cliffs have seen gains, while Intel's stock is rebounding after a dip.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full podcast, as it covers important details and analyst views not mentioned here.
+
+**Bookmarks:**
+- [0:02](https://youtu.be/67P-diVLc5s?t=2) CoreWeave recovery and Goldman Sachs upgrade
+- [1:03](https://youtu.be/67P-diVLc5s?t=63) Cleveland-Cliffs profit and steel prices
+- [2:05](https://youtu.be/67P-diVLc5s?t=125) Cleveland-Cliffs profit growth and hot rolled coil prices
+- [3:06](https://youtu.be/67P-diVLc5s?t=186) Intel stock performance and analyst upgrade
+
+**Key takeaways:**
+- CoreWeave (CRWV) has recovered from a 25% drop, with Goldman Sachs upgrading it to Buy from Neutral.
+- Cleveland-Cliffs (CLF) saw a 13.5% market cap increase to nearly $7 billion, with a 52% year-over-year rise in hot rolled coil prices.
+- Intel (INTC) saw a 3% increase, with JP Morgan upgrading its rating to Neutral.
+- Silan (LGN) agreed to buy Trivia Packaging for $3.4 billion, with expected cash proceeds over $2 billion.
+
+**Stocks mentioned:**
+- CoreWeave (CRWV)
+- Cleveland-Cliffs (CLF)
+- Intel (INTC)
+- Silan (LGN)
+
+## Meta and Google Rejoin the Frontier, Microsoft’s Maia 300, and the AI Credit Scare
+
+**Six Five Media** · 1:05:59 · Oct 19 · [watch](https://www.youtube.com/watch?v=COmRFN1iyzw)
+
+**TL;DR:** The video covers recent advancements in AI technology, including new models from Meta and Google, Microsoft's AI chip, and the semiconductor industry. It also discusses the impact of macroeconomic factors on the tech sector and the market's reaction to various companies' performance and strategies.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers a wide range of topics and provides context for the current state of the AI and tech sectors.
+
+**Bookmarks:**
+- [12:00](https://youtu.be/COmRFN1iyzw?t=720) Meta and Google's AI models
+- [15:21](https://youtu.be/COmRFN1iyzw?t=921) Microsoft's efficiency improvements
+- [33:43](https://youtu.be/COmRFN1iyzw?t=2023) Apple and Meta's collaboration
+- [48:09](https://youtu.be/COmRFN1iyzw?t=2889) Cost of on-prem infrastructure
+- [51:11](https://youtu.be/COmRFN1iyzw?t=3071) Sell-off in the tech sector
+- [55:17](https://youtu.be/COmRFN1iyzw?t=3317) Deceleration in Anthropic's growth rate
+- [1:04:31](https://youtu.be/COmRFN1iyzw?t=3871) TSMC's competitive stance
+
+**Key takeaways:**
+- Meta and Google have released new AI models, with Meta's Muse Wonder outperforming others on benchmarks.
+- Microsoft's Maya 300 XPU is designed for Azure services and is expected to be a primary method of inference.
+- Applied Materials unveiled a massive $5+ billion semiconductor development facility.
+- Apple and Meta's collaboration on a new AI model could shift towards more standardized solutions.
+- The cost of on-prem infrastructure is significantly lower than using cloud solutions, indicating a preference for cloud-based AI.
+- TSMC reported strong demand but kept their capex unchanged, suggesting they are not heavily reliant on memory cost increases.
+- Nvidia's strong balance sheets and growing revenue provide a buffer against market volatility.
+
+## Who Wins in the Next Decade of VC | Margin and Price Matter Less in a World of AI | Sameer Dholakia
+
+**20VC with Harry Stebbings** · 1:19:38 · Oct 19 · [watch](https://www.youtube.com/watch?v=-r2_5LboWL8)
+
+**TL;DR:** The video discusses the potential of artificial intelligence (AI) to create a market larger than the oil market, emphasizing its transformative potential. Harry Stebbings argues that venture capitalists should focus on the future potential of a company rather than just its current valuation, advocating for investments in companies growing at rates of 10x, 12x, or more.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and examples provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/-r2_5LboWL8?t=0) - Intelligence market potential
+- [3:02](https://youtu.be/-r2_5LboWL8?t=182) - Anthropic investment and market consolidation
+- [16:14](https://youtu.be/-r2_5LboWL8?t=974) - High ARR multiples and future growth
+- [28:26](https://youtu.be/-r2_5LboWL8?t=1706) - $5.75 billion fund and venture capital landscape
+- [41:42](https://youtu.be/-r2_5LboWL8?t=2502) - Fireworks growth potential and culture
+- [1:01:34](https://youtu.be/-r2_5LboWL8?t=3694) - Companies staying private longer
+- [1:07:13](https://youtu.be/-r2_5LboWL8?t=4033) - Upside requirements and investment math
+
+**Key takeaways:**
+- AI could create a market larger than the oil market.
+- Venture capitalists should focus on future potential and growth.
+- High ARR multiples are justified by future growth potential.
+- Specialization or global platform is needed for success in venture capital.
+- Fireworks has the potential to grow into a $250 billion business.
+- Enterprises prefer owning their own intelligence.
+- Therapeutics using AI to tackle undruggable targets will accelerate drug discovery.
+
+## SoFi Stock Is Getting Too Cheap to Ignore - Or Is It?
+
+**The Market Monkeys** · 11:43 · Oct 19 · [watch](https://www.youtube.com/watch?v=78LbsE1Bf54)
+
+**TL;DR:** The video discusses the recent decline in Sofi stock, touching on its lending business and the impact of rising interest rates, while also highlighting the company's fintech segment and its growing user base. The speaker concludes that despite the current low valuation, there are potential opportunities for long-term investors.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but the full video provides additional context and analysis.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/78LbsE1Bf54?t=0) What is happening lately with Sofi stock?
+- [3:03](https://youtu.be/78LbsE1Bf54?t=183) The potential for higher defaults and the importance of credit.
+- [4:03](https://youtu.be/78LbsE1Bf54?t=243) The hedging strategy and the balance between risks and preparedness.
+- [5:06](https://youtu.be/78LbsE1Bf54?t=306) The inflationary and geopolitical pressures affecting borrowers.
+- [7:10](https://youtu.be/78LbsE1Bf54?t=430) The upcoming earnings and key metrics to watch.
+- [9:12](https://youtu.be/78LbsE1Bf54?t=552) The valuation and forward price to earnings ratio.
+- [10:12](https://youtu.be/78LbsE1Bf54?t=612) The PEG ratio and the potential for upside.
+
+**Key takeaways:**
+- Sofi has a significant loan portfolio of $44 billion.
+- The company hedged against potential rate hikes.
+- The fintech segment is growing, with 51% of new products from existing members.
+- The net interest margin is expected to remain above 5%.
+- The forward price to earnings ratio is 24.6 times, with a potential drop to 18 times if the economy worsens.
+- The PEG ratio is 0.66, significantly below the sector median.
+
+## Apollo’s Yahoo Playbook, 5 Years After the $5B Deal
+
+**Sourcery with Molly O'Shea** · 56:23 · Oct 19 · [watch](https://www.youtube.com/watch?v=31JELwiXgMo)
+
+**TL;DR:** Apollo, a new company formed by the acquisition of Yahoo from Verizon, aims to leverage Verizon's 5G technology to grow the brand and audience. The video discusses Yahoo's strategic pivot, focus on core brands, and the importance of understanding the company's audience and mission. It also covers the company's product development, data collection, and user testing.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the strategic direction, product development, and audience insights in detail.
+
+**Bookmarks:**
+- [1:00](https://youtu.be/31JELwiXgMo?t=60) - Overview of Yahoo's acquisition and mission
+- [3:00](https://youtu.be/31JELwiXgMo?t=180) - Structure and leadership changes
+- [12:09](https://youtu.be/31JELwiXgMo?t=729) - Strategic pivot and audience focus
+- [15:11](https://youtu.be/31JELwiXgMo?t=911) - Focus on core brands and data collection
+- [22:17](https://youtu.be/31JELwiXgMo?t=1337) - Product development and AI advancements
+- [37:36](https://youtu.be/31JELwiXgMo?t=2256) - User resistance and audience loyalty
+
+**Key takeaways:**
+- Apollo acquired Yahoo for nearly $5 billion, aiming to leverage Verizon's 5G technology.
+- Yahoo's audience is over 700 million monthly users, with key brands like Yahoo Mail, Finance, and Sports.
+- The company focuses on re-establishing its role as a news aggregator and leveraging its strong brand perception.
+- Yahoo Scout is a new AI search product, differentiating itself with unique data and publisher relationships.
+- The company faces resistance from older users but has a highly loyal and dedicated audience of 75% daily logins.
+- The Apollo team structured the deal to return cash, influenced by the belief that certain assets were not going to make it.
+- Yahoo's audience is effective for advertisers, with outcomes and performance data provided.
+
+## Affordability, Messaging in Focus as US Midterms Approach | Bloomberg Businessweek
+
+**Bloomberg Podcasts** · 8:21 · Oct 19 · [watch](https://www.youtube.com/watch?v=5UklxlZLik4)
+
+**TL;DR:** The video discusses the midterms and affordability, highlighting the need for clear messaging and investigations into corruption, particularly related to the Trump administration. The main conclusion is that Democrats are expected to gain control of the House, with investigations likely focusing on the Trump family and their investments.
+
+**Worth watching in full?** 4/5 — The summary covers the key points but misses some detailed analysis and specific company mentions.
+
+**Bookmarks:**
+- [0:02](https://youtu.be/5UklxlZLik4?t=2) Introduction and context
+- [1:03](https://youtu.be/5UklxlZLik4?t=63) Midterms and messaging
+- [2:04](https://youtu.be/5UklxlZLik4?t=124) Potential new spokespersons
+- [4:06](https://youtu.be/5UklxlZLik4?t=246) Focus on affordability and corruption
+- [5:06](https://youtu.be/5UklxlZLik4?t=306) Focus on investigations and affordability
+- [6:08](https://youtu.be/5UklxlZLik4?t=368) Focus on the fourth quarter and Republican control
+- [7:09](https://youtu.be/5UklxlZLik4?t=429) Focus on individual state races and Democrats' chances
+
+**Key takeaways:**
+- Democrats are expected to gain control of the House.
+- Investigations are likely to focus on the Trump family and their investments.
+- The fourth quarter of the year is crucial for legislation.
+- Republicans are expected to hold on to the Senate with 60% odds.
+- Democrats need a D+11 situation to win states like Texas.
+
+## Intel Gains; SpaceX Gift;s Nvidia Bounce Back | Stock Movers
+
+**Bloomberg Podcasts** · 4:10 · Oct 19 · [watch](https://www.youtube.com/watch?v=WW2aUb_fOdk)
+
+**TL;DR:** The video discusses the tech rebound, focusing on Nvidia's strong gains, Intel's positive performance, and SpaceX's pledge to give a share to every American child. The main conclusion is that tech stocks are recovering from the previous week's selloff.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers key points but misses detailed analysis and specific company updates.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/WW2aUb_fOdk?t=0) Nvidia's strong gains and Intel's positive performance
+- [1:01](https://youtu.be/WW2aUb_fOdk?t=61) Santander's collaboration with Nvidia
+- [2:01](https://youtu.be/WW2aUb_fOdk?t=121) JP Morgan's upgrade of Nvidia
+- [3:02](https://youtu.be/WW2aUb_fOdk?t=182) SpaceX's pledge to give a share to every American child
+- [4:02](https://youtu.be/WW2aUb_fOdk?t=242) Redcat's merger with Staya Motors
+
+**Key takeaways:**
+- Nvidia gained 4.7% in pre-market
+- JP Morgan upgraded Nvidia from underweight to neutral
+- SpaceX shares up 2% in pre-market
+- Redcat offered a 29% premium to buy Staya Motors
+
+**Stocks mentioned:**
+- Nvidia (Nvidia)
+- Intel (INTC)
+- SpaceX (SPCE)
+
+## Warren Buffett’s $150 Billion Legacy Falls to His Children
+
+**Bloomberg Podcasts** · 5:44 · Oct 19 · [watch](https://www.youtube.com/watch?v=bK0M4XiF_Gg)
+
+**TL;DR:** Warren Buffett's children are managing a $150 billion philanthropic legacy, focusing on education, food security, and social justice, with a more hands-on approach compared to the Gates Foundation model. The video discusses the challenges and potential impacts of this approach.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but the full video provides additional context and insights.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/bK0M4XiF_Gg?t=0) Introduction to the topic
+- [1:02](https://youtu.be/bK0M4XiF_Gg?t=62) Details about the Buffett children and their philanthropic focus
+- [2:03](https://youtu.be/bK0M4XiF_Gg?t=123) Discussion on the giving pledge and potential models for philanthropy
+- [3:07](https://youtu.be/bK0M4XiF_Gg?t=187) Explanation of the different strategies for giving away wealth
+- [4:08](https://youtu.be/bK0M4XiF_Gg?t=248) Concerns about policy implications for billionaires
+- [5:09](https://youtu.be/bK0M4XiF_Gg?t=309) Curiosity about the story and what surprised the author
+
+**Key takeaways:**
+- Warren Buffett's children are managing a $150 billion philanthropic legacy.
+- They are focusing on education, food security, and social justice.
+- Their approach is more hands-on compared to the Gates Foundation model.
+- There are concerns about potential policy implications for billionaires.
+- The video discusses different strategies for giving away wealth.
+
+## Pets at Home Jumps, Barclays Down, Lindt Lower | Stock Movers
+
+**Bloomberg Podcasts** · 4:59 · Oct 19 · [watch](https://www.youtube.com/watch?v=wIjXCfthNBE)
+
+**TL;DR:** The video discusses stock movements in Barclays, Pets at Home, and Lindt, highlighting regulatory concerns, analyst upgrades, and management changes, and their impact on stock prices.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but misses out on the detailed analysis and specific numbers provided in the full video.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/wIjXCfthNBE?t=0) Barclays facing scrutiny from UK regulators
+- [1:02](https://youtu.be/wIjXCfthNBE?t=62) Pets at Home shares up over 5% due to analyst upgrade
+- [2:03](https://youtu.be/wIjXCfthNBE?t=123) Pets at Home's outlook improving
+- [3:04](https://youtu.be/wIjXCfthNBE?t=184) Pet demographics and aging pets driving earnings
+
+**Key takeaways:**
+- Barclays shares down 2.7% due to potential banking tax and regulatory scrutiny
+- Pets at Home shares up 5% after analyst upgrade to "buy"
+- Lindt shares down 3.2% following CEO departure and guidance cut
+- Pet demographics are influencing stock prices, with aging pets expected to drive future earnings
+
+**Stocks mentioned:**
+- Barclays (BKR.L)
+- Pets at Home (PETS.L)
+- Lindt (LNT.DE)
+
+## Skipped as off-topic
+
+- [France Toughens Response to Protests as Officials Admit Failure](https://www.youtube.com/watch?v=jNt-OTDF5AA) — Bloomberg Podcasts
+- [Putin Wants Summit with US and China; Protests Flare Across Europe | Bloomberg Daybreak: US Edition](https://www.youtube.com/watch?v=xAf6JJ07fY0) — Bloomberg Podcasts
+- [Bloomberg News Now: Putin Said to Propose Meeting with Trump & Xi on Ukraine](https://www.youtube.com/watch?v=v1XpHuvuZk8) — Bloomberg Podcasts
+
+
+_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
