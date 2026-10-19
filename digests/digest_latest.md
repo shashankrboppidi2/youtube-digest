@@ -1,301 +1,240 @@
-# YouTube digest — 2026-10-18
+# YouTube digest — 2026-10-19
 
-## Guillermo Rauch: 80% of Vercel's AI Tokens Now Go to Open Models, Not OpenAI
+## Steyr Motors Soars, Pets at Home Gains, Barclays Dips | Stock Movers
 
-**Sourcery with Molly O'Shea** · 1:46 · Oct 18 · [watch](https://www.youtube.com/shorts/BwKRe3kGpHA)
+**Bloomberg Podcasts** · 3:28 · Oct 19 · [watch](https://www.youtube.com/watch?v=SyxaV-pNQHE)
 
-**TL;DR:** Guillermo Rauch discusses the shift in Vercel's AI tokens, revealing that 80% now go to open models rather than proprietary models like OpenAI, Google, and Gemini. This change indicates a significant shift in the AI token market.
+**TL;DR:** The video covers the stock movements of Steyr Motors, Pets at Home, and Barclays, highlighting potential M&A, a stock upgrade, and regulatory scrutiny, respectively. The main conclusion is that these developments reflect shifts in the European and UK stock markets, with Steyr Motors and Pets at Home seeing positive moves, while Barclays faces negative attention.
 
-**Worth watching in full?** 5/5 — The summary cannot fully cover the nuances and context provided in the video.
-
-**Bookmarks:**
-- [0:00](https://youtu.be/BwKRe3kGpHA?t=0) Introduction to Vercel and its role in the AI token ecosystem.
-- [0:30](https://youtu.be/BwKRe3kGpHA?t=30) Explanation of how Vercel aggregates and distributes AI tokens.
-- [1:00](https://youtu.be/BwKRe3kGpHA?t=60) Discussion on the rise of coding models and their impact on token demand.
-- [1:20](https://youtu.be/BwKRe3kGpHA?t=80) Overview of the shift in traffic from proprietary models to open models.
-- [1:40](https://youtu.be/BwKRe3kGpHA?t=100) Highlight of the 80% figure and its significance in the AI token market.
-
-**Key takeaways:**
-- Vercel aggregates and distributes AI tokens for developers and enterprises.
-- The majority of AI tokens are now being consumed by open models, not proprietary ones.
-- This shift indicates a significant change in the AI token market dynamics.
-- Vercel's network now accounts for 80% of AI tokens, with the rest going to proprietary models.
-
-## Financing The AI Boom: Masters in Business
-
-**Bloomberg Podcasts** · 1:11:00 · Oct 17 · [watch](https://www.youtube.com/watch?v=O7LjYgDboJY)
-
-**TL;DR:** The video discusses the financial landscape of the AI boom, focusing on various sectors including investing, technology, and government policies. The main conclusion is that the AI data center buildout is driving significant demand for financing, with JPMorgan Chase investing across the capital structure in AI-related sectors.
-
-**Worth watching in full?** 5/5 — The summary covers the key points but the full video provides additional context and insights.
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the context and implications of the stock movements.
 
 **Bookmarks:**
-- [12:23](https://youtu.be/O7LjYgDboJY?t=743) Exciting times in the market despite challenges
-- [17:29](https://youtu.be/O7LjYgDboJY?t=1049) Euro's potential as a reserve currency short-lived
-- [19:33](https://youtu.be/O7LjYgDboJY?t=1173) Bitcoin as an alternative store of value
-- [33:58](https://youtu.be/O7LjYgDboJY?t=2038) AI data center buildout and financing demand
-- [48:27](https://youtu.be/O7LjYgDboJY?t=2907) Local emerging market debt and municipal bonds
-- [53:38](https://youtu.be/O7LjYgDboJY?t=3218) Resilience of the economy despite inflation and geopolitical issues
-- [57:45](https://youtu.be/O7LjYgDboJY?t=3465) Potential impact of a divided government on bond yields
+- [0:02](https://youtu.be/SyxaV-pNQHE?t=2) Introduction and Steyr Motors news
+- [1:06](https://youtu.be/SyxaV-pNQHE?t=66) Redcat Holdings and Stair Motors deal
+- [2:08](https://youtu.be/SyxaV-pNQHE?t=128) Pets at Home upgrade and performance
+- [3:10](https://youtu.be/SyxaV-pNQHE?t=190) Barclays regulatory investigation
 
 **Key takeaways:**
-- The dollar remains the dominant reserve currency.
-- Bitcoin is seen as an alternative store of value.
-- The private credit market has seen significant growth.
-- Local emerging market debt, particularly in Latin America and Eastern Europe, offers attractive yields.
-- Municipal bonds are attractive, especially in high-tech states.
-- The near-term environment without fiscal stimulus could lead to lower bond yields.
-- Taking some risk in the bond market is advised.
-
-## Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'
-
-**Bloomberg Podcasts** · 2:25:14 · Oct 17 · [watch](https://www.youtube.com/watch?v=Sje6yywwko4)
-
-**TL;DR:** Bloomberg Podcasts discusses the recent sanctions waiver on Russian energy exports, President Trump's interest in working with Putin on diesel supply, and the implications for the U.S. defense industry. The podcast also covers AI and semiconductor companies, including CoreWeave and NVIDIA, and discusses the potential for AI in climate preparedness. It also touches on the school shooting incident and the potential merger of SpaceX and Tesla.
-
-**Worth watching in full?** 4/5 — The summary covers the main points but misses out on the detailed analysis and expert insights provided in the full video.
-
-**Bookmarks:**
-- [1:05](https://youtu.be/Sje6yywwko4?t=65) — Details about the Russian sanctions waiver and the President's interest in working with Putin.
-- [20:46](https://youtu.be/Sje6yywwko4?t=1246) — Kate Davidson's comments on the Fed's interest in inflation and interest rates.
-- [22:49](https://youtu.be/Sje6yywwko4?t=1369) — Warsh's views on the Fed's role and the importance of Fed officials' economic views.
-- [32:13](https://youtu.be/Sje6yywwko4?t=1933) — Analysts' concerns about CoreWeave and the AI trade.
-- [41:30](https://youtu.be/Sje6yywwko4?t=2490) — Analysts' comments on SpaceX and Tesla's potential merger.
-- [47:41](https://youtu.be/Sje6yywwko4?t=2861) — White House Press Secretary position change and the departure of Katie Zacharia.
-- [50:49](https://youtu.be/Sje6yywwko4?t=3049) — Challenges faced by the International Rescue Committee due to reduced U.S. government funding.
-
-**Key takeaways:**
-- The U.S. President has waived sanctions on Russian diesel, which could affect the U.S. defense industry.
-- CoreWeave is seen as a risky stock due to its reliance on high-yield debt for AI data centers.
-- The AI industry is likely to face significant regulatory scrutiny.
-- Rockstar Games is preparing for the release of GTA VI in November, with a female protagonist and an expansive map.
-- SpaceX and Tesla are likely to merge, though the odds are low.
-- The affordability crisis in healthcare affects all stakeholders, including hospitals under financial pressure.
-- John D'Angelo, CEO of Northwell Health, suggests a patient-centered approach focusing on chronic diseases and wellness to address affordability challenges.
-
-_Summary covers the first ~20,000 words of the transcript._
-
-## Chamath Explains the AI Boom’s Achilles Heel
-
-**All-In Podcast** · 1:52 · Oct 17 · [watch](https://www.youtube.com/shorts/i7-t8e42WkM)
-
-**TL;DR:** Chamath Palihapitiya discusses the bond market's potential impact on businesses and the importance of focusing on deficits and finding a fair trade to keep the economy stable.
-
-**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers Chamath Palihapitiya's insights into the bond market's influence on businesses and the need for deficit management.
-
-**Bookmarks:**
-- [0:00](https://youtu.be/i7-t8e42WkM?t=0) Introduction and bond market outlook
-- [1:00](https://youtu.be/i7-t8e42WkM?t=60) Focus on deficits and bond market behavior
-- [2:00](https://youtu.be/i7-t8e42WkM?t=120) The importance of finding a fair trade
--  The Achilles heel of asset value financing
-
-**Key takeaways:**
-- The bond market's potential impact on businesses is significant.
-- Deficit management is crucial for maintaining economic stability.
-- A fair trade is necessary to prevent the bond market from pushing up interest rates.
-- The Achilles heel of asset value financing through variable-rate models poses a risk to businesses.
-- Microsoft, Google, Meta, and Nvidia are key players in mitigating this risk.
-
-## Northwell CEO D'Angelo Says Health Care Model Must Change
-
-**Bloomberg Podcasts** · 13:03 · Oct 17 · [watch](https://www.youtube.com/watch?v=ED_GsJtpvJA)
-
-**TL;DR:** Northwell CEO John D'Angelo discusses the unsustainable nature of the traditional health care model and calls for a patient-centered approach to affordability and access. He highlights the challenges of a high-cost, high-margin system and the need for a shift towards chronic disease management and wellness.
-
-**Worth watching in full?** 5/5 — The summary cannot fully replace the insights and context provided in the full video.
-
-**Bookmarks:**
-- [0:00](https://youtu.be/ED_GsJtpvJA?t=0) Introduction and overview of the health care industry issues
-- [1:07](https://youtu.be/ED_GsJtpvJA?t=67) Discussion on the traditional health care model and affordability challenges
-- [2:08](https://youtu.be/ED_GsJtpvJA?t=128) Explanation of the physician's perspective and two simple rules
-- [4:13](https://youtu.be/ED_GsJtpvJA?t=253) The financial challenges of being a nonprofit hospital system
-- [5:13](https://youtu.be/ED_GsJtpvJA?t=313) The impact of an aging population and workforce shortages
-- [6:15](https://youtu.be/ED_GsJtpvJA?t=375) Strategies for retaining and developing the workforce
-- [7:15](https://youtu.be/ED_GsJtpvJA?t=435) The role of AI in healthcare and the importance of human interaction
-
-**Key takeaways:**
-- Northwell Health is one of the largest health care providers in New York State.
-- The traditional health care model is unsustainable due to affordability and access challenges.
-- Northwell is committed to a patient-centered, patient-focused approach to affordability.
-- The company is facing significant financial challenges as 60-70% of its patients are on Medicaid or Medicare.
-- Northwell is investing in workforce development and pipeline programs to address shortages.
-- AI is seen as a tool to help doctors work more efficiently and address administrative burdens.
-
-## Skipped as off-topic
-
-- [Weekend Law: Trump's Latest Targets & NFL | Bloomberg Law](https://www.youtube.com/watch?v=uMFv-eDXipk) — Bloomberg Podcasts
-- [Bloomberg News Now: Ukraine Starlink Restrictions](https://www.youtube.com/watch?v=I57EhD1U-gE) — Bloomberg Podcasts
-- [Bloomberg's Weekly News Quiz For Risk-Takers: Pointed!](https://www.youtube.com/watch?v=gqbzQVljXIQ) — Bloomberg Podcasts
-
-
-_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
-
-<!-- run 12:11Z -->
-
-## Trump Faces Backlash Over Russia Sanctions
-
-**Bloomberg Podcasts** · 7:22 · Oct 18 · [watch](https://www.youtube.com/watch?v=vvF0uMqASlU)
-
-**TL;DR:** President Trump faces backlash from Republicans over his decision to waive sanctions on Russia, which some view as a sign of cozying up to Putin. Critics argue this decision undermines efforts to pressure Russia during the ongoing war in Ukraine. The president defends the decision, arguing it will lead to lower gas prices and increased access to Russian diesel. The video covers Trump's defense of his decision and the political implications, including the midterm elections and the impact on gas prices.
-
-**Worth watching in full?** 3/5 — The summary covers the main points but misses some detailed context and analysis.
-
-**Bookmarks:**
-- [0:00](https://youtu.be/vvF0uMqASlU?t=0) Introduction and Trump's rally
-- [1:00](https://youtu.be/vvF0uMqASlU?t=60) Criticism of the waiver and sanctions legislation
-- [2:01](https://youtu.be/vvF0uMqASlU?t=121) Response from Secretary of State Marco Rubio
-- [3:05](https://youtu.be/vvF0uMqASlU?t=185) Criticism of the waiver and the point of the legislation
-- [4:08](https://youtu.be/vvF0uMqASlU?t=248) President Trump's promise of lower gas prices
-- [5:08](https://youtu.be/vvF0uMqASlU?t=308) Analysis of voter reaction to the president's promises
-
-**Key takeaways:**
-- Trump faces criticism from Republicans for waiving sanctions on Russia.
-- Critics argue this decision undermines efforts to pressure Russia during the war.
-- Secretary of State Marco Rubio defends the waiver, stating it will lead to increased access to Russian diesel.
-- The president promises lower gas prices, but critics doubt he can deliver.
-- The decision could impact the midterm elections and voter sentiment.
-
-## Week Ahead: Netflix, Tesla, and Meta | Stock Movers
-
-**Bloomberg Podcasts** · 7:08 · Oct 18 · [watch](https://www.youtube.com/watch?v=Qm8l0LZiHXU)
-
-**TL;DR:** The podcast discusses upcoming earnings reports from Netflix, Tesla, and Meta, focusing on their financial performance and strategic plans, particularly in relation to their viewer engagement, delivery numbers, and AI developments.
-
-**Worth watching in full?** 5/5 — The summary cannot fully replace the insights and details provided in the full podcast.
-
-**Bookmarks:**
-- [0:00](https://youtu.be/Qm8l0LZiHXU?t=0) Overview of the week ahead
-- [1:02](https://youtu.be/Qm8l0LZiHXU?t=62) Netflix's viewer engagement and competition
-- [2:03](https://youtu.be/Qm8l0LZiHXU?t=123) Tesla's capex and delivery numbers
-- [3:05](https://youtu.be/Qm8l0LZiHXU?t=185) Tesla's AI developments and potential merger with SpaceX
-- [4:06](https://youtu.be/Qm8l0LZiHXU?t=246) Meta's AI agent Muse and its future roadmap
-- [5:08](https://youtu.be/Qm8l0LZiHXU?t=308) Meta's AI developments and monetization strategies
-
-**Key takeaways:**
-- Netflix's viewer engagement is a key focus for investors.
-- Tesla's delivery numbers were mostly positive but capital expenditures remain a concern.
-- Meta's AI agent Muse has gained significant downloads and is expected to play a crucial role in their future strategy.
-- Tesla and SpaceX could potentially merge, impacting their respective stock prices.
+- Steyr Motors saw a 22% surge in share price due to a potential acquisition offer from Redcat Holdings.
+- Pets at Home upgraded to a "buy" from "hold" by Peel Hunt, with shares gaining about 6%.
+- Barclays saw a 2.4% drop in share price amid regulatory scrutiny over misrepresentation in private credit loans.
 
 **Stocks mentioned:**
-- Netflix (NFLX) — Neutral
-- Tesla (TSLA) — Neutral
-- Meta Platforms (META) — Neutral
+- Steyr Motors (ticker: STAY)
+- Pets at Home (ticker: PETS)
+- Barclays (ticker: BARC)
 
-## BONUS SERIES: Our Town Chapter 4 | All Metal Mode | Bloomberg Tech
+## Don Wilson on the GPU Market's Trillion Dollar Question | Odd Lots
 
-**Bloomberg Podcasts** · 43:10 · Oct 18 · [watch](https://www.youtube.com/watch?v=z5LHTfcL7TM)
+**Bloomberg Podcasts** · 25:31 · Oct 19 · [watch](https://www.youtube.com/watch?v=QidpqykDYIU)
 
-**TL;DR:** The video discusses political tensions and community dynamics in Gainesboro, focusing on the impact of extremist groups and their influence on local residents. Nancy Puit and other community members navigate these challenges, demonstrating resilience and unity despite political differences.
+**TL;DR:** Don Wilson discusses the challenges and opportunities in the GPU market, including the need for risk management products, the potential of GPU futures, and the benefits of perpetual contracts for retail investors. He also highlights Nvidia's dominance and the increasing use of AI.
 
-**Worth watching in full?** 5/5 — The summary cannot fully cover the nuances and specific interactions described in the video.
-
-**Bookmarks:**
-- [1:03](https://youtu.be/z5LHTfcL7TM?t=63) Nancy Puit's reaction to the podcast episode
-- [16:28](https://youtu.be/z5LHTfcL7TM?t=988) Abatto's comment on the national organization advising communities
-- [19:31](https://youtu.be/z5LHTfcL7TM?t=1171) Nancy's actions after Isker's house fire
-- [23:38](https://youtu.be/z5LHTfcL7TM?t=1418) Pete Hegst's promotion-blocking actions
-- [26:40](https://youtu.be/z5LHTfcL7TM?t=1600) Diana's efforts for animal rescue
-- [34:49](https://youtu.be/z5LHTfcL7TM?t=2089) Barry's worries about Christian nationalist groups
-- [37:54](https://youtu.be/z5LHTfcL7TM?t=2274) Bryant's fears about job losses and local control
-
-**Key takeaways:**
-- Nancy Puit's community spirit in helping Isker's family despite political differences.
-- Cassie's perspective on the broader community and national scope of the opposition.
-- Pete Hegst's promotion-blocking actions and gender bias statements, reflecting broader intolerance within the military.
-- Diana's efforts for animal rescue, showing ongoing community engagement beyond political conflicts.
-- Mark Dudney's video on maintaining local culture, emphasizing the importance of preserving community values.
-- Barry's concerns about job losses and local control, reflecting broader economic and social impacts.
-- Diana's uncertainty about the future of her community, highlighting the need for community support and unity.
-
-## AI Safety Fact vs. Fiction | YC Paper Club
-
-**Y Combinator** · 1:37:04 · Oct 17 · [watch](https://www.youtube.com/watch?v=X7oI4Umt3DU)
-
-**TL;DR:** The video discusses the importance of factual discussions about AI safety, emphasizing rigorous scientific methods and peer review to address safety challenges in AI development, particularly in autonomous systems and language models. The speakers highlight the need for formal methods like automated reasoning and code verification to ensure the safety and reliability of AI systems, even in complex domains like aviation and language models.
-
-**Worth watching in full?** 4/5 — The summary covers the main points but misses out on the detailed discussions and examples provided in the full video.
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and conclusions in detail.
 
 **Bookmarks:**
-- [1:06](https://youtu.be/X7oI4Umt3DU?t=66) - Gary Tan suggests focusing on factual discussions about AI safety.
-- [6:09](https://youtu.be/X7oI4Umt3DU?t=369) - Gary Tan clarifies the probability of AI causing human extinction.
-- [22:33](https://youtu.be/X7oI4Umt3DU?t=1353) - Clark Barrett mentions the progress in automated theorem proving.
-- [30:41](https://youtu.be/X7oI4Umt3DU?t=1841) - Michael suggests establishing a not-for-profit organization for AI validation.
-- [50:06](https://youtu.be/X7oI4Umt3DU?t=3006) - Michael proposes a not-for-profit organization for validating AI principles.
-- [54:11](https://youtu.be/X7oI4Umt3DU?t=3251) - Clark and Michael discuss the future of cybersecurity.
-- [58:17](https://youtu.be/X7oI4Umt3DU?t=3497) - Michael notes the development of AST Prompter as an open-source tool.
+- [1:01](https://youtu.be/QidpqykDYIU?t=61) - Discussing the AI trade world and the need for risk management products
+- [2:03](https://youtu.be/QidpqykDYIU?t=123) - DRW's role in building a market for compute, including GPU futures
+- [3:04](https://youtu.be/QidpqykDYIU?t=184) - The regulatory challenges and the CFTC's extended comment period
+- [4:07](https://youtu.be/QidpqykDYIU?t=247) - The need for a hedging instrument for on-demand compute from clouds
+- [5:09](https://youtu.be/QidpqykDYIU?t=309) - Silicon Data's Iosco-compliant index for on-demand compute
+- [6:12](https://youtu.be/QidpqykDYIU?t=372) - Silicon Data's index and its significance for the market
 
 **Key takeaways:**
-- AI safety challenges include ensuring the safety of autonomous systems and language models.
-- Formal methods like automated reasoning and code verification are crucial for ensuring AI safety.
-- The Swiss cheese model is used to represent layers of defense in AI systems.
-- Human-level safeguards are important alongside technical tools.
-- Anthropic is developing techniques like automated reasoning checks for AI safety.
-- The concept of "more is different" highlights the need for reevaluating AI systems under extreme conditions.
-- Continuous monitoring and curation of benchmarks are essential for maintaining their accuracy and reliability.
+- The GPU market is highlighting a significant need for risk management products.
+- DRW is at the forefront of building a market for compute, including GPU futures.
+- The CFTC is extending the comment period, which may make some people more comfortable with the listing of GPU futures.
+- Silicon Data has created an Iosco-compliant index for on-demand compute, which is transparent and focused on new clouds.
+- Perpetual contracts offer more efficient hedging and exposure for retail investors compared to traditional futures contracts.
+- Nvidia's dominance in the GPU market is expected to continue, but they are unlikely to maintain their current market share.
+- The use of AI is increasing, with token use growing exponentially.
 
-## The Future of Inference Market & Model Routing: Commodity or Increasing in Value? | LangChain CEO
+## SK Hynix Lower, PSBC Gains, Bank Central Asia Plunges | Stock Movers
 
-**20VC with Harry Stebbings** · 1:02:53 · Oct 17 · [watch](https://www.youtube.com/watch?v=1jDCPEHwQfI)
+**Bloomberg Podcasts** · 4:42 · Oct 19 · [watch](https://www.youtube.com/watch?v=hWnqsBRPAzA)
 
-**TL;DR:** The video discusses the future of inference market and model routing, focusing on the transition from specialized models to more generalized models, and the importance of model routing at the harness level. It also touches on the growing inference market and the potential for open-source models to become more cost-effective and widely used.
+**TL;DR:** The video discusses significant movements in various Asian stocks, particularly focusing on the tech sector's volatility and the impact of geopolitical events, with a particular emphasis on the chip stock selloff and the stabilization in tech stocks. The overall mood is one of cautious optimism, with some tech names showing stabilization after a volatile start.
 
-**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and discussions provided in the video.
+**Worth watching in full?** 4/5 — The summary covers the main points but misses out on the detailed breakdown of individual stock movements and the specific market conditions discussed.
 
 **Bookmarks:**
-- [1:01](https://youtu.be/1jDCPEHwQfI?t=61) - Lang Chain's approach to building agents and their open-source framework.
-- [14:16](https://youtu.be/1jDCPEHwQfI?t=856) - The importance of model routing and its potential shift from gateway to harness level.
-- [22:23](https://youtu.be/1jDCPEHwQfI?t=1343) - The outer loop of continual learning and its impact on agent systems.
-- [34:35](https://youtu.be/1jDCPEHwQfI?t=2075) - The potential for providers to expose their own agent interfaces.
-- [41:43](https://youtu.be/1jDCPEHwQfI?t=2503) - The potential for agent spend to be 3x the cost of human salaries.
-- [45:46](https://youtu.be/1jDCPEHwQfI?t=2746) - The concerns about data usage and the potential for inconsistencies in responses.
-- [50:50](https://youtu.be/1jDCPEHwQfI?t=3050) - The importance of lower-level infrastructure like Modal and Temporal.
+- [0:02](https://youtu.be/hWnqsBRPAzA?t=2) Introduction and context
+- [1:03](https://youtu.be/hWnqsBRPAzA?t=63) Korean tech stocks performance
+- [2:05](https://youtu.be/hWnqsBRPAzA?t=125) China's economic data and market reaction
+- [3:07](https://youtu.be/hWnqsBRPAzA?t=187) EU's stance on China imports
+- [4:08](https://youtu.be/hWnqsBRPAzA?t=248) Indonesia's stock market performance and government response
 
 **Key takeaways:**
-- Building agents is still challenging, despite the availability of open-source frameworks.
-- Model routing is crucial and is likely to shift from gateway to harness level.
-- Continual learning can improve agent systems but does not fundamentally change their core operation.
-- The inference market is growing rapidly, with open-source models becoming more cost-effective.
-- The cost of engineering salaries is a significant factor in the valuation of companies like Anthropic.
-- Vertical agents are more efficient than third-party agents in interacting with underlying systems.
-- The inference market is expected to grow significantly, with providers like Fireworks and AWS continuing to have a place in it.
+- Samsung (SSNLF) up 1.5%
+- SK Hynix (SKHUF) down 1.5%
+- Vic (VIC) down 10 points
+- Maai (MAI) up 40 basis points
+- Camry (CAM) up 2%
+- BBRRI (BBRI) down 6.9%
+- MSEI (MSEI) down 7%
 
-## Investor Confidence Tested by AI Selloff
+**Stocks mentioned:**
+- SK Hynix (SKHUF) - Bearish
+- Vic (VIC) - Bearish
+- Maai (MAI) - Bullish
+- Camry (CAM) - Bullish
+- BBRRI (BBRI) - Bearish
+- MSEI (MSEI) - Bearish
 
-**Bloomberg Podcasts** · 10:16 · Oct 17 · [watch](https://www.youtube.com/watch?v=aQe-rkbD1H8)
+## Are Small Caps the Anti-AI Trade? | Merryn Talks Money
 
-**TL;DR:** The video discusses the impact of AI on the stock market, highlighting concerns about AI's profitability and the potential for misallocation of resources, particularly in the context of the AI trade. The speaker expresses skepticism about the long-term viability of certain AI-related companies and the role of influential figures like Jensen Huang in the AI ecosystem.
+**Bloomberg Podcasts** · 34:38 · Oct 19 · [watch](https://www.youtube.com/watch?v=Ixj31_Q092A)
 
-**Worth watching in full?** 3/5 — The summary covers the main points but misses some of the nuanced discussion and specific market examples.
+**TL;DR:** The video discusses the potential of small-cap investments as an alternative to AI-driven trading strategies, highlighting their potential for outperformance and lower valuations compared to larger companies. The hosts argue that small-cap funds, particularly those focused on value investments, can offer attractive returns even without a "small cap effect."
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and conclusions but lacks the detailed analysis and expert insights provided in the full video.
 
 **Bookmarks:**
-- [0:00](https://youtu.be/aQe-rkbD1H8?t=0) Introduction and Core Weave's situation
-- [2:11](https://youtu.be/aQe-rkbD1H8?t=131) Open source AI systems like DeepSync
-- [3:17](https://youtu.be/aQe-rkbD1H8?t=197) Historical comparison to computer technology
-- [4:18](https://youtu.be/aQe-rkbD1H8?t=258) Jensen Huang's comments and market speculation
-- [6:28](https://youtu.be/aQe-rkbD1H8?t=388) SpaceX and Tesla merger speculation
-- [8:30](https://youtu.be/aQe-rkbD1H8?t=510) BYD's EV market position
-- [9:33](https://youtu.be/aQe-rkbD1H8?t=573) Tesla's market position and potential risks
+- [12:34](https://youtu.be/Ixj31_Q092A?t=754) Small caps are cheap and undervalued, potentially offering better returns.
+- [13:27](https://youtu.be/Ixj31_Q092A?t=807) Buybacks and M&A have supported gains in Simon's fund.
+- [15:33](https://youtu.be/Ixj31_Q092A?t=933) Small cap value assets have historically provided sustainable returns.
+- [17:38](https://youtu.be/Ixj31_Q092A?t=1058) Multi-asset fund managers are considering small caps.
+- [19:42](https://youtu.be/Ixj31_Q092A?t=1182) Manager character traits and bottom-up stock picking are crucial.
+- [21:48](https://youtu.be/Ixj31_Q092A?t=1308) Zote Foams is a recent addition with a unique manufacturing process.
+- [23:52](https://youtu.be/Ixj31_Q092A?t=1432) Zote Foams has a relatively low valuation with a real PE ratio of about 11 times.
 
 **Key takeaways:**
-- AI is a transformative technology with winners and losers.
-- Open source AI systems like DeepSync pose a threat.
-- The market is skeptical about the profitability of AI applications.
-- SpaceX and Tesla merger is speculative.
-- The flying car concept is seen as gimmicky.
-- BYD is gaining market share in EVs.
-- Tesla's valuation and product introduction are under pressure.
+- Small caps are undervalued and can outperform large caps.
+- Small cap funds have historically provided sustainable returns.
+- Manager character traits and bottom-up stock picking are crucial.
+- Zote Foams is a promising small-cap investment with strong market position.
+- Private equity and M&A activity will continue, but IPOs may boom.
+
+**Stocks mentioned:**
+- Zote Foams (ticker: ZTF) — bullish — Simon mentions Zote Foams as a recent addition with a strong market position and potential for future growth.
+
+## Earnings Put AI Trade to the Test, Bund Summit Begins | Bloomberg Daybreak: Asia Edition
+
+**Bloomberg Podcasts** · 19:48 · Oct 19 · [watch](https://www.youtube.com/watch?v=BkPFHwJoJjQ)
+
+**TL;DR:** The video discusses the challenges faced by the AI sector, treasury yields, and the impact of protectionism on global economies. It also highlights the importance of international cooperation in regulating AI development.
+
+**Worth watching in full?** 5/5 — The summary covers the main points but misses out on the detailed analysis and expert insights provided in the full video.
+
+**Bookmarks:**
+- [1:03](https://youtu.be/BkPFHwJoJjQ?t=63) AI sector challenges and investor skepticism
+- [2:04](https://youtu.be/BkPFHwJoJjQ?t=124) Treasury yields and market perceptions
+- [3:05](https://youtu.be/BkPFHwJoJjQ?t=185) Portfolio management advice
+- [15:17](https://youtu.be/BkPFHwJoJjQ?t=917) Protectionism and its impact on global trade
+- [16:21](https://youtu.be/BkPFHwJoJjQ?t=981) Challenges in the Indian economy
+- [17:22](https://youtu.be/BkPFHwJoJjQ?t=1042) AI development and international cooperation
+- [18:22](https://youtu.be/BkPFHwJoJjQ?t=1102) Consensus for slowing AI development
+
+**Key takeaways:**
+- AI sector is facing similar challenges to the software sector did in the past, with investors questioning its viability.
+- Treasury yields have risen due to growth perceptions rather than just real interest rates.
+- A 60/40 portfolio should not be toppled until more clarity is available on the business cycle and fiscal policy.
+- Protectionism is affecting investment globally, particularly in countries with weak currencies and high youth unemployment.
+- India needs to focus on microeconomic policies, especially in the manufacturing sector and labor laws.
+- AI is a productivity revolution led by two of the world's biggest powers, with concerns about its uncontrollable potential.
+- There is a growing consensus for slowing AI development to prevent it from becoming uncontrollable, which could accelerate discussions on regulation.
+**Notes:**
+- [1:03](https://youtu.be/BkPFHwJoJjQ?t=63) David Ingles mentions AI sector challenges and investor skepticism.
+- [2:04](https://youtu.be/BkPFHwJoJjQ?t=124) Ivon Man discusses treasury yields and market perceptions.
+- [3:05](https://youtu.be/BkPFHwJoJjQ?t=185) Ma Brook Shatwan advises on portfolio management.
+- [15:17](https://youtu.be/BkPFHwJoJjQ?t=917) Protectionism is affecting global trade.
+- [16:21](https://youtu.be/BkPFHwJoJjQ?t=981) India faces challenges such as weak rupee, foreign outflows, and youth unemployment.
+- [17:22](https://youtu.be/BkPFHwJoJjQ?t=1042) AI development is led by two major powers.
+- [18:22](https://youtu.be/BkPFHwJoJjQ?t=1102) There is a growing consensus for slowing AI development.
+
+## 10 AI Stocks CRASHED — I'm Buying the Opportunity!!
+
+**Jose Najarro Stocks** · 32:45 · Oct 18 · [watch](https://www.youtube.com/watch?v=fOe_Ck6pBsE)
+
+**TL;DR:** The video discusses 10 AI stocks that have experienced significant declines, focusing on Coreweave, Micron, and other companies in the semiconductor and AI sectors. The speaker argues that despite recent market volatility, the long-term opportunity in the AI space remains strong.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers key points and insights not captured in the summary.
+
+**Bookmarks:**
+- [1:00](https://youtu.be/fOe_Ck6pBsE?t=60) - Stocks discussed and their recent performance
+- [3:05](https://youtu.be/fOe_Ck6pBsE?t=185) - Coreweave's strong revenue growth and potential
+- [13:13](https://youtu.be/fOe_Ck6pBsE?t=793) - Micron's HBM market and future growth
+- [15:15](https://youtu.be/fOe_Ck6pBsE?t=915) - Micron's valuation and potential for growth
+- [17:17](https://youtu.be/fOe_Ck6pBsE?t=1037) - Lumentum's growth in optical space
+- [30:29](https://youtu.be/fOe_Ck6pBsE?t=1829) - AECs' forward P/E ratio and fiscal year 2027
+- [32:32](https://youtu.be/fOe_Ck6pBsE?t=1952) - The speaker's overall bullish view on AI stocks
+
+**Key takeaways:**
+- Coreweave reported a 112% year-over-year revenue growth in the most recent quarter.
+- Micron has signed 26 strategic customer agreements, locking in 35% of their revenue through 2030.
+- Micron's HBM market is expected to see significant year-over-year growth, with prices higher than any cycle Micron has experienced.
+- Form Factor is expected to benefit from growing demand in the HBM and DRAM markets.
+- AECs is entering the optic space with Silver Flat and Silicon Photonics, offering growth opportunities within 12 months.
+- Astera Labs is seeing continued demand for its Scorpio portfolio, expected to see revenue growth as lead customers ramp up production.
+
+**Stocks mentioned:**
+- Coreweave (bullish)
+- Micron (bullish)
+- Form Factor (bullish)
+- Lumentum (bullish)
+- AECs (bullish)
+- Astera Labs (bullish)
+
+## Why India’s Kings Lost to a Company - Si Sheppard
+
+**Dwarkesh Patel** · 1:43 · Oct 18 · [watch](https://www.youtube.com/shorts/HkMlMdaiODQ)
+
+**TL;DR:** The video discusses how the East India Company's governance structure, allowing for the replacement of incompetent leaders, gave them an advantage over the monarchical Indian rulers, leading to their eventual control of Bengal.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and examples provided.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/HkMlMdaiODQ?t=0) Introduction and the concept of governance advantages
+- [1:01](https://youtu.be/HkMlMdaiODQ?t=61) Example of the Hundred Years War and the impact of a monarch's mental state
+- [2:00](https://youtu.be/HkMlMdaiODQ?t=120) The flexibility of corporations compared to hierarchical states
+-  The nature of early explorers as business operations
+-  The term "companions" and its meaning in the context of early capitalism
+
+**Key takeaways:**
+- The East India Company's governance structure allowed for the replacement of incompetent leaders
+- Monarchical India was prone to succession crises and anarchy
+- Corporations like the East India Company were more flexible and profit-driven
+- Early explorers and freebooters operated under a capitalist system
+
+## Vercel CEO Guillermo Rauch: AI didn't give Silicon Valley free time, it gave it seven-seven-seven
+
+**Sourcery with Molly O'Shea** · 1:46 · Oct 18 · [watch](https://www.youtube.com/shorts/0QYXCAHrv6w)
+
+**TL;DR:** Vercel CEO Guillermo Rauch discusses how the arrival of AI has led to an increase in work hours, not less, and shares his experience of condensing YouTube videos for efficiency.
+
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it captures Rauch's perspective but misses the context and details of his discussion.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/0QYXCAHrv6w?t=0) Introduction and initial statement about work hours
+- [1:01](https://youtu.be/0QYXCAHrv6w?t=61) Rauch's experience with condensing YouTube videos
+- [1:46](https://youtu.be/0QYXCAHrv6w?t=106) Rauch's final thoughts on the excitement and innovation in technology
+
+**Key takeaways:**
+- Vercel CEO Guillermo Rauch believes AI has led to more, not less, work hours.
+- Rauch uses technology, like condensing YouTube videos, to stay efficient and productive.
+- He sees the current era as one of rapid innovation and excitement in technology.
+
+## Ben Horowitz: “The most dangerous thing in AI is Anthropic and Bill Gates”
+
+**All-In Podcast** · 1:11 · Oct 18 · [watch](https://www.youtube.com/shorts/Xl0aXY0Uwk4)
+
+**TL;DR:** Ben Horowitz warns that the most dangerous AI risks come from credible sources like Bill Gates, who has significant political influence. He argues that the theoretical risk of AI recursively self-improving and taking off is not imminent because none of the four preconditions for this scenario have been met.
+
+**Worth watching in full?** 5/5 — The summary cannot cover the nuances and credibility of the argument made by Ben Horowitz.
+
+**Bookmarks:**
+- [00:00](https://youtu.be/Xl0aXY0Uwk4?t=0) Introduction and main argument
+- [01:00](https://youtu.be/Xl0aXY0Uwk4?t=60) Preconditions for AI recursively self-improving
+
+**Key takeaways:**
+- Ben Horowitz identifies Bill Gates as a credible source on AI risks.
+- Horowitz argues that the theoretical risk of AI recursively self-improving is not imminent.
+- None of the four preconditions for this scenario have been met.
 
 ## Skipped as off-topic
 
-- [France Faces Protests Over Rising Living Costs](https://www.youtube.com/watch?v=J8xZxcOU-bo) — Bloomberg Podcasts
-- [BONUS SERIES: Levittown Episode 4 | 'How Is That Not Illegal' | Bloomberg Daybreak: US Edition](https://www.youtube.com/watch?v=5YmMWEURpSo) — Bloomberg Podcasts
-- [Chrystia Freeland Warns US Alliances Are Fraying](https://www.youtube.com/watch?v=mpoVJi7kYYw) — Bloomberg Podcasts
-- [Sports Fashion Finds a Growing Female Audience](https://www.youtube.com/watch?v=7GLJkx-fRmI) — Bloomberg Podcasts
-- [BTW: Headlines You May Have Missed](https://www.youtube.com/watch?v=sCm-0Nu3PPQ) — Bloomberg Podcasts
+- [France Riot Mayhem, Trump-Zelenskyy Feud, Europe’s Plastic Dumpsite | Bloomberg Daybreak: Europe...](https://www.youtube.com/watch?v=h4g28y8P8v0) — Bloomberg Podcasts
+- [Bloomberg News Now: Zelenskyy to Meet with US Envoys](https://www.youtube.com/watch?v=n8EcWPGHK8U) — Bloomberg Podcasts
 
-## No transcript available
-
-- [Join the RTX Spark Global Launch Celebration](https://www.youtube.com/shorts/roVDIuW_6HI) — NVIDIA
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
