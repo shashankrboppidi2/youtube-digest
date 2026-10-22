@@ -1,513 +1,273 @@
-# YouTube digest — 2026-10-21
+# YouTube digest — 2026-10-22
 
-## SK Hynix Gains, CATL Drops, LIG Defense Falls | Stock Movers
+## Bhaskar Sunkara Thinks the Market Has a Place Under Socialism | Odd Lots
 
-**Bloomberg Podcasts** · 4:39 · Oct 21 · [watch](https://www.youtube.com/watch?v=PM95P0iv5QE)
+**Bloomberg Podcasts** · 56:18 · Oct 22 · [watch](https://www.youtube.com/watch?v=M-BtRs0bnt0)
 
-**TL;DR:** The video discusses stock movements in Europe, focusing on tech, semiconductors, and defense companies, with a particular emphasis on SpaceX and Super Micro's positive performance, and highlights the challenges faced by EV makers in China and defense companies in South Korea and the US.
+**TL;DR:** Bhaskar Sunkara discusses his vision for a market socialist economy, emphasizing the importance of reducing income inequality and reducing exploitation. He outlines how a market socialist system would operate, including financing, employment, and public goods provision, and critiques traditional capitalist and state socialist models.
 
-**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers important details and context not present in the summary.
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main arguments and key points in detail.
 
 **Bookmarks:**
-- [0:00](https://youtu.be/PM95P0iv5QE?t=0) Introduction and context
-- [1:01](https://youtu.be/PM95P0iv5QE?t=61) SpaceX and Super Micro's positive performance
-- [2:03](https://youtu.be/PM95P0iv5QE?t=123) EV makers under pressure in China
-- [3:03](https://youtu.be/PM95P0iv5QE?t=183) Defense themes under pressure
-- [4:04](https://youtu.be/PM95P0iv5QE?t=244) Politics impacting defense industry
+- [12:34](https://youtu.be/M-BtRs0bnt0?t=754) Markets and income distribution
+- [14:34](https://youtu.be/M-BtRs0bnt0?t=874) Role of the state in market socialism
+- [18:38](https://youtu.be/M-BtRs0bnt0?t=1118) Financing and differentiation in market socialism
+- [24:47](https://youtu.be/M-BtRs0bnt0?t=1487) Public housing and anti-social behavior
+- [32:58](https://youtu.be/M-BtRs0bnt0?t=1978) Role of the state in housing
+- [42:19](https://youtu.be/M-BtRs0bnt0?t=2539) Worker ownership and worker voice
+- [55:47](https://youtu.be/M-BtRs0bnt0?t=3347) Challenges of implementing market socialism
 
 **Key takeaways:**
-- SpaceX and Super Micro saw significant positive stock movements.
-- EV makers in China are facing competitive challenges.
-- Defense companies in South Korea and the US are under pressure.
-- President Trump's comments on data centers and energy independence.
-- Politics are influencing the defense industry in the US.
+- Sunkara advocates for a market socialist economy where income distribution is more aligned with the median person's needs.
+- Workers would be partners in firms, paid in equity rather than income, and would form operating agreements with managers.
+- Public housing would be provided by the state, with construction commissioned by the public sector.
+- Sunkara critiques traditional capitalist and state socialist models, suggesting market socialism could be more efficient and egalitarian.
+- Sunkara advocates for a more expansive role of the state in housing, encouraging construction and providing public housing.
+- He criticizes the school choice debate, suggesting that all schools should be excellent rather than just addressing the problems of failing schools.
+- He discusses the challenges of implementing market socialism in a country with frequent elections.
+
+## Resonac Dips, Alibaba Falls, East Japan Railway Up | Stock Movers
+
+**Bloomberg Podcasts** · 4:34 · Oct 22 · [watch](https://www.youtube.com/watch?v=24_RAktWNDc)
+
+**TL;DR:** The video discusses the stock market movements in Asia, focusing on Tesla and Meta's earnings reports, which led to a sell-off in tech stocks, particularly in Asian markets. The video also touches on the impact of China's regulatory actions on its internet companies and the performance of Japanese railways.
+
+**Worth watching in full?** 4/5 — The summary covers the main points but misses out on the detailed analysis of specific companies and their financials.
+
+**Bookmarks:**
+- [0:00](https://youtu.be/24_RAktWNDc?t=0) Introduction and market overview
+- [1:02](https://youtu.be/24_RAktWNDc?t=62) Tesla and Meta earnings impact
+- [2:04](https://youtu.be/24_RAktWNDc?t=124) Chinese internet stocks and government regulation
+- [3:06](https://youtu.be/24_RAktWNDc?t=186) Chinese tech companies and e-commerce platforms
+- [4:07](https://youtu.be/24_RAktWNDc?t=247) Japanese railways performance
+
+**Key takeaways:**
+- Tesla and Meta cut back on AI capex, leading to a sell-off in tech stocks.
+- Chinese internet companies face challenges due to government regulation and slowing e-commerce earnings.
+- Japanese railways outperform the market, up 2%.
+- Chinese tech companies like Alibaba and Tencent suffer, down 6.5% and 10%, respectively.
+- Chinese banks continue to outperform, with HSBC Tech index down 5%.
 
 **Stocks mentioned:**
-- SpaceX (F)
-- Super Micro (SMCI)
-- Contemporary Amperex (CATL)
-- Samsung
-- SK Hynix
-- Hyundai
-- LIG Defense
+- Resonac (down 12%)
+- Samsung (down 5%)
+- Heinix (down 5%)
+- Tesla (down 12%)
+- Meta (down 12%)
+- Alibaba (down 6.5%)
+- Tencent (down 10%)
+- HSBC Tech index (down 5%)
+- Japan Railways (up 2%)
 
-## Musk Starlink Controversy Grows, Griffin AI Bubble Warning, Meloni's Far-Right Test | Bloomberg...
+## SEC Roots Out Golfing 'on the Taxpayer's Dime' | Disclosure With Jason Leopold and Matt Topic
 
-**Bloomberg Podcasts** · 21:24 · Oct 21 · [watch](https://www.youtube.com/watch?v=QAxmmkuOZ-4)
+**Bloomberg Podcasts** · 30:19 · Oct 22 · [watch](https://www.youtube.com/watch?v=S9HBKcoBVF8)
 
-**TL;DR:** The video discusses controversies surrounding SpaceX's Starlink project, Elon Musk's potential merger with Tesla, Ken Griffin's AI bubble warning, and Italian Prime Minister Giorgia Meloni's stance on coalition politics. The main conclusion is the ongoing debate and concerns about technological advancements and their potential impacts on various sectors.
+**TL;DR:** Jason and Matt discuss an investigative report by the SEC revealing that several employees, including an IT supervisor and his subordinates, played golf during work hours, using taxpayer-funded outings. The report details extensive efforts by investigators, including surveillance, and concludes that the golf outings occurred frequently and were deliberate.
 
-**Worth watching in full?** 5/5 — The summary covers the key points but misses out on the detailed analysis and expert opinions provided in the full video.
-
-**Bookmarks:**
-- [12:34](https://youtu.be/QAxmmkuOZ-4?t=754) Elon Musk's Starlink slowdown and its implications
-- [15:20](https://youtu.be/QAxmmkuOZ-4?t=920) Super Micro's revenue guidance and market reaction
-- [16:22](https://youtu.be/QAxmmkuOZ-4?t=982) Elon Musk's potential merger of SpaceX and Tesla
-- [17:24](https://youtu.be/QAxmmkuOZ-4?t=1044) Anthropic's investment in AI infrastructure
-- [18:24](https://youtu.be/QAxmmkuOZ-4?t=1104) Italian Prime Minister Giorgia Meloni's stance on coalition politics
-
-**Key takeaways:**
-- SpaceX's Starlink project is facing controversy with Musk reportedly slowing down access to Ukraine.
-- SpaceX is pushing for a merger with Tesla, which could be significant for developing superintelligence software.
-- Ken Griffin warns of an AI bubble, highlighting the potential for investment bubbles with game-changing technologies.
-- Italian Prime Minister Meloni is not planning to broaden her coalition, despite political stability, and her reforms favor large alliances.
-
-## Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Company
-
-**Norges Bank Investment Management** · 46:23 · Oct 21 · [watch](https://www.youtube.com/watch?v=U5YtR3OG5Uo)
-
-**TL;DR:** Eric Schmidt discusses the rapid advancements in AI and its implications for technology, economics, and society, highlighting the importance of regulation and the potential for AI to solve complex problems, but also warning about the risks of misuse.
-
-**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and insights in a concise manner.
+**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the investigative process, key findings, and the subsequent actions taken by the SEC.
 
 **Bookmarks:**
-- [1:01](https://youtu.be/U5YtR3OG5Uo?t=61) - Discoveries in AI and the intense competition for leadership.
-- [10:10](https://youtu.be/U5YtR3OG5Uo?t=610) - Reinforcement learning and the theory of extraordinary discoveries.
-- [17:20](https://youtu.be/U5YtR3OG5Uo?t=1040) - Challenges in biology and the importance of data collection.
-- [24:25](https://youtu.be/U5YtR3OG5Uo?t=1465) - The risk of AI models being used for malicious purposes, such as designing bombs.
-- [30:37](https://youtu.be/U5YtR3OG5Uo?t=1837) - The proposal for a rule to reduce regulatory burdens for companies with fewer than 21 employees.
-- [35:41](https://youtu.be/U5YtR3OG5Uo?t=2141) - The importance of leadership in the fast-paced environment of technology companies.
-- [45:55](https://youtu.be/U5YtR3OG5Uo?t=2755) - The discussion on the potential for robotic and visual super intelligence.
+- [0:00](https://youtu.be/S9HBKcoBVF8?t=0) Introduction and investigative journey
+- [3:08](https://youtu.be/S9HBKcoBVF8?t=188) Investigators' efforts and detailed observations
+- [4:09](https://youtu.be/S9HBKcoBVF8?t=249) Specific example of SEC employee playing golf
+- [5:11](https://youtu.be/S9HBKcoBVF8?t=311) Summary of findings and scale of issue
+- [17:38](https://youtu.be/S9HBKcoBVF8?t=1058) Shooter McGavin's interview and supervisor's reaction
+- [22:49](https://youtu.be/S9HBKcoBVF8?t=1369) Another employee's claim and investigator's rebuttal
+- [25:54](https://youtu.be/S9HBKcoBVF8?t=1554) Submission of report and subsequent actions
 
 **Key takeaways:**
-- AI can solve complex problems, such as unsolvable math problems.
-- The concept of recursive self-improvement suggests that AI could potentially learn everything and discover new things.
-- The use of distillation techniques in Chinese AI models could indicate a competitive edge.
-- The proposal for a rule to reduce regulatory burdens for companies with fewer than 21 employees.
-- The need to protect vulnerable groups from harmful content and practices.
-- The potential for more efficient business operations with AI platforms.
-- The potential for robotic and visual super intelligence, emphasizing the need for capabilities beyond human ability.
+- SEC employees, including an IT supervisor and his subordinates, played golf during work hours using taxpayer-funded outings.
+- The golf outings occurred frequently, with at least 26 instances between March 2022 and November 2024.
+- SEC employees are paid between $100,000 and $200,000 annually and are allowed to play golf during work hours.
+- The supervisors and employees received suspensions, but the report does not mention whether they had to reimburse the time spent golfing.
 
-## Asia Equities Rebound on Strong Earnings, Elice Jumps | Bloomberg Daybreak: Asia Edition
+## French Yields' 24-Year High, China-EU Car Sales Accelerate, Russia's Oil Giant Struggles |...
 
-**Bloomberg Podcasts** · 19:22 · Oct 21 · [watch](https://www.youtube.com/watch?v=51HuyVvQ2Ts)
+**Bloomberg Podcasts** · 17:10 · Oct 22 · [watch](https://www.youtube.com/watch?v=HshmZAbG_C8)
 
-**TL;DR:** The video discusses Ellis, a South Korean data infrastructure company, which saw its stock rebound after a significant drop on its trading debut, driven by CEO Jon Kim's explanation of the company's competitive advantages and growth potential. The CEO emphasizes the company's efficiency and scalability, as well as its plans for both domestic and international expansion. [12:34](https://youtu.be/51HuyVvQ2Ts?t=754)
+**TL;DR:** French bond yields hit a 24-year high, driven by rising energy prices and political uncertainty, with the government yet to pass the 2027 budget and the April presidential election adding to the uncertainty. The widening yield spread between French and German bonds is closely watched as it indicates how risky French debt is perceived compared to the rest of Europe. The ECB is closely monitoring the situation and may downgrade France if Moody's does so.
 
-**Worth watching in full?** 5/5 — The summary covers the key points but the full video provides additional context and details.
+**Worth watching in full?** 5/5 — The summary cannot replace the full podcast as it misses critical details and context.
 
 **Bookmarks:**
-- [12:34](https://youtu.be/51HuyVvQ2Ts?t=754) Ellis' stock performance and CEO's explanation
-- [16:20](https://youtu.be/51HuyVvQ2Ts?t=980) Comparison to other companies in the "neo clouds" industry
-- [17:22](https://youtu.be/51HuyVvQ2Ts?t=1042) Target markets and export plans
-- [18:22](https://youtu.be/51HuyVvQ2Ts?t=1102) Flexibility and efficiency of modular data centers
+- [0:00](https://youtu.be/HshmZAbG_C8?t=0) — Introduction and top stories
+- [3:04](https://youtu.be/HshmZAbG_C8?t=184) — Drone strikes and sanctions on Roseneft
+- [5:07](https://youtu.be/HshmZAbG_C8?t=307) — Chinese auto manufacturers gaining market share in Europe
+- [8:10](https://youtu.be/HshmZAbG_C8?t=490) — French 10-year OAT yields to German buns spread
+- [11:12](https://youtu.be/HshmZAbG_C8?t=672) — French bond yield spread
+- [13:13](https://youtu.be/HshmZAbG_C8?t=793) — ECB's role in France
+- [16:14](https://youtu.be/HshmZAbG_C8?t=974) — Ukraine's position at the table
 
 **Key takeaways:**
-- Ellis saw its stock plummet 32% on its trading debut but rebounded significantly, up as much as 30% in the Wednesday session.
-- CEO Jon Kim attributes the rebound to the company's competitive advantages in speed, flexibility, and capital efficiency.
-- Ellis is targeting both domestic and overseas markets, with discussions ongoing with overseas companies.
-- The company plans to export its modular data centers, which are patented in Korea, to other countries.
-- Ellis emphasizes the flexibility and efficiency of their modular data centers, which can be redesigned to fit local laws and regulatory environments.
+- French bond yields hit a 24-year high, driven by rising energy prices and political uncertainty.
+- China's auto manufacturers have more than doubled their share of new car sales in Europe.
+- Meta is boosting AI spending, while Tesla is cutting back.
+- UK banks' shares have been falling ahead of the upcoming budget.
+- Saxophones are making a comeback, with Kamasi Washington and Charlie Parker among notable players.
+- The ECB is closely monitoring France's budget and may intervene if necessary.
+- Ukraine is fighting for a seat at the table in negotiations with Russia and the US.
 
-**Stocks mentioned:**
-- Ellis (ELY) — Neutral — The CEO is optimistic about the company's prospects, mentioning a 200% surge in first half revenue and aiming to double revenue compared to the previous year. He also highlights potential government initiatives and high demand for data centers as contributing to future growth. None of the other stocks mentioned in the video are discussed.
+## Yahoo CEO Jim Lanzone: "We are playing with house money now" after Apollo deal
 
-## Citadel CEO Ken Griffin Talks AI Bubble, US Midterm Elections & France Protests | Bloomberg Talks
+**Sourcery with Molly O'Shea** · 1:29 · Oct 22 · [watch](https://www.youtube.com/shorts/Ipeyy77jD9A)
 
-**Bloomberg Podcasts** · 48:56 · Oct 21 · [watch](https://www.youtube.com/watch?v=pqM90N6cpXI)
+**TL;DR:** Yahoo CEO Jim Lanzone discusses the company's recent Apollo deal, stating they are now playing with house money, and speculates on what might surprise investors when Yahoo goes public.
 
-**TL;DR:** Ken Griffin discusses AI advancements, their impact on various industries, and the importance of reskilling workers. He also addresses concerns about the semiconductor market and the need for fiscal responsibility in government spending.
-
-**Worth watching in full?** 5/5 — The summary covers the main points but misses the detailed insights and anecdotes shared by Griffin.
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and context provided in the full video.
 
 **Bookmarks:**
-- [1:04](https://youtu.be/pqM90N6cpXI?t=64) AI advancements and their impact on tasks.
-- [7:10](https://youtu.be/pqM90N6cpXI?t=430) Semiconductor market volatility.
-- [11:11](https://youtu.be/pqM90N6cpXI?t=671) Uneven AI adoption among companies.
-- [21:24](https://youtu.be/pqM90N6cpXI?t=1284) Griffin's skepticism about future market events.
-- [30:31](https://youtu.be/pqM90N6cpXI?t=1831) Comparison to French protests.
-- [43:44](https://youtu.be/pqM90N6cpXI?t=2624) Citadel's center of gravity in Miami.
-- [47:49](https://youtu.be/pqM90N6cpXI?t=2869) Importance of physical proximity for team development.
+- [0:00](https://youtu.be/Ipeyy77jD9A?t=0) Introduction and background of the Apollo deal
+- [1:02](https://youtu.be/Ipeyy77jD9A?t=62) Speculation on what might surprise investors during Yahoo's IPO
 
 **Key takeaways:**
-- Griffin emphasizes the transformative power of AI in various industries.
-- Citadel's core business remains fundamental research, despite AI advancements.
-- The semiconductor market is experiencing volatility and potential price pressures.
-- Griffin supports Republican candidates and believes fiscal responsibility is crucial.
-- Miami's economic growth is attributed to Cuban immigrants and their entrepreneurial spirit.
-- Carnegie Mellon University's campus in Miami will bring thousands of students and graduate students.
+- Yahoo is now playing with house money after the Apollo deal.
+- The company has a large user base, with 75% of users coming directly to Yahoo.
+- Yahoo is undervalued compared to other similar companies.
 
-## Citadel CEO Ken Griffin Says AI ‘Almost Certainly’ in a Bubble; Trump Has 'Mixed Scorecard'
+## NVIDIA Just Changed AI Data Centers FOREVER!!
 
-**Bloomberg Podcasts** · 48:51 · Oct 21 · [watch](https://www.youtube.com/watch?v=QWzQo74cA7U)
-
-**TL;DR:** Citadel CEO Ken Griffin discusses the rapid advancement of AI, its transformative potential, and the risk of economic bubbles. He also critiques government responses and suggests the US should support European reforms to promote growth.
-
-**Worth watching in full?** 5/5 — The summary covers the main points but misses the detailed insights and anecdotes provided in the full video.
-
-**Bookmarks:**
-- [12:34](https://youtu.be/QWzQo74cA7U?t=754) AI advancements and their impact on jobs and innovation
-- [14:34](https://youtu.be/QWzQo74cA7U?t=874) Reflection on the transformative power of technology
-- [15:36](https://youtu.be/QWzQo74cA7U?t=936) Critique of hedge funds' explanations for market changes
-- [17:39](https://youtu.be/QWzQo74cA7U?t=1059) Portfolio extraction strategy during market rallies
-- [30:08](https://youtu.be/QWzQo74cA7U?t=1808) Concerns about socialist influence in Europe
-- [37:22](https://youtu.be/QWzQo74cA7U?t=2242) Advocacy for supporting European reforms
-- [47:41](https://youtu.be/QWzQo74cA7U?t=2861) Citadel's centralized team structure
-
-**Key takeaways:**
-- Griffin sees AI as a transformative force but warns of potential economic bubbles.
-- The internet has become integral to daily life, similar to AI's potential impact.
-- Griffin dismisses the common explanation for market sell-offs and suggests understanding underlying reasons.
-- Citadel maintains a centralized team structure to facilitate physical interactions.
-- Griffin suggests establishing a campus in Miami to transform the city and support AI research.
-
-## SpaceX Earnings Just Changed Everything for AI Stocks!!
-
-**Jose Najarro Stocks** · 8:53 · Oct 21 · [watch](https://www.youtube.com/watch?v=3h3vRJnRLbE)
-
-**TL;DR:** The video discusses recent earnings reports from SpaceX and Super Micro, highlighting their positive impacts on the AI and semiconductor industries. The main conclusion is that these reports indicate strong demand for AI servers and GPUs, which is bullish for the industry.
-
-**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers key details and context that are essential for understanding the situation.
-
-**Bookmarks:**
-- [0:00](https://youtu.be/3h3vRJnRLbE?t=0) Introduction and initial stock movements
-- [1:00](https://youtu.be/3h3vRJnRLbE?t=60) Super Micro's earnings and revenue projections
-- [3:02](https://youtu.be/3h3vRJnRLbE?t=182) Super Micro's gross margin increase
-- [4:05](https://youtu.be/3h3vRJnRLbE?t=245) SpaceX's projected ARR and revenue
-- [5:05](https://youtu.be/3h3vRJnRLbE?t=305) SpaceX's projected revenue and capex
-- [7:06](https://youtu.be/3h3vRJnRLbE?t=426) SpaceX's payback periods for compute deployments
-- [8:06](https://youtu.be/3h3vRJnRLbE?t=486) SpaceX's strategy for short-term contracts
-
-**Key takeaways:**
-- SpaceX is projected to have 13 gawatts of compute by the end of 2027.
-- Super Micro's revenue is expected to increase by 26.7%.
-- SpaceX's projected ARR by the end of 2027 is $500 billion to $1 trillion.
-- SpaceX is expected to spend $160 billion annually on AI infrastructure.
-- SpaceX aims to have a 20 gawatt power capacity by the end of 2027.
-- SpaceX's short-term contracts are expected to generate high revenue and flexibility.
-
-**Stocks mentioned:**
-- SpaceX (ticker: SPCE)
-- Super Micro (ticker: ASM)
-- Nvidia (ticker: NVDA)
-- Amazon (ticker: AMZN)
-- AMD (ticker: AMD)
-- Intel (ticker: INTC)
-- Micron Technology (ticker: MU)
-
-## Skipped as off-topic
-
-- [James Robinson on What It Looks Like When a State is Failing | Odd Lots](https://www.youtube.com/watch?v=0YZ-DtAtQ4s) — Bloomberg Podcasts
-
-
-_Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
-
-<!-- run 13:11Z -->
-
-## Dr. Patrick Pilarski on Bionic AI Arms That Learn Their User
-
-**TechSurge: Deep Tech VC Podcast** · 57:32 · Oct 21 · [watch](https://www.youtube.com/watch?v=HWpZBGbinZA)
-
-**TL;DR:** Dr. Patrick Pilarski discusses his lab's approach to building bionic AI arms that learn from user experience, contrasting it with the predominant reinforcement learning used by other AI labs. He emphasizes the importance of computational efficiency and constructivism in creating intelligent agents that can learn from their own experience.
-
-**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and conclusions but misses out on the detailed explanations and examples.
-
-**Bookmarks:**
-- [1:00](https://youtu.be/HWpZBGbinZA?t=60) - Introduction to the Alberta Machine Intelligence Institute and their prosthetic limb learning approach.
-- [12:14](https://youtu.be/HWpZBGbinZA?t=734) - Dr. Pilarski's emphasis on computational efficiency and learning from experience.
-- [13:14](https://youtu.be/HWpZBGbinZA?t=794) - Contrast between reinforcement learning and the Alberta plan's approach.
-- [14:14](https://youtu.be/HWpZBGbinZA?t=854) - Explanation of reinforcement learning and the Alberta plan's focus on experience-based learning.
-- [15:14](https://youtu.be/HWpZBGbinZA?t=914) - Discussion on the difference between a one-shot approach and the Alberta plan's learning from experience.
-- [16:16](https://youtu.be/HWpZBGbinZA?t=976) - Analogy of human and giraffe heads to illustrate the difference in intelligence.
-
-**Key takeaways:**
-- The Alberta Machine Intelligence Institute builds prosthetic limbs that learn from user experience using reinforcement learning.
-- The Alberta plan aims to create intelligent agents that learn from their own experience, contrasting with the predominant reinforcement learning used by other AI labs.
-- The Alberta plan's approach is more about constructing intelligence through experience-based reinforcement learning, focusing on constructivism.
-- The AI arm learns predictions through temporal difference learning, improving the user's experience quickly.
-- The AI arm can fail and return to the gold standard, ensuring the user always gets what they want.
-- Bone-anchoring surgeries for upper limb prosthetics significantly improve comfort and fit, allowing for unconventional uses.
-- The telescoping forearm prosthetic extends the arm's length, enabling unconventional uses like giving an "exploding high five."
-
-## Super AI Agents for Science, Manufacturing and Engineering  | GTC Berlin 2026 Edition
-
-**NVIDIA** · 3:19 · Oct 21 · [watch](https://www.youtube.com/watch?v=IqhDPbRrsh4)
-
-**TL;DR:** The video discusses how AI agents, combining five key components, can be used by companies in science, manufacturing, and engineering to improve their processes and outcomes. The main conclusion is that AI agents can automate and optimize complex tasks, making them more efficient and effective.
-
-**Worth watching in full?** 5/5 — The summary cannot cover the full depth and detail of the video.
-
-**Bookmarks:**
-- [0:01](https://youtu.be/IqhDPbRrsh4?t=1) Introduction to AI agents and their components
-- [1:02](https://youtu.be/IqhDPbRrsh4?t=62) Lyra Sciences' use of AI agents in drug therapy design
-- [2:04](https://youtu.be/IqhDPbRrsh4?t=124) Siemens electronic factory Erlangen's use of AI agents in product development
-- [3:06](https://youtu.be/IqhDPbRrsh4?t=186) Dassault Systèmes platform's use of AI agents in engineering design
-
-**Key takeaways:**
-- AI agents can automate and optimize complex tasks in science, manufacturing, and engineering.
-- Open models, CUDA-X accelerated tools, and the Open Shell Secure Runtime are key components.
-- Different companies use AI agents for various goals, such as drug therapy design, product development, and engineering design.
-
-## NVIDIA GTC Berlin 2026 Keynote With CEO Jensen Huang
-
-**NVIDIA** · 1:56:08 · Oct 21 · [watch](https://www.youtube.com/watch?v=PvFjbPYEOZI)
+**Jose Najarro Stocks** · 12:54 · Oct 22 · [watch](https://www.youtube.com/watch?v=DwQ8z2cn7H0)
 
 **TL;DR:** 
 
-**Worth watching in full?** 
+**Worth watching in full?** <4/5 — >
 
 **Bookmarks:**
-- [1:03](https://youtu.be/PvFjbPYEOZI?t=63) Perseverance and resilience emphasized
-- [23:45](https://youtu.be/PvFjbPYEOZI?t=1425) Importance of tokens in AI
-- [25:57](https://youtu.be/PvFjbPYEOZI?t=1557) Long-term investments in Europe
-- [44:33](https://youtu.be/PvFjbPYEOZI?t=2673) Vera Rubin computer
-- [47:45](https://youtu.be/PvFjbPYEOZI?t=2865) Vera CPU
-- [48:51](https://youtu.be/PvFjbPYEOZI?t=2931) Spectrum-X co-packaged optical module
-- [55:03](https://youtu.be/PvFjbPYEOZI?t=3303) NVLink 72 system
+- [0:00](https://youtu.be/DwQ8z2cn7H0?t=0) - [0:30](https://youtu.be/DwQ8z2cn7H0?t=30) - Introduction and Nvidia's earnings performance
+- [0:30](https://youtu.be/DwQ8z2cn7H0?t=30) - [1:00](https://youtu.be/DwQ8z2cn7H0?t=60) - Nvidia's DSX pod announcement
+- [1:00](https://youtu.be/DwQ8z2cn7H0?t=60) - [2:00](https://youtu.be/DwQ8z2cn7H0?t=120) - Comparison of Nvidia's DSX pod to existing solutions
+- [2:00](https://youtu.be/DwQ8z2cn7H0?t=120) - [3:02](https://youtu.be/DwQ8z2cn7H0?t=182) - Impact on financial risk for investors
+- [3:02](https://youtu.be/DwQ8z2cn7H0?t=182) - [4:05](https://youtu.be/DwQ8z2cn7H0?t=245) - Overview of Lamb Research's earnings
+- [4:05](https://youtu.be/DwQ8z2cn7H0?t=245) - [5:06](https://youtu.be/DwQ8z2cn7H0?t=306) - Texas Instruments' earnings and guidance
+- [5:06](https://youtu.be/DwQ8z2cn7H0?t=306) - [6:08](https://youtu.be/DwQ8z2cn7H0?t=368) - Meta Platforms' earnings and Muse app
 
 **Key takeaways:**
-- NVIDIA invests over 33 years in Europe, starting with NV2 and NV3.
-- Tokens are crucial for transforming data into knowledge in AI.
-- NVIDIA's DSX integrates hardware and software for efficient AI systems.
-- NVIDIA's Lila Science uses AI to develop therapies for diseases like B-Zell-Lymphoma.
-- NVIDIA's n1 X chip is designed to accelerate OpenGL, DirectX, and CUDA.
-- NVIDIA's RTX Spark series includes the DGX One and DGX Station.
-- NVIDIA's DGX Pod infrastructure simplifies building AI factories.
-
-## Gas Turbine Makers Cash In on Global Power Rush | Switched On
-
-**Bloomberg Podcasts** · 32:23 · Oct 21 · [watch](https://www.youtube.com/watch?v=8-r4-ij-yl4)
-
-**TL;DR:** The video discusses the surge in gas turbine orders driven by the growing demand from data centers, highlighting the significant shift from traditional utility buyers to data center operators. It also touches on the market dynamics, including the increasing lead times and the potential risks for upstream suppliers and buyers of turbines.
-
-**Worth watching in full?** 5/5 — The summary covers the main points but the full video provides additional context and insights.
-
-**Bookmarks:**
-- [1:01](https://youtu.be/8-r4-ij-yl4?t=61) Global gas turbine order trends and major players
-- [5:08](https://youtu.be/8-r4-ij-yl4?t=308) Data center demand driving gas turbine orders
-- [13:15](https://youtu.be/8-r4-ij-yl4?t=795) Capacity additions and their implications
-- [14:17](https://youtu.be/8-r4-ij-yl4?t=857) Share price recovery and lead times
-- [27:26](https://youtu.be/8-r4-ij-yl4?t=1646) Long-term outlook and potential risks
-- [29:28](https://youtu.be/8-r4-ij-yl4?t=1768) Industry preparedness for potential downturn
-- [30:30](https://youtu.be/8-r4-ij-yl4?t=1830) Long-term perspective and exit strategies
-
-**Key takeaways:**
-- Global gas turbine orders have surged, with a significant increase in orders from data centers.
-- Major players like Semens Energy, Genova, and Mitsubishi Power maintain a dominant market share.
-- Data center demand is a key driver, accounting for about 15-20% of new orders.
-- Upstream suppliers and turbine buyers face potential risks if demand for gas turbines declines.
-- The industry is preparing for a potential return to normalcy, with some companies already considering exit strategies.
-
-## Carrefour Plunges, Randstad Rises, EssilorLuxottica Gains | Stock Movers
-
-**Bloomberg Podcasts** · 3:52 · Oct 21 · [watch](https://www.youtube.com/watch?v=a9Fq1MEJ-KM)
-
-**TL;DR:** The video discusses stock movements in Europe, focusing on Carrefour's decline due to social unrest in France and Randstad's rise as employment services provider sees improvement. EssilorLuxottica also saw gains. The main conclusion is that stock movements are influenced by various factors including economic conditions and company-specific news.
-
-**Worth watching in full?** 5/5 — The summary cannot replace the full video as it covers a wide range of stock movements and their underlying reasons.
-
-**Bookmarks:**
-- [0:00](https://youtu.be/a9Fq1MEJ-KM?t=0) - Overview of the Stock Movers Report
-- [1:02](https://youtu.be/a9Fq1MEJ-KM?t=62) - Carrefour's decline due to social unrest in France
-- [2:05](https://youtu.be/a9Fq1MEJ-KM?t=125) - Randstad's rise as employment services provider sees improvement
-- [3:06](https://youtu.be/a9Fq1MEJ-KM?t=186) - EssilorLuxottica's gains
-
-**Key takeaways:**
-- Carrefour's shares fell 11% due to social unrest in France.
-- Randstad's shares rose 16% as it saw improvement in hiring.
-- EssilorLuxottica's shares surged 12% after revenue growth exceeded expectations.
-- Carrefour's decline is the biggest since March 2020.
-- Randstad's improvement is seen in Northern Europe, particularly Germany and the Netherlands.
-- EssilorLuxottica's growth is driven by traditional lenses and frames, with wearables growing by 21%.
+- 
+- 
+- 
+- 
 
 **Stocks mentioned:**
-- Carrefour (FR)
-- Randstad (RNS)
-- EssilorLuxottica (EOS)
+- 
+- 
+- 
+-
 
-## EssilorLuxottica Up, Iberdrola Gains, Michelin Falls | Stock Movers
+## Meta AI Bet, Tesla Cuts Spending, Barclays Asia Forum | Bloomberg Daybreak: Asia Edition
 
-**Bloomberg Podcasts** · 3:24 · Oct 21 · [watch](https://www.youtube.com/watch?v=ybD_BjWh8ek)
+**Bloomberg Podcasts** · 19:44 · Oct 22 · [watch](https://www.youtube.com/watch?v=FgTgKjoUqP0)
 
-**TL;DR:** The video discusses the performance of EssilorLuxottica, Iberdrola, and Michelin, highlighting their gains and losses, and the reasons behind these movements. EssilorLuxottica saw gains due to strong results, while Michelin faced challenges with weak volume growth. Iberdrola maintained its gains despite a flat performance.
+**TL;DR:** Bloomberg Daybreak: Asia Edition covers Meta Platforms' AI investment, Tesla's financial health, and Barclays' strategy in Asia, highlighting the complex landscape of technology, finance, and geopolitics impacting the region. The video provides valuable insights into these sectors and their interconnections.
 
-**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it covers the main points and nuances of the stock movements.
+**Worth watching in full?** 5/5 — The summary cannot replace the detailed analysis and expert insights provided in the full video.
 
 **Bookmarks:**
-- [0:00](https://youtu.be/ybD_BjWh8ek?t=0) Overview of the Stock Movers Report
-- [1:03](https://youtu.be/ybD_BjWh8ek?t=63) EssilorLuxottica's performance and its impact on the stock
-- [2:03](https://youtu.be/ybD_BjWh8ek?t=123) Iberdrola's performance and its power grid strategy
-- [3:04](https://youtu.be/ybD_BjWh8ek?t=184) Michelin's performance and the challenges in the tire market
+- [1:01](https://youtu.be/FgTgKjoUqP0?t=61) — Meta Platforms' AI investment and ad revenue
+- [3:03](https://youtu.be/FgTgKjoUqP0?t=183) — Neo cloud competition and compute power constraints
+- [5:05](https://youtu.be/FgTgKjoUqP0?t=305) — Tesla's profit and merger with SpaceX
+- [7:06](https://youtu.be/FgTgKjoUqP0?t=426) — AI spending and workforce productivity
+- [9:08](https://youtu.be/FgTgKjoUqP0?t=548) — Semiconductors and the AI trade
 
 **Key takeaways:**
-- EssilorLuxottica saw a significant gain due to strong third-quarter results, particularly in their traditional eyewear business.
-- Iberdrola maintained its gains, driven by its strong performance in Spain, the UK, and Brazil in the power grid space.
-- Michelin faced challenges with weak volume growth, especially in the face of competition from cheaper imports and weak demand in some areas.
+- Meta Platforms reported above-average ad revenue and plans to fund AI with new non-voting stock.
+- Tesla maintained positive cash flow despite market expectations of significant losses.
+- The AI industry faces concerns about spending and potential economic transformation.
+- The semiconductor industry is seen as a good investment avenue for AI growth.
+- Barclays is focusing on retaining talent in Japan and expanding in the Middle East.
 
 **Stocks mentioned:**
-- EssilorLuxottica (ticker: ELSY:FP)
-- Iberdrola (ticker: IBER:FP)
-- Michelin (ticker: MT:FP)
+- Meta Platforms (META)
+- Tesla (TSLA)
+- Nvidia (NVDA)
+- TSMC (TSM)
 
-## LIVE CHART REQUESTS 📉 TOP STOCKS & CRYPTO TO WATCH NOW! | BITCOIN & ALTCOINS | OCTOBER 20
+**Notes:**
+- [1:01](https://youtu.be/FgTgKjoUqP0?t=61) — Meta Platforms reported revenue above analyst estimates, with ads driving the growth. The company announced plans to create a new class of non-voting stock to fund its AI bet.
+- [3:03](https://youtu.be/FgTgKjoUqP0?t=183) — The neo cloud space is becoming competitive, with concerns about debt and credit risks. However, companies like SpaceX and Tesla are still constrained by compute power availability, and there is a risk of consolidation.
+- [5:05](https://youtu.be/FgTgKjoUqP0?t=305) — Tesla reported third-quarter profit above estimates, with positive cash flow despite market expectations of a significant cash burn.
+- [7:06](https://youtu.be/FgTgKjoUqP0?t=426) — There are concerns about the AI bubble, but many companies are still grappling with AI spending and its economic impact. Workforce productivity is at an all-time high, indicating potential economic growth.
+- [9:08](https://youtu.be/FgTgKjoUqP0?t=548) — The semiconductor complex is seen as a good way to continue playing the AI trade, with companies like Nvidia and TSMC delivering significant free cash flow and having monopolies in chip production.
 
-**Overkill Trading** · 1:39:46 · Oct 21 · [watch](https://www.youtube.com/watch?v=3BW8yj1Yl_I)
+## Kuwait Petroleum Corporation CEO Sheikh Nawaf Al-Sabah Talks Oil Output | Bloomberg Talks
 
-**TL;DR:** Overkill Trading discusses live chart requests for the next 24 hours, covering various stocks and cryptocurrencies, including potential buying opportunities and selling signals. The video provides in-depth analysis of individual companies and broader market trends.
+**Bloomberg Podcasts** · 12:18 · Oct 22 · [watch](https://www.youtube.com/watch?v=w42aZx5bsuc)
 
-**Worth watching in full?** 5/5 — The summary cannot replace the detailed analysis and specific insights provided in the full video.
+**TL;DR:** Sha Noaf Al Sabah, CEO of Kuwait Petroleum Corporation, discusses the current state of oil production and supply amid ongoing conflicts, emphasizing the need for secure shipping routes and alternative energy solutions.
 
-**Bookmarks:**
-- [3:06](https://youtu.be/3BW8yj1Yl_I?t=186) - AS (ticker not provided): Back within four-year average, potential buying opportunity at $42.
-- [13:21](https://youtu.be/3BW8yj1Yl_I?t=801) - JBL (ticker: JBL): In a good wave below the white line, potential entry point around 200 to 240.
-- [25:35](https://youtu.be/3BW8yj1Yl_I?t=1535) - 25.35% pullback: Key indicator for bullish outlook on Bitcoin.
-- [45:08](https://youtu.be/3BW8yj1Yl_I?t=2708) - Dreamfinder Homes (DFH): Expected to buy out competition, potential buying opportunity.
-- [1:10:38](https://youtu.be/3BW8yj1Yl_I?t=4238) - Rich Tech Robotics (RTHK): Expected to drop to $50 if it breaks $70.
-- [1:21:57](https://youtu.be/3BW8yj1Yl_I?t=4917) - VST (VST): Still trading in the golden zone, good time to buy.
-- [1:39:31](https://youtu.be/3BW8yj1Yl_I?t=5971) - SoFi: Currently trading below its four-year moving average, potential buying opportunity if price drops to around 10 or 1250.
-
-**Key takeaways:**
-- Potential buying opportunities for various stocks and cryptocurrencies, including AS, FL, M, MAR, and JBL.
-- Silver (SLV) and Poet Technologies (PET) are undervalued and potential buying opportunities.
-- Service Now and Dreamfinder Homes (DFH) are undervalued and potential buying opportunities.
-- VST (VST) and Coinbase (COIN) are in the golden zone, good time to buy or hold.
-- ZTS (ZTS) has a PE ratio of 13 and a 2.6% dividend yield, potential buying opportunity.
-
-## SpaceX Beats Estimates, Netflix Forecasts a Slowdown | Bloomberg Businessweek
-
-**Bloomberg Podcasts** · 42:23 · Oct 21 · [watch](https://www.youtube.com/watch?v=zoEruyBKAIw)
-
-**TL;DR:** The video discusses SpaceX's strong third-quarter performance, including its revenue and net income, and its impact on Elon Musk's wealth. It also covers SpaceX's focus on capital expenditures, its push into mobile services, and its potential to distribute shares to American children. The video also mentions United Airlines' decline due to rising fuel costs and the housing market's slowdown.
-
-**Worth watching in full?** 5/5 — The summary covers the main points but misses out on the detailed analysis and specific numbers provided in the full video.
+**Worth watching in full?** 5/5 — The summary cannot fully replace the detailed insights and context provided in the full video.
 
 **Bookmarks:**
-- [12:34](https://youtu.be/zoEruyBKAIw?t=754) SpaceX reported third quarter revenue and net income
-- [13:45](https://youtu.be/zoEruyBKAIw?t=825) SpaceX's role in Elon Musk's wealth
-- [15:00](https://youtu.be/zoEruyBKAIw?t=900) SpaceX's mobile services strategy
-- [13:21](https://youtu.be/zoEruyBKAIw?t=801) Elon Musk's plan to give shares to American children
-- [15:23](https://youtu.be/zoEruyBKAIw?t=923) SpaceX's future tied to Starship
-- [19:26](https://youtu.be/zoEruyBKAIw?t=1166) SpaceX's data center deployment
-- [22:28](https://youtu.be/zoEruyBKAIw?t=1348) United Airlines' decline and home builders' incentives
+- [0:00](https://youtu.be/w42aZx5bsuc?t=0) - Introduction and current situation
+- [1:01](https://youtu.be/w42aZx5bsuc?t=61) - Production and alternative routes
+- [2:03](https://youtu.be/w42aZx5bsuc?t=123) - Product constraints and refining capacity
+- [3:04](https://youtu.be/w42aZx5bsuc?t=184) - Damage to tankers and repair efforts
+- [4:06](https://youtu.be/w42aZx5bsuc?t=246) - Customer support and shipping
+- [5:07](https://youtu.be/w42aZx5bsuc?t=307) - Production capacity and future plans
 
 **Key takeaways:**
-- SpaceX reported third-quarter revenue of $14.58 billion, significantly above estimates.
-- SpaceX's net income of $4.4 billion was much higher than the $1.8 billion estimate.
-- SpaceX's focus on capital expenditures is a key point of discussion.
-- Elon Musk announced he wants to give a share of SpaceX to every kid in America.
-- SpaceX's Starship rocket is crucial for its future, including its role in NASA missions and the development of data centers in space.
-- United Airlines shares declined due to rising fuel costs.
-- Home builders are offering incentives and price cuts in builder-heavy markets.
+- Kuwait Petroleum Corporation (KPC) has ramped up production to 2.2 million barrels per day despite the conflict.
+- The main constraint is securing shipping routes through the Strait of Hormuz.
+- KPC is working with international partners to restore safe passage and explore alternative energy solutions.
+- The company is inviting foreign companies to invest in offshore fields to reach its 2035 production target of 4 million barrels per day.
 
-**Stocks mentioned:**
-- SpaceX (ticker: SPCE) — bullish
-- United Airlines (ticker: UAL) — bearish
-- None
+## LIVE CHART REQUESTS 📉 BITCOIN, STOCKS, & ALTCOINS TO WATCH NOW! | OCTOBER 21
 
-## Earnings Special: SpaceX Profit Beats Estimates on Big Jump in AI Revenue | Bloomberg Daybreak:...
+**Overkill Trading** · 1:38:02 · Oct 22 · [watch](https://www.youtube.com/watch?v=OioH0go5Sz4)
 
-**Bloomberg Podcasts** · 18:25 · Oct 21 · [watch](https://www.youtube.com/watch?v=ptHyeVJpQ50)
-
-**TL;DR:** SpaceX reported strong earnings, beating estimates with a significant increase in AI revenue, which is expected to lead to a merger with Tesla. The company is also planning to deploy data centers in space, which could be a key catalyst for its IPO.
-
-**Worth watching in full?** 5/5 — The summary cannot fully replace the full video as it covers important details about the merger, AI revenue, and future plans.
-
-**Bookmarks:**
-- [1:01](https://youtu.be/ptHyeVJpQ50?t=61) — Third-quarter revenue of Cincinnati Insurance
-- [3:05](https://youtu.be/ptHyeVJpQ50?t=185) — SpaceX merger with Tesla
-- [5:07](https://youtu.be/ptHyeVJpQ50?t=307) — SpaceX's focus beyond AI
-- [14:20](https://youtu.be/ptHyeVJpQ50?t=860) — SpaceX's space data centers
-- [16:21](https://youtu.be/ptHyeVJpQ50?t=981) — EV sales stabilization
-- [17:22](https://youtu.be/ptHyeVJpQ50?t=1042) — Asana's role in AI technology
-
-**Key takeaways:**
-- SpaceX reported a third-quarter revenue of $14.58 billion, exceeding expectations.
-- SpaceX is expected to merge with Tesla, with the timing of this merger being a topic of interest.
-- SpaceX's AI revenue is expected to be a significant contributor to its earnings.
-- SpaceX plans to deploy data centers in space, which could be a key catalyst for its IPO.
-- EV sales in the US have stabilized at around 6% of the market, indicating potential shifts in demand.
-- Asana is positioned to address the gap between AI technology and human workflows, providing pre-built AI teammates for various teams.
-
-## $ORCL STOCK 📈 OCTOBER 20
-
-**Overkill Trading** · 2:57 · Oct 20 · [watch](https://www.youtube.com/shorts/mMxIr4MOa2c)
-
-**TL;DR:** The video discusses the performance of Oracle stock (ORCL) and recommends buying the stock when it falls below a 200-week moving average, based on the advice of Charlie Munger, who was Warren Buffett's partner at Berkshire Hathaway. The video highlights the importance of buying assets at or below their average price to achieve long-term success.
-
-**Worth watching in full?** 5/5 — The summary cannot replace the detailed analysis and charts provided in the video.
-
-**Bookmarks:**
-- [0:00](https://youtu.be/mMxIr4MOa2c?t=0) Introduction and the 200 EMA strategy
-- [1:02](https://youtu.be/mMxIr4MOa2c?t=62) Historical performance and the 200 EMA
-- [2:02](https://youtu.be/mMxIr4MOa2c?t=122) Current price and the 135 level
-
-**Key takeaways:**
-- Oracle stock (ORCL) is recommended for purchase when it falls below the 200 EMA.
-- Charlie Munger’s advice is used to determine buying opportunities.
-- The 135 level is highlighted as a significant price point.
-- The stock is currently trading at a discount to its average price.
-
-**Stocks mentioned:**
-- Oracle (ORCL) — Neutral — The stock is trading below its average price, suggesting a potential buying opportunity.
-
-## SPACEX EARNINGS LIVE! IS MY PORTFOLIO SAVED??
-
-**Jose Najarro Stocks** · 48:58 · Oct 20 · [watch](https://www.youtube.com/watch?v=SifZwAaDIFI)
-
-**TL;DR:** The video covers SpaceX's earnings performance and future plans, including the development of Starship, the Louisiana spaceport, and the expansion of their supercomputing capabilities. The main conclusion is that SpaceX is on track to achieve significant technological and financial milestones.
-
-**Worth watching in full?** 5/5 — The summary cannot replace the detailed insights and financial data provided in the full video.
-
-**Bookmarks:**
-- [1:25](https://youtu.be/SifZwAaDIFI?t=85) - SpaceX's earnings performance and its impact on the company's valuation.
-- [5:36](https://youtu.be/SifZwAaDIFI?t=336) - The development of the Louisiana spaceport and its potential impact.
-- [26:08](https://youtu.be/SifZwAaDIFI?t=1568) - Elon Musk's questions about Terafab and the challenges in the chip manufacturing space.
-- [28:11](https://youtu.be/SifZwAaDIFI?t=1691) - Aviation growth opportunities and the installation phase with major carriers.
-- [30:15](https://youtu.be/SifZwAaDIFI?t=1815) - Revenue growth in the superintelligence segment and cloud services.
-- [41:35](https://youtu.be/SifZwAaDIFI?t=2495) - Challenges with power and cooling and their solutions.
-- [46:43](https://youtu.be/SifZwAaDIFI?t=2803) - SpaceX's decision to stream earnings calls on Twitch instead of YouTube.
-
-**Key takeaways:**
-- SpaceX achieved a $4 billion earnings beat in Q1, increasing net sales to $19 billion.
-- SpaceX plans to deploy V3 broadband satellites and mobile V2 satellites by 2027.
-- SpaceX aims to produce a terawatt of superintelligence chips per year.
-- SpaceX is facing challenges with power and cooling, particularly with the casting of turbine components.
-- SpaceX has a strong investment grade status and access to various debt capital pools.
-
-**Stocks mentioned:**
-- SpaceX (Falcon 9, Starlink, Starship) — neutral — The company is on track to achieve significant technological and financial milestones.
-
-## OVERKILL MONTHLY TRADING STRATEGY 📈 (PART 2)
-
-**Overkill Trading** · 2:57 · Oct 20 · [watch](https://www.youtube.com/shorts/0mNEaTkAEwQ)
-
-**TL;DR:** The video discusses a monthly trading strategy for cryptocurrencies, focusing on identifying bull and bear markets through monthly charts and explaining how to capitalize on red and green dots to make trades.
+**TL;DR:** The video covers various stock and cryptocurrency charts and strategies, focusing on long-term investments and signals for buying and selling assets. The main conclusion is that the market is bullish, with potential catalysts for a rally and clear signals for buying in several assets.
 
 **Worth watching in full?** 5/5 — The summary cannot replace the detailed analysis and charts provided in the full video.
 
 **Bookmarks:**
-- [0:00](https://youtu.be/0mNEaTkAEwQ?t=0) Introduction and monthly chart overview
-- [1:01](https://youtu.be/0mNEaTkAEwQ?t=61) Explanation of bull markets and historical examples
-- [2:02](https://youtu.be/0mNEaTkAEwQ?t=122) Discussion on red candles and bear markets
+- [1:04](https://youtu.be/OioH0go5Sz4?t=64) - M Caps discusses the USDC.D chart and predicts its continued fall.
+- [16:22](https://youtu.be/OioH0go5Sz4?t=982) - MP is discussed, with a recommendation to wait for a green dot.
+- [32:44](https://youtu.be/OioH0go5Sz4?t=1964) - Oracle's trade is discussed, with a stop loss at $30.
+- [40:53](https://youtu.be/OioH0go5Sz4?t=2453) - The importance of taking everything with a grain of salt is emphasized.
+- [1:04:26](https://youtu.be/OioH0go5Sz4?t=3866) - Zeta's monthly chart is discussed.
+- [1:10:32](https://youtu.be/OioH0go5Sz4?t=4232) - Trailing stop loss is discussed.
+- [1:32:04](https://youtu.be/OioH0go5Sz4?t=5524) - The importance of discipline in trading is emphasized.
 
 **Key takeaways:**
-- Monthly charts can signal significant market movements.
-- Bull markets are indicated by green dots, while red dots signal bear markets.
-- Red candles indicate pullbacks or potential buying opportunities.
-- Zooming into daily charts is crucial for understanding specific market movements.
+- The 4-year moving average is crucial for identifying buying opportunities.
+- Trailing stop loss is recommended for managing risk.
+- NEAR has a potential sell signal, with a support level at 390.
+- ZBCN is highlighted as a potential buy opportunity with multiple buy signals.
+- The importance of discipline and patience in trading is emphasized.
 
-## how to download my trading indicators 📈
+## Small Business Resilience Highlighted at Chase Make Your Move Summit | Bloomberg Businessweek
 
-**Overkill Trading** · 1:10 · Oct 20 · [watch](https://www.youtube.com/shorts/4v6mo5zbfWo)
+**Bloomberg Podcasts** · 38:22 · Oct 22 · [watch](https://www.youtube.com/watch?v=NCM1_f0-_rk)
 
-**TL;DR:** Overkill Trading provides a comprehensive trading course and trading layout with multiple indicators, including red and green dots, stochastic RSI, auto fib, EMA ribbon, MACD, and moving averages. The course is free, and viewers can download the indicators for their Trading View account.
+**TL;DR:** The video discusses the resilience of small businesses, highlighting their importance to the economy and Chase for Business's commitment to supporting them. It also touches on the challenges small businesses face, such as input costs and housing affordability.
 
-**Worth watching in full?** 5/5 — The summary cannot replace the full video, as it misses out on detailed explanations and visual aids.
+**Worth watching in full?** 5/5 — The summary covers the main points but misses out on the detailed discussions and insights provided in the full video.
 
 **Bookmarks:**
-- [0:01](https://youtu.be/4v6mo5zbfWo?t=1) Introduction to indicators and the free trading course
-- [0:50](https://youtu.be/4v6mo5zbfWo?t=50) Downloading the trading layout
-- [1:01](https://youtu.be/4v6mo5zbfWo?t=61) Setting up the trading layout in Trading View
+- [1:01](https://youtu.be/NCM1_f0-_rk?t=61) Small business resilience highlighted
+- [3:03](https://youtu.be/NCM1_f0-_rk?t=183) Optimism among small business owners
+- [4:04](https://youtu.be/NCM1_f0-_rk?t=244) Importance of understanding local economies
+- [5:07](https://youtu.be/NCM1_f0-_rk?t=307) GDP contribution of small businesses
+- [6:07](https://youtu.be/NCM1_f0-_rk?t=367) Chase for Business commitment to small business owners
 
 **Key takeaways:**
-- Overkill Trading offers a free trading course with comprehensive indicator explanations.
-- Viewers can download the trading layout for their Trading View account.
-- The trading layout includes multiple indicators such as red and green dots, stochastic RSI, auto fib, EMA ribbon, MACD, and moving averages.
+- Small businesses contribute 45% to the US GDP.
+- 60% of small business owners are excited about their business's future.
+- Chase for Business aims to support 10 million small business owners by 2030.
+- Small businesses are key players in addressing housing affordability.
+- Input costs, taxes, and labor costs are significant challenges for small businesses.
+**NOTES:**
+- [12:13](https://youtu.be/NCM1_f0-_rk?t=733) Rivian plans to build a large manufacturing facility in Georgia.
+- [16:18](https://youtu.be/NCM1_f0-_rk?t=978) Small businesses are facing challenges with input costs, taxes, and labor costs.
+- [17:19](https://youtu.be/NCM1_f0-_rk?t=1039) Businesses are seen as key players in addressing housing affordability.
+- [25:27](https://youtu.be/NCM1_f0-_rk?t=1527) Chase has over 87 million US households with a Chase account.
+- [31:33](https://youtu.be/NCM1_f0-_rk?t=1893) Reggie Washington, a restaurant owner, adapts to challenges by offering non-alcoholic beverages and healthier menu options.
+- [35:38](https://youtu.be/NCM1_f0-_rk?t=2138) Chase provides resources and coaching to help small business owners grow their businesses.
+- [37:41](https://youtu.be/NCM1_f0-_rk?t=2261) The speaker expresses a preference for pizza and sea bass.
 
 ## Skipped as off-topic
 
-- [Bloomberg News Now: Musk Reportedly Ordered Starlink Satellite Slow Down to Ukraine](https://www.youtube.com/watch?v=5FguO2e7MfE) — Bloomberg Podcasts
-- [What if the Vikings had colonized America? - Si Sheppard](https://www.youtube.com/shorts/ykyt-M6s3PA) — Dwarkesh Patel
+- [SCOTUS Hands Trump Loss on Transgender Rights & Tesla/SpaceX Merger | Bloomberg Law](https://www.youtube.com/watch?v=I7-X16rHEmM) — Bloomberg Podcasts
 
 
 _Summaries by qwen2.5:3b (open-source) running in GitHub Actions._
