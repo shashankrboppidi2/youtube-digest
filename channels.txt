@@ -25,3 +25,7 @@
 @startups              # This Week in Startups
 @theinformation        # TITV
 @BigTechnologyPodcast
+@SharpTechPodcast      # Ben Thompson
+@GoldmanSachs
+@MorganStanley
+@TechTechPotato
