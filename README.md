@@ -1,12 +1,15 @@
 # YouTube digest
 
 Once a day, `.github/workflows/digest.yml` summarises new uploads from the channels in `channels.txt` with an
-open-source model (`qwen2.5:3b` through Ollama, on the runner's CPU) and commits
-`digests/digest_YYYY-MM-DD.md`. `email.yml` e-mails it at 7am Eastern.
+open-source model and commits `digests/digest_YYYY-MM-DD.md`. `email.yml` e-mails it at 7am Eastern. The model is
+`openai/gpt-oss-120b` on Groq's free tier when the `LLM_API_KEY` secret is set (see below), otherwise `qwen2.5:3b`
+through Ollama on the runner's CPU, which is also the fallback when the free quota runs out.
 
-Per video: TL;DR, a 1–5 "worth watching in full?" score, bookmarks (links to the important sections), key takeaways,
-and the stocks discussed with the view taken on each. Videos off the topics in `interests.txt` are skipped (listed at the
-end), and off-topic segments are left out of the videos that are kept.
+The e-mail opens with **Today's signals**: themes across the videos, what people are bullish and cautious on, and
+private / pre-IPO companies in the news. Then per video: the bottom line, signals (🟢 bullish / 🔴 cautious / 🟡 mixed,
+who holds the view and why), AI and private-market points, other key insights, and links to the best moments.
+Videos off the topics in `interests.txt` are skipped (listed at the end), and off-topic segments are left out of the
+videos that are kept.
 Shorts and clips (under 250 words of transcript) are skipped.
 
 ## Channels
@@ -47,9 +50,19 @@ If cookies stop working, route the transcript downloads through a residential pr
 2. In the dashboard under Proxy → Residential, copy the rotating endpoint's username and password.
 3. Add a repo secret `YT_PROXY` = `http://USERNAME-rotate:PASSWORD@p.webshare.io:80`.
 
+## Model: the `LLM_API_KEY` secret
+
+1. Sign in at https://console.groq.com (free, no card) → **API Keys** → **Create API Key**, copy it.
+2. In this repo: **Settings → Secrets and variables → Actions → New repository secret**, name `LLM_API_KEY`, paste it.
+
+That's all: the next run uses `openai/gpt-oss-120b`. Another OpenAI-compatible provider or model works too: add
+repository *variables* `LLM_BASE_URL` (e.g. `https://openrouter.ai/api/v1`) and `LLM_MODEL`. The free tier allows a
+limited number of tokens per day; when it is used up the rest of the run falls back to the local model and the digest
+says so. Delete the secret to go back to the local model only.
+
 ## Knobs
 
-`LLM_MODEL` in the workflow picks the model. Any Ollama tag works (`llama3.2:3b`, `gemma3:4b`, `qwen2.5:7b` for
+`LLM_MODEL` in the workflow picks the local (Ollama) model. Any Ollama tag works (`llama3.2:3b`, `gemma3:4b`, `qwen2.5:7b` for
 better but roughly 2× slower summaries). To use a hosted open model instead of the runner's CPU, set
 `LLM_BASE_URL`, `LLM_MODEL` and `LLM_API_KEY` to any OpenAI-compatible endpoint (Groq, OpenRouter, Together) and
 drop the Ollama steps. Other settings are at the top of `digest.py`.

@@ -50,10 +50,20 @@ jobs:
           ollama pull "$LLM_MODEL"
       - name: Summarise
         env:
+          HOSTED_KEY: ${{ secrets.LLM_API_KEY }}
+          HOSTED_URL: ${{ vars.LLM_BASE_URL }}      # optional repo variables to use another provider or model
+          HOSTED_MODEL: ${{ vars.LLM_MODEL }}
           YT_PROXY: ${{ secrets.YT_PROXY }}
           YT_VIDEO: ${{ inputs.video }}
           YT_FOCUS: ${{ inputs.focus }}
-        run: python digest.py
+        run: |
+          # With an LLM_API_KEY secret (free Groq key, see README) a hosted open model writes the summaries and the
+          # local Ollama model is only the fallback when the free quota runs out; without it, Ollama does everything.
+          if [ -n "$HOSTED_KEY" ]; then
+            export LLM_FALLBACK_MODEL="$LLM_MODEL" LLM_API_KEY="$HOSTED_KEY" \
+                   LLM_BASE_URL="${HOSTED_URL:-https://api.groq.com/openai/v1}" LLM_MODEL="${HOSTED_MODEL:-openai/gpt-oss-120b}"
+          fi
+          python digest.py
       - name: E-mail
         env:
           SMTP_USER: ${{ secrets.SMTP_USER }}

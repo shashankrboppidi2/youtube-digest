@@ -1,8 +1,9 @@
 """YouTube digest: new videos from the channels in channels.txt, summarised by an open-source model.
 
 Runs in GitHub Actions (.github/workflows/digest.yml). For each channel it reads YouTube's public RSS feed, takes the
-videos not yet in digests/seen.json, fetches the transcript and has a local model (Ollama, any
-OpenAI-compatible endpoint works) write a TL;DR, key points and a watch-or-skip verdict. Output:
+videos not yet in digests/seen.json, fetches the transcript and has an open model (a hosted OpenAI-compatible endpoint
+such as Groq, or local Ollama) write the investor-focused signals, AI / private-market points and key insights, plus a
+cross-video "Today's signals" briefing at the top. Output:
 
   digests/digest_YYYY-MM-DD.md   the day's digest (one run a day; a second run appends)
   digests/digest_latest.md       copy of the last digest written
@@ -14,6 +15,8 @@ Env (all optional):
   LLM_BASE_URL   OpenAI-compatible base URL      default http://localhost:11434/v1 (Ollama)
   LLM_MODEL      model name                      default qwen2.5:3b
   LLM_API_KEY    key for a hosted endpoint       default "ollama"
+  LLM_FALLBACK_MODEL  local Ollama model to switch to when the hosted endpoint runs out of quota   default none
+  LLM_CHUNK_WORDS     transcript words per model call   default 2500
   YT_LOOKBACK_H  first sight of a channel: only videos newer than this many hours   default 48
   YT_MAX_VIDEOS  cap per run                     default 30
   YT_BUDGET_MIN  stop starting new summaries after this many minutes; the rest wait for the next run   default 240
@@ -42,7 +45,10 @@ MIN_WORDS = int(os.getenv("YT_MIN_WORDS", "250"))
 LANGS = [s.strip() for s in os.getenv("YT_LANGS", "en,en-US,en-GB").split(",") if s.strip()]
 PROXY = os.getenv("YT_PROXY", "")
 COOKIES = os.getenv("YT_COOKIES_FILE", "")   # Netscape cookies.txt from a signed-in browser, for yt-dlp
-CHUNK_WORDS = 2500        # transcript piece per model call; fits a 3-4B model's context with room to answer
+CHUNK_WORDS = int(os.getenv("LLM_CHUNK_WORDS", "2500"))   # transcript piece per model call: fits a small local
+                                                          # model's context and a hosted free tier's tokens/minute
+FALLBACK_URL = os.getenv("LLM_FALLBACK_URL", "http://localhost:11434/v1").rstrip("/")
+FALLBACK_MODEL = os.getenv("LLM_FALLBACK_MODEL", "")      # local model to switch to when a hosted one runs out of quota
 MAX_WORDS = 20000         # ~2h of speech; longer transcripts are cut here
 
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36",
@@ -216,24 +222,54 @@ def with_markers(snips, every=60):
 # ---------- model ----------
 
 REASONING = ("gpt-oss", "qwen3", "deepseek-r1", "magistral")     # think before answering: give them room
+NOTES_RUN = []          # problems worth a line in the digest (quota hit, fallback used)
+USED_MODELS = []        # models that actually wrote something this run, for the footer
+
+class QuotaError(Exception):
+    """The hosted endpoint refused for longer than is worth waiting (daily quota, request too large)."""
 
 def llm(system, user, max_tokens=900):
+    """One chat completion. A hosted model that runs out of quota hands over to FALLBACK_MODEL for the rest of the run."""
+    global LLM_BASE_URL, LLM_MODEL, LLM_API_KEY
+    while True:
+        try:
+            text = _chat(system, user, max_tokens)
+            if LLM_MODEL not in USED_MODELS: USED_MODELS.append(LLM_MODEL)
+            return text
+        except QuotaError as e:
+            if not FALLBACK_MODEL or LLM_MODEL == FALLBACK_MODEL: raise
+            print(f"  {LLM_MODEL}: {e}; switching to {FALLBACK_MODEL} for the rest of this run")
+            NOTES_RUN.append(f"{LLM_MODEL} hit its free-tier limit, so later summaries are by {FALLBACK_MODEL}")
+            LLM_BASE_URL, LLM_MODEL, LLM_API_KEY = FALLBACK_URL, FALLBACK_MODEL, "ollama"
+
+def _chat(system, user, max_tokens):
     body = {"model": LLM_MODEL, "temperature": 0.2, "max_tokens": max_tokens,
             "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}]}
     if any(m in LLM_MODEL for m in REASONING):
-        body["max_tokens"] = max_tokens * 4
+        body["max_tokens"] = max_tokens * 2
         body["reasoning_effort"] = "low"
-    r = requests.post(f"{LLM_BASE_URL}/chat/completions", timeout=1800,
-                      headers={"Authorization": f"Bearer {LLM_API_KEY}"}, json=body)
-    r.raise_for_status()
+    for attempt in range(6):
+        r = requests.post(f"{LLM_BASE_URL}/chat/completions", timeout=1800,
+                          headers={"Authorization": f"Bearer {LLM_API_KEY}"}, json=body)
+        if r.status_code == 413: raise QuotaError("request too large for the tokens-per-minute limit")
+        if r.status_code == 429 or r.status_code >= 500:
+            try: wait = float(r.headers.get("retry-after", ""))
+            except ValueError: wait = 15 * (attempt + 1)
+            if wait > 120 or attempt == 5:
+                raise QuotaError(f"HTTP {r.status_code}, retry in {wait:.0f}s: {r.text[:160]}")
+            print(f"  HTTP {r.status_code}, waiting {wait:.0f}s"); time.sleep(wait + 1); continue
+        r.raise_for_status()
+        break
     choice = r.json()["choices"][0]
     text = re.sub(r"<think>.*?</think>", "", choice["message"]["content"] or "", flags=re.S).strip()   # reasoning models
     if choice.get("finish_reason") == "length" and "\n" in text:
         text = text.rsplit("\n", 1)[0]     # cut off mid-sentence: drop the unfinished line
     return text
 
-SYSTEM = ("You condense YouTube videos for a busy reader who will not watch them. Be concrete: names, numbers, "
-          "claims, conclusions. Never invent anything that is not in the transcript. Plain English, no hype.")
+SYSTEM = ("You brief an investor on YouTube videos they will not watch. Be concrete: who said what, names, numbers, "
+          "reasons. Never invent anything that is not in the source, and never state a price move, number or ticker "
+          "that is not there. Correct obvious caption misspellings of well-known names (e.g. 'Heinix' -> SK Hynix). "
+          "Plain English, no hype, no generic filler.")
 
 def read_interests():
     path = os.path.join(HERE, "interests.txt")
@@ -242,23 +278,26 @@ def read_interests():
 
 INTERESTS = read_interests()
 
-RELEVANCE_PROMPT = """The reader follows: {interests}.
-The reader does NOT want: general news, human-interest stories, accidents, crime, sports, celebrities, lifestyle.
+RELEVANCE_PROMPT = """The reader is an investor who tracks: {interests}.
 
 Video: "{title}" by {channel}.
 Opening of the transcript:
 {opening}
 
-Answer NO only if the video is clearly about something else (crime, courts, accidents, sports, celebrities,
-entertainment, lifestyle). Anything about companies, stocks, earnings, markets, the economy, central banks, trade,
-government policy or technology is YES. Answer with one word: YES or NO."""
+Is this video mainly useful to that investor: about companies, stocks, sectors, the AI or tech industry, startups,
+venture capital and pre-IPO companies, or markets and the economy? Answer NO for politics or ideology without a clear
+market angle, government scandals and investigations, crime, courts, history, culture, sports, celebrities, lifestyle
+and personal stories, even when they come from a finance channel. Answer with one word: YES or NO."""
 
 NOTES_PROMPT = """Part {i} of {n} of the transcript of "{title}" ({channel}). Timestamps like [12:34] mark the time.
-The reader follows: {interests}.
-Write 3-5 terse bullet points with the most substantive points made in this part that matter to the reader
-(facts, arguments, numbers, advice). Put the timestamp at the start of each, e.g. "- [12:34] ...".
-When a company or stock is discussed, name it (ticker only if the speaker says it) and the view and numbers given.
-Leave out sponsor reads, intros, calls to subscribe and segments the reader doesn't follow (human-interest, sports...).{focus_note}
+The reader is an investor who tracks: {interests}.
+Take notes on this part, one line each, starting with the timestamp, in these forms:
+- [12:34] SIGNAL: bullish / cautious / mixed on <company, sector or asset> — <who holds the view> — <their reason, with numbers>
+- [12:34] AI: <what is said about the AI industry: who wins or loses, spending, chips, models, adoption, pricing>
+- [12:34] PRIVATE: <private or pre-IPO company: valuation, revenue, growth, funding, investors, IPO timing>
+- [12:34] FACT: <another specific point an investor can use, with a number or a named source>
+Only what is said in this part. Skip sponsor reads, intros, small talk and anything outside the reader's interests.
+If nothing qualifies, write NONE.{focus_note}
 
 TRANSCRIPT PART:
 {text}"""
@@ -301,27 +340,49 @@ POINTS:
 {points}"""
 
 FINAL_PROMPT = """Video: "{title}" by {channel}, {length} long.
-The reader follows: {interests}. Leave out anything else, even if the video covers it.
+The reader is an investor who tracks: {interests}. Leave out everything else, even if the video covers it.
 Below is {what}. Timestamps like [12:34] mark the time.
 
-Write exactly this, in Markdown, nothing before or after. Replace each <...> with your own text; never copy the
-<...> instructions or the angle brackets into your answer:
+Write exactly the sections below, in Markdown, nothing before or after. Replace each <...> with your own text and never
+copy the <...> instructions. Every bullet must be specific: a name, a number, a claim someone made and their reason.
+No generic statements ("AI is transforming industries", "markets are volatile"); leave out points without specifics.
 
-**TL;DR:** <2-3 sentences: what the video is about and its main conclusion>
+**Bottom line:** <one or two sentences: the most useful thing an investor learns from this video>
 
-**Worth watching in full?** <score>/5 — <one sentence why; 5 = the summary cannot replace it, 1 = the summary covers it>
+**Signals:**
+- <one bullet per stock, sector or asset someone is bullish or cautious about: start with "🟢 Bullish", "🔴 Cautious" or "🟡 Mixed", then **name** (ticker only if said), who holds the view, why in one line with their numbers, then [m:ss]. A company only named in passing is not a signal. Write "None" if there are none>
 
-**Bookmarks:**
-- <3-6 bullets in time order, each: [m:ss] short section title — one line on what is covered there>
+**AI & private markets:**
+- <bullets on the AI industry (who wins or loses, spending, chips, models, adoption, pricing) and on private or pre-IPO companies (valuation, revenue, funding, IPO timing), each ending with [m:ss]. Write "None" if not discussed>
 
-**Key takeaways:**
-- <4-6 bullets: the most important specific points of the whole video, with numbers>
+**Key insights:**
+- <2-4 bullets: other specific, non-obvious points with numbers, each ending with [m:ss]>
 
-**Stocks mentioned:**
-- <one bullet per company or stock actually discussed: Company (ticker only if the speaker says it; never guess one) — bullish / bearish / neutral — the view and any numbers (targets, valuation, growth). Write only "None" if no specific company was discussed>
+**Jump to:** <the 2-3 most valuable moments as "[m:ss] topic", separated by " · ">
 {focus_block}
 {content_label}:
 {content}"""
+
+OVERVIEW_PROMPT = """Below are today's video summaries for an investor who tracks: {interests}.
+Write a short briefing on what was said across them, in Markdown, nothing before or after:
+
+**Themes:**
+- <2-4 bullets: views or trends that came up today, above all on AI and on private / pre-IPO companies; each ends with the source videos in parentheses, in short form>
+
+**Bullish on:**
+- <one bullet per company, sector or asset with a bullish view: **name** — the reason in a few words (source)>
+
+**Cautious on:**
+- <the same for cautious views>
+
+**Private & pre-IPO watch:**
+- <private companies discussed: **name** — valuation, revenue, funding or IPO news (source)>
+
+Use only what is in the summaries; merge duplicates; be specific. Leave out a section, heading included, if it
+would be empty.
+
+SUMMARIES:
+{summaries}"""
 
 ON_TOPIC_WORDS = re.compile(
     r"\b(stocks?|shares?|earnings|market|markets|econom\w*|fed|central bank|rates?|inflation|recession|bonds?|yields?|"
@@ -329,13 +390,14 @@ ON_TOPIC_WORDS = re.compile(
     r"funds?|vc|venture|startups?|ai|chips?|semiconductor\w*|nvidia|tech)\b", re.I)
 
 def on_topic(v, snips):
-    """Cheap first look: market/economy words in the title keep a video outright; otherwise ask the model on the
-    title + opening ~400 words, and only a clear NO drops it."""
-    if not INTERESTS or ON_TOPIC_WORDS.search(v["title"]): return True
+    """Ask the model on the title + opening ~400 words; only a clear NO drops the video. With the small local model,
+    market words in the title keep a video outright."""
+    if not INTERESTS: return True
+    if LLM_API_KEY == "ollama" and ON_TOPIC_WORDS.search(v["title"]): return True    # small local models misjudge
     opening = " ".join(" ".join(t for _, t in snips).split()[:400])
     answer = llm(SYSTEM, RELEVANCE_PROMPT.format(interests=INTERESTS, title=v["title"], channel=v["channel"],
-                                                  opening=opening), max_tokens=5)
-    return not answer.strip().upper().startswith("NO")
+                                                  opening=opening), max_tokens=200)
+    return not re.sub(r"\W", "", answer).upper().startswith("NO")
 
 def summarise(v, snips, focus=""):
     fb = fn = ""    # the focus list is extracted part by part (see below), not squeezed into the final answer
@@ -346,17 +408,17 @@ def summarise(v, snips, focus=""):
     if len(words) <= CHUNK_WORDS * 1.2:
         body = llm(SYSTEM, FINAL_PROMPT.format(title=v["title"], channel=v["channel"], length=length, interests=INTERESTS,
                                                focus_block=fb, what="the full transcript", content_label="TRANSCRIPT",
-                                               content=" ".join(words)), max_tokens=2000 if focus else 1100)
+                                               content=" ".join(words)), max_tokens=2000 if focus else 1300)
     else:
         chunks = [" ".join(words[i:i + CHUNK_WORDS]) for i in range(0, len(words), CHUNK_WORDS)]
         notes = []
         for i, c in enumerate(chunks, 1):
             print(f"  part {i}/{len(chunks)}")
             notes.append(llm(SYSTEM, NOTES_PROMPT.format(i=i, n=len(chunks), title=v["title"], interests=INTERESTS, focus_note=fn,
-                                                         channel=v["channel"], text=c), max_tokens=700 if focus else 500))
+                                                         channel=v["channel"], text=c), max_tokens=900 if focus else 700))
         body = llm(SYSTEM, FINAL_PROMPT.format(title=v["title"], channel=v["channel"], length=length, interests=INTERESTS,
                                                focus_block=fb, what="notes taken while reading the transcript in parts",
-                                               content_label="NOTES", content="\n".join(notes)), max_tokens=2000 if focus else 1100)
+                                               content_label="NOTES", content="\n".join(notes)), max_tokens=2000 if focus else 1300)
     if focus:     # one-off deep dives: stocks and the focus list are collected part by part, not left to one answer
         body = re.sub(r"\n*\*\*Stocks mentioned:\*\*.*?(?=\n\*\*[A-Z]|\Z)", "", body, flags=re.S)
         body += "\n\n" + stocks_list(v, words) + "\n\n" + focus_list(v, words, focus)
@@ -372,11 +434,13 @@ def stocks_list(v, words):
         print(f"  stocks {i}/{len(chunks)}")
         out = llm(SYSTEM, STOCKS_PROMPT.format(i=i, n=len(chunks), title=v["title"], channel=v["channel"], text=c),
                   max_tokens=700)
-        mentions += [l.strip() for l in out.split("\n") if l.strip().startswith(("-", "*")) and "none" not in l.lower()[:8]]
+        mentions += [l.strip() for l in out.split("\n") if re.match(r"\s*(?:[-*•]|\d+[.)]|\|)", l)
+                     and "none" not in l.lower()[:8] and not re.match(r"\s*\|[\s:|-]+\|?\s*$", l)]
     if not mentions: return "**Stocks mentioned:** none discussed."
     merged = llm(SYSTEM, STOCKS_MERGE_PROMPT.format(mentions="\n".join(mentions)), max_tokens=1200)
-    lines = [l for l in merged.split("\n") if l.strip().startswith(("-", "*"))]
-    return "**Stocks mentioned:**\n" + "\n".join(lines or mentions)
+    lines = [re.sub(r"^\s*(?:[*•]|\d+[.)])\s*", "- ", l) for l in merged.split("\n") if re.match(r"\s*(?:[-*•]|\d+[.)])", l)]
+    if len(lines) < len(mentions) // 3: lines = mentions      # the merge lost most of the list: keep the raw mentions
+    return "**Stocks mentioned:**\n" + "\n".join(lines)
 
 def focus_list(v, words, focus):
     """Every point about `focus`, collected from each part of the transcript so a long video is covered end to end."""
@@ -410,22 +474,43 @@ def tidy(md):
     md = re.sub(r"(\d/5)\s*—\s*(?=\S)", r"\1 — ", md)
     return re.sub(r"\n{3,}", "\n\n", md).strip()
 
-def cap_bullets(md, keep=7):
-    """Small models ignore "4-6 bullets" on long videos; keep `keep` per list, spread across the video."""
+CAPS = {"Signals": 10, "Stocks mentioned": 99, "AI & private markets": 6}
+
+def cap_bullets(md, keep=5):
+    """Models sometimes ignore "2-4 bullets" on long videos; keep the per-section cap, spread across the video."""
+    md = re.sub(r"(?m)^\s*[-*]\s*(?:None|N/A)\b[^\n]*\n?", "", md)       # "- None" next to real bullets
     lines, out, block = md.split("\n"), [], []
     def flush():
         under = next((l for l in reversed(out) if l.strip()), "")
-        if len(block) > keep and not under.startswith("**Stocks mentioned"):   # every company stays
-            step = (len(block) - 1) / (keep - 1)
-            block[:] = [block[round(k * step)] for k in range(keep)]
+        head = re.match(r"\*\*([^*:]+):?\*\*", under)
+        cap = CAPS.get(head.group(1).strip(), keep) if head else keep
+        if len(block) > cap:
+            step = (len(block) - 1) / (cap - 1)
+            block[:] = [block[round(k * step)] for k in range(cap)]
         out.extend(block); block.clear()
     for l in lines:
         if l.lstrip().startswith(("- ", "* ")): block.append(l)
         else: flush(); out.append(l)
     flush()
     md = "\n".join(out)
-    # "Stocks mentioned: None" (or an empty list) adds nothing
-    return re.sub(r"\n*\*\*Stocks mentioned:\*\*\s*(?:\n\s*[-*]\s*)?(?:None|N/A|-)?\.?\s*(?=\n\*\*|\Z)", "", md, flags=re.I).strip()
+    # a section that says "None" (or is empty) adds nothing
+    md = re.sub(r"\n*\*\*[^*\n]+:\*\*\s*(?:\n\s*[-*]\s*)?(?:None|N/A|-)?\.?\s*(?=\n\*\*|\Z)", "", md, flags=re.I)
+    md = re.sub(r"\n+(?=\*\*[^*\n]+:\*\*)", "\n\n", md)      # keep a blank line before every section
+    return md.strip()
+
+def day_overview(entries):
+    """A cross-video briefing for the top of the e-mail; empty when there is too little to compare."""
+    if len(entries) < 2: return ""
+    parts = []
+    for v, _, body in entries:
+        body = re.sub(r"\[(\d[\d:]*)\]\([^)]*\)", r"[\1]", body)      # drop the timestamp links
+        body = re.sub(r"\*\*Jump to:\*\*.*", "", body)
+        parts.append(f"### {v['title']} ({v['channel']})\n{body[:1800]}")
+    try:
+        out = llm(SYSTEM, OVERVIEW_PROMPT.format(interests=INTERESTS, summaries="\n\n".join(parts)), max_tokens=1000)
+    except Exception as e:
+        print(f"overview failed: {e}"); return ""
+    return cap_bullets(tidy(out))
 
 def link_timestamps(md, vid, last):
     """[12:34] -> a link to that moment. Times past the end of the video (model slips) are dropped."""
@@ -517,6 +602,9 @@ def main():
         md.append(f"# YouTube digest — {today}\n")
     else:
         md.append(f"\n<!-- run {now.strftime('%H:%MZ')} -->\n")
+    overview = day_overview(entries)
+    if overview:
+        md.append(f"## Today's signals\n\n{overview}\n")
     for v, length, body in entries:
         pub = datetime.fromisoformat(v["published"]).strftime("%b %d")
         md.append(f"## {v['title']}\n\n**{v['channel']}** · {length} · {pub} · [watch]({v['link']})\n\n{body}\n")
@@ -527,9 +615,10 @@ def main():
     if skipped:
         md.append("## No transcript available\n")
         md += [f"- [{v['title']}]({v['link']}) — {v['channel']}" for v, _ in skipped]
+    errors += NOTES_RUN
     if errors:
         md.append("\n_Problems this run: " + "; ".join(errors) + "_")
-    md.append(f"\n_Summaries by {LLM_MODEL} (open-source) running in GitHub Actions._\n")
+    md.append(f"\n_Summaries by {' and '.join(USED_MODELS) or LLM_MODEL} (open-source models)._\n")
     with open(path, "a", encoding="utf-8") as f: f.write("\n".join(md))
     shutil.copy(path, os.path.join(OUT, "digest_latest.md"))
     print(f"\nwrote {path}: {len(entries)} summaries, {len(skipped)} without transcript")

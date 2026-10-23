@@ -58,7 +58,7 @@ def main():
     if os.path.exists(path):
         md = open(path, encoding="utf-8").read()
         n = len([h for h in re.findall(r"^## (.+)$", md, re.M)
-                 if h not in ("No transcript available", "Skipped as off-topic")])
+                 if h not in ("No transcript available", "Skipped as off-topic", "Today's signals")])
         subject = f"YouTube digest {today}" + (f" — {n} video{'s' if n != 1 else ''}" if n else "")
     else:
         md = (f"# YouTube digest — {today}\n\nNo digest was written today: either no new videos, or the "
