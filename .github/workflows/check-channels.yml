@@ -1,0 +1,26 @@
+name: Check channels
+
+# Before adding channels to channels.txt: lists each one's name, uploads in the last 30 days and latest titles.
+on:
+  workflow_dispatch:
+    inputs:
+      channels:
+        description: 'Handles or URLs, separated by spaces or commas'
+        required: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - env:
+          CHANNELS: ${{ inputs.channels }}
+        run: python check_channels.py | tee -a "$GITHUB_STEP_SUMMARY"
