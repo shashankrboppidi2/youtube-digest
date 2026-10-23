@@ -63,7 +63,8 @@ Each numbered item is a stock, sector or asset, with how many videos were bullis
 Write, in plain text, nothing else:
 BOTTOM LINE: <2-3 sentences: where the consensus was this period and what changed>
 then one line per item, in this form:
-<number>: <why the videos were bullish or cautious on it, at most 20 words, specific (numbers, catalysts)>"""
+<number>: <why the videos were bullish or cautious on it, at most 20 words, specific (numbers, catalysts)>
+Take the reasons only from the sample views; if they give none, write "no reason given". Don't repeat the name."""
 
 PRIVATE_PROMPT = """Below are companies named in the AI and private-market notes of {n} YouTube videos ({label}), most
 mentioned first, with what was said about them.
@@ -71,8 +72,8 @@ mentioned first, with what was said about them.
 {items}
 
 Pick the companies that are PRIVATE (not listed on a stock exchange) and look like fast growers or sit in a
-fast-growing sector. Leave out public companies, and any company the notes say has already listed (stock price,
-earnings, completed IPO). Up to 15, the most promising first. One line each, in exactly this form, nothing else:
+fast-growing sector. Leave out public companies: any you know to be listed (e.g. CoreWeave, Nvidia), and any the
+notes say has listed (stock price, earnings, ticker, completed IPO). Up to 15, the most promising first. One line each, in exactly this form, nothing else:
 Name | sector | what the videos said: valuation, revenue, growth, funding, investors | IPO timing if mentioned, else -
 Use only facts from the notes; write - for anything not mentioned."""
 
@@ -123,7 +124,8 @@ def build(kind, start, end, label):
           f"_From {len(vids)} videos across {len(chans)} channels, {start:%b %d} – {end - timedelta(days=1):%b %d, %Y}"
           f"{' (so far)' if end > date.today() else ''}._\n"]
 
-    bull, caut = signals.ranked(t, "bullish", 15), signals.ranked(t, "cautious", 10)
+    bull = [r for r in signals.ranked(t, "bullish", 40) if len(r[1]["bullish"]) > len(r[1]["cautious"])][:15]
+    caut = [r for r in signals.ranked(t, "cautious", 40) if len(r[1]["cautious"]) >= len(r[1]["bullish"])][:10]
     items, idx = [], 0
     for rows in (bull, caut):
         for k, e in rows:
@@ -133,6 +135,10 @@ def build(kind, start, end, label):
                          f"mixed {len(e['mixed'])}\n   " + "\n   ".join(signals.untime(x)[:200] for x in views))
     why_out = ask(WHY_PROMPT.format(n=len(vids), label=label, items="\n".join(items)), 1500) if items else ""
     why = {int(m.group(1)): m.group(2).strip() for m in re.finditer(r"(?m)^\s*(\d+)[:.)]\s*(.+)$", why_out)}
+    names = {i: e["name"] for i, (_, e) in enumerate(bull + caut, 1)}
+    for i, w in why.items():     # "Nvidia – bullish due to ..." -> "due to ..."
+        w = re.sub(rf"^\**{re.escape(names.get(i, '~'))}\**\s*[–—:-]\s*", "", w, flags=re.I)
+        why[i] = re.sub(r"^(bullish|cautious|bearish)[,;:]?\s*", "", w, flags=re.I)
     bottom = re.search(r"BOTTOM LINE:\s*(.+?)(?:\n\s*\n|\n\s*\d+[:.)])", why_out + "\n\n1:", re.S)
     if bottom: md.append(f"**Bottom line:** {bottom.group(1).strip()}\n")
 
