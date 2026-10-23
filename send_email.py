@@ -23,7 +23,10 @@ STYLE = ("font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helveti
 
 def to_html(md):
     md = re.sub(r"(?m)^(?!\s*[-*] )(.+)\n(?=\s*[-*] )", r"\1\n\n", md)   # a list right under a line needs a blank line
-    html = markdown.markdown(md, extensions=["sane_lists"])
+    html = markdown.markdown(md, extensions=["sane_lists", "tables"])
+    html = html.replace("<table>", '<table style="border-collapse:collapse;font-size:14px;margin:8px 0">')
+    html = html.replace("<th>", '<th style="border:1px solid #d0d7de;padding:4px 8px;background:#f6f8fa;text-align:left">')
+    html = html.replace("<td>", '<td style="border:1px solid #d0d7de;padding:4px 8px;vertical-align:top">')
     html = html.replace("<h1>", '<h1 style="font-size:22px;margin:0 0 12px">')
     html = html.replace("<h2>", '<h2 style="font-size:17px;margin:28px 0 4px;padding-top:16px;border-top:1px solid #d0d7de">')
     html = html.replace("<a ", '<a style="color:#0969da" ')
@@ -58,7 +61,7 @@ def main():
     if os.path.exists(path):
         md = open(path, encoding="utf-8").read()
         n = len([h for h in re.findall(r"^## (.+)$", md, re.M)
-                 if h not in ("No transcript available", "Skipped as off-topic", "Today's signals")])
+                 if h not in ("No transcript available", "Skipped as off-topic", "Today's signals", "TL;DR")])
         subject = f"YouTube digest {today}" + (f" — {n} video{'s' if n != 1 else ''}" if n else "")
     else:
         md = (f"# YouTube digest — {today}\n\nNo digest was written today: either no new videos, or the "

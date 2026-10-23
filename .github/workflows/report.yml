@@ -1,0 +1,60 @@
+name: Signals report (monthly / quarterly)
+
+# On the 1st of each month: e-mails last month's report (and last quarter's in Jan/Apr/Jul/Oct), built from the daily
+# digests. The 2nd is a catch-up in case GitHub skips the first run; a report goes out only once (reports/sent.json).
+on:
+  schedule:
+    - cron: '23 12 1 * *'
+    - cron: '23 15 2 * *'
+  workflow_dispatch:
+    inputs:
+      period:
+        description: 'month, quarter, or auto (last month, plus last quarter at a quarter start)'
+        default: 'auto'
+      to_date:
+        description: 'Preview: the current month / quarter so far'
+        type: boolean
+        default: false
+      force:
+        description: 'Send again even if already sent'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt markdown
+      - name: Build and e-mail
+        env:
+          HOSTED_KEY: ${{ secrets.LLM_API_KEY }}
+          HOSTED_URL: ${{ vars.LLM_BASE_URL }}
+          HOSTED_MODEL: ${{ vars.LLM_MODEL }}
+          REPORT_PERIOD: ${{ inputs.period || 'auto' }}
+          REPORT_TO_DATE: ${{ inputs.to_date && '1' || '' }}
+          FORCE: ${{ inputs.force && '1' || '' }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO:   ${{ secrets.MAIL_TO }}
+        run: |
+          # gpt-oss-120b writes the report; if the daily digest used up its free quota, Llama 3.3 70B (a separate
+          # quota on Groq) takes over.
+          export LLM_API_KEY="$HOSTED_KEY" LLM_BASE_URL="${HOSTED_URL:-https://api.groq.com/openai/v1}" \
+                 LLM_MODEL="${HOSTED_MODEL:-openai/gpt-oss-120b}"
+          export LLM_FALLBACK_URL="$LLM_BASE_URL" LLM_FALLBACK_KEY="$HOSTED_KEY" LLM_FALLBACK_MODEL=llama-3.3-70b-versatile
+          python report.py
+      - name: Commit report
+        run: |
+          git config user.name  "digest-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add digests/reports/ 2>/dev/null || true
+          git diff --quiet --cached || git commit -m "$(date -u +%F) signals report"
+          for i in 1 2 3 4; do git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && break; sleep 5; done

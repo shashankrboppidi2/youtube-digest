@@ -5,9 +5,16 @@ open-source model and commits `digests/digest_YYYY-MM-DD.md`. `email.yml` e-mail
 `openai/gpt-oss-120b` on Groq's free tier when the `LLM_API_KEY` secret is set (see below), otherwise `qwen2.5:3b`
 through Ollama on the runner's CPU, which is also the fallback when the free quota runs out.
 
-The e-mail opens with **Today's signals**: themes across the videos, what people are bullish and cautious on, and
-private / pre-IPO companies in the news. Then per video: the bottom line, signals (🟢 bullish / 🔴 cautious / 🟡 mixed,
-who holds the view and why), AI and private-market points, other key insights, and links to the best moments.
+The e-mail opens with a **TL;DR**: the stocks and sectors with the most bullish and most cautious views (counted
+across videos), trends, risks and black swans, and private / pre-IPO companies in the news. Then per video: the bottom
+line, signals (🟢 bullish / 🔴 cautious / 🟡 mixed, who holds the view and why), AI and private-market points, moats,
+risks and black swans, other key insights, and links to the best moments.
+
+On the 1st of each month `report.yml` e-mails a **monthly signals report** (and a **quarterly** one in January, April,
+July and October), built from the saved digests: the most bullish and most cautious names with counts and reasons and
+their rank last period, private companies worth watching pre-IPO, and the period's trends, moats, risks and black
+swans. Actions → Signals report → Run workflow with "to_date" ticked previews the current month or quarter so far.
+
 Videos off the topics in `interests.txt` are skipped (listed at the end), and off-topic segments are left out of the
 videos that are kept.
 Shorts and clips (under 250 words of transcript) are skipped.

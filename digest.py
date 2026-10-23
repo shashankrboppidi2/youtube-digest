@@ -29,6 +29,7 @@ import os, re, sys, json, glob, time, shutil, tempfile, subprocess
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 import requests
+import signals
 
 HERE = ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "digests")
@@ -48,7 +49,8 @@ COOKIES = os.getenv("YT_COOKIES_FILE", "")   # Netscape cookies.txt from a signe
 CHUNK_WORDS = int(os.getenv("LLM_CHUNK_WORDS", "2500"))   # transcript piece per model call: fits a small local
                                                           # model's context and a hosted free tier's tokens/minute
 FALLBACK_URL = os.getenv("LLM_FALLBACK_URL", "http://localhost:11434/v1").rstrip("/")
-FALLBACK_MODEL = os.getenv("LLM_FALLBACK_MODEL", "")      # local model to switch to when a hosted one runs out of quota
+FALLBACK_MODEL = os.getenv("LLM_FALLBACK_MODEL", "")      # model to switch to when the main one runs out of quota
+FALLBACK_KEY = os.getenv("LLM_FALLBACK_KEY", "ollama")    # (local Ollama by default; another hosted model works too)
 MAX_WORDS = 20000         # ~2h of speech; longer transcripts are cut here
 
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36",
@@ -240,7 +242,7 @@ def llm(system, user, max_tokens=900):
             if not FALLBACK_MODEL or LLM_MODEL == FALLBACK_MODEL: raise
             print(f"  {LLM_MODEL}: {e}; switching to {FALLBACK_MODEL} for the rest of this run")
             NOTES_RUN.append(f"{LLM_MODEL} hit its free-tier limit, so later summaries are by {FALLBACK_MODEL}")
-            LLM_BASE_URL, LLM_MODEL, LLM_API_KEY = FALLBACK_URL, FALLBACK_MODEL, "ollama"
+            LLM_BASE_URL, LLM_MODEL, LLM_API_KEY = FALLBACK_URL, FALLBACK_MODEL, FALLBACK_KEY
 
 def _chat(system, user, max_tokens):
     body = {"model": LLM_MODEL, "temperature": 0.2, "max_tokens": max_tokens,
@@ -295,6 +297,10 @@ Take notes on this part, one line each, starting with the timestamp, in these fo
 - [12:34] SIGNAL: bullish / cautious / mixed on <company, sector or asset> — <who holds the view> — <their reason, with numbers>
 - [12:34] AI: <what is said about the AI industry: who wins or loses, spending, chips, models, adoption, pricing>
 - [12:34] PRIVATE: <private or pre-IPO company: valuation, revenue, growth, funding, investors, IPO timing>
+- [12:34] TREND: <a trend in an industry or market, with the evidence given>
+- [12:34] MOAT: <company> — <the durable advantage claimed: scale, data, switching costs, network effects, cost, IP>
+- [12:34] RISK: <company, sector or market> — <the risk or threat raised>
+- [12:34] BLACK SWAN: <an unlikely but high-impact scenario someone raises> — <what it would hit>
 - [12:34] FACT: <another specific point an investor can use, with a number or a named source>
 Only what is said in this part. Skip sponsor reads, intros, small talk and anything outside the reader's interests.
 If nothing qualifies, write NONE.{focus_note}
@@ -355,8 +361,11 @@ No generic statements ("AI is transforming industries", "markets are volatile");
 **AI & private markets:**
 - <bullets on the AI industry (who wins or loses, spending, chips, models, adoption, pricing) and on private or pre-IPO companies (valuation, revenue, funding, IPO timing), each ending with [m:ss]. Write "None" if not discussed>
 
+**Moats, risks & black swans:**
+- <bullets starting "Moat:", "Risk:" or "Black swan:" — the company, sector or market, then the durable advantage, the risk, or the unlikely but high-impact scenario that was raised, ending with [m:ss]. Write "None" if none came up>
+
 **Key insights:**
-- <2-4 bullets: other specific, non-obvious points with numbers, each ending with [m:ss]>
+- <2-4 bullets: trends and other specific, non-obvious points with numbers, each ending with [m:ss]>
 
 **Jump to:** <the 2-3 most valuable moments as "[m:ss] topic", separated by " · ">
 {focus_block}
@@ -364,22 +373,29 @@ No generic statements ("AI is transforming industries", "markets are volatile");
 {content}"""
 
 OVERVIEW_PROMPT = """Below are today's video summaries for an investor who tracks: {interests}.
-Write a short briefing on what was said across them, in Markdown, nothing before or after:
 
-**Themes:**
-- <2-4 bullets: views or trends that came up today, above all on AI and on private / pre-IPO companies; each ends with the source videos in parentheses, in short form>
+How many videos held each view (counted from the summaries, most first):
+BULLISH: {bullish}
+CAUTIOUS: {cautious}
 
-**Bullish on:**
-- <one bullet per company, sector or asset with a bullish view: **name** — the reason in a few words (source)>
+Write the top of today's e-mail, in Markdown, nothing before or after:
 
-**Cautious on:**
+**Most bullish:**
+- <up to 5 bullets, in the order of the counts above (merge names that are the same company or sector and add their counts): **name** — N videos — why, in a few words>
+
+**Most cautious:**
 - <the same for cautious views>
 
-**Private & pre-IPO watch:**
-- <private companies discussed: **name** — valuation, revenue, funding or IPO news (source)>
+**Trends:**
+- <2-4 bullets: trends that came up today, above all in AI and private markets; each ends with the source videos in parentheses, in short form>
 
-Use only what is in the summaries; merge duplicates; be specific. Leave out a section, heading included, if it
-would be empty.
+**Risks & black swans:**
+- <up to 4 bullets: the most important risks and any unlikely but high-impact scenarios raised (source)>
+
+**Private & pre-IPO watch:**
+- <private companies discussed: **name** — valuation, revenue, growth, funding or IPO news (source)>
+
+Use only what is in the summaries; be specific. Leave out a section, heading included, if it would be empty.
 
 SUMMARIES:
 {summaries}"""
@@ -474,7 +490,7 @@ def tidy(md):
     md = re.sub(r"(\d/5)\s*—\s*(?=\S)", r"\1 — ", md)
     return re.sub(r"\n{3,}", "\n\n", md).strip()
 
-CAPS = {"Signals": 10, "Stocks mentioned": 99, "AI & private markets": 6}
+CAPS = {"Signals": 10, "Stocks mentioned": 99, "AI & private markets": 6, "Moats, risks & black swans": 6}
 
 def cap_bullets(md, keep=5):
     """Models sometimes ignore "2-4 bullets" on long videos; keep the per-section cap, spread across the video."""
@@ -499,18 +515,25 @@ def cap_bullets(md, keep=5):
     return md.strip()
 
 def day_overview(entries):
-    """A cross-video briefing for the top of the e-mail; empty when there is too little to compare."""
+    """The TL;DR at the top of the e-mail: the most bullish and cautious names (counted across videos), trends, risks
+    and private companies. Falls back to the bare counts when the model fails; empty for fewer than 2 videos."""
     if len(entries) < 2: return ""
-    parts = []
+    vids, parts = [], []
     for v, _, body in entries:
-        body = re.sub(r"\[(\d[\d:]*)\]\([^)]*\)", r"[\1]", body)      # drop the timestamp links
-        body = re.sub(r"\*\*Jump to:\*\*.*", "", body)
-        parts.append(f"### {v['title']} ({v['channel']})\n{body[:1800]}")
+        vids += signals.videos(f"## {v['title']}\n\n**{v['channel']}** · [watch]({v['link']})\n\n{body}")
+        body = re.sub(r"\s*\[(\d[\d:]*)\]\([^)]*\)", "", body)     # timestamp links only cost tokens
+        body = re.sub(r"\*\*Jump to:?\*\*.*", "", body)
+        parts.append(f"### {v['title']} ({signals.short_channel(v['channel'])})\n{body[:1300]}")
+    t = signals.tally(vids)
+    bull, caut = signals.counts_line(t, "bullish"), signals.counts_line(t, "cautious")
     try:
-        out = llm(SYSTEM, OVERVIEW_PROMPT.format(interests=INTERESTS, summaries="\n\n".join(parts)), max_tokens=1000)
+        out = llm(SYSTEM, OVERVIEW_PROMPT.format(interests=INTERESTS, bullish=bull, cautious=caut,
+                                                 summaries="\n\n".join(parts)), max_tokens=1100)
+        return cap_bullets(tidy(out))
     except Exception as e:
-        print(f"overview failed: {e}"); return ""
-    return cap_bullets(tidy(out))
+        print(f"TL;DR failed: {e}")
+        lines = [f"**Most bullish:** {bull}" if bull != "none" else "", f"**Most cautious:** {caut}" if caut != "none" else ""]
+        return "\n\n".join(l for l in lines if l)
 
 def link_timestamps(md, vid, last):
     """[12:34] -> a link to that moment. Times past the end of the video (model slips) are dropped."""
@@ -604,7 +627,7 @@ def main():
         md.append(f"\n<!-- run {now.strftime('%H:%MZ')} -->\n")
     overview = day_overview(entries)
     if overview:
-        md.append(f"## Today's signals\n\n{overview}\n")
+        md.append(f"## TL;DR\n\n{overview}\n")
     for v, length, body in entries:
         pub = datetime.fromisoformat(v["published"]).strftime("%b %d")
         md.append(f"## {v['title']}\n\n**{v['channel']}** · {length} · {pub} · [watch]({v['link']})\n\n{body}\n")
