@@ -17,5 +17,12 @@ for spec in [c for c in re.split(r"[,\s]+", os.getenv("CHANNELS", "")) if c]:
     recent = [v for v in vids if datetime.fromisoformat(v["published"]) > now - timedelta(days=30)]
     name = vids[0]["channel"] if vids else cid
     print(f"\n### {spec} — {name} — {len(recent)} uploads in 30 days (of the {len(vids)} latest listed)")
-    for v in vids[:6]:
-        print(f"  {v['published'][:10]}  {v['title']}")
+    for k, v in enumerate(vids[:6]):
+        words = ""
+        if os.getenv("CHECK_CAPTIONS") and k < 2:     # do the latest videos have captions the digest can use?
+            try:
+                snips = digest.transcript(v["id"], attempts=2)
+                words = f"  [{sum(len(t.split()) for _, t in snips)} caption words]" if snips else "  [NO CAPTIONS]"
+            except Exception as e:
+                words = f"  [caption download failed: {type(e).__name__}]"
+        print(f"  {v['published'][:10]}  {v['id']}  {v['title']}{words}")

@@ -5,3 +5,10 @@
 # Bloomberg Daybreak  (not skipped: interests.txt keeps its macro/politics segments and drops the rest)
 [Bloomberg Podcasts] Bloomberg Australia Podcast    # regional
 [Bloomberg Podcasts] Zero: The Climate Race         # climate
+# Bloomberg shows without investor views (one-day stock moves, news rundowns, law, UK personal finance)
+[Bloomberg Podcasts] Stock Movers
+[Bloomberg Podcasts] Bloomberg Daybreak
+[Bloomberg Podcasts] Bloomberg Businessweek
+[Bloomberg Podcasts] Bloomberg Law
+[Bloomberg Podcasts] Merryn Talks Money
+[Bloomberg Podcasts] Big Take

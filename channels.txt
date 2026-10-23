@@ -14,13 +14,14 @@
 @SemiDoped
 @JoseNajarroStocks
 @DwarkeshPatel
-@TheBearRoars
 @BloombergPodcasts
 @SourceryVC
 @norgesbankinvestmentmanagement
 @SixFiveMedia
-@NVIDIA
-@practicalai_show
 @TheStreet
-@overkilltrading
 @sequoiacapital
+@SemiAnalysis
+@BG2Pod
+@startups              # This Week in Startups
+@theinformation        # TITV
+@BigTechnologyPodcast

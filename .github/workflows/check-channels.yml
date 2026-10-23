@@ -7,6 +7,10 @@ on:
       channels:
         description: 'Handles or URLs, separated by spaces or commas'
         required: true
+      captions:
+        description: 'Also test caption downloads for the 2 latest videos of each'
+        type: boolean
+        default: false
 
 jobs:
   check:
@@ -23,4 +27,6 @@ jobs:
       - run: pip install -r requirements.txt
       - env:
           CHANNELS: ${{ inputs.channels }}
+          CHECK_CAPTIONS: ${{ inputs.captions && '1' || '' }}
+          YT_PROXY: ${{ secrets.YT_PROXY }}
         run: python check_channels.py | tee -a "$GITHUB_STEP_SUMMARY"
