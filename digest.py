@@ -350,7 +350,7 @@ No generic statements ("AI is transforming industries", "markets are volatile");
 **Bottom line:** <one or two sentences: the most useful thing an investor learns from this video>
 
 **Signals:**
-- <one bullet per stock, sector or asset someone is bullish or cautious about: start with "🟢 Bullish", "🔴 Cautious" or "🟡 Mixed", then **name** (ticker only if said), who holds the view, why in one line with their numbers, then [m:ss]. A company only named in passing is not a signal. Write "None" if there are none>
+- <one bullet per stock, sector or asset someone is bullish or cautious about: start with "🟢 Bullish", "🔴 Cautious" or "🟡 Mixed", then **name** (ticker only if said), who holds the view, why in one line with their numbers, then [m:ss]. Only investable things count: a company, sector, asset class or commodity, never an idea, risk scenario or technique. A company only named in passing is not a signal. Write "None" if there are none>
 
 **AI & private markets:**
 - <bullets on the AI industry (who wins or loses, spending, chips, models, adoption, pricing) and on private or pre-IPO companies (valuation, revenue, funding, IPO timing), each ending with [m:ss]. Write "None" if not discussed>
