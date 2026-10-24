@@ -364,3 +364,341 @@ Investors should keep AI exposure modest (5‑12 % of portfolio), favor “hal
 _Problems this run: openai/gpt-oss-120b hit its free-tier limit, so later summaries are by qwen2.5:3b_
 
 _Summaries by openai/gpt-oss-120b and qwen2.5:3b (open-source models)._
+
+<!-- run 12:12Z -->
+
+## TL;DR
+
+**Most bullish:**
+- Alphabet — 1 (TheStreet) — Ted Thatcher sees Alphabet as the top AI play with a path to a $10 trillion market cap in 3-5 years, and expects chips (e.g., Nvidia) to outpace software in AI leadership.
+- Nvidia — 1 (TheStreet) — Ted Thatcher picks Nvidia over an equal-weight S&P fund for the next 12 months.
+- Workday — 1 (TheStreet) — Ted Thatcher cites it as a software name to buy besides Microsoft.
+
+**Most cautious:**
+- ASML — 1 (Bloomberg Podcasts) — Gideon Louis Krauss notes only 50 EUV machines are built per year (≈15-50 usable units), making capacity expansion extremely slow and limiting short-term supply relief.
+- TSMC — 1 (Bloomberg Podcasts) — Maurice Chang (founder, retired) warns that moving a single node of the ecosystem to the U.S. won’t work, underscoring the risk of any near-term onshore build-out.
+
+**Trends:**
+- The Next AI Breakthrough Isn't Chips — It's What They're Made Of (with Shalini Sharma, Ph.D.) — highlights the critical role of semiconductor materials innovation in overcoming the bottleneck for next-generation AI hardware and data center efficiency.
+- Inside the Global PHP Flaw (The Information) — underscores the importance of cybersecurity in the AI-driven landscape and the potential threat posed by Chinese open-source models.
+
+**Risks & black swans:**
+- Higher yields could pressure equity valuations, especially tech, per Thatcher’s view.
+- Earnings misses identified as the biggest threat to the ongoing bull market.
+- SandboxAQ’s LQM platform can screen millions of chemistries digitally, de-risking early R&D and reducing lab-time.
+- The digital twin platform can simulate millions of candidate chemistries, then narrow to a handful for lab testing, speeding material discovery.
+
+**Private & pre-IPO watch:**
+- SandboxAQ — $500 million valuation, no revenue, no funding rounds, no IPO timelines discussed.
+
+**Private & pre-IPO watch:**
+- SandboxAQ — $500 million valuation, no revenue, no funding rounds, no IPO timelines discussed.
+
+## Making Advanced MicroChips Takes a Global Ecosystem
+
+**Bloomberg Podcasts** · 10:44 · Oct 24 · [watch](https://www.youtube.com/watch?v=u3JwZEAJijE)
+
+**Bottom line:**  
+The video shows that the semiconductor supply chain is a tightly coupled, decades‑long ecosystem—dominated by a few irreplaceable players like ASML and TSMC—so any effort to “reshore” advanced chip production in the U.S. will require 30‑plus years and cannot be rushed by policy alone.
+
+**Signals:**  
+- 🔴 Cautious **ASML** – Gideon Louis Krauss notes only 50 EUV machines are built per year (≈15‑50 usable units), making capacity expansion extremely slow and limiting short‑term supply relief. [7:07](https://youtu.be/u3JwZEAJijE?t=427)  
+- 🔴 Cautious **TSMC** – Maurice Chang (founder, retired) warned that moving a single node of the ecosystem to the U.S. “won’t work,” underscoring the risk of any near‑term on‑shore build‑out. [9:10](https://youtu.be/u3JwZEAJijE?t=550)  
+- 🟢 Bullish **Chip Act allocations** – The Biden administration’s Chips Act awarded TSMC the second‑largest share of U.S. subsidies, indicating continued government support for fab investment, though implementation is a 30‑year horizon. [9:10](https://youtu.be/u3JwZEAJijE?t=550)  
+
+**Moats, risks & black swans:**  
+- Moat: **ASML** – Holds a monopoly on EUV lithography machines; its mirrors are “the smoothest man‑made objects in the known universe,” creating a durable technology barrier. [5:03](https://youtu.be/u3JwZEAJijE?t=303)  
+- Risk: **Supply‑chain coordination** – The global ecosystem requires synchronized upgrades (e.g., wafer size transitions) planned 15 years in advance; any mis‑alignment can choke capacity. [8:09](https://youtu.be/u3JwZEAJijE?t=489)  
+- Black swan: **U.S. on‑shoring failure** – If the U.S. attempts to replicate the EUV supply chain without the tacit knowledge accumulated over 40 years, the project could stall, wasting billions. [9:10](https://youtu.be/u3JwZEAJijE?t=550)  
+
+**Key insights:**  
+- The EUV machine is a “wonky” 10‑meter‑tall system that shoots 60,000 droplets per second, uses magnetic‑levitation coils and operates in a vacuum; only 15‑50 units are produced annually, limiting rapid scale‑up. [5:03](https://youtu.be/u3JwZEAJijE?t=303)  
+- Transitioning wafer sizes (6‑inch → 8‑inch → 12‑inch) required a 15‑year coordinated roadmap across the entire supply chain, illustrating how long‑term planning is essential for any capacity increase. [8:09](https://youtu.be/u3JwZEAJijE?t=489)  
+- The Chips Act is framed as a generational project; implementation is expected to span ~30 years, matching the time it took to build TSMC from scratch. [9:10](https://youtu.be/u3JwZEAJijE?t=550)  
+
+**Jump to:**  
+[5:03](https://youtu.be/u3JwZEAJijE?t=303) ASML’s EUV machine rarity · [7:07](https://youtu.be/u3JwZEAJijE?t=427) Bottleneck: only 15‑50 EUV tools per year · [9:10](https://youtu.be/u3JwZEAJijE?t=550) Chips Act’s 30‑year horizon and on‑shoring challenges
+
+## Alphabet to $10 trillion? Ted Thatcher goes rapid-fire in a round of “This or That.”
+
+**TheStreet** · 1:34 · Oct 23 · [watch](https://www.youtube.com/shorts/aJ49iDvND9s)
+
+**Bottom line:** Ted Thatcher sees Alphabet as the top AI play with a path to a $10 trillion market cap in 3‑5 years, and expects chips (e.g., Nvidia) to outpace software in AI leadership.
+
+**Signals:**
+- 🟢 Bullish **Alphabet** (no ticker), Ted Thatcher – believes it can become a $10 trillion company within 3‑5 years [0:58](https://youtu.be/aJ49iDvND9s?t=58).
+- 🟢 Bullish **Nvidia** (NVDA), Ted Thatcher – picks it over an equal‑weight S&P fund for the next 12 months [1:04](https://youtu.be/aJ49iDvND9s?t=64).
+- 🟢 Bullish **Workday** (WDAY), Ted Thatcher – cites it as a software name to buy besides Microsoft [0:45](https://youtu.be/aJ49iDvND9s?t=45).
+- 🔴 Cautious **Broad market** (S&P 500), Ted Thatcher – warns higher yields and earnings misses are the biggest threats to the bull market [0:30, 1:12].
+
+**AI & private markets:**
+- Chips will remain the bigger AI winner versus software in 2027, according to Thatcher (implying continued demand for GPU/ASIC providers) [0:40](https://youtu.be/aJ49iDvND9s?t=40).
+- No private‑company valuations, funding rounds, or IPO timelines were discussed. → **None**.
+
+**Moats, risks & black swans:**
+- Risk: **Higher yields** could pressure equity valuations, especially tech, per Thatcher’s view [0:30](https://youtu.be/aJ49iDvND9s?t=30).
+- Risk: **Earnings misses** identified as the biggest threat to the ongoing bull market [1:12](https://youtu.be/aJ49iDvND9s?t=72).
+- Moat: **Alphabet’s data and AI ecosystem** cited as a durable advantage supporting its $10 trillion potential [0:58](https://youtu.be/aJ49iDvND9s?t=58).
+- Moat: **Nvidia’s GPU leadership** implied as a structural edge in the AI chip race [1:04](https://youtu.be/aJ49iDvND9s?t=64).
+
+**Key insights:**
+- Concentration in a few mega‑caps is likely to precede a broader market rally, suggesting a focus on top‑tier tech stocks [0:15](https://youtu.be/aJ49iDvND9s?t=15).
+- The 10‑year Treasury is “the most overlooked opportunity” in the current market, hinting at a potential undervaluation of long‑duration bonds [1:08](https://youtu.be/aJ49iDvND9s?t=68).
+- Oil is expected to fall below $100/barrel by year‑end, which could benefit commodity‑linked equities and inflation dynamics [0:20](https://youtu.be/aJ49iDvND9s?t=20).
+
+**Jump to:** [0:58](https://youtu.be/aJ49iDvND9s?t=58) Alphabet $10 T potential · [0:40](https://youtu.be/aJ49iDvND9s?t=40) Chips beat software in AI 2027 · [1:04](https://youtu.be/aJ49iDvND9s?t=64) Nvidia over RSP for 12‑month view
+
+## The Next AI Breakthrough Isn't Chips — It's What They're Made Of (with Shalini Sharma, Ph.D.)
+
+**Chip Stock Investor** · 42:18 · Oct 23 · [watch](https://www.youtube.com/watch?v=EZIHlk-EdqA)
+
+**Bottom line:** The video highlights the critical role of semiconductor materials innovation in overcoming the bottleneck for next-generation AI hardware and data center efficiency, suggesting that breakthroughs in this area could unlock cheaper and more efficient AI compute.
+
+**Signals:**
+- 🔴 Cautious on the AI hardware supply chain, given the high concentration of magnetic-material supply outside the US.
+
+**Moats, risks & black swans:**
+- Moat: SandboxAQ’s durable advantage is its large-quantum-model (LQM) platform that can screen millions of chemistries digitally, de-risking early R&D and reducing lab-time.
+- Risk: Concentration of magnetic-material supply outside the US could cause fab shutdowns if disrupted.
+- Black swan: SandboxAQ’s recommendation of Coupa Cafe for a great experience in Palo Alto, with a caveat that it’s not a guarantee of a great experience.
+
+**Key insights:**
+- AI materials innovation is the bottleneck for the next generation of GPUs and data-center efficiency.
+- SandboxAQ’s LQM platform can screen millions of chemistries digitally, de-risking early R&D and reducing lab-time.
+- The digital twin platform can simulate millions of candidate chemistries, then narrow to a handful for lab testing, speeding material discovery.
+
+**Jump to:**
+- [17:38](https://youtu.be/EZIHlk-EdqA?t=1058) Private: SandboxAQ’s $500 million R&D award for semiconductor research.
+- [23:44](https://youtu.be/EZIHlk-EdqA?t=1424) Signal: SandboxAQ’s business model with two revenue streams: CHIPS award work with partner payments and US-government IP licenses, and commercial milestone-based contracts.
+
+## HBM4's two multiplier effect
+
+**Semi Doped** · 1:40 · Oct 23 · [watch](https://www.youtube.com/shorts/qjQnBDsiSok)
+
+**Key insights:** 
+- [1:00](https://youtu.be/qjQnBDsiSok?t=60) HBM4's multi-chiplet architecture and increased stack count lead to a significant increase in data transfer rate and energy efficiency, with potential for further improvements. [1:00](https://youtu.be/qjQnBDsiSok?t=60)
+- [1:00](https://youtu.be/qjQnBDsiSok?t=60) The video highlights the importance of balancing power consumption with performance in AI workloads, emphasizing the need for efficient power management. [1:00](https://youtu.be/qjQnBDsiSok?t=60)
+
+**Jump to:** [1:00](https://youtu.be/qjQnBDsiSok?t=60) HBM4's multi-chiplet architecture and increased stack count, [1:00](https://youtu.be/qjQnBDsiSok?t=60) the importance of balancing power consumption with performance.
+
+## Inside the Global PHP Flaw
+
+**The Information** · 18:49 · Oct 23 · [watch](https://www.youtube.com/watch?v=ulc9-4GwQ-k)
+
+**Bottom line:** The video highlights the critical role of AI in accelerating the response to the PHP vulnerability, emphasizing the need for coordinated efforts between private industry and government agencies to mitigate the risk of exploitation. It also underscores the importance of cybersecurity in the AI-driven landscape and the potential threat posed by Chinese open-source models.
+
+**AI & private markets:**
+- 🔴 Cautious on Microsoft — The Information — Microsoft's stock performance and CEO pay package [14:11](https://youtu.be/ulc9-4GwQ-k?t=851)
+- 🔴 Cautious on Microsoft — The Information — Microsoft's private models are increasingly being used for coordination, with US and Chinese models becoming more prevalent [15:13](https://youtu.be/ulc9-4GwQ-k?t=913)
+- 🔴 Cautious on Microsoft — The Information — Microsoft's CEO pay cut is not seen as a significant reduction, given the overall compensation [16:14](https://youtu.be/ulc9-4GwQ-k?t=974)
+- 🔴 Cautious on Xbox — Microsoft's focus on revenue growth and potential options for the business [17:14](https://youtu.be/ulc9-4GwQ-k?t=1034)
+- 🔴 Cautious on Andreessen Horowitz crypto — Plans to drop crypto from its name, focusing on other investment types including AI [18:15](https://youtu.be/ulc9-4GwQ-k?t=1095)
+
+**Moats, risks & black swans:**
+- Moat: QUALYS — QUALYS holds a strong competitive advantage in the cybersecurity market, with its expertise in finding and reporting vulnerabilities. Its partnerships with OpenAI and its role in the AI-driven security landscape have bolstered its market position. [12:34](https://youtu.be/ulc9-4GwQ-k?t=754)
+- Risk: PHP VULNERABILITY — The vulnerability affects a large portion of the internet, and the race to patch it is critical. The risk of exploitation by hackers is high, and the potential impact on businesses and individuals is significant. [12:34](https://youtu.be/ulc9-4GwQ-k?t=754)
+- Black swan: Chinese Cyber Capable Open Models — The arrival of Chinese open-source cyber capable models could represent a new threat, potentially shortening the defenders window and making it harder for governments to coordinate responses. The SI Task Force, led by Jay Clayton, is being called upon to address this new challenge. [12:34](https://youtu.be/ulc9-4GwQ-k?t=754)
+
+**Key insights:**
+- The race to find and patch vulnerabilities is accelerating, with AI models like Mythos and OpenAI’s GPT-5.6 playing a significant role. The defenders window is narrowing, and the need for coordinated responses from both private industry and government agencies is increasing. [12:34](https://youtu.be/ulc9-4GwQ-k?t=754)
+- QUALYS has been actively involved in finding and reporting vulnerabilities, including this one, which has helped them secure partnerships and funding. QUALYS has also seen a significant increase in its valuation, reflecting the value of its cybersecurity expertise and its role in the AI-driven security landscape. [12:34](https://youtu.be/ulc9-4GwQ-k?t=754)
+- The Information reported that OpenAI reported the PHP vulnerability to the PHP Foundation on the same day it was discovered by Kalif, a cybersecurity startup. The PHP Foundation took more than a month to figure out a way to patch it. [12:34](https://youtu.be/ulc9-4GwQ-k?t=754)
+
+**Jump to:** [14:11](https://youtu.be/ulc9-4GwQ-k?t=851) SIGNAL · [15:13](https://youtu.be/ulc9-4GwQ-k?t=913) AI · [16:14](https://youtu.be/ulc9-4GwQ-k?t=974) AI · [17:14](https://youtu.be/ulc9-4GwQ-k?t=1034) PRIVATE · [18:15](https://youtu.be/ulc9-4GwQ-k?t=1095) PRIVATE
+
+## Why Investors Are Reducing AI Exposure
+
+**Goldman Sachs** · 10:43 · Oct 23 · [watch](https://www.youtube.com/watch?v=c2n7stXlqlw)
+
+**Bottom line:** Investors are de-risking their exposure to AI and related sectors as concerns about the cost of capital, supply constraints, and competition at the model layer intensify, potentially leading to a more balanced allocation of capital across the market.
+
+**Moats, risks & black swans:**
+- Moat: Hyperscalers, AI models, [1:00](https://youtu.be/c2n7stXlqlw?t=60)
+- Risk: Supply constraints, competition, [1:00](https://youtu.be/c2n7stXlqlw?t=60)
+- Black swan: Energy supply disruption, [1:00](https://youtu.be/c2n7stXlqlw?t=60)
+
+**Key insights:**
+- The market is de-risking its exposure to AI and related sectors, [1:00](https://youtu.be/c2n7stXlqlw?t=60)
+- The focus is on the quality of delivery rather than just the spend, [1:00](https://youtu.be/c2n7stXlqlw?t=60)
+- The market is grappling with concerns about the cost of capital, supply constraints, and competition at the model layer, [1:00](https://youtu.be/c2n7stXlqlw?t=60)
+
+**Jump to:** [2:00](https://youtu.be/c2n7stXlqlw?t=120) Hyperscaler numbers, [3:00](https://youtu.be/c2n7stXlqlw?t=180) Supply constraints, [4:00](https://youtu.be/c2n7stXlqlw?t=240) Energy prices
+
+## Why Oil Prices Are Surging Despite Recovering Supply
+
+**Goldman Sachs** · 14:32 · Oct 23 · [watch](https://www.youtube.com/watch?v=SgcQxTLeBrs)
+
+**Bottom line:** The Goldman Sachs video discusses why oil prices are surging despite recovering supply, highlighting the growing risks to supply from Middle East shipping attacks and infrastructure damage, and the resulting high demand for crude oil and its derivatives.
+
+**Key insights:**
+- The risk premium on oil prices is estimated at $27 per barrel, significantly impacting the market outlook.
+- Physical buyers are seeking to secure crude oil supplies due to growing supply risks.
+- Refined product markets, particularly diesel and gasoline, are experiencing tighter conditions, driving up prices.
+- Freight rates are rising due to the need to organize crude oil shipments, with potential implications for refined product markets.
+- European natural gas prices are seeing net upside risks, with LNG exports from the Middle East at low levels, potentially leading to higher prices.
+
+**Jump to:** [3:17](https://youtu.be/SgcQxTLeBrs?t=197) price risk premium, [9:31](https://youtu.be/SgcQxTLeBrs?t=571) European energy prices, [10:34](https://youtu.be/SgcQxTLeBrs?t=634) copper price upside
+
+## Sundar Pichai: Will AI Kill the Interface?
+
+**Big Technology** · 8:05 · Oct 23 · [watch](https://www.youtube.com/watch?v=8VAcr7OrxvI)
+
+**Bottom line:** The video discusses the future of interfaces in computing as AI advances, with a focus on the potential for AI to become more seamless and natural, potentially eliminating traditional interfaces.
+
+**Moats, risks & black swans:**
+- Moat: OpenAI, Persistent AI advantage, [3:00](https://youtu.be/8VAcr7OrxvI?t=180)
+- Risk: Competition from bolt-on AI, [3:02](https://youtu.be/8VAcr7OrxvI?t=182)
+- Black swan: Rapid adoption of AI by consumers, [5:04](https://youtu.be/8VAcr7OrxvI?t=304)
+
+**Key insights:**
+- Pichai envisions a future where AI interfaces are more natural and seamless, potentially eliminating traditional buttons and screens.
+- OpenAI is pushing back against Google's approach of integrating AI into existing products, suggesting they are building AI-native products.
+- Pichai believes that as AI advances, it will become more integrated into daily life, and there will be opportunities for monetization through consumer products.
+- The future of AI interfaces will likely involve persistent agents that can be accessed across different platforms, including search and email.
+
+**Jump to:** [3:00](https://youtu.be/8VAcr7OrxvI?t=180) OpenAI Moat, [5:04](https://youtu.be/8VAcr7OrxvI?t=304) Consumer Value, [7:09](https://youtu.be/8VAcr7OrxvI?t=429) Unified Agent Experience
+
+## The Robot Almanac: Drones & Air Mobility (Ep. 4)
+
+**Morgan Stanley** · 6:10 · Oct 21 · [watch](https://www.youtube.com/watch?v=kG3zTBKuKBw)
+
+**Bottom line:** The Morgan Stanley Robot Almanac explores the transformative potential of AI in the drone and air mobility sector, highlighting the rapid growth and potential of low-altitude aviation, and the geopolitical implications of this emerging technology.
+
+**Moats, risks & black swans:**
+- Moat: Electric VTOLs (eVTOLs) are expected to dominate the market, with a significant market share and potential for high revenue per unit.
+- Risk: The low-altitude economy is currently underutilized, but rapid growth could lead to regulatory and technological challenges.
+- Black swan: A major geopolitical event could disrupt the development and adoption of low-altitude aviation.
+
+**Key insights:**
+- Drones are rapidly expanding into military, commercial, and civilian applications, including delivery and inspection.
+- The global drone market is dominated by DJI, with significant cultural and technological advantages in China.
+- The Morgan Stanley Global Robot Almanac forecasts a significant growth in drone deliveries, reaching 2 billion units by 2050.
+- The Almanac addresses the challenges of integrating AI-enabled drones into existing air traffic control systems, which could limit the growth of the low-altitude economy.
+
+**Jump to:** 10:00 · 20:00 · 30:00
+
+## The 5-50 Meter Reach Gap
+
+**Semi Doped** · 1:31 · Oct 21 · [watch](https://www.youtube.com/shorts/3H5ivY2jOuM)
+
+**Bottom line:** This video highlights the critical gap in data center interconnect technologies, specifically the need for more efficient and cost-effective solutions to connect GPUs, which is crucial for scaling up AI computing.
+
+**Moats, risks & black swans:**
+- Moat: Nvidia, Risk: Co-packaged optics becoming too expensive and limiting, Black swan: A sudden shift to alternative technologies like 6G modulation schemes
+[1:01](https://youtu.be/3H5ivY2jOuM?t=61)
+
+**Key insights:**
+- The 5-50 meter reach gap is a significant challenge in data center interconnects.
+- Copper beyond 7m is becoming difficult, and new modulation schemes like PAM 6 are being considered.
+- There is a need for more efficient and cost-effective solutions to connect GPUs.
+- 50m reach is sufficient for connecting many GPUs, and alternative technologies like light-based solutions are being explored.
+[1:01](https://youtu.be/3H5ivY2jOuM?t=61)
+
+**Jump to:**
+[1:01](https://youtu.be/3H5ivY2jOuM?t=61) Co-packaged optics · [1:01](https://youtu.be/3H5ivY2jOuM?t=61) Alternative technologies
+
+## AI’s Next Winners: Signals From Private Markets
+
+**Morgan Stanley** · 10:04 · Oct 21 · [watch](https://www.youtube.com/watch?v=ELm4rp5erFI)
+
+**Bottom line:** The video provides insights into the AI adoption pace in private companies, highlighting the remarkable growth rates and the different adoption speeds for coding and inference tools versus application software, which are more complex and require deeper integration.
+
+**Moats, risks & black swans:**
+- Moat: Coding and inference software companies are building the foundational tools that can be adopted quickly, while application software companies are more complex and require deeper integration.
+- Risk: The existing large public software companies may hide the fast-growing AI businesses within their existing businesses.
+- Black swan: A significant shift in AI adoption could occur if the physical implementation of AI technologies, such as robots and drones, disrupt traditional industries.
+
+**Key insights:**
+- Coding and inference software companies are scaling at extraordinary speeds, with one company reaching $4 billion in annual recurring revenue in just 2 years.
+- The adoption of AI is not just about coding and inference tools, but also about full-stack solutions, which are more complex and require deeper integration.
+- The shift from AI assistants to AI agents that can execute work is a significant trend, with potential addressable markets of 30 to 40 trillion dollars.
+
+**Jump to:**
+- [2:01](https://youtu.be/ELm4rp5erFI?t=121) Full-stack solutions
+- [5:03](https://youtu.be/ELm4rp5erFI?t=303) Moat and journey framework
+
+## Netflix is heading into earnings. Buy, hold or avoid? Ted Thatcher makes rapid-fire investing calls
+
+**TheStreet** · 1:23 · Oct 20 · [watch](https://www.youtube.com/shorts/WOww6e0HffQ)
+
+**Bottom line:** The video provides insights into whether to buy, hold, or avoid specific stocks and sectors, focusing on AI, tech, and entertainment, helping investors make more informed decisions.
+
+**Signals:**
+- 🔴 Cautious: Netflix (NFLX), (m:ss) [1:00](https://youtu.be/WOww6e0HffQ?t=60)
+
+**Moats, risks & black swans:**
+- Moat: Nvidia (NVDA), (m:ss) [1:00](https://youtu.be/WOww6e0HffQ?t=60)
+- Risk: GM stock, (m:ss) [0:00](https://youtu.be/WOww6e0HffQ?t=0)
+- Black swan: United Airlines earnings impact, (m:ss) [0:00](https://youtu.be/WOww6e0HffQ?t=0)
+
+**Key insights:**
+- Marvell's growth potential, (m:ss) [0:00](https://youtu.be/WOww6e0HffQ?t=0)
+- Apple's hardware moat, (m:ss) [0:00](https://youtu.be/WOww6e0HffQ?t=0)
+- Nvidia's forward earnings multiple, (m:ss) [1:00](https://youtu.be/WOww6e0HffQ?t=60)
+- Microsoft and Google as long-term holdings, (m:ss) [1:00](https://youtu.be/WOww6e0HffQ?t=60)
+
+**Jump to:** 1:00 topic · 0:00 topic
+
+## 80% of S&P 500 Stocks Are in Correction Territory. These 3 Are Still Buys
+
+**TheStreet** · 28:33 · Oct 20 · [watch](https://www.youtube.com/watch?v=gPnXSlsYrFo)
+
+**Bottom line:** The video highlights the bullish stance on Nvidia, Microsoft, and Alphabet, suggesting they are leading the S&P 500 gains since March 30th, and recommends equal weight allocation to RSP for diversification in the AI and tech sectors.
+
+**Signals:**
+- 🟢 Bullish on Nvidia, Microsoft, and Alphabet — Ted Baxter, TheStreet — Nvidia, Microsoft, and Alphabet are leading the S&P 500 gains since March 30th.
+- 🟢 Bullish on RSP — TheStreet — RSP has exposure to the companies that are very bullish on, with equal weight allocation.
+
+**Moats, risks & black swans:**
+- Moat: Nvidia’s balance sheet to support Coreweave — Coreweave is a prop for Nvidia, and Nvidia has a balance sheet to support Coreweave.
+- Risk: Concentration in tech stocks, especially AI and semiconductors — The market is giving us tech growth due to the AI trade.
+- Black swan: Earnings misses — They could disappoint, especially if they miss by a little — Ken Fisher, founder and president of Bright Lake Wealth Management
+
+**Key insights:**
+- Fact: Nvidia is expected to be the first to suffer if the AI trade starts to crack — Ken Fisher, founder and president of Bright Lake Wealth Management
+- Fact: FactSet projects earnings growth in the high 20s for the quarter — FactSet
+- Fact: Middle East oil output is around 80% of pre-war levels, with refineries affected by conflict — FactSet
+- Fact: Transportation costs, highly correlated with oil, account for a significant portion of grocery prices — FactSet
+
+**Jump to:** [12:34](https://youtu.be/gPnXSlsYrFo?t=754) topic · [28:31](https://youtu.be/gPnXSlsYrFo?t=1711) topic
+
+## MicroVCSELs vs MicroLEDs, a MicroExplainer
+
+**Semi Doped** · 39:14 · Oct 20 · [watch](https://www.youtube.com/watch?v=RP7ECV_h57o)
+
+**Bottom line:** The video compares MicroVCSELs and MicroLEDs, highlighting their suitability for different applications in data centers, with MicroVCSELs being a viable alternative to MicroLEDs for high-speed data communications.
+
+**Signals:**
+- 🟢 Bullish on Credo — Bill Brennan, CEO — Credo's acquisition of Hyperloom for $92 million to develop micro LEDs for data centers is a bullish move, indicating strong interest in this technology as a viable alternative to optics for interconnects in data centers.
+
+**Moats, risks & black swans:**
+- Moat: MicroLEDs — Scale, data, switching costs, network effects, cost, IP
+- Risk: MicroLEDs — Data centers — If chromatic dispersion cannot be mitigated, MicroLEDs may not be viable for high-speed data centers.
+- Black Swan: MicroLEDs — Data centers — If chromatic dispersion cannot be mitigated, MicroLEDs may not be viable for high-speed data centers.
+- Risk: MicroLEDs — MicroLEDs — High-speed data centers require high-speed modulation, which MicroLEDs cannot achieve with current technology.
+- Risk: MicroLEDs — MicroLEDs — MicroLEDs are still viable due to their heat-insensitive properties, making them suitable for high-reliability applications like server trays.
+- Risk: MicroLEDs — MicroLEDs — MicroLEDs are still viable due to their heat-insensitive properties, making them suitable for high-reliability applications like server trays.
+
+**Key insights:**
+- MicroVCSELs can send up to 1 Tbps per lane, which is sufficient for current and future data center needs, making them a viable alternative to MicroLEDs.
+- MicroVCSELs are made of gallium arsenide, widely available in the supply chain for cell phones and other applications.
+- MicroVCSELs can only send about 3-5 Gbps per LED, limiting their speed, which is insufficient for current and future data center needs.
+- MicroLEDs are still viable due to their heat-insensitive properties, making them suitable for high-reliability applications like server trays.
+- MicroLEDs are still viable due to their heat-insensitive properties, making them suitable for high-reliability applications like server trays.
+
+**Jump to:** [14:14](https://youtu.be/RP7ECV_h57o?t=854) AI · [23:27](https://youtu.be/RP7ECV_h57o?t=1407) MicroVCSELs are made of gallium arsenide · [27:31](https://youtu.be/RP7ECV_h57o?t=1651) Credo's micro emitters offer high reliability and flexibility · [33:37](https://youtu.be/RP7ECV_h57o?t=2017) Micro LEDs still have use cases, especially in short-reach applications
+
+## Skipped as off-topic
+
+- [Journalist Gershkovich Says Putin Seeks His Terms, Not a Deal](https://www.youtube.com/watch?v=ixCQMrUHD_Y) — Bloomberg Podcasts
+- [Oil Markets Brace for Renewed Iran Fighting](https://www.youtube.com/watch?v=ItuZmda3Q7A) — Bloomberg Podcasts
+- [Affordability In Focus Ahead of Midterms; US National Wealth Tax Debate | Bloomberg Intelligence](https://www.youtube.com/watch?v=2vwNsqy4YlA) — Bloomberg Podcasts
+- [Affordability In Focus Ahead of Midterms; US National Wealth Tax Debate | Bloomberg Surveillance](https://www.youtube.com/watch?v=JiZxBfUlpD8) — Bloomberg Podcasts
+- [This Is How You Should Actually Make Launch Videos](https://www.youtube.com/watch?v=v12aSIZIXUs) — Y Combinator
+- [Democratizing Security for the Agentic Web with Cloudflare CTO Dane Knecht](https://www.youtube.com/watch?v=6VprwfSc4Xk) — No Priors: AI, Machine Learning, Tech, & Startups
+- [Yahoo CEO Jim Lanzone on the 92% search mistake that almost killed the company](https://www.youtube.com/shorts/ql-r9pSMqC4) — Sourcery with Molly O'Shea
+
+
+_Problems this run: openai/gpt-oss-120b hit its free-tier limit, so later summaries are by qwen2.5:3b_
+
+_Summaries by openai/gpt-oss-120b and qwen2.5:3b (open-source models)._
