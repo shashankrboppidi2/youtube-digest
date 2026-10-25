@@ -367,3 +367,43 @@ AI agents are poised to multiply web activity by thousands‑fold, driving a rap
 
 
 _Summaries by openai/gpt-oss-120b (open-source models)._
+
+<!-- run 12:45Z -->
+
+## Markets Looking to Big Tech for AI Payoff
+
+**Bloomberg Podcasts** · 9:37 · Oct 25 · [watch](https://www.youtube.com/watch?v=LDGz2YbhJpg)
+
+**Bottom line:**  
+AI is now the primary macro catalyst, but the real upside depends on how quickly firms can translate AI spend into productivity gains and hiring, while the credit market’s capacity to fund that spend remains a key risk.
+
+**Signals:**  
+- 🔴 Cautious **CoreWeave** (private AI‑compute provider) – Drew warns that the surge in debt‑financed AI spend may become unsustainable if supply constraints hit, suggesting investors watch credit exposure to AI‑infrastructure firms. [7:18](https://youtu.be/LDGz2YbhJpg?t=438)  
+- 🟢 Bullish **U.S. labor market** – Drew argues AI will boost labor quality and hiring in knowledge‑intensive sectors, implying a longer‑term tailwind for companies that can leverage AI tools effectively. [5:11](https://youtu.be/LDGz2YbhJpg?t=311)  
+
+**AI & private markets:**  
+- AI is driving the bulk of corporate CapEx, with firms planning large data‑center builds and cloud‑compute purchases, but actual spend may be limited by equipment and land bottlenecks. [1:03](https://youtu.be/LDGz2YbhJpg?t=63)  
+- CoreWeave’s recent financing highlighted the “insatiable demand” for AI compute, raising concerns about credit‑market strain as companies race to fund AI projects. [7:18](https://youtu.be/LDGz2YbhJpg?t=438)  
+- Companies in AI‑heavy industries are *hiring more* rather than cutting jobs, indicating early productivity gains and a need for additional talent to handle AI‑generated work. [5:11](https://youtu.be/LDGz2YbhJpg?t=311)  
+
+**Moats, risks & black swans:**  
+- **Moat:** AI‑enhanced productivity – firms that successfully embed AI tools into workflows can achieve higher output per employee, creating a durable competitive edge. [5:11](https://youtu.be/LDGz2YbhJpg?t=311)  
+- **Risk:** Credit‑market saturation – rapid, debt‑financed AI spending could outpace the supply of data‑center capacity and talent, leading to defaults or a slowdown in AI investment. [7:18](https://youtu.be/LDGz2YbhJpg?t=438)  
+- **Black swan:** A sudden loss of confidence in AI‑driven growth (e.g., a major AI‑related earnings miss) could trigger a broader market correction, given the concentration of AI expectations in a handful of large‑cap tech stocks. [2:04](https://youtu.be/LDGz2YbhJpg?t=124)  
+
+**Key insights:**  
+- AI is now the dominant factor shaping both equity market direction and corporate CapEx decisions, eclipsing traditional sectoral drivers. [1:03](https://youtu.be/LDGz2YbhJpg?t=63)  
+- The “labor quality” argument: AI allows less‑skilled workers to achieve near‑expert outputs, expanding the talent pool that can contribute to high‑value tasks. [3:05](https://youtu.be/LDGz2YbhJpg?t=185)  
+- Supply‑chain constraints (equipment, land) will likely temper AI‑related CapEx in the near term, meaning announced spending may be delayed or reduced. [8:21](https://youtu.be/LDGz2YbhJpg?t=501)  
+
+**Jump to:**  
+[1:03](https://youtu.be/LDGz2YbhJpg?t=63) AI as macro driver · [5:11](https://youtu.be/LDGz2YbhJpg?t=311) AI boosting hiring and labor quality · [7:18](https://youtu.be/LDGz2YbhJpg?t=438) Credit‑market risk from AI compute spending
+
+## Skipped as off-topic
+
+- [BTW: Headlines You May Have Missed](https://www.youtube.com/watch?v=EYeqm30NMrU) — Bloomberg Podcasts
+- [Brazil’s Presidential Race Coming Down to the Wire](https://www.youtube.com/watch?v=Cb4B-gvaBnE) — Bloomberg Podcasts
+- [US, Israel Elections Loom Over Iran War](https://www.youtube.com/watch?v=fPRkMf62y7w) — Bloomberg Podcasts
+
+
+_Summaries by openai/gpt-oss-120b (open-source models)._
