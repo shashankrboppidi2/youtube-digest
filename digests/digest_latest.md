@@ -233,3 +233,178 @@ The Fed is expected to pause rates this meeting, but policymakers—especially N
 - [Goldman Sachs' Alex Finston on how AI credit volatility has created opportunity for investors](https://www.youtube.com/shorts/I5jZvmzjFPI) — Goldman Sachs
 
 _Summaries by openai/gpt-oss-120b (open-source models)._
+
+<!-- run 14:32Z -->
+
+## TL;DR
+
+**Most bullish:**  
+- **Heat‑pump sector** — 3 videos — oil‑price surge cuts payback to ~4 years, rural detached homes are easy to electrify, French TOU tariffs improve economics (Switched On, Bloomberg Podcasts).  
+- **Agent Force (Salesforce)** — 1 video — early adopters report strong time‑savings and returns from Salesforce’s native AI (The Information).  
+- **Simile (Sourcery)** — 1 video — platform can replace costly conjoint studies with instant queries, creating high‑value decision‑support revenue (Sourcery).  
+- **Sourcery** — 1 video — $2 B valuation backed by a case where an automotive client avoided an expensive EV‑messaging mistake (Sourcery).  
+
+**Most cautious:**  
+- **Heat‑pump sector** — 2 videos — affordability crisis for many European households and residential load‑shifting could stress the grid (Switched On, Bloomberg Podcasts).  
+- **Simile (Sourcery)** — 1 video — respondent fatigue and “gaming” risk bias results; surveys must be carefully spaced (Sourcery).  
+- **Sourcery** — 1 video — investors question whether a $2 B valuation is justified after a rumored $15 B acquisition offer (Sourcery).  
+- **UK banks** — 1 video — potential revived bank tax could raise rates on deposits and mortgages, pressuring profitability (Bloomberg Podcasts).  
+
+**Trends:**  
+- AI is being used to automate structured IPO preparation tasks (drafting filings, equity‑ownership queries) but human storytelling remains essential (Invested at Work).  
+- SaaS firms are experimenting with “toll‑gate” fees for external AI agents, with Salesforce leading the charge; success will shape future AI‑monetisation models (The Information).  
+- Large‑scale behavioral simulation platforms (Simile) are emerging as a new revenue stream, promising to replace traditional market‑research studies (Sourcery).  
+
+**Risks & black swans:**  
+- UK fiscal gap of £20‑25 bn needed for defense and to avoid cuts could force higher taxes or trigger an early election, adding political and market risk (Bloomberg Podcasts).  
+- Bias and data‑quality issues in AI‑driven surveys (fatigue, gaming) could undermine the credibility of Simile’s outputs (Sourcery).  
+- Early election scenario (≈25% probability) could dramatically shift fiscal policy and market sentiment in the UK (Bloomberg Podcasts).  
+
+**Private & pre‑IPO watch:**  
+- **Simile (Sourcery)** — $2 B valuation; claims to replace costly conjoint studies with instant AI‑driven queries; faces bias and fatigue risk (Sourcery).  
+- **Sourcery** — $2 B valuation; highlighted for a high‑value automotive client case; investors questioning valuation after a rumored $15 B acquisition offer (Sourcery).
+
+## Off the Cuff With Charly Kevers | Invested at Work
+
+**Morgan Stanley** · 4:45 · Oct 26 · [watch](https://www.youtube.com/watch?v=Qyg1u7YJwDw)
+
+**Bottom line:**  
+AI can automate routine, structured IPO preparation tasks (e.g., drafting documents, answering equity‑ownership queries), but human judgment remains essential for storytelling, contextual employee advice, and overall business focus.
+
+**AI & private markets:**  
+- AI is “very good” at answering structured equity‑ownership questions for employees, reducing manual effort [3:03](https://youtu.be/Qyg1u7YJwDw?t=183).  
+- AI assists with the initial drafting of IPO filing documents by leveraging public content, but it does not replace human-crafted narratives [2:02](https://youtu.be/Qyg1u7YJwDw?t=122).
+
+**Key insights:**  
+- CFOs should ensure employees fully understand their equity holdings and tax implications before a liquidity window opens [1:02](https://youtu.be/Qyg1u7YJwDw?t=62).  
+- CEOs often lack deep financial literacy (gross margin, unit economics); early CFO‑CEO dialogue on these basics can improve decision‑making and investor perception [0:45‑1:00].  
+- Human storytelling is still the decisive factor in convincing investors, as AI cannot yet craft authentic, compelling company narratives [2:02](https://youtu.be/Qyg1u7YJwDw?t=122).
+
+**Jump to:**  
+[1:02](https://youtu.be/Qyg1u7YJwDw?t=62) employee equity understanding · [2:02](https://youtu.be/Qyg1u7YJwDw?t=122) AI’s role in IPO drafting vs. human storytelling · [3:03](https://youtu.be/Qyg1u7YJwDw?t=183) AI handling structured employee queries.
+
+## PIMCO UK Senior Advisor Rupert Harrison Talks Budget | Bloomberg Talks
+
+**Bloomberg Podcasts** · 10:03 · Oct 26 · [watch](https://www.youtube.com/watch?v=z8hMEbvs2y0)
+
+**Bottom line:**  
+The budget is expected to be modest (~£5 bn net change) and largely “do‑no‑harm,” but the need for £20‑25 bn of extra spending next year will likely force a larger fiscal event or an early election, creating uncertainty for UK fiscal policy and markets.
+
+**Signals:**
+- 🔴 Cautious **UK banks** – a revived bank tax could raise £2‑3 bn in revenue and be passed through to deposit and mortgage rates, pressuring bank profitability [5:06](https://youtu.be/z8hMEbvs2y0?t=306).
+
+**Moats, risks & black swans:**
+- Risk: **UK fiscal gap** – £20‑25 bn needed for defense (target 3% of GDP by 2030) and to avoid cuts to unprotected departments, with limited revenue options, could force higher taxes or an early election, adding fiscal and political risk [2:04](https://youtu.be/z8hMEbvs2y0?t=124).
+- Black swan: **Early election** – Rupert Harrison assigns a 25% chance of an election, potentially as early as May 2025, which could dramatically shift fiscal policy and market sentiment [9:13](https://youtu.be/z8hMEbvs2y0?t=553).
+
+**Key insights:**
+- The upcoming budget is likely a “small‑scale” fiscal package of about **£5 bn** net up‑or‑down, far smaller than the £20 bn+ moves in 2024‑25, and markets have already priced it in [1:03](https://youtu.be/z8hMEbvs2y0?t=63).
+- Defense spending to reach **3% of GDP by 2030** translates to **>£10 bn** alone, and avoiding real‑term cuts in 2027‑29 would require an additional **£10‑15 bn**, totaling **£20‑25 bn** of new spending needs [2:04](https://youtu.be/z8hMEbvs2y0?t=124).
+- Traditional large tax levers (national insurance, capital gains) are near their limits; any new £20‑25 bn raise would need a **single big lever** rather than many small taxes, making fiscal options politically constrained [4:05](https://youtu.be/z8hMEbvs2y0?t=245).
+- The government may try to improve the business narrative with modest deregulation and a possible **entrepreneurs‑relief style tax tweak**, but any revenue impact would be modest (hundreds of millions) compared with the billions needed elsewhere [5:06](https://youtu.be/z8hMEbvs2y0?t=306).
+
+**Jump to:**  
+[1:03](https://youtu.be/z8hMEbvs2y0?t=63) modest £5 bn budget outlook · [2:04](https://youtu.be/z8hMEbvs2y0?t=124) £20‑25 bn spending gap and defense target · [9:13](https://youtu.be/z8hMEbvs2y0?t=553) 25% chance of early election and timing.
+
+## The $2B AI Startup Simulating Human Behavior with 85% Accuracy
+
+**Sourcery with Molly O'Shea** · 56:09 · Oct 26 · [watch](https://www.youtube.com/watch?v=-6Kg5N7JL7I)
+
+**Bottom line:**  
+Sourcery’s “Simile” platform shows a credible path to monetize large‑scale behavioral simulation, but its $2 B valuation hinges on unproven, high‑cost enterprise adoption and significant privacy/quality risks.
+
+**Signals:**
+- 🟢 Bullish **Sourcery** (private) – Molly O’Shea cites a case where an automotive client avoided a costly EV‑messaging mistake, suggesting high‑value decision‑support revenue potential. [33:39](https://youtu.be/-6Kg5N7JL7I?t=2019)  
+- 🟢 Bullish **Simile** (private) – claims it can replace traditional conjoint/max‑diff studies that cost “hundreds of thousands to millions of dollars” with instant queries, implying large cost‑saving upside for clients. [16:20](https://youtu.be/-6Kg5N7JL7I?t=980)  
+- 🔴 Cautious **Simile** – warns that over‑questioning leads to respondent fatigue; they run studies to find optimal survey intervals to preserve “gold‑standard quality.” [25:29](https://youtu.be/-6Kg5N7JL7I?t=1529)  
+- 🔴 Cautious **Simile** – acknowledges bias risk from respondent fatigue and “gaming,” mitigated only by spacing surveys and attention checks. [24:27](https://youtu.be/-6Kg5N7JL7I?t=1467)  
+- 🔴 Cautious **Sourcery** – investor question about a $15 B acquisition offer suggests the current $2 B valuation may be stretched. [0:00](https://youtu.be/-6Kg5N7JL7I?t=0)  
+- 🟡 Mixed **Simile** – says it does not exclude any demographic beyond those unable to give consent, aiming for a “representative snapshot,” but admits filtering is needed. [28:35](https://youtu.be/-6Kg5N7JL7I?t=1715)  
+- 🟡 Mixed **AI‑generated titles** – Molly O’Shea notes the hype‑driven title attracted investors but isn’t proof of sustainable demand. [29:36](https://youtu.be/-6Kg5N7JL7I?t=1776)  
+- 🟡 Mixed **private AI firms** – Molly O’Shea warns most focus on causal mechanisms rather than true prediction, tempering enthusiasm for the sector. [44:50](https://youtu.be/-6Kg5N7JL7I?t=2690)  
+
+**AI & private markets:**
+- AI research is shifting from classification/generation to “agentic simulations” that model individual and societal dynamics, a trend highlighted by the founders. [13:18](https://youtu.be/-6Kg5N7JL7I?t=798)  
+- Simile’s “foundation model of human behavior” claims >85 % accuracy in predicting a 1,000‑person lab cohort after two weeks, using voice‑to‑voice agents. [10:13](https://youtu.be/-6Kg5N7JL7I?t=613)  
+- Simile serves CVS, large financial institutions, Brazil’s Banco, and entertainment/CPG firms for store layout, messaging, and policy simulations. [19:24](https://youtu.be/-6Kg5N7JL7I?t=1164)  
+- Sourcery raised $300 M total at a $2 B valuation; backers include Green Oaks Capital, Fei‑Fei Li, and Andrej Karpathy. [0:00](https://youtu.be/-6Kg5N7JL7I?t=0) [39:47](https://youtu.be/-6Kg5N7JL7I?t=2387)  
+- Sourcery’s SaaS interface lets users define personas and ask unlimited questions; confidence scores >85 % are treated as robust for high‑stake decisions. [31:38](https://youtu.be/-6Kg5N7JL7I?t=1898) [32:39](https://youtu.be/-6Kg5N7JL7I?t=1959)  
+- Risk of irrational/unpredictable human behavior limits model predictability; the team notes “irrational behaviors” and “behavioral knowledge” injection as gaps. [11:15](https://youtu.be/-6Kg5N7JL7I?t=675)  
+
+**Moats, risks & black swans:**
+- Moat: **Simile** – large, continuously refreshed real‑person panel (>40 M) plus proprietary attention‑check and fatigue‑management methodology enables on‑demand high‑quality simulations. [25:29](https://youtu.be/-6Kg5N7JL7I?t=1529)  
+- Moat: **Sourcery** – unique “portrait of society” built from deep qualitative interviews, life‑story narratives, transaction and mobility data, plus randomized‑control‑trial methodology. [41:48](https://youtu.be/-6Kg5N7JL7I?t=2508)  
+- Risk: **Simile** – data‑quality degradation from respondent fatigue, gaming, or inclusion of unsuitable populations (e.g., drug addicts, mentally ill). [24:27](https://youtu.be/-6Kg5N7JL7I?t=1467) [27:33](https://youtu.be/-6Kg5N7JL7I?t=1653)  
+- Risk: **Sourcery** – reliance on randomized control trials and behavior‑change data may become costly or regulated, limiting scalability. [43:50](https://youtu.be/-6Kg5N7JL7I?t=2630)  
+- Black swan: **Privacy & cybersecurity** – both companies flag privacy and cyber‑security as the biggest current concerns for AI simulation tools, which could halt deployment if breaches occur. [30:37](https://youtu.be/-6Kg5N7JL7I?t=1837) [38:46](https://youtu.be/-6Kg5N7JL7I?t=2326)  
+
+**Key insights:**
+- Behavioral simulation accuracy >85 % is achievable on small lab cohorts, but scaling to broader populations hinges on maintaining panel quality and managing fatigue. [10:13](https://youtu.be/-6Kg5N7JL7I?t=613) [24:27](https://youtu.be/-6Kg5N7JL7I?t=1467)  
+- Vertical‑specific agent banks allow Simile to launch new industry use cases “day one,” shortening sales cycles versus building custom panels. [20:25](https://youtu.be/-6Kg5N7JL7I?t=1225)  
+- The shift toward agentic simulations is creating a niche distinct from generic LLMs, positioning firms like Simile/Sourcery to capture enterprise spend on digital‑twin testing. [28:35](https://youtu.be/-6Kg5N7JL7I?t=1715) [37:46](https://youtu.be/-6Kg5N7JL7I?t=2266)  
+
+**Jump to:**  
+[10:13](https://youtu.be/-6Kg5N7JL7I?t=613) 85 % accuracy claim · [16:20](https://youtu.be/-6Kg5N7JL7I?t=980) Simile’s cost‑saving claim vs. traditional studies · [33:39](https://youtu.be/-6Kg5N7JL7I?t=2019) Automotive client case – high‑value decision support
+
+## Oil Shock Puts Heat Pumps in Play: Analyst Reaction | Switched On
+
+**Bloomberg Podcasts** · 14:27 · Oct 26 · [watch](https://www.youtube.com/watch?v=EHcCkcSRPfE)
+
+**Bottom line:**  
+The oil price spike sharply improves the economics of heat‑pump retrofits for oil‑using homes, cutting payback from >10 years to roughly 4 years, but adoption remains limited by affordability and space constraints in multifamily buildings.
+
+**Signals:**
+- 🟢 Bullish **heat‑pump retrofits for oil‑using homes** – Yara van Ing (Bloomberg NEF analyst) says the current oil price surge makes payback ~4 years versus >10 years historically. [4:05](https://youtu.be/EHcCkcSRPfE?t=245)
+- 🟢 Bullish **heat‑pump install feasibility in rural detached homes** – Yara notes ample outdoor space makes electrification easier than in apartments. [7:09](https://youtu.be/EHcCkcSRPfE?t=429)
+- 🟢 Bullish **heat‑pump operation under new French TOU tariffs** – Yara expects midday off‑peak pricing to lower peak‑price exposure and improve economics. [11:15](https://youtu.be/EHcCkcSRPfE?t=675)
+- 🔴 Cautious **heat‑pump adoption in Europe** – Yara warns many households face an “affordability crisis” despite potential savings. [0:00](https://youtu.be/EHcCkcSRPfE?t=0)
+- 🔴 Cautious **residential electricity load‑shifting** – Analysts say off‑peak pricing could modestly raise daytime consumption, risking grid stress. [12:16](https://youtu.be/EHcCkcSRPfE?t=736)
+- 🟡 Mixed **ROI for heat pumps** – Yara says historic payback >10 years, but with a 60‑70 % oil price surge it could drop to ~4 years if prices stay high. [8:10](https://youtu.be/EHcCkcSRPfE?t=490)
+
+**Moats, risks & black swans:**
+- Risk: **Multifamily heat‑pump adoption** – limited space for outdoor units and landlord/freeholder permission hurdles could slow rollout. [11:15](https://youtu.be/EHcCkcSRPfE?t=675)
+- Risk: **Residential demand‑response programs** – incentives may backfire by increasing daytime load and stressing the grid. [12:16](https://youtu.be/EHcCkcSRPfE?t=736)
+
+**Key insights:**
+- The 2022 Russia‑Ukraine war triggered a 65 % YoY jump in heat‑pump sales, showing fossil‑fuel price spikes directly drive electrification. [9:11](https://youtu.be/EHcCkcSRPfE?t=551)
+- French regulators are moving to a three‑tier TOU tariff (overnight, midday, peak) to enable cheaper midday heating, leveraging solar‑generated midday power. [10:14](https://youtu.be/EHcCkcSRPfE?t=614)
+- Only ~10 % of EU/UK households (≈22 million) and ~4 million U.S. households rely on heating oil, defining the addressable market for heat‑pump conversion. [6:08](https://youtu.be/EHcCkcSRPfE?t=368)
+- UK heat‑pump install cost is ≈£12,500 with a £9,000 subsidy for oil‑displacing installs (vs. £75,000 for gas‑displacing), highlighting policy‑driven cost differentials. [8:10](https://youtu.be/EHcCkcSRPfE?t=490)
+
+**Jump to:**  
+[4:05](https://youtu.be/EHcCkcSRPfE?t=245) Payback improves to ~4 years with oil price spike · [7:09](https://youtu.be/EHcCkcSRPfE?t=429) Rural detached homes easier to electrify · [11:15](https://youtu.be/EHcCkcSRPfE?t=675) French TOU tariffs boost heat‑pump economics
+
+## Salesforce's New AI Fees Could Change Enterprise Software
+
+**The Information** · 9:38 · Oct 26 · [watch](https://www.youtube.com/watch?v=cv413H4gT3g)
+
+**Bottom line:** Salesforce’s upcoming “toll‑gate” fees will test whether enterprise customers will pay to let external AI agents (e.g., Claude, OpenAI) access their CRM data, and the outcome will signal how SaaS firms can monetize AI‑driven usage beyond their own models.
+
+**Signals:**
+- 🟡 Mixed **Salesforce** (CRM) – Laura Bratton says customers are taking a wait‑and‑see stance; pricing unknown until November and may be rolled back if backlash occurs [5:05](https://youtu.be/cv413H4gT3g?t=305).
+- 🟢 Bullish **Agent Force** (Salesforce’s internal AI) – Bratton notes “considerable time savings and returns” from early adopters, suggesting upside if customers prefer native AI to avoid toll fees [7:06](https://youtu.be/cv413H4gT3g?t=426).
+
+**AI & private markets:**
+- Salesforce will charge for any external AI agent (Claude, OpenAI, etc.) that calls its platform, whether via its proprietary “hosted MCP server” or a customer‑built MCP connector [4:05](https://youtu.be/cv413H4gT3g?t=245).
+- An “unlimited” headless license is being discussed that would allow unlimited usage of Salesforce connectors for external AI agents, but details are still vague [2:03](https://youtu.be/cv413H4gT3g?t=123).
+- Bratton compares Salesforce’s approach to similar “toll‑gate” moves by Workday, Atlassian, ServiceNow, and Datadog, labeling Salesforce’s version the most aggressive [1:01](https://youtu.be/cv413H4gT3g?t=61).
+
+**Moats, risks & black swans:**
+- Moat: Salesforce’s proprietary MCP server lets it monitor and potentially monetize every AI call into its data, creating a new revenue stream beyond traditional SaaS subscriptions [3:04](https://youtu.be/cv413H4gT3g?t=184).
+- Risk: If toll‑gate pricing is set too high, customers may abandon Salesforce connectors entirely, limiting AI‑driven usage and hurting revenue growth [5:05](https://youtu.be/cv413H4gT3g?t=305).
+- Black swan: A rapid shift to external AI agents that bypass Salesforce’s MCP could turn the platform into “dumb infrastructure,” eroding its value proposition if customers favor cheaper, non‑monetized integrations [6:06](https://youtu.be/cv413H4gT3g?t=366).
+
+**Key insights:**
+- The pricing model will be announced in November, and existing contracts won’t be affected until renegotiated, giving Salesforce a window to gauge market reaction [9:09](https://youtu.be/cv413H4gT3g?t=549).
+- Customers currently prefer using their own proprietary AI on top of Salesforce rather than Salesforce’s own Agent Force, highlighting the importance of the toll‑gate for future monetization [7:06](https://youtu.be/cv413H4gT3g?t=426).
+- Flexibility on pricing is expected; Salesforce may adjust fees if customer backlash is strong, mirroring past behavior with Agent Force pricing [9:09](https://youtu.be/cv413H4gT3g?t=549).
+
+**Jump to:** [1:01](https://youtu.be/cv413H4gT3g?t=61) Salesforce’s aggressive toll‑gate vs. peers · [4:05](https://youtu.be/cv413H4gT3g?t=245) Mandatory registration & monitoring of external AI agents · [7:06](https://youtu.be/cv413H4gT3g?t=426) Current customer preference for own AI over Agent Force
+
+## Skipped as off-topic
+
+- [The New Full-Stack Designer](https://www.youtube.com/watch?v=eojywvxqoLc) — Y Combinator
+- [Bloomberg News Now: Trump Says Decision Nearing on Iran](https://www.youtube.com/watch?v=V8tsmH-z9L8) — Bloomberg Podcasts
+
+
+_Summaries by openai/gpt-oss-120b (open-source models)._
