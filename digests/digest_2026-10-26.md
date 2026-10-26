@@ -128,3 +128,108 @@ Wall Street is over‑reacting to short‑term financing stress; the underlying 
 _Problems this run: YouTube blocked transcript downloads for 1 video(s); they are retried next run (set the YT_PROXY or YT_COOKIES secret, see README.md)_
 
 _Summaries by openai/gpt-oss-120b (open-source models)._
+
+<!-- run 10:59Z -->
+
+## TL;DR
+
+**Most bullish:**  
+- **Nvidia** — 1 video — seen as “severely undervalued” thanks to massive memory commitments and a low forward‑PE, with edge‑AI revenue still tiny but growing fast (BWB).  
+
+**Most cautious:**  
+- **Ambarella** — 1 video — growth has slowed for six straight quarters to ~13% and short interest is ~14%, signaling bearish pressure (BWB).  
+- **Broadcom** — 1 video — insiders are selling and a $71 billion credit line to a single customer (likely Anthropic) raises financing risk, moving it to “slightly undervalued” (BWB).  
+- **SanDisk** — 1 video – price fell below the host’s worst‑case valuation, prompting a “re‑assess business” rating (BWB).  
+- **Tesla** — 1 video – trading at roughly 200× next‑year earnings; “whales” have been exiting for three quarters, leading to a “fairly valued” label (BWB).  
+- **U.S. Treasury yields** — 1 video – flagged as cautious because yield volatility may rise as investors watch Fed language for clues on future rate moves (Bloomberg Podcasts).  
+
+**Trends:**  
+- AI‑driven data‑center construction is being highlighted as a key inflation driver and a potential upside for data‑center builders, while also posing downside risk if inflation persists (Bloomberg Podcasts).  
+- Large funds (“whales”) are actively buying Nvidia in June and may add more in mid‑November, reflecting strong institutional confidence in the chipmaker’s undervaluation (BWB).  
+
+**Risks & black swans:**  
+- Inflation from AI‑driven data‑center demand could force the Fed to hike rates later in the year despite the current pause (Bloomberg Podcasts).  
+- Broadcom’s exposure to a single AI customer via a massive credit line creates financing risk if that customer’s spending falters (BWB).  
+- High short interest and consecutive slowdown in Ambarella’s growth could trigger a sharper price decline (BWB).  
+- Tesla’s extremely high forward earnings multiple and recent whale exits raise the risk of a valuation correction (BWB).
+
+## After September Rate Hike Fed Looks Set to Pause
+
+**Bloomberg Podcasts** · 7:03 · Oct 25 · [watch](https://www.youtube.com/watch?v=x5uOG34KZQE)
+
+**Bottom line:**  
+The Fed is expected to pause rates this meeting, but policymakers—especially New York Fed President John Williams—are flagging AI‑driven data‑center demand as a key inflation driver and hinting at a possible rate hike later in the year.
+
+**Signals:**  
+- 🔴 Cautious **U.S. Treasury yields** – Bloomberg’s Fed reporter notes investors will watch the wording for clues on future rate moves after the pause, implying yield volatility may rise. [3:09](https://youtu.be/x5uOG34KZQE?t=189)  
+- 🟡 Mixed **AI‑related equities** – Williams warned that AI‑driven data‑center build‑out could keep demand‑side inflation pressure alive, suggesting both upside for data‑center builders and downside if inflation persists. No specific tickers were named. [5:15](https://youtu.be/x5uOG34KZQE?t=315)
+
+**AI & private markets:**  
+- AI demand is “the main concern” for inflation, driven by data‑center construction, according to New York Fed President John Williams. No private‑company valuations or funding rounds were discussed. [5:15](https://youtu.be/x5uOG34KZQE?t=315)  
+
+**Moats, risks & black swans:**  
+- Risk: **Inflation from AI‑driven data‑center demand** could force the Fed to hike rates later in the year, despite the current pause. [5:15](https://youtu.be/x5uOG34KZQE?t=315)  
+
+**Key insights:**  
+- The Fed’s September hike was the first since 2023, but market expectations shifted to a 70% chance of a hike after speeches by John Williams and Vice‑Chair Philip Jefferson signaled a slower pace. [3:09](https://youtu.be/x5uOG34KZQE?t=189)  
+- Williams sees “no urgency” for another hike now, but expects a possible rate increase later in the year, not necessarily in October. [5:15](https://youtu.be/x5uOG34KZQE?t=315)  
+- The Fed’s new task forces, launched by Chair Kevin Walsh, are expected to deliver results by year‑end, which could influence future policy decisions. [6:17](https://youtu.be/x5uOG34KZQE?t=377)
+
+**Jump to:**  
+[3:09](https://youtu.be/x5uOG34KZQE?t=189) Fed rate‑hike expectations shift after Williams & Jefferson speeches · [5:15](https://youtu.be/x5uOG34KZQE?t=315) AI‑driven data‑center demand as inflation risk · [6:17](https://youtu.be/x5uOG34KZQE?t=377) Fed task‑force updates expected by year‑end
+
+## Nvidia Just Gave Away the Next Boom (THIS IS HUGE!)
+
+**BWB - Business With Brian** · 18:36 · Oct 25 · [watch](https://www.youtube.com/watch?v=zVc-S0Od8_0)
+
+**Bottom line:** Nvidia’s massive memory commitments and low forward‑PE make it the most undervalued AI play, while edge‑AI revenue is still tiny but growing fast, creating a long‑term upside theme.
+
+**Signals**
+- 🟢 Bullish Nvidia – “whales” (large funds the host tracks) bought in June and may add in mid‑November; Nvidia sits in the “severely undervalued” tier on the host’s ladder [1:00](https://youtu.be/zVc-S0Od8_0?t=60)
+- 🟢 Bullish Nvidia – ladder again rates it “severely undervalued” and the investment system matches that rating [5:05](https://youtu.be/zVc-S0Od8_0?t=305)
+- 🔴 Cautious Broadcom – insiders (including a co‑founder) are selling; financing risk from a $71 billion credit line to a single customer (likely Anthropic) drags rating to “slightly undervalued” [7:08](https://youtu.be/zVc-S0Od8_0?t=428)
+- 🔴 Cautious SanDisk – price fell below the host’s worst‑case valuation; ladder moves it to “re‑assess business” tier [11:12](https://youtu.be/zVc-S0Od8_0?t=672)
+- 🔴 Cautious Ambarella – growth slowed six quarters in a row to ~13% and 14% of shares are short, indicating bearish pressure [13:13](https://youtu.be/zVc-S0Od8_0?t=793)
+- 🔴 Cautious Tesla – trades at ~200× next‑year earnings; “whales” have been exiting for three quarters; host rates it “fairly valued” [14:13](https://youtu.be/zVc-S0Od8_0?t=853)
+- 🟡 Mixed Alphabet (Google) – “fairly valued” because good news is priced in, but high cash burn forces stock sales for growth [16:15](https://youtu.be/zVc-S0Od8_0?t=975)
+- 🟡 Mixed Amazon – Bill Ackman cut ~25% of his stake while other big funds added; ladder now rates Amazon “slightly undervalued” pending earnings [17:17](https://youtu.be/zVc-S0Od8_0?t=1037)
+
+**AI & private markets**
+- AI hardware price collapse: DGX‑1 $129k in early‑2020 → RTX‑Spark PCs just over $2k today, enabling AI on everyday devices [0:00](https://youtu.be/zVc-S0Od8_0?t=0)
+- Nvidia Data‑Center revenue ≈ $89 billion in the latest quarter, > 2× YoY [3:02](https://youtu.be/zVc-S0Od8_0?t=182)
+- Nvidia pledged ≈ $279 billion to memory suppliers to lock up capacity [4:03](https://youtu.be/zVc-S0Od8_0?t=243)
+- Micron’s gross margin on chips ≈ 87 c per dollar; > 75 % of next‑year shipments already committed, long‑term contracts cover > 33 % of revenue through 2030 [9:10](https://youtu.be/zVc-S0Od8_0?t=550)
+- SanDisk edge‑storage revenue grew ≈ 5× YoY, even as CEO expects phone/PC sales to decline ≈ ‑15 % [11:12](https://youtu.be/zVc-S0Od8_0?t=672)
+- Broadcom AI‑chip sales hit ≈ $17 billion in a quarter, > 3× YoY [7:08](https://youtu.be/zVc-S0Od8_0?t=428)
+
+**Moats, risks & black swans**
+- Moat: Nvidia – memory‑supplier contracts lock up capacity for years, protecting its data‑center lead [4:03](https://youtu.be/zVc-S0Od8_0?t=243)
+- Moat: Alphabet – scale of data‑center contracts and AI subscription stack ($5‑$200/mo) creates a durable “toll‑collector” advantage [16:15](https://youtu.be/zVc-S0Od8_0?t=975)
+- Risk: Nvidia – gross margin expected to fall to ~71‑72 c per dollar after memory costs, down from 75 c [4:03](https://youtu.be/zVc-S0Od8_0?t=243)
+- Risk: Broadcom – $71 billion credit line to a single customer (Anthropic) could strain financing [7:08](https://youtu.be/zVc-S0Od8_0?t=428)
+- Risk: Micron – earnings highly volatile; not placed on the host’s ladder [9:10](https://youtu.be/zVc-S0Od8_0?t=550)
+- Black swan: Tesla – robot‑taxi demand far below Musk’s 10 million‑a‑year target; Goldman Sachs forecasts only 1 million by 2030 [14:13](https://youtu.be/zVc-S0Od8_0?t=853)
+
+**Key insights**
+- Edge AI (device‑level) is still only ~7.5 % of Nvidia’s total sales but growing, indicating a long‑run upside as edge margins are higher than cloud [10:11](https://youtu.be/zVc-S0Od8_0?t=611)
+- AI‑infrastructure spend is projected to hit $3‑4 trillion annually by 2030, dwarfing current $3 trillion data‑center spend forecast, suggesting massive future demand [8:09](https://youtu.be/zVc-S0Od8_0?t=489)
+- Nvidia trades at ~23× forward 2025 earnings, which the host calls “pretty low” given its growth trajectory [4:03](https://youtu.be/zVc-S0Od8_0?t=243)
+- Alphabet’s Google Cloud backlog jumped to ~$514 billion in three quarters, a ~3× increase, underscoring the scale of AI‑driven cloud contracts [16:15](https://youtu.be/zVc-S0Od8_0?t=975)
+
+**Jump to:** [1:00](https://youtu.be/zVc-S0Od8_0?t=60) Nvidia “whales” buying · [8:09](https://youtu.be/zVc-S0Od8_0?t=489) AI‑infrastructure spend forecast · [16:15](https://youtu.be/zVc-S0Od8_0?t=975) Alphabet AI royalties & cloud backlog
+
+## Skipped as off-topic
+
+- [Rep. Dan Crenshaw Presses Musk on Starlink for Ukraine](https://www.youtube.com/watch?v=vd1W66WHBMk) — Bloomberg Podcasts
+- [Halloween Candy Prices Reflect Cocoa’s Wild Price Ride](https://www.youtube.com/watch?v=eB3Xho36hsw) — Bloomberg Podcasts
+- [Israel Election Tests Netanyahu’s Hold on Power](https://www.youtube.com/watch?v=WsYPhei4o7I) — Bloomberg Podcasts
+- [Elon Musk’s Money Reshapes the Midterm Spending Race](https://www.youtube.com/watch?v=_X8iJnfJcys) — Bloomberg Podcasts
+- [High Energy Costs Weigh on Trump’s Midterm Pitch](https://www.youtube.com/watch?v=DDr6a92oBwk) — Bloomberg Podcasts
+
+## No transcript available
+
+- [Watch Live: The Goldman Sachs Small Business AI Institute Townhall](https://www.youtube.com/watch?v=P6n8ILENtxw) — Goldman Sachs
+- [Goldman Sachs’ Daan Struyven explains the risks that could push oil prices higher](https://www.youtube.com/shorts/ud8GtASs4KM) — Goldman Sachs
+- [Goldman Sachs' Alex Finston on how AI credit volatility has created opportunity for investors](https://www.youtube.com/shorts/I5jZvmzjFPI) — Goldman Sachs
+
+_Summaries by openai/gpt-oss-120b (open-source models)._
