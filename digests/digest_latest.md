@@ -531,3 +531,193 @@ Agentic AI could add up to $6 trillion of total addressable market by 2028, wi
 _Problems this run: openai/gpt-oss-120b hit its free-tier limit, so later summaries are by qwen2.5:3b_
 
 _Summaries by openai/gpt-oss-120b and qwen2.5:3b (open-source models)._
+
+<!-- run 13:50Z -->
+
+## TL;DR
+
+**Most cautious:**
+- StarCloud — Ezra Fielden, Philip Johnston — 1 video — cautioning about scaling challenges and regulatory risks.
+- Amazon — Ezra Fielden, Philip Johnston — 1 video — highlighting concerns about Amazon's new product listing strategy and potential impact on its market share.
+- Meta — Ezra Fielden, Philip Johnston — 1 video — cautioning about regulatory risks and market competition.
+- Serval Co. — Jake Stauch — 1 video — highlighting concerns about increased cybersecurity risks and governance concerns.
+
+**Trends:**
+- AI spending fears causing significant market volatility, with the Nasdaq experiencing its third correction of 2026 and the S&P 500 falling below its 100-day moving average.
+- Significant growth and IPO timing of AI companies like Anthropic, suggesting a strong market reception and potential for future growth.
+- Increased regulatory scrutiny and potential changes in AI and banking regulations post-midterm elections.
+
+**Risks & black swans:**
+- Regulatory changes could significantly impact StarCloud's ability to scale.
+- North Korean hackers could be responsible for the largest crypto heist, potentially undermining confidence in the crypto industry.
+- Instinct's exposure of vulnerabilities could lead to a significant drop in valuation.
+- A significant event could disrupt the market's current expectations, such as a sudden shift in demand or a technological breakthrough.
+
+**Private & pre-IPO watch:**
+- StarCloud — $2B space factory, planned to be ready by February of the next year.
+- Serval Co. — $95B in CapEx from Meta, expected to IPO in the near future.
+- Anthropic — strong AI safety and ethical focus, potential for growth in AI applications.
+- Crusoe — AI integration with energy solutions, potential AI supermajor.
+
+## Inside Starcloud’s $2B Space Factory
+
+**Sourcery with Molly O'Shea** · 1:09:29 · Oct 31 · [watch](https://www.youtube.com/watch?v=mdq6urSx-f8)
+
+**Bottom line:** The video provides insights into StarCloud's ambitious space factory, highlighting its rapid development and potential, while also cautioning about the challenges of scaling and regulatory risks.
+
+**Signals:**
+- 🔴 Cautious: StarCloud (SC) – Philip Johnston, Ezra Fielden, Addie, 
+
+**Moats, risks & black swans:**
+- Moat: StarCloud – vertical integration of radiators, solar panels, and cooling systems (in-house manufacturing) while sourcing Nvidia compute boards externally, Risk: StarCloud – cooling system and radiators – identified as the biggest technical challenge; success hinges on cheap, scalable manufacturing, Risk: StarCloud – regulatory/stock-lock risk – SpaceX buying Tesla would be delayed until stock unlocks, limiting near-term merger announcements, Risk: StarCloud – market competition – faces challenges from established players in the satellite manufacturing and AI sectors, Black Swan: Regulatory changes – if regulations become more restrictive, it could significantly impact StarCloud's ability to scale, **Key insights:**
+- StarCloud’s rapid development from founding to orbit in 21 months is a record, StarCloud’s facility houses a 16-ton generator to power the test hardware, StarCloud’s third production facility is planned to be ready by February of the next year, StarCloud raised $450 million for launch and infrastructure, StarCloud is more secure than data centers in Virginia, Outer Space Treaty governs what can be done to satellites, **Jump to:** Signal: bullish on StarCloud, Key insights: rapid development and potential challenges,
+
+## Investors Brace for Policy Shifts Post-Midterm
+
+**Bloomberg Podcasts** · 6:26 · Oct 31 · [watch](https://www.youtube.com/watch?v=vLPSbBmaojM)
+
+**Bottom line:** Investors should brace for policy shifts post-midterm elections, with deregulation expected in sectors like financial services, crypto, and telecom, and potential changes in AI and banking regulations.
+
+**Moats, risks & black swans:**
+- Moat: None
+- Risk: None
+- Black swan: None
+
+**Key insights:**
+- The regulatory landscape is expected to change significantly with deregulation in sectors like financial services, crypto, and telecom.
+- AI policy and regulation may see changes as the 2028 election approaches.
+- Banking regulators are likely to finalize Basel III endgame proposals, potentially increasing opportunities for mergers and acquisitions.
+
+**Jump to:** 1:02 · 2:05 · 3:08
+
+## Big Tech Stocks Hammered by AI Spending Fears
+
+**Bloomberg Podcasts** · 6:31 · Oct 31 · [watch](https://www.youtube.com/watch?v=aU8Dnvyfj1U)
+
+**Bottom line:** Big tech stocks were hammered by AI spending fears, with the Nasdaq hitting its third correction of 2026 and the S&P 500 falling 1.8%, breaching its 100-day moving average.
+
+**Moats, risks & black swans:**
+- Moat: Intel, the company, has been struggling with memory chip shortages due to the AI boom, which is a challenge for their turnaround under new CEO Lip Bu Tan. [3:10](https://youtu.be/aU8Dnvyfj1U?t=190)
+- Risk: Economic considerations and supply chain difficulties, particularly in memory chips, are affecting Intel's performance. [3:10](https://youtu.be/aU8Dnvyfj1U?t=190)
+- Black swan: North Korean hackers could be responsible for the largest crypto heist, potentially undermining confidence in the crypto industry. [6:18](https://youtu.be/aU8Dnvyfj1U?t=378)
+
+**Key insights:**
+- The AI boom is causing shortages in memory chips, impacting Intel's ability to meet customer demand and keep prices within consumer range. [3:10](https://youtu.be/aU8Dnvyfj1U?t=190)
+- The AI heist at Binance highlights the need for increased regulatory oversight in the crypto industry. [6:18](https://youtu.be/aU8Dnvyfj1U?t=378)
+
+**Jump to:** [1:03](https://youtu.be/aU8Dnvyfj1U?t=63) Neo clouds · [3:10](https://youtu.be/aU8Dnvyfj1U?t=190) Intel memory shortages · [6:18](https://youtu.be/aU8Dnvyfj1U?t=378) Binance crypto heist
+
+## Instinct Worth 30BN? | Microsoft Cuts 27,000 Jobs While Meta Taps Equity Markets for $95B CapEx
+
+**20VC with Harry Stebbings** · 1:00:04 · Oct 29 · [watch](https://www.youtube.com/watch?v=2-aUmDMZgLE)
+
+**Bottom line:** Harry Stebbings highlights the significant growth and IPO timing of AI companies like Anthropic, suggesting a strong market reception and potential for future growth, while also cautioning about the risk of rapid innovation and competition in the AI industry.
+
+**Signals:**
+- 🔴 Cautious on Meta — Harry Stebbings — Meta is tapping equity markets for $95B CapEx, a significant move, suggesting a shift towards more capital-intensive approaches in the AI industry.
+
+**Moats, risks & black swans:**
+- Moat: Anthropic — strong AI safety and ethical focus, potential for growth in AI applications.
+- Risk: Anthropic — risk of Chinese open-source models declining, potential for regulatory changes.
+- Black swan: Anthropic — if Chinese open-source models decline significantly, it could impact Anthropic's market position.
+- Fact: Anthropic is on the GSA schedule, which gives it access to government agencies at a discount.
+- Risk: Instinct — challenges in securing funding and maintaining user trust due to exposure of vulnerabilities.
+- Black swan: Instinct — valuation could decline if the market perceives the exposure of vulnerabilities as a significant risk.
+
+**Key insights:**
+- AI models like Anthropic are dominating the market playbook, despite OpenAI doing better.
+- Microsoft is cutting 27,000 jobs, while Meta is tapping equity markets for $95B CapEx, indicating a shift towards more capital-intensive approaches in the AI industry.
+- The exposure of critical flaws in AI models suggests a growing sophistication in AI hacking, with more vulnerabilities likely to be exposed.
+- Anthropic's competitive advantage lies in its ability to continue building new models, which is a significant advantage in a rapidly evolving market.
+- The market is mispricing Anthropic, suggesting a 2 to 3% market share by 2025, which is significant growth.
+
+**Jump to:** [12:34](https://youtu.be/2-aUmDMZgLE?t=754) AI · [14:14](https://youtu.be/2-aUmDMZgLE?t=854) MOAT · [15:15](https://youtu.be/2-aUmDMZgLE?t=915) RISK
+
+## The Market Isn’t Wrong About Micron -- Here’s Why
+
+**Chip Stock Investor** · 14:57 · Oct 29 · [watch](https://www.youtube.com/watch?v=AiT-h4rWGTg)
+
+**Bottom line:** The video explains why the market's perception of Micron's valuation as cheap is not necessarily wrong, but rather reflects the market's current expectation of future growth, even if it may not materialize.
+
+**Moats, risks & black swans:**
+- Moat: Micron, Samsung, SK hynix, the market is pricing in a high probability of continued strong growth for the next few years, but beyond that, the market is uncertain. [13:30](https://youtu.be/AiT-h4rWGTg?t=810)
+- Risk: The market may reprice a different probable outcome in the future, such as a slowdown in revenue and profit margins. [13:30](https://youtu.be/AiT-h4rWGTg?t=810)
+- Black swan: A significant event could disrupt the market's current expectations, such as a sudden shift in demand or a technological breakthrough. [13:30](https://youtu.be/AiT-h4rWGTg?t=810)
+
+**Key insights:**
+- The market's valuation of cyclical companies like Micron is based on the highest probability outcome, which includes strong future growth. [13:30](https://youtu.be/AiT-h4rWGTg?t=810)
+- The market is compressing the next two to three years' worth of profit into the current valuation, making the stock look cheap. [13:30](https://youtu.be/AiT-h4rWGTg?t=810)
+- Micron could continue to generate profit well in excess of historical levels, but the market is uncertain about what happens beyond the next few years. [13:30](https://youtu.be/AiT-h4rWGTg?t=810)
+
+**Jump to:** [13:30](https://youtu.be/AiT-h4rWGTg?t=810) Market valuation, [13:30](https://youtu.be/AiT-h4rWGTg?t=810) Moat, [13:30](https://youtu.be/AiT-h4rWGTg?t=810) Risk, [13:30](https://youtu.be/AiT-h4rWGTg?t=810) Black swan
+
+## Crusoe CEO Chase Lochmiller: Turning Stranded Energy Into Intelligence
+
+**Sequoia Capital** · 1:00:31 · Oct 29 · [watch](https://www.youtube.com/watch?v=64vUl9k-IAQ)
+
+**Bottom line:** The investor learns that Crusoe, a company focused on integrating AI with energy solutions, is a potential AI supermajor and is bullish on the AI industry, with spending expected to grow rapidly over the next five years.
+
+**AI & private markets:**
+- AI: Crusoe spans the entire AI ecosystem, from energy generation to data centers, and from AI models to cloud services.
+- PRIVATE: Crusoe has a core company value of "live on the infinite growth loop." They have a complex business with multiple work streams, from energy generation to AI cloud computing. They have a staff meeting once a week to cover pain points across the whole business.
+- PRIVATE: Crusoe has a core company value of "live on the infinite growth loop." They have a complex business with multiple work streams, from energy generation to AI cloud computing. They have a staff meeting once a week to cover pain points across the whole business.
+- PRIVATE: Crusoe has a core company value of "live on the infinite growth loop." They have a complex business with multiple work streams, from energy generation to AI cloud computing. They have a staff meeting once a week to cover pain points across the whole business.
+- PRIVATE: Crusoe has a core company value of "live on the infinite growth loop." They have a complex business with multiple work streams, from energy generation to AI cloud computing. They have a staff meeting once a week to cover pain points across the whole business.
+- PRIVATE: Crusoe has a core company value of "live on the infinite growth loop." They have a complex business with multiple work streams, from energy generation to AI cloud computing. They have a staff meeting once a week to cover pain points across the whole business.
+
+## Taking on ServiceNow: Coding Agents for the Rest of Us with Serval Co-Founder and CEO Jake Stauch
+
+**No Priors: AI, Machine Learning, Tech, & Startups** · 38:00 · Oct 29 · [watch](https://www.youtube.com/watch?v=EZcWEsMuLb4)
+
+**Bottom line:** The video highlights Serval Co., a company founded by Jake Stauch, which is pioneering the expansion of coding agents to make enterprise software more accessible to non-technical users. Serval's coding agents are becoming more powerful, making existing automation platforms like ServiceNow more essential and powerful, and the company is expected to IPO in the near future.
+
+**Signals:**
+- 🔴 Cautious on Serval Co. — Jake Stauch — Serval Co. has seen increased customer spend despite short-term budget impacts, with customers planning to increase overall spend, indicating a resilient market despite initial challenges.
+
+**Moats, risks & black swans:**
+- Moat: Serval Co. — Guardrails and boundaries for large enterprises to adopt these tools safely and comfortably at scale.
+- Risk: Serval Co. — Increased cybersecurity risk and concerns about personal agents taking action in enterprises.
+- Black swan: Enterprise governance concerns — If enterprises become more strict with access control, it could limit the use of personal agents.
+
+**Key insights:**
+- Coding agents are getting better at handling deterministic procedural scripts like password resets and approvals, making them a more viable alternative to legacy software companies like ServiceNow.
+- Serval Co. has grown from 200 people to a team of 200 people in just one year, indicating strong growth and potential for continued expansion.
+- AI adoption is accelerating across all industries, and Serval is at the forefront of automating work for every single employee in the world, suggesting a large and growing market.
+
+**Jump to:**
+[12:15](https://youtu.be/EZcWEsMuLb4?t=735) · [33:30](https://youtu.be/EZcWEsMuLb4?t=2010)
+
+## OpenAI Plans to Buy Google's TPUs, Amazon Lists 250 Million Rival Products
+
+**The Information** · 51:39 · Oct 29 · [watch](https://www.youtube.com/watch?v=L0eg0q-zE3o)
+
+**Bottom line:** The video discusses the AI industry's consolidation with major players like OpenAI and Amazon actively exploring new frontiers and acquisitions, while also highlighting the emergence of disaggregated solutions in the TPU market, with Google and Oracle providing different solutions for training and inference.
+
+**Signals:**
+- 🔴 Cautious on Amazon — Amazon is experimenting with a new way to list products that direct to rival retailers and brand websites, which could disintermediate Amazon's e-commerce listings and reduce reliance on Amazon for purchases. This could lead to a shift in consumer behavior and potentially impact Amazon's market share.
+
+**Moats, risks & black swans:**
+- Moat: Google Cloud — Google's TPU and GPU solutions are seen as a formidable competitor to Nvidia GPUs, with Google Cloud providing a variety of models on their stack.
+- Risk: Google Cloud — Google Cloud is seen as a potential competitor to Nvidia, which could lead to pricing pressure and consolidation in the market.
+- Black swan: Supply and Demand Dynamics — The story will play out with compute constraints, chip constraints, and pricing dynamics. Supply and demand will eventually cross, leading to consolidation among neo clouds and inferencing companies.
+
+**Key insights:**
+- Google's disaggregated solution at GTC allows for the use of different suppliers for training, orchestration, and inference, which could lead to more flexibility and efficiency in data center operations.
+- Neo clouds and inferencing companies will face challenges when supply outpaces demand, with pricing pressure and consolidation affecting their business models.
+- Amazon's new way of listing products could disintermediate Amazon's e-commerce listings and reduce reliance on Amazon for purchases, potentially impacting Amazon's market share.
+
+**Jump to:** [16:28](https://youtu.be/L0eg0q-zE3o?t=988) Disaggregated solutions in the TPU market are emerging, with Google and Oracle providing different solutions for training and inference. · [21:35](https://youtu.be/L0eg0q-zE3o?t=1295) Google's true offering on a completed task compared to other solutions, with disaggregated solutions allowing for the use of different suppliers for training, orchestration, and inference.
+
+## Skipped as off-topic
+
+- [Haunted Attractions Help Revive Struggling Neighborhoods](https://www.youtube.com/watch?v=BicO-IJ9ZY8) — Bloomberg Podcasts
+- [EU Foreign Policy Chief Warns Against Normalizing Russia on International Stage](https://www.youtube.com/watch?v=3V0WFtRhBLU) — Bloomberg Podcasts
+- [BTW: Headlines You May Have Missed](https://www.youtube.com/watch?v=Hyw1GtoIITw) — Bloomberg Podcasts
+- [Cost of Living Concerns Loom Over the Midterms](https://www.youtube.com/watch?v=ZStCuRv9jgI) — Bloomberg Podcasts
+- ['Ugly' Midterms, Increasing Your Nest Egg, Everywhere Millionaires | Bloomberg Surveillance](https://www.youtube.com/watch?v=qA1yy9zZYL0) — Bloomberg Podcasts
+- [Starlink In Every Car?!](https://www.youtube.com/shorts/HTSolxAYJoo) — This Week in Startups
+
+
+_Problems this run: openai/gpt-oss-120b hit its free-tier limit, so later summaries are by qwen2.5:3b_
+
+_Summaries by openai/gpt-oss-120b and qwen2.5:3b (open-source models)._
