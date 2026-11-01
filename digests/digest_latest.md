@@ -109,3 +109,267 @@ AI is already being deployed in core “real‑economy” businesses like manufa
 
 
 _Summaries by openai/gpt-oss-120b (open-source models)._
+
+<!-- run 11:48Z -->
+
+## TL;DR
+
+**Most bullish:**
+- David Tisch — 2 videos — praised as “one of the best early-stage investors of our time” for low-ownership, diversified portfolios that crush expectations.
+- Box Group — 1 video — early-stage focus, 1-10% stakes, no board seats, flexible terms; aims for ~150 companies with a $275M fund.
+- Benchmark, USV, Conviction, Rivet, Thrive — 1 video — fast-executing multi-stage firms building “generational venture firms.”
+- Microsoft — 1 video — $13B acquisition of the “heart of open-weight AI,” signaling a strategic bet on the open-weight ecosystem.
+- Oracle — 1 video — aggressive cloud-revenue targets and upcoming free-cash-flow positivity, creating a bullish case for its stock.
+
+**Most cautious:**
+- Google — 1 video — pure-play seed funds in Silicon Valley, described as “the single worst segment to be in” because LPs avoid that bucket.
+
+**Trends:**
+- Open-weight AI models are becoming the fastest-growing segment, with companies providing inference hardware or services for these models positioned to capture the bulk of AI spending.
+- Hyperscalers like Google and Alibaba run both closed and open models, monetizing open models by selling cloud compute.
+- Chinese AI firms primarily release open-weight models, enabling local execution on hardware under ~100GB memory.
+- Inference chips for open-weight models are increasingly being designed in-house by frontier companies and hyperscalers, reducing dependence on Nvidia’s training GPUs.
+
+**Risks & black swans:**
+- Companies that build only inference chips may face rapid commoditization if open-weight models become cheap enough to run on generic hardware.
+- Google’s vertically integrated stack (search, ads, YouTube, Gemini) gives it real-world TPU workload experience that competitors lack.
+- A coming 12-18-month period could see a shift in AI-chip supply overtaking demand, potentially pressuring margins and triggering consolidation of “neo-cloud” providers.
+
+**Private & pre-IPO watch:**
+- Anthropic — $100M valuation, $100M in cash, $100M in tokens, aiming for profitability and sustainable growth, with concerns about plateauing revenue and competitive pressures from other AI companies.
+
+## David Tisch: Why No Manager Wants to Stay Small & Why Competing with Mega Platforms is a Losing Game
+
+**20VC with Harry Stebbings** · 1:20:30 · Oct 31 · [watch](https://www.youtube.com/watch?v=BsvXF-0_G-Y)
+
+**Bottom line:**  
+Early‑stage seed investors who keep check sizes small, avoid high‑ownership deals, and focus on high‑quality founders can still capture outsized upside despite mega‑platforms crowding the market; the biggest upside now lies in AI‑core “AI4X” startups and a few disciplined early‑stage‑only funds.
+
+**Signals**
+- 🟢 Bullish **David Tisch** – praised as “one of the best early‑stage investors of our time” for low‑ownership, diversified portfolios that crush expectations. [0:00](https://youtu.be/BsvXF-0_G-Y?t=0)  
+- 🟢 Bullish **seed‑round size** – regular $10‑20 M checks, occasionally $50‑100 M or $1 B, showing a “massive explosion of round size.” [6:08](https://youtu.be/BsvXF-0_G-Y?t=368)  
+- 🔴 Cautious **pure‑play seed funds in Silicon Valley** – described as “the single worst segment to be in” because LPs avoid that bucket. [28:35](https://youtu.be/BsvXF-0_G-Y?t=1715)  
+- 🟢 Bullish **Box Group** – early‑stage focus, 1‑10 % stakes, no board seats, flexible terms; aims for ~150 companies with a $275 M fund. [22:27](https://youtu.be/BsvXF-0_G-Y?t=1347) [31:39](https://youtu.be/BsvXF-0_G-Y?t=1899)  
+- 🟢 Bullish **Keith Rabois** – loss rate “a tenth of everybody else’s,” implying superior selection. [1:09:28](https://youtu.be/BsvXF-0_G-Y?t=4168)  
+- 🟢 Bullish **Benchmark, USV, Conviction, Rivet, Thrive** – fast‑executing multi‑stage firms building “generational venture firms.” [1:01:19](https://youtu.be/BsvXF-0_G-Y?t=3679)  
+- 🟢 Bullish **follow‑on “lean‑in” checks** – $5‑30 M Series A/B checks; two $275 M funds write 20‑30 such checks, largest single $40 M. [47:01](https://youtu.be/BsvXF-0_G-Y?t=2821)  
+- 🔴 Cautious **rigid pro‑rata rights** – should be earned, not blanket, to avoid founder friction. [49:05](https://youtu.be/BsvXF-0_G-Y?t=2945)  
+- 🔴 Cautious **seed‑stage brand companies** – stopped funding due to lack of early LTV/CAC data; brand investing moves to Series A. [42:56](https://youtu.be/BsvXF-0_G-Y?t=2576)  
+- 🟢 Bullish **Triumph** – early investor; expects “a lot of noise” in the coming year. [1:16:39](https://youtu.be/BsvXF-0_G-Y?t=4599)  
+
+**AI & private markets**
+- 📌 AI adoption cycles now 2‑3 months, driven by rapid model releases, vertical revenue growth, and large M&A deals. [5:06](https://youtu.be/BsvXF-0_G-Y?t=306)  
+- 📌 AI deployment is “horizontal,” affecting compute pricing, energy, data‑center demand, and politics; not every company needs bleeding‑edge models. [37:49](https://youtu.be/BsvXF-0_G-Y?t=2269)  
+- 📌 “AI4X” (compute, inference, data‑centers, chips) is the core focus; founders outside this space are dismissed. [43:57](https://youtu.be/BsvXF-0_G-Y?t=2637)  
+- 📌 Early‑stage AI‑related private company **Rogo** raised seed then Series A led by Keith Rabois, Sequoia, KPCB after 39 of 40 investors initially passed. [44:58](https://youtu.be/BsvXF-0_G-Y?t=2698)  
+- 📌 **Curser** grew to $8 B valuation in ~2 years after early investment; projected $8 B enterprise value in 4 years. [32:41](https://youtu.be/BsvXF-0_G-Y?t=1961) [33:44](https://youtu.be/BsvXF-0_G-Y?t=2024)  
+- 📌 Funding efficiency: term sheets per seed round rose from 3‑5 to 10‑15, though founders still get 3‑5 serious offers. [12:19](https://youtu.be/BsvXF-0_G-Y?t=739)  
+
+**Moats, risks & black swans**
+- **Moat:** Box Group – early‑stage focus, low‑ownership checks (1‑10 %), no board seats, flexible deal structures give it a durable edge. [22:27](https://youtu.be/BsvXF-0_G-Y?t=1347)  
+- **Moat:** Y Combinator – brand, talent attraction, world‑class network create a lasting seed‑stage platform. [1:12:00](https://youtu.be/BsvXF-0_G-Y?t=4320)  
+- **Risk:** Valuation bumps for large AI labs could force down‑rounds, echoing Uber, Facebook, Airbnb, Ramp histories. [14:21](https://youtu.be/BsvXF-0_G-Y?t=861)  
+- **Risk:** Mega‑platforms out‑spending seed funds, threatening small‑fund survivability. [27:34](https://youtu.be/BsvXF-0_G-Y?t=1654)  
+- **Risk:** Societal/regulatory resistance to autonomous‑driving could stall a technology with huge safety upside. [1:17:41](https://youtu.be/BsvXF-0_G-Y?t=4661)  
+- **Black swan:** None reported.  
+
+**Key insights**
+- Seed‑stage check sizes have exploded to $10‑20 M (sometimes $50‑100 M or $1 B), but later‑stage dilution has fallen, meaning early investors keep more upside despite larger checks. [6:08](https://youtu.be/BsvXF-0_G-Y?t=368) [8:10](https://youtu.be/BsvXF-0_G-Y?t=490)  
+- Pure‑play seed funds are being squeezed out as multi‑stage firms increasingly lead seed rounds with bigger checks, making “small‑fund only” strategies high‑risk. [27:34](https://youtu.be/BsvXF-0_G-Y?t=1654) [28:35](https://youtu.be/BsvXF-0_G-Y?t=1715)  
+- AI’s most investable opportunities are in the “AI4X” stack (compute, inference, data‑centers, chips); founders outside this core are largely ignored by investors. [43:57](https://youtu.be/BsvXF-0_G-Y?t=2637)  
+- Founder quality is now the primary differentiator; high‑quality founders can secure large follow‑on checks ($5‑30 M) and drive compounding growth from $2 B to $8 B. [40:53](https://youtu.be/BsvXF-0_G-Y?t=2453) [47:01](https://youtu.be/BsvXF-0_G-Y?t=2821)  
+
+**Jump to:**  
+[5:06](https://youtu.be/BsvXF-0_G-Y?t=306) AI adoption cycles 2‑3 months · [27:34](https://youtu.be/BsvXF-0_G-Y?t=1654) Mega‑platforms crowding seed rounds · [32:41](https://youtu.be/BsvXF-0_G-Y?t=1961) Curser’s $8 B valuation trajectory
+
+## The BEST Explanation of the Fastest Growing AI Companies 👀
+
+**The Wall Street Skinny** · 2:46 · Oct 31 · [watch](https://www.youtube.com/shorts/SDYEPYVVcJs)
+
+**Bottom line:**  
+Open‑weight AI models are becoming the fastest‑growing segment, and companies that provide inference hardware or services for these models (e.g., Nvidia and emerging inference‑chip makers) are positioned to capture the bulk of AI spending.
+
+**AI & private markets:**  
+- Nvidia is paying **$13 billion** to acquire the “heart of open‑weight AI,” signaling a strategic bet on the open‑weight ecosystem. [0:45](https://youtu.be/SDYEPYVVcJs?t=45)  
+- Frontier model firms (e.g., Anthropic, OpenAI) rely on **closed‑weight** models and do not release weights publicly. [0:30](https://youtu.be/SDYEPYVVcJs?t=30)  
+- Hyperscalers (Google, Alibaba) run both closed and open models and monetize open models by selling cloud compute. [1:45](https://youtu.be/SDYEPYVVcJs?t=105)  
+- Chinese AI firms primarily release **open‑weight** models, enabling local execution on hardware under ~100 GB memory. [2:10](https://youtu.be/SDYEPYVVcJs?t=130)  
+- Inference chips for open‑weight models are increasingly being designed in‑house by frontier companies and hyperscalers, reducing dependence on Nvidia’s training GPUs. [2:01](https://youtu.be/SDYEPYVVcJs?t=121)  
+
+**Moats, risks & black swans:**  
+- Moat: Nvidia’s dominance in **layer‑2 chips** (training GPUs) gives it a strong position even as inference chips diversify. [0:20](https://youtu.be/SDYEPYVVcJs?t=20)  
+- Risk: Companies that build only inference chips may face rapid commoditization if open‑weight models become cheap enough to run on generic hardware. [2:01](https://youtu.be/SDYEPYVVcJs?t=121)  
+
+**Key insights:**  
+- Open‑weight models can run locally on a PC when under **~100 GB** memory (≈100 billion parameters), driving cost‑savings and data‑privacy advantages. [2:15](https://youtu.be/SDYEPYVVcJs?t=135)  
+- The memory‑to‑parameter curve shows that models above **100 billion parameters** require cloud‑based inference, creating a revenue stream for cloud providers and GPU makers. [2:20](https://youtu.be/SDYEPYVVcJs?t=140)  
+- Nvidia’s $13 billion acquisition indicates it sees long‑term value in owning an open‑weight AI platform, not just chip sales. [0:45](https://youtu.be/SDYEPYVVcJs?t=45)  
+
+**Jump to:** [0:45](https://youtu.be/SDYEPYVVcJs?t=45) Nvidia’s $13 B open‑weight AI acquisition · [2:01](https://youtu.be/SDYEPYVVcJs?t=121) Frontier firms building their own inference chips · [2:15](https://youtu.be/SDYEPYVVcJs?t=135) Local execution threshold for open‑weight models
+
+## Google's Chip Gambit: TPUs, NVIDIA and the AI Compute Race | Ben Pouladian on TITV
+
+**Ben Pouladian ** · 15:51 · Oct 29 · [watch](https://www.youtube.com/watch?v=1jkcXfSydTE)
+
+**Bottom line:** Google is pushing TPUs into the broader AI‑compute market to break Nvidia’s dominance, but the success of the effort hinges on building a developer ecosystem and on how quickly AI‑chip supply overtakes demand, which could pressure margins and trigger consolidation of “neo‑cloud” providers.
+
+**AI & private markets:**
+- OpenAI is planning to purchase Google’s TPU chips for its models, signaling a shift from Nvidia‑only hardware. [0:01](https://youtu.be/1jkcXfSydTE?t=1)
+- Oracle will make TPUs available to its cloud customers as part of its transition to a full‑stack cloud provider. [0:45](https://youtu.be/1jkcXfSydTE?t=45)
+- Fluidstack is launching a new cloud service that offers TPUs to Anthropic, expanding the TPU merchant market. [3:06](https://youtu.be/1jkcXfSydTE?t=186)
+- SambaNova’s low‑power inference engine (no liquid cooling required) is positioned as a cost‑effective complement to TPUs in disaggregated stacks. [6:10](https://youtu.be/1jkcXfSydTE?t=370)
+- Blackstone is financing TPU purchases for third‑party customers, indicating growing capital support for TPU deployments. [4:45](https://youtu.be/1jkcXfSydTE?t=285)
+- TD Cowen projects TPU revenue could reach roughly one‑third of Google Cloud’s total revenue by 2028, a “staggering” share if realized. [7:11](https://youtu.be/1jkcXfSydTE?t=431)
+
+**Moats, risks & black swans:**
+- **Moat:** Google’s vertically integrated stack (search, ads, YouTube, Gemini) gives it real‑world TPU workload experience that competitors lack. [4:45](https://youtu.be/1jkcXfSydTE?t=285)
+- **Risk:** A coming 12‑18‑month period where AI‑chip supply outpaces demand could force neo‑clouds to renegotiate contracts, squeeze margins, and trigger consolidation. [10:16](https://youtu.be/1jkcXfSydTE?t=616)
+- **Black swan:** Rapid consolidation of heavily leveraged neo‑cloud providers if chip pricing falls sharply after the supply‑demand inflection point. [12:19](https://youtu.be/1jkcXfSydTE?t=739)
+
+**Key insights:**
+- The industry is moving toward “disaggregated” compute: best‑of‑breed training chips, CPUs, and low‑cost inference engines from different vendors are being mixed to optimize performance and power. [5:09](https://youtu.be/1jkcXfSydTE?t=309)
+- TPU cost advantage is a primary driver for adoption, but the lack of an open developer ecosystem (CUDA vs closed‑source TPU) could slow broader uptake. [4:08](https://youtu.be/1jkcXfSydTE?t=248) · [13:20](https://youtu.be/1jkcXfSydTE?t=800)
+- Power efficiency matters: SambaNova’s low‑power inference chips avoid liquid cooling, reducing total‑cost‑of‑ownership for data centers. [6:10](https://youtu.be/1jkcXfSydTE?t=370)
+- Forecasts suggest TPU revenue could become a material share of Google Cloud’s earnings, but this hinges on achieving high utilization and broader customer adoption. [7:11](https://youtu.be/1jkcXfSydTE?t=431)
+
+**Jump to:** [0:01](https://youtu.be/1jkcXfSydTE?t=1) OpenAI eyes TPUs · [5:09](https://youtu.be/1jkcXfSydTE?t=309) Disaggregated compute trend · [10:16](https://youtu.be/1jkcXfSydTE?t=616) Supply‑demand imbalance warning
+
+## Oracle Just Sent a WARNING to Nvidia and AI Stock Investors!!
+
+**Jose Najarro Stocks** · 12:48 · Oct 29 · [watch](https://www.youtube.com/watch?v=STKzuRoEQoE)
+
+**Bottom line:**  
+Oracle’s aggressive cloud‑revenue targets and upcoming free‑cash‑flow positivity create a bullish case for its stock, while Microsoft’s strong Azure growth and free‑cash‑flow advantage reinforce its lead among hyperscalers; Google’s cloud momentum is offset by search‑cannibalization concerns and consecutive free‑cash‑flow deficits.
+
+**Signals:**  
+- 🟢 **Bullish** Oracle – Jose Najarro cites FY27 revenue target $90 bn and FY30 target >$225 bn with >$21 non‑GAAP EPS, implying a $500‑plus price at a 25× forward PE [9:10](https://youtu.be/STKzuRoEQoE?t=550).  
+- 🟢 **Bullish** Microsoft – Najarro notes Azure growth 48% YoY (guidance 49‑50%) and free‑cash‑flow positivity of ~$18 bn, the only hyperscaler with positive free cash flow [5:04](https://youtu.be/STKzuRoEQoE?t=304).  
+- 🔴 **Cautious** Google – Najarro points to AI “overview” cannibalizing search, slower monetization and two consecutive quarters of free‑cash‑flow negative $9.1 bn [3:03](https://youtu.be/STKzuRoEQoE?t=183).  
+
+**AI & private markets:**  
+- Google Cloud revenue crossed $30 bn for the first time, up 103% YoY, with operating margin improving to 36.2% in Q3 [1:01](https://youtu.be/STKzuRoEQoE?t=61).  
+- Google’s TPU systems are now a meaningful revenue line, selling chips to a broader customer base [2:03](https://youtu.be/STKzuRoEQoE?t=123).  
+- Microsoft Azure growth accelerated to 48% YoY, beating market expectations of ~44% and driven by GPU‑fleet efficiency and favorable token pricing [5:04](https://youtu.be/STKzuRoEQoE?t=304).  
+- Oracle projects FY27 revenue $90 bn and FY30 revenue >$225 bn, with non‑GAAP EPS >$21 and a forward PE of ~25×, suggesting a potential stock price north of $500 [9:10](https://youtu.be/STKzuRoEQoE?t=550).  
+- Oracle warns of a “peak” CapEx in FY27 followed by a step‑down in FY28‑29, but does not quantify the magnitude, creating uncertainty for semiconductor demand [10:10](https://youtu.be/STKzuRoEQoE?t=610).  
+- Oracle expects positive free cash flow in H2 FY28 and >$30 bn free cash flow in FY29, signaling a long‑term cash‑generation shift for its cloud business [12:13](https://youtu.be/STKzuRoEQoE?t=733).
+
+**Moats, risks & black swans:**  
+- Moat: Oracle’s cloud‑revenue growth trajectory and future free‑cash‑flow positivity give it a durable competitive edge in the enterprise‑cloud market [9:10](https://youtu.be/STKzuRoEQoE?t=550).  
+- Moat: Microsoft’s ability to generate strong free cash flow while scaling Azure provides a financial moat among hyperscalers [5:04](https://youtu.be/STKzuRoEQoE?t=304).  
+- Risk: Oracle’s unspecified size of the CapEx step‑down could signal a slowdown in semiconductor orders, hurting chip makers if the decline is larger than anticipated [10:10](https://youtu.be/STKzuRoEQoE?t=610).  
+- Black swan: A rapid contraction in hyperscaler CapEx after the FY27 peak could sharply reduce demand for AI chips, triggering a broader semiconductor market correction [11:11](https://youtu.be/STKzuRoEQoE?t=671).
+
+**Key insights:**  
+- Google’s cloud operating margin is trending upward (35.6% → 36.2% QoQ), but its search business faces AI‑driven cannibalization, slowing monetization [3:03](https://youtu.be/STKzuRoEQoE?t=183).  
+- Microsoft’s free‑cash‑flow positivity (~$18 bn) contrasts with peers (Google, Amazon, Meta) and may become a valuation differentiator despite massive upcoming CapEx (> $170 bn FY26, $225‑250 bn FY27) [7:06](https://youtu.be/STKzuRoEQoE?t=426)[8:08](https://youtu.be/STKzuRoEQoE?t=488).  
+- Oracle’s FY30 revenue guidance (> $225 bn) implies a valuation multiple that could push the stock above $500, but the lack of clarity on post‑peak CapEx levels adds execution risk [9:10](https://youtu.be/STKzuRoEQoE?t=550)[10:10](https://youtu.be/STKzuRoEQoE?t=610).
+
+**Jump to:**  
+[1:01](https://youtu.be/STKzuRoEQoE?t=61) Google Cloud $30 bn revenue surge · [5:04](https://youtu.be/STKzuRoEQoE?t=304) Microsoft Azure 48% YoY growth · [9:10](https://youtu.be/STKzuRoEQoE?t=550) Oracle FY27/FY30 revenue targets and valuation implication
+
+## Microsoft and Google Earnings!! WILL AI STOCKS BE SAVED??
+
+**Jose Najarro Stocks** · 3:32:02 · Oct 29 · [watch](https://www.youtube.com/watch?v=_JXJTegBnxc)
+
+Based on the provided segment, here's a summary of the key signals, trends, and risks for Alphabet (Google) and Microsoft:
+
+### Alphabet (Google)
+
+#### Signals:
+1. **Enterprise Adoption**: BNP Paribas and Tata Steel are deploying Gemini Enterprise, indicating strong enterprise AI adoption.
+2. **Query Speed and Cost**: BigQuery performance has improved significantly, with query speeds up by >40% and processing costs down by >50%.
+3. **AI-Powered Security**: Gemini Flash models have significantly improved threat detection, with 98% accuracy in threat intelligence scans.
+4. **TPU Ecosystem**: Google is expanding its TPU ecosystem with partnerships like Meta, Apple, and Mirandell, indicating growing demand.
+5. **Cloud Revenue**: Google Cloud Platform (GCP) is a significant contributor to revenue, with TPU system sales being a meaningful contributor.
+6. **AI-Mode Queries**: AI mode queries are growing rapidly but are not yet monetized, showing potential for future growth.
+7. **Gemini Agent Rollout**: There are concerns about the efficiency, capacity, and technology readiness of Gemini agents for full-scale deployment.
+8. **Search Growth**: Search revenue is growing at a 12% YoY rate, with deceleration attributed to FX headwinds, retail advertising pressure in APAC, and media/entertainment spend normalization.
+9. **Compute Allocation Strategy**: Google is planning a long-range, ROIC-driven approach to AI model allocation, with AI models underpinning all products.
+10. **Full-Stack AI Approach**: Google is integrating AI across Search, YouTube, Cloud, and Waymo, indicating a company-wide AI integration trend.
+11. **TPU Ecosystem**: Google is expanding the TPU ecosystem with partnerships like Oracle and Blackstone, indicating growing demand from various sectors.
+12. **Consumer-Facing AI Agents**: Microsoft executives are cautious about consumer-facing AI agents due to safety and trust concerns.
+13. **Microsoft Copilot Suite**: Microsoft's Copilot suite is growing rapidly, with GitHub Copilot usage increasing by 6x in 6 months and agents now open >33% of all PRs.
+14. **GitHub Advanced Security**: Microsoft's AI-driven code scanning is driving significant revenue growth.
+15. **LinkedIn AI Hiring**: LinkedIn is hiring applicants 33% faster and reviewing fewer profiles, indicating the effectiveness of AI in hiring processes.
+16. **Microsoft Health AI**: Microsoft's AI is automating patient encounters at a 70% YoY rate.
+17. **Microsoft Foundry**: Microsoft's Foundry is growing rapidly, with over 120k customers and revenue growing by >3x YoY.
+18. **Multi-Model Solutions**: Customers are building with multiple models, and revenue from open-source models is growing by 10x YoY.
+19. **MAI Models**: MAI Cyber is powering >40% of scans at a 18% lower cost, and MAI Transcribe is the most accurate and cheapest transcription model.
+20. **Microsoft Decision One**: Microsoft's Decision One is outperforming LLMs in terms of latency and quality.
+21. **Fabric and Agent Registry**: Microsoft's Fabric and Agent Registry are growing rapidly, with 44k paid Fabric customers and >50M agents.
+22. **AI Governance**: Customers are auditing >7.6B agent activities, up 5x QoQ.
+23. **Hardware Efficiency**: Microsoft's Maia 200 and 300 are delivering higher token efficiency per watt compared to leading GPUs.
+24. **AI-Enabled PCs**: Microsoft is developing AI-enabled PCs with various chipsets, enabling the running of frontier models on laptops and desktops.
+
+#### Trends:
+1. **Full-Stack AI Integration**: Google is integrating AI across multiple products, indicating a broader AI integration strategy.
+2. **TPU Ecosystem Expansion**: Google is expanding its TPU ecosystem, indicating growing demand from various sectors.
+3. **Cross-Product Demand Lift**: Gemini usage is driving additional spend on compute, storage, databases, and cybersecurity, creating diversified growth vectors.
+4. **Capacity Management**: Google acknowledges potential supply-side constraints but plans to manage them carefully.
+
+#### Risks:
+1. **TPU Resale Business**: There is uncertainty about the revenue recognition and margin profile of TPU resale business.
+2. **TPU Inventory Build-Up**: TPU system contracts appear first in the backlog, followed by inventory build-up, leading to cash outflows.
+3. **Accelerated-Compute Scarcity**: If accelerated-compute scarcity worsens, it could limit TPU system rollout and margin improvement.
+4. **Consumer-Facing AI Agents**: Microsoft is cautious about consumer-facing AI agents due to safety and trust concerns.
+
+### Microsoft
+
+#### Signals:
+1. **TPU-Like Systems**: Microsoft is positioning its TPU-like systems as a platform for demanding workloads.
+2. **Trust Advantage**: Microsoft emphasizes its "billions of users" and "end-to-end testing and real-time monitoring" as differentiators.
+3. **Copilot Suite**: Microsoft's Copilot suite is growing rapidly, with customers consuming credits growing by 75% YoY.
+4. **GitHub Copilot**: GitHub Copilot is generating 6x more agent-generated PRs and is up to 40% faster and 77% lower cost than prior models.
+5. **Advanced Security**: Microsoft's AI-driven code scanning is driving significant revenue growth.
+6. **LinkedIn AI Hiring**: LinkedIn is hiring applicants 33% faster and reviewing fewer profiles, indicating the effectiveness of AI in hiring processes.
+7. **Health AI**: Microsoft's AI is automating patient encounters at a 70% YoY rate.
+8. **Foundry**: Microsoft's Foundry is growing rapidly, with over 120k customers and revenue growing by >3x YoY.
+9. **Multi-Model Solutions**: Customers are building with multiple models, and revenue from open-source models is growing by 10x YoY.
+
+_Summary covers the first ~20,000 words of the transcript._
+
+## Is AI the new cigarettes? Our VC panel digs into Anthropic’s S-1 | E2356
+
+**This Week in Startups** · 1:12:23 · Oct 29 · [watch](https://www.youtube.com/watch?v=cWlTh5QD7xw)
+
+**Bottom line:** The investor learns that Anthropic is a promising private company with a strong cash position and profitability, despite concerns about plateauing revenue and competitive pressures from other AI companies. The AI industry is surging, with Anthropic and OpenAI leading the way, and the market is focused on the potential of AI models and chips becoming more commoditized.
+
+**AI & private markets:**
+- AI: AI spending is surging, with Anthropic aiming for profitability and sustainable growth, despite concerns about plateauing revenue and competitive pressures.
+- AI: Anthropic — intelligent assistant spending, AI adoption, and pricing, with concerns about the plateauing revenue and competitive pressures.
+- AI: Anthropic — intelligent assistant spending, utility question, and rational actor hypothesis.
+- PRIVATE: Anthropic — 2% AI spend at top companies, hundreds of millions in tokens per year.
+- PRIVATE: Anthropic — AI adoption, pilots, data and systems integration, early stage, full potential, and productivity gains.
+- PRIVATE: Anthropic — sustainable growth, profit extraction, model obsolescence, subscription products, growth, and open source models.
+
+**Moats, risks & black swans:**
+- Moat: Anthropic — strong cash position, profitability, and a growing market share.
+- Risk: AI industry — concerns about plateauing revenue and competitive pressures from competitors like Replit.
+- Black swan: AI engineers smoking cigarettes — a positive signal of confidence in AI's potential to solve major problems like curing cancer.
+
+**Key insights:**
+- AI spending is surging, with Anthropic and OpenAI leading the way, despite concerns about plateauing revenue and competitive pressures.
+- Anthropic has a strong data and AI expertise, potentially leading to a dominant market position.
+- Competition from other AI companies, such as Claude and Canva, could cannibalize Anthropic's market.
+- Anthropic's market position could be significantly weakened if the IPO does not go well.
+
+**Jump to:**
+[48:50](https://youtu.be/cWlTh5QD7xw?t=2930) · [53:53](https://youtu.be/cWlTh5QD7xw?t=3233) · [56:57](https://youtu.be/cWlTh5QD7xw?t=3417)
+
+## Skipped as off-topic
+
+- [Bolsonaro Leaves Brazil for US After Rejecting Election](https://www.youtube.com/watch?v=9v5DW-AhzXM) — Bloomberg Podcasts
+- [Midterm Fight Comes Down to the Final Days](https://www.youtube.com/watch?v=JM9ZXO9067I) — Bloomberg Podcasts
+- [Rep. Gregory Meeks Puts Affordability Atop Democrats’ Agenda](https://www.youtube.com/watch?v=MUzLhaAdXi4) — Bloomberg Podcasts
+- [Are LLMs a dead end?](https://www.youtube.com/shorts/Dn2qDAlLMtc) — TechSurge: Deep Tech VC Podcast
+- [Bari Weiss's Vision for CBS News](https://www.youtube.com/shorts/6bE7mF1bo-I) — The Information
+- [Stadiums Rethink Women’s Restrooms](https://www.youtube.com/watch?v=vtou5ihyRlc) — Bloomberg Podcasts
+- [Weekend Listen: Power On Talks Touchscreen MacBook + iPhone Duo “Crackgate” | Bloomberg Tech](https://www.youtube.com/watch?v=2UurxZq9RTI) — Bloomberg Podcasts
+- [Toto Wolff: What Happens When the Data and the Driver Disagree](https://www.youtube.com/watch?v=lQtlmm4Uw8A) — Six Five Media
+- [Signals to Watch in the U.S. Midterms](https://www.youtube.com/watch?v=2gxQAM8qAqM) — Morgan Stanley
+
+
+_Problems this run: openai/gpt-oss-120b hit its free-tier limit, so later summaries are by qwen2.5:3b_
+
+_Summaries by openai/gpt-oss-120b and qwen2.5:3b (open-source models)._
