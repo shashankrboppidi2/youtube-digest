@@ -449,3 +449,115 @@ Digital assets are moving from niche experiments to mainstream finance, with tok
 
 
 _Summaries by openai/gpt-oss-120b (open-source models)._
+
+<!-- run 15:43Z -->
+
+## TL;DR
+
+**Most bullish:**  
+- **Productive investors** — 1 video — focus on technical approach, adjacent markets and speed to capture value (Invest Like The Best)  
+- **Large‑scale compute providers** — 1 video — expected to capture ~80 % of AI compute demand (Invest Like The Best)  
+- **High‑growth private SaaS firms** — 1 video — 40‑60 % revenue growth at scale with $300‑$500 M ARR (Invest Like The Best)  
+
+**Most cautious:**  
+- **AI‑compute supply** — 1 video — hardware, power and chip constraints limit growth (Invest Like The Best)  
+- **AI‑only exposure** — 1 video — prefers diversified baskets to hedge a potential AI slowdown (Invest Like The Best)  
+- **Speculative investors** — 1 video — chase market timing without fundamentals, higher risk (Invest Like The Best)  
+- **“Software” as a category** — 1 video — limited upside until new creative breakthroughs appear (Invest Like The Best)  
+
+**Trends:**  
+- On‑site power (fuel cells, turbines, battery storage) is shifting from a short‑term bridge to a long‑term solution for AI data‑center needs, with hyperscalers signing 15‑20 year contracts (Morgan Stanley)  
+- Battery storage demand in data centers is set to outpace grid‑side additions by 2030, spurring a fast‑growing lithium‑ion market (Morgan Stanley)  
+- AI is being treated as core infrastructure; super‑linear network effects and rapid model iteration are seen as key moats (Invest Like The Best)  
+
+**Risks & black swans:**  
+- Hardware and power supply constraints could throttle AI compute growth (Invest Like The Best)  
+- Over‑reliance on speculative “software” bets may lead to outsized losses if breakthroughs stall (Invest Like The Best)  
+- Concentrated AI‑only exposure could suffer in a market slowdown, hurting diversified investors (Invest Like The Best)  
+- Unexpected delays in on‑site power deployment or battery‑storage scaling could exacerbate the projected 80 GW AI power shortfall (Morgan Stanley)  
+
+**Private & pre‑IPO watch:**  
+- **Tesla (U.S. energy‑storage business)** — leveraging EV battery capacity for AI power infrastructure; noted as a key player in on‑site storage (Morgan Stanley)  
+- **Ford** — newly built storage backlog repurposing EV capacity for AI data‑center power (Morgan Stanley)  
+- **High‑growth private SaaS firms** — $300‑$500 M ARR, 40‑60 % revenue growth at scale; attractive to board members (Invest Like The Best)
+
+## Solving AI’s Power Bottleneck
+
+**Morgan Stanley** · 9:54 · Nov 04 · [watch](https://www.youtube.com/watch?v=hwaM5-oUPiA)
+
+**Bottom line:**  
+Distributed on‑site power (fuel cells, turbines, battery storage) is moving from a short‑term bridge to a long‑term solution for the AI data‑center power crunch, with an estimated 80 GW shortfall by 2029 and battery storage demand in data centers projected to outpace grid‑side demand by 2030.
+
+**AI & private markets:**  
+- 80 GW AI‑related power shortfall projected by 2029, driving demand for on‑site generation and storage solutions. [1:00](https://youtu.be/hwaM5-oUPiA?t=60)  
+- Hyperscalers are signing 15‑20 year on‑site power contracts, shifting from “bridge” to permanent power strategy. [2:01](https://youtu.be/hwaM5-oUPiA?t=121)  
+- Estimated 10 GW of incremental annual power demand from U.S. reshoring and industrialization of AI workloads. [5:05](https://youtu.be/hwaM5-oUPiA?t=305)  
+- Battery storage demand in data centers expected to exceed incremental grid‑side battery storage additions by 2030, creating a fast‑growing lithium‑ion market. [6:05](https://youtu.be/hwaM5-oUPiA?t=365)  
+- Tesla’s U.S. energy‑storage business and Ford’s newly built storage backlog are cited as auto‑industry players repurposing EV capacity for AI power infrastructure. [7:06](https://youtu.be/hwaM5-oUPiA?t=426)  
+- Vehicle‑to‑grid (V2G) programs in California currently dispatch 0.5‑1 GW during peak periods; broader U.S. impact likely after 2030 as EV penetration rises. [9:10](https://youtu.be/hwaM5-oUPiA?t=550)
+
+**Moats, risks & black swans:**  
+- **Moat:** On‑site power equipment (fuel cells, turbines) offers high reliability and rapid deployment, appealing to data‑center developers facing transmission bottlenecks. [4:03](https://youtu.be/hwaM5-oUPiA?t=243)  
+- **Risk:** Utility transmission and substation upgrades lag behind AI‑driven demand, creating a structural supply constraint for grid‑connected power. [3:02](https://youtu.be/hwaM5-oUPiA?t=182)  
+- **Black swan:** A sudden slowdown in EV demand could limit the availability of repurposed automotive‑grade components for energy‑storage and micro‑grid markets. [7:06](https://youtu.be/hwaM5-oUPiA?t=426)
+
+**Key insights:**  
+- Distributed power contracts are now 15‑20 years, indicating investors should treat on‑site generation as a long‑term revenue stream for equipment suppliers. [2:01](https://youtu.be/hwaM5-oUPiA?t=121)  
+- Data‑center battery storage growth is projected to outpace the entire grid’s incremental storage additions by 2030, signaling a sizable niche for lithium‑ion manufacturers. [6:05](https://youtu.be/hwaM5-oUPiA?t=365)  
+- Auto manufacturers (Tesla, Ford) are leveraging under‑utilized EV production capacity to enter the high‑margin energy‑storage market, creating a cross‑industry growth vector. [7:06](https://youtu.be/hwaM5-oUPiA?t=426)  
+- V2G contributions are currently limited to California but could become a material power source nationally after 2030 as EV penetration reaches 20‑40 % of sales. [9:10](https://youtu.be/hwaM5-oUPiA?t=550)
+
+**Jump to:**  
+[1:00](https://youtu.be/hwaM5-oUPiA?t=60) AI power shortfall estimate → 80 GW by 2029 · [2:01](https://youtu.be/hwaM5-oUPiA?t=121) Long‑term on‑site power contracts (15‑20 yr) · [6:05](https://youtu.be/hwaM5-oUPiA?t=365) Data‑center battery storage to outpace grid demand by 2030
+
+## How Billion-Dollar Tech Acquisitions Actually Happen
+
+**Invest Like The Best** · 1:14:54 · Nov 04 · [watch](https://www.youtube.com/watch?v=XZxDawMm4lU)
+
+**Bottom line:**  
+AI is becoming core infrastructure, but true moats require super‑linear network effects and rapid model iteration; investors should favor large‑scale providers and private‑market leaders while staying cautious on speculative “software” bets and frontier‑investor diligence.  
+
+**Signals:**  
+- 🟢 **Bullish** – productive investors (speaker) – focus on technical approach, adjacent markets and speed to capture value, implying higher conviction in tech‑driven assets [1:00](https://youtu.be/XZxDawMm4lU?t=60)  
+- 🟢 **Bullish** – large‑scale compute providers – “80% of compute demand will go to scale providers, 20% to niche fragmented players” [47:50](https://youtu.be/XZxDawMm4lU?t=2870)  
+- 🟢 **Bullish** – high‑growth private SaaS firms – 40‑60% revenue growth at scale with $300‑$500 M ARR, attractive to board members [38:44](https://youtu.be/XZxDawMm4lU?t=2324)  
+- 🔴 **Cautious** – “software” as a category (speaker) – limited upside until new creative breakthroughs appear [0:00](https://youtu.be/XZxDawMm4lU?t=0)  
+- 🔴 **Cautious** – speculative investors (speaker) – chase market timing without fundamentals, higher risk [2:01](https://youtu.be/XZxDawMm4lU?t=121)  
+- 🔴 **Cautious** – AI‑only exposure (speaker) – prefers diversified basket with slower‑growing assets to hedge AI market slowdown [39:45](https://youtu.be/XZxDawMm4lU?t=2385)  
+- 🔴 **Cautious** – AI‑compute supply (speaker) – real limitation is hardware supply, power and chips, not capital or debt [46:49](https://youtu.be/XZxDawMm4lU?t=2809)  
+- 🟡 **Mixed** – early‑stage Series A investors (speaker) – increasingly using traditional finance metrics, discordant with usual mindset [1:00](https://youtu.be/XZxDawMm4lU?t=60)  
+- 🟡 **Mixed** – AI business models (speaker) – early willingness to pay but “we haven’t figured out the cogs yet” [5:03](https://youtu.be/XZxDawMm4lU?t=303)  
+- 🟡 **Mixed** – database evolution (speaker) – AI making “old” OLTP databases sleepy, potential shift but no firm call [22:20](https://youtu.be/XZxDawMm4lU?t=1340)  
+
+**AI & private markets:**  
+- AI infrastructure should be evaluated like cloud – technical fit, platform integration and spending trends matter more than financial proxies [4:02](https://youtu.be/XZxDawMm4lU?t=242)  
+- Model‑lifecycle risk: frontier models stay relevant only 3‑6 months; a 3‑month delay can cost a company its entire market [26:27](https://youtu.be/XZxDawMm4lU?t=1587)  
+- Ramp (AI‑powered finance platform) opened in the UK, claims to save businesses 5% annually on finance costs [12:xx]  
+- Cursor raised “a few billion dollars” pre‑acquisition; estimated $3 bn cost to build its Mythos model, highlighting heavy compute capital needs [1:03:08](https://youtu.be/XZxDawMm4lU?t=3788)  
+- Cursor’s data moat: largest user base and dataset, plus SpaceX compute partnership [1:04:08](https://youtu.be/XZxDawMm4lU?t=3848)  
+- Over‑funding concern: only ~20 startups matter; excess capital could be zero‑sum, per Sequoia’s Roloff [57:02](https://youtu.be/XZxDawMm4lU?t=3422)  
+
+**Moats, risks & black swans:**  
+- Moat: network effects only defensible when growth is super‑linear; linear/sub‑linear growth offers little protection [8:05](https://youtu.be/XZxDawMm4lU?t=485)  
+- Risk: sub‑linear network‑effect dynamics let challengers overtake leaders with equal funding [11:07](https://youtu.be/XZxDawMm4lU?t=667)  
+- Moat: scale effect reduces unit economics (lower CAC, pricing power) as companies grow [9:05](https://youtu.be/XZxDawMm4lU?t=545)  
+- Risk: strategic‑deal leaks (e.g., OpenRouter) cause price volatility and negotiation friction [1:05:08‑1:06:09]  
+- Risk: tightening debt markets make non‑investment‑grade firms rely on customer pre‑payments [44:48](https://youtu.be/XZxDawMm4lU?t=2688)  
+- Black swan: speculative scenario that 59% of future compute could be orbital, based on anecdote with Larry Page (unlikely but high‑impact) [48:51](https://youtu.be/XZxDawMm4lU?t=2931)  
+
+**Key insights:**  
+- AI models are now a fifth layer of infrastructure, demanding capital and competitive pressures similar to traditional hardware, reshaping the entire application stack [20:17](https://youtu.be/XZxDawMm4lU?t=1217)  
+- Pricing power of frontier models hinges on continued market growth; saturation or a shift to open‑source could erode that advantage [25:25‑27:29]  
+- “Maximum disruption” is occurring across networking, storage, and databases as AI‑driven designs replace legacy OLTP and create new net‑new networking companies since Arista [24:24‑23:22]  
+- Venture capital has become “public‑investor‑like,” with private firms now rivaling public‑company scale from a decade ago, changing the investor identity landscape [16:12‑1:08:09]  
+
+**Jump to:**  
+[4:02](https://youtu.be/XZxDawMm4lU?t=242) AI infrastructure as core asset · [25:25](https://youtu.be/XZxDawMm4lU?t=1525) Frontier model market share & pricing power · [47:50](https://youtu.be/XZxDawMm4lU?t=2870) Scale providers dominate compute demand
+
+## Skipped as off-topic
+
+- [How To Go From Researcher to Founder | Startup School](https://www.youtube.com/watch?v=u-8KpXcPYCw) — Y Combinator
+- [Former DNC Chair: 'This Election Was About The Economy, Stupid'](https://www.youtube.com/watch?v=Wp9wRe1ONRI) — Bloomberg Podcasts
+
+
+_Summaries by openai/gpt-oss-120b (open-source models)._
