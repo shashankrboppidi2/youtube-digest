@@ -462,3 +462,211 @@ AI‑adjacent companies that embed the technology to lift margins (e.g., Deere, 
 
 
 _Summaries by openai/gpt-oss-120b (open-source models)._
+
+<!-- run 15:46Z -->
+
+## TL;DR
+
+**Most bullish:**  
+- **AI diffusion (general sector)** — 1 video – Chip Stock Investor expects Anthropic’s models to become embedded in work and home, driving long‑term demand.  
+- **Asian financing hub** — 1 video – Goldman Sachs sees “very optimistic” growth and opportunity for AI‑related financing in Asia.  
+- **Asset & wealth management** — 1 video – Goldman Sachs believes it is well‑positioned to capture “enormous wealth creation” over the next 5‑10 years.  
+- **China data‑center sector** — 1 video – Bloomberg Podcasts notes capacity could double to ~45 GW by 2030, giving China a clear advantage in cheap, renewable power.  
+- **Planet Labs** — 2 videos – Sourcery highlights a 58% YoY revenue jump, a new space‑based “Sun Catcher” data‑center test for Google, and fast‑track sovereign satellite services, indicating a growing defense‑driven runway.  
+
+**Most cautious:**  
+- **Anthropic (IPO & fundamentals)** — 1 video – Chip Stock Investor flags a $1.5‑$2 trillion implied valuation, $109 B convertible‑note debt, 50.1% voting control by the Amodei siblings, and reliance on subsidized hyperscaler compute.  
+- **Beijing‑area data‑center growth** — 1 video – Bloomberg Podcasts warns the region will grow slowly and lose capacity share as expansion moves outward.  
+- **Continual‑learning infrastructure** – 1 video – Sequoia Capital cautions that fragmented third‑party tracing tools could bottleneck scaling of platforms like Trajectory.  
+- **European equities** — 1 video – Goldman Sachs cites weak sentiment and under‑performance in Europe.  
+- **Planet Labs (compliance & usability)** — 2 videos – Sourcery points to internal “values” review risks and limited ability of only a few thousand experts to extract value from daily high‑resolution imagery.  
+
+**Trends:**  
+- AI models are moving toward ubiquitous “diffusion” across consumer and enterprise workflows (Chip Stock Investor).  
+- Space‑based data‑center experiments (Planet Labs “Sun Catcher”) aim to cut latency and operating costs for hyperscalers (Sourcery).  
+- Continual‑learning platforms promise massive cost and accuracy gains but depend on emerging standards for model tracing (Sequoia Capital).  
+- China’s data‑center expansion is being anchored to cheap, renewable power hubs, creating a coordinated national computing advantage (Bloomberg Podcasts).  
+
+**Risks & black swans:**  
+- Governance risk at Anthropic: Class F shares give the Amodei siblings >50% voting power (Chip Stock Investor).  
+- Compute‑cost risk for Anthropic if hyperscaler subsidies disappear, threatening margins (Chip Stock Investor).  
+- Planet Labs compliance risk from internal “values” reviews that could limit certain contracts (Sourcery).  
+- Grid‑infrastructure bottlenecks or intermittent renewable supply could undermine China’s cheap‑power data‑center model (Bloomberg Podcasts).  
+
+**Private & pre‑IPO watch:**  
+- **Anthropic** — IPO could imply a $1.5‑$2 trillion valuation; carries $109 B convertible‑note debt and concentrated voting control (Chip Stock Investor).  
+- **Planet Labs** — 58% YoY revenue growth last quarter; expanding defense contracts and sovereign‑satellite services; testing space‑based data‑center (Sourcery).
+
+## Everything You Need to Know Before the Anthropic IPO
+
+**Chip Stock Investor** · 24:40 · Nov 05 · [watch](https://www.youtube.com/watch?v=mqTRIMVv57Y)
+
+**Bottom line:** Anthropic’s IPO could be a landmark AI listing, but investors should be wary of its concentrated voting control, massive convertible‑note debt and the risk that compute‑cost subsidies from hyperscalers evaporate, which could crush margins and force costly data‑center builds.
+
+**Signals:**
+- 🟢 Bullish **AI diffusion** (general sector), Chip Stock Investor, expects Anthropic’s models to embed across work and home driving long‑term demand [21:52](https://youtu.be/mqTRIMVv57Y?t=1312)  
+- 🔴 Cautious **Anthropic (IPO valuation)**, Chip Stock Investor, warns valuation likely $1.5‑$2 trillion implying >30× 2026 revenue [7:27](https://youtu.be/mqTRIMVv57Y?t=447)  
+- 🔴 Cautious **Anthropic (convertible‑note debt)**, Chip Stock Investor, $109 B convertible‑note liabilities could dilute equity or limit financing [19:51](https://youtu.be/mqTRIMVv57Y?t=1191)  
+- 🔴 Cautious **Anthropic (governance)**, Chip Stock Investor, Class F shares give Amodei siblings 50.1% voting power, raising governance risk [3:11](https://youtu.be/mqTRIMVv57Y?t=191)  
+- 🔴 Cautious **Anthropic (compute‑cost risk)**, Chip Stock Investor, reliance on subsidized hyperscaler compute could erode $2.08 revenue per $1 spend if subsidies end [12:36](https://youtu.be/mqTRIMVv57Y?t=756)  
+- 🟡 Mixed **Anthropic (short‑term trade)**, Chip Stock Investor, possible “insane” post‑IPO spike but recommends treating any allocation as a short‑term trade and exit [22:53](https://youtu.be/mqTRIMVv57Y?t=1373)  
+
+**AI & private markets:**
+- Anthropic projects **2026 full‑year revenue $60‑$70 B**, up from $16.3 B H1 2026, showing rapid growth [6:22](https://youtu.be/mqTRIMVv57Y?t=382)  
+- **Enterprise customer base**: 11.9 k firms spending >$100k/yr, with near‑12 k now >$100k, indicating fast ramp‑up [9:33](https://youtu.be/mqTRIMVv57Y?t=573)  
+- **Revenue mix**: subscription revenue $3.2 B (~25% of total) and token‑consumption “pay‑for‑intelligence” model dominate [10:35](https://youtu.be/mqTRIMVv57Y?t=635)  
+- **Hardware commitments**: $266 B purchase commitments for chips over 1‑20 years, extending into the 2040s, a trend among AI firms [20:51](https://youtu.be/mqTRIMVv57Y?t=1251)  
+- **Balance sheet**: >$131 B cash & short‑term investments vs. ~ $109 B convertible‑note liabilities [19:51](https://youtu.be/mqTRIMVv57Y?t=1191)  
+- **Valuation expectation**: IPO likely priced at $1.5‑$2 T, market may cap price‑to‑sales below ~30× (≈$2 T vs. $70 B 2026 revenue) [22:53](https://youtu.be/mqTRIMVv57Y?t=1373)  
+
+**Moats, risks & black swans:**
+- Moat: Anthropic’s access to **hyperscaler compute** (Alphabet, AWS, Microsoft, SpaceX) reduces capital spend now [12:36](https://youtu.be/mqTRIMVv57Y?t=756)  
+- Risk: **Governance concentration** – Amodei siblings hold 50.1% voting power via Class F shares, similar to Meta/Tesla founders [3:11](https://youtu.be/mqTRIMVv57Y?t=191)  
+- Risk: **Compute‑cost exposure** – current $1 spend → $2.08 revenue could erode if hyperscalers stop subsidizing [12:36](https://youtu.be/mqTRIMVv57Y?t=756)  
+- Risk: **Customer concentration** – one customer >10% of revenue (likely Cursor/SpaceX); loss would materially hit top line [14:39](https://youtu.be/mqTRIMVv57Y?t=879)  
+- Black swan: **Loss of hyperscaler partnership** – withdrawal of compute support would force sudden capex surge and margin compression [15:40](https://youtu.be/mqTRIMVv57Y?t=940)  
+- Black swan: **Data‑center build‑out failure** – inability to successfully build/operate own facilities could halt growth and increase debt load [21:52](https://youtu.be/mqTRIMVv57Y?t=1312)  
+
+**Key insights:**
+- Anthropic’s **operating margin (adjusted)** turned positive 19% in Q2 2026 after stripping stock‑based compensation, but GAAP margin remains negative due to $2.19 B stock‑based expense [8:29](https://youtu.be/mqTRIMVv57Y?t=509)[13:38](https://youtu.be/mqTRIMVv57Y?t=818)  
+- **International revenue** is catching up to U.S. sales, diversifying geographic exposure [11:35](https://youtu.be/mqTRIMVv57Y?t=695)  
+- **Broadcom** could benefit from Anthropic’s chip‑leasing strategy, creating a downstream demand tail for Broadcom silicon [18:50](https://youtu.be/mqTRIMVv57Y?t=1130)  
+
+**Jump to:** [6:22](https://youtu.be/mqTRIMVv57Y?t=382) 2026 revenue outlook · [12:36](https://youtu.be/mqTRIMVv57Y?t=756) compute‑cost moat & risk · [22:53](https://youtu.be/mqTRIMVv57Y?t=1373) IPO valuation & short‑term trade recommendation
+
+## Google Is Putting AI Data Centers in Space. Planet Labs CEO Explains Why
+
+**Sourcery with Molly O'Shea** · 40:29 · Nov 05 · [watch](https://www.youtube.com/watch?v=llGHpPbCtHo)
+
+**Bottom line:**  
+Planet Labs’ space‑based data‑center test and its rapidly growing defense‑driven satellite business give the company a clear revenue runway and a defensible moat, but heavy reliance on geopolitics and limited usability of raw imagery temper the upside.
+
+**Signals**
+- 🟢 Bullish **Planet Labs** – CEO James Hannon, citing the launch of the “Sun Catcher” test data‑center for Google and 5× higher solar power in sun‑synchronous orbit, which could cut response times and operating costs [21:33](https://youtu.be/llGHpPbCtHo?t=1293).
+- 🟢 Bullish **Planet Labs** – exec (unnamed) notes 58% YoY revenue growth last quarter, driven by defense contracts [4:07](https://youtu.be/llGHpPbCtHo?t=247).
+- 🟢 Bullish **Planet Labs sovereign‑satellite services** – co‑founder James Hannon highlights fast 4‑month delivery of a Swedish satellite and growing orders from Japan, Germany, Sweden [27:39](https://youtu.be/llGHpPbCtHo?t=1659).
+- 🟡 Mixed **Planet Labs commercial demand** – exec says defense is strongest, but agriculture (John Deere, Bayer), hedge funds and hyperscalers also buying data, indicating uneven commercial traction [9:14](https://youtu.be/llGHpPbCtHo?t=554).
+- 🔴 Cautious **Planet Labs usability** – CEO warns only a few thousand experts can extract value from daily 4.7 M‑pixel images, limiting mass‑market adoption for now [17:26](https://youtu.be/llGHpPbCtHo?t=1046).
+- 🔴 Cautious **Planet Labs compliance risk** – co‑founder James Hannon mentions an internal “values” review team, flagging exposure to U.S./EU embargo lists and UN sanctions [28:41](https://youtu.be/llGHpPbCtHo?t=1721).
+
+**AI & private markets**
+- AI: Planet Labs says AI “means that more and more people can get access” to its satellite imagery, positioning the firm as a key data source for AI‑driven analytics [0:00](https://youtu.be/llGHpPbCtHo?t=0).
+- AI: “AI layer will ‘explode’ the number of users who can derive value” by turning raw imagery into query‑able answers, likened to moving from a bare desktop to a full OS [18:27](https://youtu.be/llGHpPbCtHo?t=1107).
+- AI: “Dove” satellites image ~200 M km² daily in 8 bands at 3 m resolution; “Pelican” offers on‑demand sub‑30‑minute delivery; “Tanager” provides 420‑band hyperspectral data for crop, methane and camouflage detection [15:23‑16:26].
+- Private: Planet Labs remains pre‑IPO, privately held; no valuation or funding disclosed, but rapid contract execution (4‑month launch) signals strong execution capability [27:39](https://youtu.be/llGHpPbCtHo?t=1659).
+
+**Moats, risks & black swans**
+- Moat: Planet Labs – “peripheral vision” of the entire planet, daily global scan that detects emerging threats missed by task‑specific satellites [12:16](https://youtu.be/llGHpPbCtHo?t=736).
+- Moat: Planet Labs – scale and speed of constellation launch (fast sovereign‑satellite builds) give a durable advantage in national‑security markets [35:51](https://youtu.be/llGHpPbCtHo?t=2151).
+- Moat: Planet Labs – employee retention (7 of first 10 employees still there after 10 years) provides continuity and deep expertise [38:56](https://youtu.be/llGHpPbCtHo?t=2336).
+- Risk: Satellite‑data usability – limited number of analysts able to process raw images hampers broader commercial uptake [17:26](https://youtu.be/llGHpPbCtHo?t=1046).
+- Risk: Geopolitical security – satellites are critical “eyes and ears”; any launch or ground‑segment shutdown would cripple data delivery [25:38](https://youtu.be/llGHpPbCtHo?t=1538).
+- Black swan: Loss of satellite access from a major conflict or regulatory shutdown could abruptly stop Planet’s data flow to both defense and commercial customers [13:19](https://youtu.be/llGHpPbCtHo?t=799).
+
+**Key insights**
+- Space‑based compute could be 5× more power‑efficient than ground‑based solar, eliminating batteries and fossil backup, and potentially lowering AI‑data‑center operating costs [22:34](https://youtu.be/llGHpPbCtHo?t=1354).
+- Defense customers (US Navy, Ukraine) are already using Planet data for real‑time intelligence, proving a high‑value, mission‑critical use case [6:09‑5:09].
+- Sovereign governments are actively buying or sponsoring their own fleets to secure independent sensing, creating a new, less price‑elastic revenue stream [7:10‑8:13].
+
+**Jump to:**  
+[4:07](https://youtu.be/llGHpPbCtHo?t=247) defense revenue surge · [21:33](https://youtu.be/llGHpPbCtHo?t=1293) space‑based compute test launch · [22:34](https://youtu.be/llGHpPbCtHo?t=1354) orbital solar‑power economics
+
+## China’s Data Center Boom Goes Where Power Is Cheap | Switched On
+
+**Bloomberg Podcasts** · 25:36 · Nov 05 · [watch](https://www.youtube.com/watch?v=rII38_ChTag)
+
+**Bottom line:** China’s data‑center boom will be driven by cheap, renewable power in the north‑west, with coordinated national computing hubs giving the sector a clear capacity advantage over the U.S. and other regions.  
+
+**Signals:**  
+- 🟢 Bullish **China data‑center sector** – Faia Marzuki (BNF) cites live capacity expected to double from ~20 GW in 2025 to ~45‑46 GW by 2030, matching U.S. growth rates [2:01](https://youtu.be/rII38_ChTag?t=121)  
+- 🔴 Cautious **Beijing‑area data‑center growth** – BNF analyst notes the region will be “slow‑growing” and lose capacity share as expansion moves outward [16:15](https://youtu.be/rII38_ChTag?t=975)  
+- 🟡 Mixed **U.S. data‑center build‑out** – Faia Marzuki describes the market as a “wild west” with emerging regulation versus China’s coordinated approach [3:01](https://youtu.be/rII38_ChTag?t=181)  
+
+**Moats, risks & black swans:**  
+- Moat: **National computing hubs** – government‑backed sites provide superior power availability, coordinated energization and faster timelines, but impose efficiency targets (PUE ≈ 1.2) and 80 % green‑power requirements [19:16](https://youtu.be/rII38_ChTag?t=1156)  
+- Risk: **Grid‑infrastructure bottlenecks** – expansion may be limited by the need for new high‑voltage transmission lines and substations even where power is cheap [14:12](https://youtu.be/rII38_ChTag?t=852)  
+- Risk: **Intermittent renewables** – reliance on variable solar/wind and green‑energy certificates could pressure economics without added storage [22:20](https://youtu.be/rII38_ChTag?t=1340)  
+- Black swan: **Phantom projects** – grid operators could reject oversized data‑center proposals that lack realistic power‑delivery plans, halting expected capacity growth [15:13](https://youtu.be/rII38_ChTag?t=913)  
+
+**Key insights:**  
+- The north‑west region, currently only ~14 % of live capacity, holds >50 % of the development pipeline and is projected to supply ~1/3 of total 2030 capacity, driven by cheap renewable power and direct clean‑power connections [10:09](https://youtu.be/rII38_ChTag?t=609) – [11:11](https://youtu.be/rII38_ChTag?t=671)  
+- China’s power‑availability score is the highest in BNF’s global site‑selection rubric, giving it a systemic advantage despite occasional local grid delivery issues [13:12](https://youtu.be/rII38_ChTag?t=792)  
+- Coordinated national computing hubs bundle land, power and fiber, enforcing efficiency (PUE ≈ 1.2) and 80 % green‑power rules, which shapes developer location choices and project economics [19:16](https://youtu.be/rII38_ChTag?t=1156) – [21:20](https://youtu.be/rII38_ChTag?t=1280)  
+- AI‑training workloads, which tolerate higher latency, are increasingly sited in remote, low‑cost power deserts (north‑west), while latency‑sensitive services stay in eastern hubs like Shanghai and the Greater Bay Area [5:03](https://youtu.be/rII38_ChTag?t=303) – [7:07](https://youtu.be/rII38_ChTag?t=427)  
+
+**Jump to:** [2:01](https://youtu.be/rII38_ChTag?t=121) China data‑center sector bullish · [10:09](https://youtu.be/rII38_ChTag?t=609) North‑west pipeline dominance · [19:16](https://youtu.be/rII38_ChTag?t=1156) National computing hub moat and green‑power rules
+
+## Bringing Continual Learning to Every Company: Trajectory’s Ronak Malde
+
+**Sequoia Capital** · 31:54 · Nov 05 · [watch](https://www.youtube.com/watch?v=32vxW6GMeLY)
+
+**Bottom line:**  
+Trajectory’s platform promises to cut AI model costs ×6 and boost accuracy ×4‑5 for enterprise use‑cases, but scaling depends on fragile third‑party tracing tools and the ability to deliver fully automated continual‑learning pipelines.
+
+**Signals:**  
+- 🟢 Bullish – **Trajectory** (co‑founder Ronak Malde) – says the “one‑click train” UI removes a major engineering bottleneck, enabling rapid adoption across companies [16:16](https://youtu.be/32vxW6GMeLY?t=976)  
+- 🟢 Bullish – **Trajectory product team** – launched the UI that bundles trace ingestion, reward definition, evaluation and deployment, likened to Apple’s integration [16:16](https://youtu.be/32vxW6GMeLY?t=976)  
+- 🟢 Bullish – **Ronak Malde** – predicts “every single company” will adopt the end‑to‑end loop soon, implying fast market uptake [17:17](https://youtu.be/32vxW6GMeLY?t=1037)  
+- 🟡 Mixed – **Trajectory** – co‑founder notes current models still need massive research teams and hand‑holding consulting to go from data to intelligence [12:xx]  
+- 🟡 Mixed – **Ronak Malde** – sees huge upside for self‑improving “harness” but flags technical difficulty building such systems [26:25](https://youtu.be/32vxW6GMeLY?t=1585)  
+- 🔴 Cautious – **Continual‑learning infrastructure** – reliance on a fragmented set of third‑party tracing products could become a bottleneck if standards don’t converge [12:xx]  
+- 🔴 Cautious – **Recursive self‑improvement (RSI)** – black‑box self‑improving agents could misalign with human goals; continual learning with human‑in‑the‑loop is presented as a safer alternative [23:23](https://youtu.be/32vxW6GMeLY?t=1403)  
+
+**AI & private markets:**  
+- AI – Trajectory’s legal‑tech model for **Harvey** is **6 × cheaper** than frontier closed‑source models and improves benchmark accuracy from **~4 % to ~18 %** [8:08](https://youtu.be/32vxW6GMeLY?t=488)  
+- AI – “Group‑size‑one” GRPO algorithm learns from a single rollout instead of 8‑16, cutting simulated batch needs [14:15](https://youtu.be/32vxW6GMeLY?t=855)  
+- AI – New “meta‑grader” lets customers label ~100 traces out of 10,000 and propagates rewards, dramatically reducing manual labeling [15:16](https://youtu.be/32vxW6GMeLY?t=916)  
+- Private – **Rogo** used Trajectory to train a finance agent that is “several times more efficient” in token usage, lowering cost and speeding inference [19:18](https://youtu.be/32vxW6GMeLY?t=1158)  
+- Private – Trajectory’s research team includes alumni from **Gemini 3**, **Gemini Robotics**, **GPT‑4‑0** (OpenAI) and **Muse** (MSL); product hires from **Stripe** and **Netflix** [24:24](https://youtu.be/32vxW6GMeLY?t=1464)  
+- Private – Building a frontier model still costs “hundreds of millions of dollars” in compute and a 6‑9 month effort [5:04](https://youtu.be/32vxW6GMeLY?t=304)  
+
+**Moats, risks & black swans:**  
+- Moat: **Trajectory** – owns the “trajectory” (task) pipeline, combining rollout‑engine inference with token‑level work, reducing reliance on external token‑based pricing [10:10](https://youtu.be/32vxW6GMeLY?t=610)  
+- Moat: **Trajectory** – productionized research stack into micro‑services, Kubernetes autoscaling, and a rollout engine, giving a durable engineering edge over pure‑research labs [25:24](https://youtu.be/32vxW6GMeLY?t=1524)  
+- Risk: **Continual‑learning infrastructure** – fragmented third‑party tracing tools (Blankchain, Brain Trust, Raindrop) could bottleneck scaling [12:xx]  
+- Risk: **RSI misalignment** – black‑box self‑improving agents could act against human objectives; continual learning with human feedback is positioned as mitigation [23:23](https://youtu.be/32vxW6GMeLY?t=1403)  
+- Black swan: **Alignment failure** – autonomous agents without continuous alignment could “go rogue,” threatening enterprise deployments [30:30](https://youtu.be/32vxW6GMeLY?t=1830)  
+
+**Key insights:**  
+- The industry is shifting from “tokens as a unit of work” to “trajectories” (economic‑value tasks) as the core metric for continual‑learning pipelines [9:09](https://youtu.be/32vxW6GMeLY?t=549)  
+- Only ~1 % of enterprises have adopted AI today; Trajectory aims to raise that to ~99 % by automating manual workflows with production agents [30:30](https://youtu.be/32vxW6GMeLY?t=1830)  
+- Major AI labs (Google, Amazon, Meta) already rely on continual learning for recommender and ad systems, suggesting a precedent for enterprise adoption [27:26](https://youtu.be/32vxW6GMeLY?t=1646)  
+
+**Jump to:**  
+[8:08](https://youtu.be/32vxW6GMeLY?t=488) Harvey cost/accuracy win · [16:16](https://youtu.be/32vxW6GMeLY?t=976) One‑click train UI launch · [30:30](https://youtu.be/32vxW6GMeLY?t=1830) Enterprise adoption ambition & alignment risk
+
+## John Waldron on GDP Growth, AI, and the M&A Outlook
+
+**Goldman Sachs** · 20:22 · Nov 04 · [watch](https://www.youtube.com/watch?v=75SWUaCAeuQ)
+
+**Bottom line:**  
+Goldman Sachs sees a record‑high M&A year and strong US consumer demand, but remains cautious on European growth and its own organic growth, while betting on AI‑driven productivity and Asian financing hubs.
+
+**Signals:**  
+- 🟢 Bullish **US consumer demand** – John Waldron, cites “nominal growth north of 6%” indicating resilient spending. [2:11](https://youtu.be/75SWUaCAeuQ?t=131)  
+- 🔴 Cautious **European equities** – John Waldron, notes “sentiment in Europe is not good… Europe is under‑performing from a growth standpoint.” [0:00](https://youtu.be/75SWUaCAeuQ?t=0)  
+- 🔴 Cautious **Goldman Sachs organic growth** – John Waldron, admits “we have not done that many acquisitions… we are now building the capability to integrate acquisitions,” implying reliance on M&A rather than internal growth. [13:36](https://youtu.be/75SWUaCAeuQ?t=816)  
+- 🟢 Bullish **Asian financing hub** – John Waldron, “very optimistic on Asia’s economic growth and opportunity.” [8:22](https://youtu.be/75SWUaCAeuQ?t=502)  
+- 🟢 Bullish **Asset & wealth management** – John Waldron, “enormous wealth creation over 5‑10 years; Goldman well‑positioned to manage it.” [9:28](https://youtu.be/75SWUaCAeuQ?t=568)  
+
+**Moats, risks & black swans:**  
+- Moat: **Goldman Sachs** – “vast proprietary data, human judgment, and LLM‑driven tools give a durable advantage in client advisory.” [10:30](https://youtu.be/75SWUaCAeuQ?t=630)  
+- Moat: **Goldman Sachs culture** – Waldron calls culture “the defining asset” that underpins successful acquisitions. [15:41](https://youtu.be/75SWUaCAeuQ?t=941)  
+- Risk: **Automation lag** – “interstate‑highway‑type workflows have not been automated; risk of lagging productivity if not modernised.” [11:33](https://youtu.be/75SWUaCAeuQ?t=693)  
+- Risk: **Cultural dilution** – Waldron warns integration must protect “the defining asset” of culture as AI agents and diversification expand. [16:46](https://youtu.be/75SWUaCAeuQ?t=1006)  
+
+**Key insights:**  
+- Corporate M&A is up 30‑35% YTD, likely setting a record year, driven by a bias toward scale and AI spend. [7:18](https://youtu.be/75SWUaCAeuQ?t=438)  
+- Goldman expects AI compute capacity to expand dramatically, targeting 2027 as a “much bigger AI year” through partnerships with hyperscalers and LLM providers. [12:34](https://youtu.be/75SWUaCAeuQ?t=754)  
+- Asset managers are actively acquiring niche platforms (Industry Ventures, Innovator, NEOS Investments, LCN Capital Partners) to broaden coverage and distribution. [13:36](https://youtu.be/75SWUaCAeuQ?t=816)  
+- Talent pipeline for AI‑savvy hires is strong; “young talent will be very facile with the tools… extraordinary period for young talent.” [18:48](https://youtu.be/75SWUaCAeuQ?t=1128)  
+
+**Jump to:**  
+[0:00](https://youtu.be/75SWUaCAeuQ?t=0) European equities caution · [7:18](https://youtu.be/75SWUaCAeuQ?t=438) M&A volume surge · [12:34](https://youtu.be/75SWUaCAeuQ?t=754) AI compute scaling outlook
+
+## Skipped as off-topic
+
+- [Ariana Salvatore on Bloomberg Surveillance](https://www.youtube.com/watch?v=WJvxNrwjM74) — Morgan Stanley
+
+
+_Summaries by openai/gpt-oss-120b (open-source models)._
