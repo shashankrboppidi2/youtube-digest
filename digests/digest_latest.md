@@ -584,3 +584,247 @@ Microsoft’s $5 bn cap‑ex delay highlights the growing risk that smaller �
 _Problems this run: openai/gpt-oss-120b hit its free-tier limit, so later summaries are by qwen2.5:3b_
 
 _Summaries by openai/gpt-oss-120b and qwen2.5:3b (open-source models)._
+
+<!-- run 15:21Z -->
+
+## TL;DR
+
+**Most bullish:**
+- Nvidia — 3 videos — Nvidia’s high-voltage data-center architecture and Jensen Huang’s claim that compute equals revenue suggest continued upside for Nvidia’s AI chips.
+- Arista Networks — 1 video — Hosts praise their portfolio, including compute, storage, and networking in one stack, reinforcing their bullish stance.
+- Monolithic Power Systems — 1 video — Hosts highlight the company’s profitable, fabless power-chip business, cash-generating growth, and share-repurchase program.
+
+**Most cautious:**
+- Nvidia — 2 videos — JPMorgan cut its target from $7.70 to $4.50 and then to $3.70, reflecting weaker outlook for Chinese EV demand.
+- Nio — 2 videos — Nio’s stock is at a five-year low with the best price-to-value ratio since 2019, indicating a near-term valuation floor around $4-$5.
+
+**Trends:**
+- AI & private markets: Hyperscalers are winning when new data-center construction stalls by upgrading racks, power, and cooling, and existing data centers can boost AI compute by retrofitting legacy racks with higher-density Nvidia servers.
+- Credit markets see AI capex as a multi-trillion-dollar opportunity but view financing costs as still low, with spreads tight and the main risk being project-level cash-flow timing rather than a systemic credit squeeze.
+
+**Risks & black swans:**
+- Risk: Subsidy phase-out in China could limit AI capex and demand.
+- Risk: Project-level cash-flow timing issues could lead to cash hemorrhaging for lenders.
+- Risk: Potential policy or power-availability constraints could limit AI capex.
+- Black swan: Escalation of cyber threats could impact AI adoption and funding.
+
+**Private & pre-IPO watch:**
+- Applied Compute — Long memory-chip exposure, seen as the bottleneck for AI training.
+- Chai Discovery — Long memory-chip exposure, same reasoning.
+- New Limit — Short exposure due to concerns over antitrust scrutiny.
+- Physical Intelligence — Short exposure due to valuation misalignment with potential.
+
+## What Happens If Data Center Construction Stops?
+
+**Chip Stock Investor** · 14:56 · Nov 06 · [watch](https://www.youtube.com/watch?v=aTgrN6P0S6s)
+
+**Bottom line:**  
+Even if new data‑center construction stalls, existing hyperscaler facilities can keep driving AI growth by upgrading racks, power and cooling, so the AI‑related hardware playbook remains intact.
+
+**Signals:**
+- 🟢 **Bullish Arista Networks (ANET)** – Host says they now serve >10 AI‑accelerator firms and add compute, storage and networking in one stack, reinforcing their portfolio; they hold the stock. [10:25](https://youtu.be/aTgrN6P0S6s?t=625)
+- 🟢 **Bullish Nvidia (NVDA)** – Host cites Nvidia’s “high‑voltage data‑center architecture” and Jensen Huang’s claim “compute equals revenue,” implying continued upside for Nvidia’s AI chips. [4:09](https://youtu.be/aTgrN6P0S6s?t=249)
+- 🟢 **Bullish Monolithic Power Systems (MPWR)** – Host praises its profitable, fabless power‑chip business, cash‑generating growth and share‑repurchase program; they hold the stock. [13:28](https://youtu.be/aTgrN6P0S6s?t=808)
+
+**AI & private markets:**
+- Hyperscalers win when new builds halt because they already own large, operational data‑center capacity, giving them a competitive edge. [3:05](https://youtu.be/aTgrN6P0S6s?t=185)
+- Existing data centers can boost AI compute by retrofitting legacy racks with higher‑density Nvidia “Vera Rubin” servers, delivering more FLOPs per watt. [4:09](https://youtu.be/aTgrN6P0S6s?t=249)
+- Power‑upgrade path (high‑voltage switchgear, on‑site generation, Bloom Energy fuel cells) lets firms add compute without new grid capacity. [5:11‑6:12]
+- Liquid‑cooling (CDUs, chillers) from vendors like Vertiv and Flex becomes essential as air‑cooling hits limits with next‑gen racks. [6:12‑7:15]
+
+**Moats, risks & black swans:**
+- **Moat:** Arista – end‑to‑end Ethernet fabric and AI‑accelerator integration lock in large cloud customers. [10:25](https://youtu.be/aTgrN6P0S6s?t=625)
+- **Moat:** Nvidia – dominant GPU/IP ecosystem and high‑voltage data‑center architecture that few rivals can match. [4:09](https://youtu.be/aTgrN6P0S6s?t=249)
+- **Moat:** Monolithic Power – best‑in‑class, profitable power‑chip portfolio that can be quickly re‑engineered for new designs. [13:28](https://youtu.be/aTgrN6P0S6s?t=808)
+- **Risk:** CapEx slowdown could pressure AI‑related revenue if hyperscalers cannot translate existing capacity into growth fast enough. [8:18‑9:20]
+- **Black swan:** State‑level bans on any data‑center activity (new builds *and* upgrades) could force firms to relocate, disrupting supply chains. [8:18](https://youtu.be/aTgrN6P0S6s?t=498)
+
+**Key insights:**
+- Upgrading existing racks can deliver a 2‑3× compute boost with the same power draw, making “upgrade‑instead‑build” a viable short‑term growth lever. [4:09](https://youtu.be/aTgrN6P0S6s?t=249)
+- Power‑system upgrades (high‑voltage switchgear, on‑site generation) are the first bottleneck before adding more servers; vendors like Bloom Energy are positioned to benefit. [5:11‑6:12]
+- Liquid‑cooling adoption is imminent as air‑cooling reaches capacity limits for next‑gen AI servers; cooling specialists (Vertiv, Flex) stand to see demand surge. [6:12‑7:15]
+- The capex‑to‑revenue cycle may be flattening, allowing hyperscalers to grow AI revenue faster than they spend on new builds—a soft hedge for semiconductor stocks. [8:18‑9:20]
+
+**Jump to:**  
+[4:09](https://youtu.be/aTgrN6P0S6s?t=249) upgrade legacy racks for more compute · [6:12](https://youtu.be/aTgrN6P0S6s?t=372) power‑system upgrades & high‑voltage architecture · [10:25](https://youtu.be/aTgrN6P0S6s?t=625) Arista’s AI‑accelerator ecosystem expansion
+
+## NIO’s Growth Streak DEAD: What JPMorgan Knows That You Don’t
+
+**The Market Monkeys** · 9:34 · Nov 06 · [watch](https://www.youtube.com/watch?v=CRCDkapmzYs)
+
+**Bottom line:** Nio’s deliveries are still growing year‑to‑date, but a one‑month decline and a sharp cut in JPMorgan’s price target signal a near‑term valuation floor around $4‑$5, making the stock a potentially attractive entry point for value‑focused investors.
+
+**Signals:**
+- 🟢 Bullish **Nio** – Vadim (Market Monkeys) says the stock is at a five‑year low with the best price‑to‑value ratio since 2019, implying upside if bought now [7:10](https://youtu.be/CRCDkapmzYs?t=430).
+- 🔴 Cautious **Nio** – JPMorgan cut its target from $7.70 to $4.50 and then to $3.70, reflecting weaker outlook for Chinese EV demand [7:10](https://youtu.be/CRCDkapmzYs?t=430).
+- 🔴 Cautious **Chinese EV sector** – Overall Chinese EV deliveries fell >20% YoY in September, indicating sector‑wide demand weakness [4:06](https://youtu.be/CRCDkapmzYs?t=246).
+
+**Moats, risks & black swans:**
+- Risk: **Subsidy phase‑out** – Chinese government ended EV purchase subsidies, causing a demand drop that hit Nio and peers hard [5:06](https://youtu.be/CRCDkapmzYs?t=306).
+- Risk: **Volatile stock performance** – Nio’s share price fell >40% in six months, more than peers, showing higher volatility risk [6:08](https://youtu.be/CRCDkapmzYs?t=368).
+
+**Key insights:**
+- Nio’s YTD deliveries are 332 k vs. 326 k last year, a 38.5% YoY growth despite the October dip, showing strong underlying demand [3:04](https://youtu.be/CRCDkapmzYs?t=184).
+- Chinese EV market September deliveries were 1.7 M, down >20% YoY, the biggest sector contraction in recent years [4:06](https://youtu.be/CRCDkapmzYs?t=246).
+- Average Wall Street target for Nio remains >$6, implying ~85% upside from current price, but JPMorgan’s aggressive downgrade suggests the upside may be limited to the next cycle [8:12](https://youtu.be/CRCDkapmzYs?t=492).
+
+**Jump to:** [3:04](https://youtu.be/CRCDkapmzYs?t=184) Nio YTD delivery growth · [4:06](https://youtu.be/CRCDkapmzYs?t=246) Chinese EV market slump · [7:10](https://youtu.be/CRCDkapmzYs?t=430) JPMorgan price‑target cuts and valuation floor
+
+## A Credit Perspective on the AI Buildout
+
+**Morgan Stanley** · 9:22 · Nov 06 · [watch](https://www.youtube.com/watch?v=o5uvN2DytNE)
+
+**Bottom line:** Credit markets see AI capex as a multi‑trillion‑dollar opportunity but view financing costs as still low, with spreads tight and the main risk being project‑level cash‑flow timing rather than a systemic credit squeeze.  
+
+**AI & private markets:**  
+- AI‑related capital expenditures are estimated at “trillions of dollars” globally, driving demand for both investment‑grade and non‑investment‑grade financing. [1:02](https://youtu.be/o5uvN2DytNE?t=62)  
+- Credit spreads on AI‑related debt are described as “tight” and at “all‑time lows” for the year, suggesting no immediate pricing pressure from the AI build‑out. [4:04](https://youtu.be/o5uvN2DytNE?t=244)  
+- Data‑center construction tied to AI workloads typically takes 12–24 months from shovel‑in‑the‑ground to completion, assuming a “friendly and conducive” environment. [8:10](https://youtu.be/o5uvN2DytNE?t=490)  
+- The discussion notes that a slowdown in AI capex would mainly delay gratification for investors rather than trigger credit defaults, because capacity can be scaled up or down by management. [7:09](https://youtu.be/o5uvN2DytNE?t=429)  
+
+**Moats, risks & black swans:**  
+- Risk: Project‑level cash‑flow timing – if cash disbursements during data‑center build‑out are mis‑managed, lenders could face “cash hemorrhaging.” [6:07](https://youtu.be/o5uvN2DytNE?t=367)  
+- Risk: Potential policy or power‑availability constraints could limit AI capex, but the speakers see this as a “cautious” equity‑market concern, not a credit‑market one. [6:07](https://youtu.be/o5uvN2DytNE?t=367)  
+
+**Key insights:**  
+- Credit investors are focused on “what can go wrong” and the contractual details of project finance, rather than the overall AI valuation thesis. [5:06](https://youtu.be/o5uvN2DytNE?t=306)  
+- Despite “energy instability” and other macro headwinds, issuer earnings have been “double‑digit quarter‑after‑quarter,” supporting a strong credit backdrop. [3:03](https://youtu.be/o5uvN2DytNE?t=183)  
+- The pace of AI capex is driven by company ambition; investors can adjust capital deployment without materially affecting credit conditions. [7:09](https://youtu.be/o5uvN2DytNE?t=429)  
+
+**Jump to:**  
+[1:02](https://youtu.be/o5uvN2DytNE?t=62) AI capex magnitude · [4:04](https://youtu.be/o5uvN2DytNE?t=244) Credit spreads tight · [8:10](https://youtu.be/o5uvN2DytNE?t=490) Data‑center build timeline
+
+## Situational Awareness 2.0?: The TRUTH about Hedge Fund Blow Ups
+
+**The Wall Street Skinny** · 2:54 · Nov 06 · [watch](https://www.youtube.com/shorts/vx9Ols4p8_I)
+
+**Bottom line:**  
+Leo Asher Brener’s AI‑focused hedge fund collapsed after a 4× leveraged bet that memory chips would out‑perform logic chips, illustrating how quickly AI‑related bets can reverse and why leverage is a critical risk.
+
+**Signals:**  
+- 🟢 Bullish **Citadel** (no ticker) – bought the entire public‑equity book of Brener’s fund after the margin call, indicating confidence in the underlying positions [1:45](https://youtu.be/vx9Ols4p8_I?t=105)  
+- 🔴 Cautious **Nvidia** (NVDA) – Brener shorted Nvidia, arguing logic chips were overbought; the short lost as the trade unraveled [1:30](https://youtu.be/vx9Ols4p8_I?t=90)  
+- 🔴 Cautious **Broadcom** (AVGO) – short position for the same logic‑chip overvaluation thesis [1:30](https://youtu.be/vx9Ols4p8_I?t=90)  
+- 🔴 Cautious **AMD** (AMD) – short position for the same logic‑chip overvaluation thesis [1:30](https://youtu.be/vx9Ols4p8_I?t=90)  
+- 🟢 Bullish **SK Hynix** (000660.KS) – long memory‑chip exposure, seen as the bottleneck for AI training [1:55](https://youtu.be/vx9Ols4p8_I?t=115)  
+- 🟢 Bullish **SanDisk** (NASDAQ: SNDK) – long memory‑chip exposure, same reasoning [1:55](https://youtu.be/vx9Ols4p8_I?t=115)  
+- 🔴 Cautious **Workday** (WDAY) – shorted on the belief AI applications would “destroy” existing software [1:20](https://youtu.be/vx9Ols4p8_I?t=80)  
+- 🔴 Cautious **Adobe** (ADBE) – shorted on the same software‑application thesis [1:20](https://youtu.be/vx9Ols4p8_I?t=80)  
+- 🔴 Cautious **Salesforce** (CRM) – shorted on the same software‑application thesis [1:20](https://youtu.be/vx9Ols4p8_I?t=80)  
+- 🔴 Cautious **Inuit** (ticker not given) – shorted on the same software‑application thesis [1:20](https://youtu.be/vx9Ols4p8_I?t=80)  
+
+**AI & private markets:**  
+- Leo Brener held a **$5 billion stake in Anthropic**, reflecting confidence in the model layer of AI [1:15](https://youtu.be/vx9Ols4p8_I?t=75)  
+- Brener’s fund grew **AUM from $0 to $45 billion** (peak July 1) then fell to **$10 billion by month‑end** after the trade imploded [0:30](https://youtu.be/vx9Ols4p8_I?t=30)  
+- He projected **AGI by 2027** and **super‑intelligence by 2030**, driving his “infrastructure‑of‑the‑decade” conviction [0:45](https://youtu.be/vx9Ols4p8_I?t=45)  
+- Private‑equity‑style bets: **Bloom Energy** (energy layer), **Cororeweave** and **Nebius** (neoclouds), **Iran** and **Core Scientific** (data‑center operators) – all cited as infrastructure plays [1:05](https://youtu.be/vx9Ols4p8_I?t=65)  
+
+**Moats, risks & black swans:**  
+- **Risk:** 4× leverage on the fund amplified losses and triggered a margin call [0:55](https://youtu.be/vx9Ols4p8_I?t=55)  
+- **Risk:** Over‑reliance on memory‑chip scarcity; the trade assumed HBM bottleneck would drive memory stocks higher [1:55](https://youtu.be/vx9Ols4p8_I?t=115)  
+- **Moat:** Anthropic’s large‑scale model development, justified by a $5 billion stake, could give it a competitive edge in the model layer [1:15](https://youtu.be/vx9Ols4p8_I?t=75)  
+
+**Key insights:**  
+- The **semiconductor ETF (SMH) fell 10 % in one day**, a larger single‑day drop than any day in July, underscoring volatility in AI‑related hardware [0:05](https://youtu.be/vx9Ols4p8_I?t=5)  
+- **Leverage magnifies both upside and downside**; a 1,000 % AUM growth turned into a 78 % drop when the trade reversed [0:30](https://youtu.be/vx9Ols4p8_I?t=30)  
+- **Memory chips (DRAM/HBM, NAND) were identified as the primary bottleneck for AI training**, leading to long positions in SK Hynix and SanDisk [1:55](https://youtu.be/vx9Ols4p8_I?t=115)  
+
+**Jump to:**  
+[0:05](https://youtu.be/vx9Ols4p8_I?t=5) SMH 10% drop · [1:15](https://youtu.be/vx9Ols4p8_I?t=75) $5 B Anthropic stake · [1:55](https://youtu.be/vx9Ols4p8_I?t=115) Memory‑chip long thesis vs. logic‑chip shorts
+
+## The Hidden Capital Crunch Behind Silicon Valley’s AI Boom
+
+**Invest Like The Best** · 49:34 · Nov 06 · [watch](https://www.youtube.com/watch?v=r95bEutZUN4)
+
+**Bottom line:** The investor learns that the AI industry is experiencing significant growth, with spending expected to grow at a CAGR of 40% over the next five years, driven by the increasing adoption of AI in various sectors. Private companies are raising record amounts of capital, and companies like Anthropic and DataBricks are expected to benefit from this trend.
+
+**Signals:**
+- 🔴 Cautious on Private: New Limit, Chai Discovery, Applied Compute, Physical Intelligence
+
+**Moats, risks & black swans:**
+- Moat: Applied Compute — Data and knowledge ownership
+- Risk: Venture funding — Overfunding, competition for capital
+- Black swan: Regulatory changes — Could impact AI adoption and funding
+
+**Key insights:**
+- AI growth and adoption rates are unprecedented, warranting frothiness
+- Private companies are raising record amounts of capital, with some companies getting preferential pricing
+- Rounds are happening faster than ever, with secondary trunching becoming a common occurrence
+
+**Jump to:**
+[45:42](https://youtu.be/r95bEutZUN4?t=2742) · [46:43](https://youtu.be/r95bEutZUN4?t=2803) · [47:45](https://youtu.be/r95bEutZUN4?t=2865) · [48:45](https://youtu.be/r95bEutZUN4?t=2925)
+
+## What Is a GPU Worth? Resale & Useful Life | Thomas Galbraith, Barkr | GTC Berlin 2026
+
+**Ben Pouladian ** · 12:29 · Nov 06 · [watch](https://www.youtube.com/watch?v=2LXL09rpntU)
+
+**Bottom line:** Thomas Galbraith from Barker provides insights into how GPUs are valued and their useful life, emphasizing that the market often underestimates the longevity of these assets, which can be used for resale and rental, and can be more liquid and secure than other forms of compute.
+
+**Moats, risks & black swans:**
+- Moat: Nvidia, Risk: Depreciation of GPU assets, Black swan: Market turbulence affecting bond yields and valuations
+
+**Key insights:**
+- GPUs have a much longer useful life than the market expects, with resale data indicating a lifespan of 6 years or more.
+- The AI industry is in its early stages, with compute assets like GPUs having a significant useful life due to their unique applications in AI.
+- The market often underestimates the longevity of GPU assets, leading to mispriced valuations and market volatility.
+
+**Jump to:**
+- [6:07](https://youtu.be/2LXL09rpntU?t=367) GPU valuation methodology
+- [10:11](https://youtu.be/2LXL09rpntU?t=611) The gap in market understanding of GPU useful life
+
+## The Information  |  TITV  |  November 05, 2026
+
+**The Information** · 31:06 · Nov 06 · [watch](https://www.youtube.com/watch?v=DlcoL62B_EI)
+
+**Bottom line:** The video provides insights into Microsoft's capex spending delays and the impact on their data center investments, as well as an update on Digital Ocean's cloud platform and its potential market share in the AI industry.
+
+**Moats, risks & black swans:**
+- Moat: Digital Ocean — Strong market position and differentiated cloud platform, [30:06](https://youtu.be/DlcoL62B_EI?t=1806)
+- Risk: Cyber incidents in the AI industry, [12:34](https://youtu.be/DlcoL62B_EI?t=754)
+- Black swan: Escalation of cyber threats, [12:34](https://youtu.be/DlcoL62B_EI?t=754)
+
+**Key insights:**
+- Digital Ocean is guiding to 60% growth for the next year, significantly higher than current guidance, [20:51](https://youtu.be/DlcoL62B_EI?t=1251)
+- Digital Ocean is differentiating itself by offering a whole cloud platform, including databases, data services, and storage, [21:52](https://youtu.be/DlcoL62B_EI?t=1312)
+- Digital Ocean is a software company monetizing a software platform, not just reselling hardware, [22:53](https://youtu.be/DlcoL62B_EI?t=1373)
+- Digital Ocean is confident in software monetization as the need for sophisticated software is increasing, [23:55](https://youtu.be/DlcoL62B_EI?t=1435)
+
+**Jump to:** [15:43](https://youtu.be/DlcoL62B_EI?t=943) · [20:51](https://youtu.be/DlcoL62B_EI?t=1251) · [30:06](https://youtu.be/DlcoL62B_EI?t=1806)
+
+## Google Loses $500B in 12 Hours | DoorDash Buys Instacart for $17B | Kalshi Raises $1B
+
+**20VC with Harry Stebbings** · 1:08:21 · Nov 05 · [watch](https://www.youtube.com/watch?v=4nKt18AZDsQ)
+
+**Bottom line:** Harry Stebbings provides insights into the AI industry, private market investments, and potential risks, offering signals for bullish or cautious positions.
+
+**Signals:**
+- 🔴 Cautious on Hugging Face — concerns over antitrust scrutiny could disrupt M&A deals.
+- 🔴 Cautious on Physical Intelligence — physical intelligence is an exciting new space, but its valuation is not aligned with its potential.
+
+**Moats, risks & black swans:**
+- Moat: Service Now — a much bigger market than expected, with significant TAM expansion potential.
+- Risk: Human plus AI delivery model — potential issues with a small number of key partners leaving a prestigious law firm.
+- Risk: Founders and big players often require at least $100 million in revenue for M&A deals, making smaller, less mature companies like Cresta less attractive.
+- Black Swan: Salesforce — if Salesforce's M&A activity slows down, it could negatively impact the venture capital ecosystem and the ability of funds to achieve their investment goals.
+
+**Key insights:**
+- AI: Pricing pressure is affecting the AI industry, with some companies offering discounts, potentially impacting the ability to command a price premium.
+- AI: Year-over-year growth rate of 12x for Anthropic, with a projected 120 billion in gap revenue next year, suggesting a slowdown to 2x growth rate.
+- AI: Muse and Instinct are expected to cost more than $20 per user per month, with Instinct potentially costing more due to persistent agents.
+- Private: Kalshi — Sequoia — Sequoia owns 8.1% of Instacart.
+- Private: Crosby law firm shutting down due to a partner dispute.
+
+**Jump to:** [12:15](https://youtu.be/4nKt18AZDsQ?t=735) · [23:26](https://youtu.be/4nKt18AZDsQ?t=1406) · [35:34](https://youtu.be/4nKt18AZDsQ?t=2134)
+
+## Skipped as off-topic
+
+- [Here's Why Gerrymandering Failed in the US Midterms | Here's Why](https://www.youtube.com/watch?v=Eh-QewS0kWE) — Bloomberg Podcasts
+- [Modernizing your Wealth Strategy](https://www.youtube.com/watch?v=wTQbDVUpKjs) — Morgan Stanley
+
+## No transcript available
+
+- [Goldman Sachs' Lee Coppersmith discusses why the S&P 500 rose following this week's Fed decision](https://www.youtube.com/shorts/txfO211yLmo) — Goldman Sachs
+
+_Problems this run: openai/gpt-oss-120b hit its free-tier limit, so later summaries are by qwen2.5:3b_
+
+_Summaries by openai/gpt-oss-120b and qwen2.5:3b (open-source models)._
