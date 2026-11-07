@@ -599,3 +599,120 @@ Broadcom and Oracle are highlighted as the only clear buying opportunities, whil
 _Problems this run: openai/gpt-oss-120b hit its free-tier limit, so later summaries are by qwen2.5:3b_
 
 _Summaries by openai/gpt-oss-120b and qwen2.5:3b (open-source models)._
+
+<!-- run 14:19Z -->
+
+## TL;DR
+
+**Most bullish:**  
+- **Alphabet** — 1 video — Greg Abel’s larger stake seen as a “play on AI” and confidence in Alphabet’s non‑AI moats (Berkshire Hathaway Makes Record $9.6 Billion Buyback).  
+- **Hyperscalers** — 1 video — Dan Ives says Amazon, Microsoft and Google are “at the top of the mountain” with gigawatt‑scale capacity that will keep driving AI spend (AI Trade Faces a Post‑Election Reality Check).  
+
+**Most cautious:**  
+- **AMD** — 1 video — Chip stocks fell 12% as Dan Ives viewed AMD as “on the wrong side” of the AI sell‑off (AI Trade Faces a Post‑Election Reality Check).  
+- **NVIDIA** — 1 video — Same 12% drop; Dan Ives warned data‑center cap‑ex could stall after the election (AI Trade Faces a Post‑Election Reality Check).  
+- **Nasdaq‑100** — 1 video — Bloomberg analysts note the index’s steep drop and lingering uncertainty about AI‑driven volatility after the jobs report (US Jobs Surge Raises Odds of December Fed Rate Hike).  
+
+**Trends:**  
+- AI cap‑ex remains massive, projected at **$3‑4 trillion** total spend, with big‑tech cap‑ex expected to hit **28‑29 %** of revenue next year (AI Trade Faces a Post‑Election Reality Check).  
+- Midterm election backlash caused a short‑term sell‑off in AI‑related stocks, but many view it as overdone, creating buying opportunities for the sector’s strongest players (AI Trade Faces a Post‑Election Reality Check).  
+
+**Risks & black swans:**  
+- Potential downside from a continued sell‑off in Alphabet shares could erode Berkshire’s new stake (Berkshire Hathaway Makes Record $9.6 Billion Buyback).  
+- U.S. government shutdown tied to the debt‑ceiling standoff could halt official BLS data releases, increasing reliance on alternative data (US Jobs Surge Raises Odds of December Fed Rate Hike).  
+- Data‑center cap‑ex slowdown after the election could curb demand for NVIDIA and AMD chips (AI Trade Faces a Post‑Election Reality Check).  
+
+**Private & pre‑IPO watch:**  
+- **Bending Spoons** — Italian AI company; Berkshire participated in its IPO, indicating exposure to private AI ventures (Berkshire Hathaway Makes Record $9.6 Billion Buyback).  
+- **Anthropic** — AI startup; IPO valuation now debated at **$1‑1.5 trillion** (down from $2 trillion) with upside potential if priced at the lower end (AI Trade Faces a Post‑Election Reality Check).
+
+## Berkshire Hathaway Makes Record $9.6 Billion Buyback
+
+**Bloomberg Podcasts** · 5:31 · Nov 07 · [watch](https://www.youtube.com/watch?v=zxaAFF6Oc0w)
+
+**Bottom line:** Berkshire’s $9.6 bn share repurchase and $357 bn cash pile signal strong balance‑sheet confidence, while Greg Abel’s accelerated equity buying—including a larger stake in Alphabet as an AI play—shows the conglomerate is positioning for growth in tech‑heavy assets.
+
+**Signals:**
+- 🟢 Bullish **Alphabet** (GOOGL), Greg Abel’s increased purchases as a “play on AI” and to capture its non‑AI moats, despite a recent $1 bn‑$1.5 bn paper loss, [4:08](https://youtu.be/zxaAFF6Oc0w?t=248)  
+
+**AI & private markets:**
+- Berkshire’s larger Alphabet stake reflects confidence in AI‑driven growth and broader competitive advantages, [4:08](https://youtu.be/zxaAFF6Oc0w?t=248)  
+- Participation in the IPO of **Bending Spoons**, an Italian AI company that acquires and rehabilitates tech firms, indicating exposure to private AI ventures, [4:30](https://youtu.be/zxaAFF6Oc0w?t=270)  
+
+**Moats, risks & black swans:**
+- Moat: Berkshire’s insurance business is backed primarily by equities rather than fixed‑income, insulating it from bond‑market volatility, [1:02](https://youtu.be/zxaAFF6Oc0w?t=62)  
+- Risk: Potential downside from a continued sell‑off in Google/Alphabet shares could erode the value of the new stake, though impact appears limited so far, [4:08](https://youtu.be/zxaAFF6Oc0w?t=248)  
+
+**Key insights:**
+- The $9.6 bn Q3 buyback was the largest ever for Berkshire, reflecting a belief the stock was undervalued after a price rally, [0:30](https://youtu.be/zxaAFF6Oc0w?t=30)  
+- Berkshire holds $357 bn in cash, the largest of any insurer, giving it ample firepower for opportunistic equity purchases, [1:02](https://youtu.be/zxaAFF6Oc0w?t=62)  
+- Greg Abel has deployed roughly half the capital in 2026 that Warren Buffett deployed over the prior four years, indicating a more aggressive capital‑allocation pace, [3:04](https://youtu.be/zxaAFF6Oc0w?t=184)  
+
+**Jump to:** [0:30](https://youtu.be/zxaAFF6Oc0w?t=30) $9.6 bn buyback · [1:02](https://youtu.be/zxaAFF6Oc0w?t=62) $357 bn cash pile · [4:08](https://youtu.be/zxaAFF6Oc0w?t=248) Alphabet AI stake increase
+
+## US Jobs Surge Raises Odds of December Fed Rate Hike
+
+**Bloomberg Podcasts** · 7:18 · Nov 07 · [watch](https://www.youtube.com/watch?v=Svq6gZo71t0)
+
+**Bottom line:**  
+The surprisingly strong job gains in professional and business services—especially administrative services and management consulting—have pushed market odds for a December Fed rate hike back up to about 76%, suggesting tighter monetary policy may still be on the table despite recent AI‑related sell‑offs.
+
+**Signals:**  
+- 🔴 Cautious **Nasdaq‑100** (no ticker given), Bloomberg analysts note the market’s odds of a December rate hike fell to 65% after the steepest Nasdaq‑100 drop since March 2020, then rebounded to 76% following the jobs report, highlighting lingering uncertainty about AI‑driven market volatility. [3:05](https://youtu.be/Svq6gZo71t0?t=185)  
+
+**AI & private markets:**  
+- Grok Bot, described as a “personal chief of staff,” could eventually displace administrative‑service roles that saw recent hiring gains, implying future headcount risk for that segment. [2:03](https://youtu.be/Svq6gZo71t0?t=123)  
+- Management‑consulting jobs surged, but details are scarce; the growth may reflect short‑term demand for AI‑implementation advice rather than long‑term hiring trends. [1:03](https://youtu.be/Svq6gZo71t0?t=63)  
+
+**Moats, risks & black swans:**  
+- Risk: **U.S. government shutdown** risk tied to the debt‑ceiling standoff could halt official BLS data releases, increasing reliance on Bloomberg’s alternative‑data price tracker. [6:11](https://youtu.be/Svq6gZo71t0?t=371)  
+
+**Key insights:**  
+- Professional and business services added the most jobs, driven by administrative services and management consulting, sectors previously thought vulnerable to AI‑driven layoffs. [0:00‑1:03]  
+- Manufacturing, warehousing, and transportation saw the steepest job‑loss declines, indicating a shift in labor demand away from traditionally “blue‑collar” areas. [0:00‑1:03]  
+- Bloomberg’s new “price project” rebuilds CPI using granular alternative data (credit‑card transactions, grocery scanner data, etc.) to provide an independent inflation read, especially useful if official statistics are disrupted. [4:07‑5:08]  
+
+**Jump to:**  
+[0:00](https://youtu.be/Svq6gZo71t0?t=0) job growth in professional services · [3:05](https://youtu.be/Svq6gZo71t0?t=185) Fed hike odds rebound · [4:07](https://youtu.be/Svq6gZo71t0?t=247) Bloomberg price project rollout
+
+## AI Trade Faces a Post-Election Reality Check
+
+**Bloomberg Podcasts** · 12:21 · Nov 07 · [watch](https://www.youtube.com/watch?v=KkZjNgORqck)
+
+**Bottom line:**  
+The midterm election backlash has temporarily dented AI‑related stocks, but investors see the sell‑off as overdone; AI cap‑ex of $3‑4 trillion remains on track, and the Anthropic IPO valuation is likely to be trimmed to $1‑1.5 trillion, creating a buying opportunity for the sector’s strongest players.
+
+**Signals:**  
+- 🔴 Cautious **NVIDIA** – chip stocks fell 12% on fears data‑center cap‑ex could stall after the election, despite long‑term demand; Dan Ives highlighted the over‑reaction [6:10](https://youtu.be/KkZjNgORqck?t=370)  
+- 🔴 Cautious **AMD** – same 12% drop as NVIDIA, viewed as “on the wrong side” of the AI sell‑off; Dan Ives [6:10](https://youtu.be/KkZjNgORqck?t=370)  
+- 🟢 Bullish **Hyperscalers** (e.g., Amazon, Microsoft, Google) – Dan Ives said they “are at the top of the mountain” with gigawatt‑scale capacity and will continue to drive AI spend; [6:10](https://youtu.be/KkZjNgORqck?t=370)  
+- 🟡 Mixed **Anthropic** – valuation debate from $2 trillion down to $1‑1.5 trillion; Max Ketche (HSBC) urges conservative pricing, suggesting upside if IPO succeeds at lower range [8:16](https://youtu.be/KkZjNgORqck?t=496)  
+
+**AI & private markets:**  
+- AI cap‑ex projected at **$3‑4 trillion** total spend, expected to be more elongated than previously thought; Dan Ives [2:00](https://youtu.be/KkZjNgORqck?t=120)  
+- Big‑tech cap‑ex peak expected at **28‑29%** of revenue next year, indicating strong near‑term investment; Dan Ives [2:00](https://youtu.be/KkZjNgORqck?t=120)  
+- **Anthropic IPO** valuation range now **$1‑1.5 trillion** (down from $2 trillion) as investors reassess after the sell‑off; Natalia Kniazhevich citing Max Ketche [8:16](https://youtu.be/KkZjNgORqck?t=496)  
+- Chip sector sell‑off deemed “overdone” with **12%** drop in major chip stocks; Dan Ives [6:10](https://youtu.be/KkZjNgORqck?t=370)  
+
+**Moats, risks & black swans:**  
+- Moat: **Hyperscalers** – control of gigawatt‑scale data‑center capacity gives them a durable advantage over competitors; Dan Ives [6:10](https://youtu.be/KkZjNgORqck?t=370)  
+- Risk: **Regulatory backlash** – anti‑AI data‑center rhetoric in Texas and DC could slow cap‑ex and give China a competitive edge; Dan Ives [3:01](https://youtu.be/KkZjNgORqck?t=181)  
+- Black swan: **Political over‑regulation** – if U.S. policymakers heavily restrict AI, it could shift the global AI arms race to China; Dan Ives [11:24](https://youtu.be/KkZjNgORqck?t=684)  
+
+**Key insights:**  
+- The election‑driven market swing was driven more by **technical selling** (systematic funds) than by fundamentals, leaving “dry powder” for a short‑term rally; Dan Ives [5:06](https://youtu.be/KkZjNgORqck?t=306)  
+- Chip stocks’ 12% decline is **disproportionate** to underlying demand, which remains at a **12‑to‑1** order‑to‑capacity ratio for hyperscalers; Dan Ives [6:10](https://youtu.be/KkZjNgORqck?t=370)  
+- Investors are **skeptical of policy impact**, viewing the anti‑AI narrative as a temporary “blip” rather than a lasting shift; Natalia Kniazhevich [4:03](https://youtu.be/KkZjNgORqck?t=243)  
+- The AI trade’s ripple effect now touches **energy, aerospace, and industrials**, making AI a cross‑sector growth engine for the next multi‑year cap‑ex cycle; Dan Ives [11:24](https://youtu.be/KkZjNgORqck?t=684)  
+
+**Jump to:**  
+[2:00](https://youtu.be/KkZjNgORqck?t=120) AI cap‑ex outlook & big‑tech spending · [6:10](https://youtu.be/KkZjNgORqck?t=370) Chip sell‑off & hyperscaler moat · [8:16](https://youtu.be/KkZjNgORqck?t=496) Anthropic IPO valuation debate
+
+## Skipped as off-topic
+
+- [Stephen Miller's Elevation Sets Up Clash With Democrats](https://www.youtube.com/watch?v=Oo5bz-KDv40) — Bloomberg Podcasts
+- [BTW: Headlines You May Have Missed](https://www.youtube.com/watch?v=l715yOjLUcA) — Bloomberg Podcasts
+- [Democrat Wave Could Reshape Trump's Foreign Policy](https://www.youtube.com/watch?v=btWVAV-FguE) — Bloomberg Podcasts
+
+
+_Summaries by openai/gpt-oss-120b (open-source models)._
