@@ -85,3 +85,43 @@ The scandal around Jensen Huang and the ensuing board probe adds short‑term 
 
 
 _Summaries by openai/gpt-oss-120b (open-source models)._
+
+<!-- run 13:48Z -->
+
+## I Waited Months For This Market Crash - Here's What I’m Doing
+
+**The Market Monkeys** · 17:14 · Nov 09 · [watch](https://www.youtube.com/watch?v=3UlahRUHxv8)
+
+**Bottom line:** The market’s panic over AI cap‑ex is overstated; Micron already has most of its 2027‑28 memory capacity contracted and is trading at a deep discount, making the current dip a potentially attractive entry point.
+
+**Signals:**
+- 🟢 Bullish **Micron** – host says 75% of 2027 capacity is sold and contracts exist for 2028; guidance of $61.5 B ± $1.5 B revenue and $38.15 EPS plus a sub‑4× P/E suggests upside [9:09](https://youtu.be/3UlahRUHxv8?t=549).
+- 🟢 Bullish **SK Hynix** – noted that its DRAM and HBM are “effectively sold out through 2029,” implying strong demand and pricing power [10:10](https://youtu.be/3UlahRUHxv8?t=610).
+- 🔴 Cautious **AI‑lab business models** – risk that AI labs may prove unprofitable, which would hurt memory demand and the broader AI rally [15:16](https://youtu.be/3UlahRUHxv8?t=916).
+
+**Moats, risks & black swans:**
+- Moat: **Micron** – memory shortage makes DRAM a bottleneck for AI compute, giving Micron pricing leverage [11:10](https://youtu.be/3UlahRUHxv8?t=670).
+- Moat: **SK Hynix** – long‑term sold‑out DRAM/HBM contracts through 2029 secure revenue streams [10:10](https://youtu.be/3UlahRUHxv8?t=610).
+- Risk: **Regulatory slowdown** – Texas moratorium on new data‑center projects could delay cap‑ex and reduce near‑term chip demand [0:45](https://youtu.be/3UlahRUHxv8?t=45).
+- Risk: **AI‑lab profitability** – if hyperscalers’ AI businesses burn cash without profit, memory demand could collapse [4:03](https://youtu.be/3UlahRUHxv8?t=243).
+- Black swan: **Political shift** – Democrats taking both House and Senate triggered a data‑center moratorium, amplifying market fears beyond fundamentals [0:30](https://youtu.be/3UlahRUHxv8?t=30).
+
+**Key insights:**
+- 75% of Micron’s 2027 memory capacity is already sold, with the remaining 25% likely to be filled even if cap‑ex slows [9:09](https://youtu.be/3UlahRUHxv8?t=549).
+- SK Hynix’s DRAM and HBM capacity is booked through 2029, indicating a multi‑year supply tightness for AI workloads [10:10](https://youtu.be/3UlahRUHxv8?t=610).
+- Micron trades at under 4× forward P/E versus the sector’s ~20×, highlighting a valuation gap despite strong cash and upcoming buybacks [14:14](https://youtu.be/3UlahRUHxv8?t=854).
+- Token usage and AI model adoption (Claude, OpenAI, Chinese models) are rising, decoupling AI demand from pure cap‑ex metrics [4:03](https://youtu.be/3UlahRUHxv8?t=243).
+
+**Jump to:** [0:30 Democrats win Senate & House triggers data‑center moratorium] · [9:09 Micron’s 75% 2027 capacity sold] · [14:14 Micron’s sub‑4× P/E valuation]
+
+## Skipped as off-topic
+
+- [Bloomberg News Now: Trump Backs Nvidia CEO After ‘Unfaithful’ Admission](https://www.youtube.com/watch?v=DpVSKqMCOmk) — Bloomberg Podcasts
+- [Chamath: I was wrong. The economy is broken.](https://www.youtube.com/shorts/PD-FlgD_ILw) — All-In Podcast
+
+## No transcript available
+
+- [Space & Defense](https://www.youtube.com/shorts/knPNx4Vh7Ak) — Morgan Stanley
+- [How Aaru Uses Advanced AI Simulations to Predict Human Behavior](https://www.youtube.com/watch?v=ERDQencxiVs) — Goldman Sachs
+
+_Summaries by openai/gpt-oss-120b (open-source models)._
