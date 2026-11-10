@@ -563,3 +563,42 @@ The key takeaway is to focus on high‑quality, low‑multiple stocks outside th
 - [The 2026 Goldman Sachs Analyst Impact Fund Finals](https://www.youtube.com/watch?v=hhxPkhWrexQ) — Goldman Sachs
 
 _Summaries by openai/gpt-oss-120b (open-source models)._
+
+<!-- run 15:47Z -->
+
+## AI Trade Crash & Nvidia Scandal: What Comes Next?
+
+**Chip Stock Investor** · 7:19 · Nov 10 · [watch](https://www.youtube.com/watch?v=wECfxtBCg2w)
+
+**Bottom line:**  
+Regulatory scrutiny of Jensen Huang could trigger an independent investigation at Nvidia and may create short‑term headwinds for Nvidia and its supply chain, while competitors such as AMD could see modest upside if Nvidia’s data‑center sales are constrained.
+
+**Signals:**  
+- 🟢 Bullish **AMD** (ticker: AMD), Chip Stock Investor, says AMD “is going to benefit” and its stock is already rising on that sentiment because Nvidia troubles could shift data‑center GPU demand to AMD [5:13](https://youtu.be/wECfxtBCg2w?t=313).  
+- 🔴 Cautious **Nvidia** (ticker: NVDA), Chip Stock Investor, notes the “primary concern” is potential regulatory action that could harm Nvidia’s relationship with the US government and its IP security, even though earnings are expected to be “obviously very good” [2:03](https://youtu.be/wECfxtBCg2w?t=123).  
+- 🟡 Mixed **Broadcom** (ticker: AVGO), Chip Stock Investor, points out Broadcom could pick up displaced Nvidia business in the data‑center ecosystem but the overall impact depends on whether demand stays strong [6:13](https://youtu.be/wECfxtBCg2w?t=373).  
+
+**AI & private markets:**  
+- Nvidia is under a House Foreign Affairs/Intelligence joint committee request for Jensen Huang to appear on Nov 18, tied to alleged ties between his wife and a Chinese spy agency [1:03](https://youtu.be/wECfxtBCg2w?t=63).  
+- Nvidia’s board launched an independent investigation on Nov 8, appointing outside counsel; they assert no evidence that trade secrets or patents were compromised [3:07](https://youtu.be/wECfxtBCg2w?t=187).  
+- The speaker lists Nvidia‑backed private companies that could feel fallout: Coherent, Lumentum, Corning – all have recent Nvidia equity stakes [7:15](https://youtu.be/wECfxtBCg2w?t=435).  
+
+**Moats, risks & black swans:**  
+- Moat: **Nvidia** – dominant AI GPU platform, but moat could be tested if regulatory findings limit its US‑China technology flow [4:09](https://youtu.be/wECfxtBCg2w?t=249).  
+- Risk: **Nvidia** – potential US government regulatory action or IP leakage could damage its relationship with the US government and trigger loss of market share to AMD, Intel or Broadcom [5:13](https://youtu.be/wECfxtBCg2w?t=313).  
+- Black swan: **US‑China “new Cold War”** – a broader geopolitical shift could impose export controls that suddenly restrict Nvidia’s access to Chinese customers or supply chain components [5:13](https://youtu.be/wECfxtBCg2w?t=313).  
+
+**Key insights:**  
+- The House committee’s letter specifically targets Jensen Huang’s personal and family connections, not Nvidia’s business practices, indicating the probe is more about national‑security perception than direct corporate misconduct [1:03](https://youtu.be/wECfxtBCg2w?t=63).  
+- Nvidia’s board is adding independent directors from non‑tech backgrounds (e.g., former Taco Bell president, former Goldman Sachs executive) to bolster governance amid the scandal [4:09](https://youtu.be/wECfxtBCg2w?t=249).  
+- Even if Nvidia’s earnings are strong, the “primary concern” for investors is the regulatory environment, not immediate financial performance [2:03](https://youtu.be/wECfxtBCg2w?t=123).  
+
+**Jump to:**  
+[1:03](https://youtu.be/wECfxtBCg2w?t=63) House committee summons Jensen Huang · [5:13](https://youtu.be/wECfxtBCg2w?t=313) Regulatory risk & AMD upside · [6:13](https://youtu.be/wECfxtBCg2w?t=373) Potential shift to Broadcom/Intel ecosystems
+
+## Skipped as off-topic
+
+- [AI Trained on Famous Authors’ Copyrighted Work. They Want Revenge – Part 2 | UnCommon Law](https://www.youtube.com/watch?v=N6WordzqFD0) — Bloomberg Podcasts
+
+
+_Summaries by openai/gpt-oss-120b (open-source models)._
