@@ -252,3 +252,314 @@ Morgan Stanley sees the equity correction nearing its end, with the S&P 500 ho
 
 
 _Summaries by openai/gpt-oss-120b (open-source models)._
+
+<!-- run 13:24Z -->
+
+## TL;DR
+
+**Most bullish:**  
+- **AMD** — 2 videos — Oppenheimer upgrade with $600 price target and partnership with HPE on Gen 13 servers for agentic‑AI inferencing (Bloomberg Podcasts; Six Five Media)  
+- **AI infrastructure** — 1 video — VCX ad predicts strong demand for power, land and data‑center capacity to fuel AI compute growth (Sourcery)  
+- **Alphabet (Google)** — 1 video — Stock up about 1% on AI‑related optimism (Bloomberg Podcasts)  
+- **Amazon** — 1 video — Shares up almost 3% on AI‑driven cloud momentum (Bloomberg Podcasts)  
+- **Apple** — 1 video — Stock gains 2.5% as AI features boost product appeal (Bloomberg Podcasts)  
+
+**Most cautious:**  
+- **Intel** — 5 videos — Multiple concerns: weak earnings guidance, under‑utilized 18A node, 2027 outlook uncertainty, CPU wafer supply constraints, and premium‑priced PC segment hurting demand (Semi Doped)  
+- **Data‑center stocks** — 1 video — Valuations cut roughly half from June highs, signaling steep risk (Goldman Sachs)  
+- **Enterprise AI spend** — 1 video — Inference budgets under $10 M indicate limited evaluation focus (Mercor exec, Sourcery)  
+- **Hims & Hers** — 1 video — Missed Q3 EPS and guidance below analyst midpoint, stock down ~5% (Bloomberg Podcasts)  
+
+**Trends:**  
+- **AI‑driven talent‑network services scaling rapidly** – Mercor now pays out $5 M per day, up from $1 M per year two years earlier (Sourcery)  
+- **Agentic AI inferencing driving server upgrades** – HPE & AMD launch Gen 13 servers with up to 256 cores for high‑performance AI workloads (Six Five Media)  
+- **Shift of data‑center locations** – States tightening incentives push developers toward Oklahoma, West Virginia, Idaho, and overseas hubs like Poland and Malaysia (Six Five Media)  
+- **Export‑control and compliance risk for Nvidia** – Alleged chip‑smuggling via Mega Speed raises U.S. regulatory exposure (The Information)  
+
+**Risks & black swans:**  
+- **Nvidia export‑control enforcement** – Potential restrictions on AI server chips to China could curb revenue (The Information)  
+- **Nvidia governance investigations** – Ongoing congressional and board probes may create turbulence over the next 12‑24 months (The Information)  
+- **Corporate espionage in AI labs** – Growing spy threat could lead to trade‑secret leaks despite tighter access controls (The Information)  
+- **Military conflict disrupting data‑centers** – Example of AWS data‑center attack highlights geopolitical vulnerability (Six Five Media)  
+
+**Private & pre‑IPO watch:**  
+- **Mercor** — $20 B valuation after $750 M raise; $5 M‑a‑day payout growth, >5 million active job seekers, rapid AI‑workflow automation expansion (Sourcery)  
+- **Mega Speed** — Private Singapore‑based Nvidia AI‑server‑chip customer implicated in alleged chip‑smuggling to China, raising compliance concerns (The Information)
+
+## Mercor Raises $750M at $20B Valuation | CEO Brendan Foody
+
+**Sourcery with Molly O'Shea** · 54:12 · Nov 10 · [watch](https://www.youtube.com/watch?v=xzA6lYBzmzQ)
+
+**Bottom line:** Mercor’s $750 M raise at a $20 B valuation underscores a rapidly expanding market for AI‑driven talent‑network services, but the business faces churn risk and scaling challenges as it builds a full‑stack AI automation stack.
+
+**Signals**
+- 🟢 Bullish **Mercor** (CEO Brendan Foody) – claims “giant market” leadership and $5 M‑a‑day payout growth, signaling massive demand for AI talent‑network services [15:21](https://youtu.be/xzA6lYBzmzQ?t=921)  
+- 🟢 Bullish **AI infrastructure** (VCX ad) – predicts strong demand for power, land and data‑center capacity to support AI compute growth [27:37](https://youtu.be/xzA6lYBzmzQ?t=1657)  
+- 🔴 Cautious **Mercor competitors** (CEO Brendan Foody) – warns “mimetic” behavior leads to second‑place outcomes, implying competitive risk [18:25](https://youtu.be/xzA6lYBzmzQ?t=1105)  
+- 🔴 Cautious **M&A activity** (CEO Brendan Foody) – calls large acquisitions “high‑leverage but risky” after Deeptune deal [29:39](https://youtu.be/xzA6lYBzmzQ?t=1779)  
+- 🔴 Cautious **Enterprise AI spend** (Mercor exec) – notes inference budgets under $10 M show little evaluation focus; only after $10‑100 M does spend on model evaluation rise [47:01](https://youtu.be/xzA6lYBzmzQ?t=2821)  
+
+**AI & private markets**
+- Mercor’s talent platform now pays out **$5 M per day**, up from **$1 M per year** two years earlier, illustrating explosive growth in AI‑driven workflow automation demand [0:00](https://youtu.be/xzA6lYBzmzQ?t=0)  
+- Platform hosts **>5 million** active job seekers; **70 %** arrive via referrals, creating network effects for sourcing engineers, doctors, lawyers, etc. [3:04](https://youtu.be/xzA6lYBzmzQ?t=184)  
+- Payments processed through Stripe Connect; **~$1 B** paid out to date with no major payout issues, highlighting robust financial operations [4:05](https://youtu.be/xzA6lYBzmzQ?t=245)  
+- **AI productivity index (Apex)** publicly tracks performance across frontier models built with partners like Harvey and Cognition, showing Mercor’s data‑centric moat [12:16](https://youtu.be/xzA6lYBzmzQ?t=736)  
+- **AI interview system** (built Apr 2023, 7‑8 ms latency) has conducted **>7 million** interviews, demonstrating scalable human‑in‑the‑loop data collection [13:18](https://youtu.be/xzA6lYBzmzQ?t=798)  
+- No IPO expected in the next 12 months; CEO joked about a possible IPO by end‑2024, indicating the company is still private but on the radar [50:05](https://youtu.be/xzA6lYBzmzQ?t=3005)  
+
+**Moats, risks & black swans**
+- Moat: Mercor’s proprietary pipeline—experts (data creators), RL‑environment apps, “worlds” (content) and “tasks” (prompts/rubrics)—creates a data moat hard for rivals to replicate [6:10](https://youtu.be/xzA6lYBzmzQ?t=370)  
+- Moat: “Customer obsession” and deep expertise in “worlds” and “tasks” give durable advantage in automating complex expert workflows [22:32](https://youtu.be/xzA6lYBzmzQ?t=1352)  
+- Risk: Payment‑related risk mitigated by a “world‑class payments team” after competitor failures left workers unpaid [5:07](https://youtu.be/xzA6lYBzmzQ?t=307)  
+- Risk: Early‑stage customer churn—**80 %** of seed‑stage customers die within 12 months, causing revenue volatility [20:30](https://youtu.be/xzA6lYBzmzQ?t=1230)  
+- Risk: Large‑scale M&A could dilute focus and independence, especially if acquired by a big tech firm like Meta [32:46](https://youtu.be/xzA6lYBzmzQ?t=1966)  
+- Black swan: Frontier labs (Anthropic, OpenAI) becoming **$10 trillion‑plus** firms could reshape the AI ecosystem, making data sovereignty a critical vulnerability for enterprises [44:59](https://youtu.be/xzA6lYBzmzQ?t=2699)  
+
+**Key insights**
+- “Javon’s paradox”: as expert productivity rises 3‑5×, demand for human‑generated training data explodes because 99 % of knowledge remains in human heads, keeping annotation work valuable [8:13](https://youtu.be/xzA6lYBzmzQ?t=493)  
+- Most compute in AI training now goes to reinforcement learning, which requires subject‑matter experts to create rubrics and tasks—reinforcing Mercor’s role in the data pipeline [49:03](https://youtu.be/xzA6lYBzmzQ?t=2943)  
+- Inference providers with custom‑model building (e.g., Fireworks) enjoy higher margins due to switching costs, whereas pure GPU‑resale models have zero switching cost [39:52‑40:54]  
+- Enterprise AI adoption will follow a spend curve: under $10 M inference budgets show little evaluation; $10‑100 M budgets allocate ~10 % to model evaluation; >$100 M budgets move to post‑training their own models to amortize fixed costs [47:01‑48:01]  
+
+**Jump to:** [0:00 Mercor payout explosion] · [27:37 AI infrastructure demand] · [49:03 RL‑centric compute shift]
+
+## The Hidden Engineering Behind 800 VDC Power
+
+**Six Five Media** · 1:52 · Nov 09 · [watch](https://www.youtube.com/shorts/8RkmVtoJXFE)
+
+**Bottom line:** NVIDIA’s push to fully liquid‑cool both AI racks and their power supplies enables 800 VDC data‑center power delivery, which could cut cooling‑related energy waste and open a new market for specialized power‑supply semiconductors.
+
+**AI & private markets:**
+- 🟢 Bullish NVIDIA (NVDA) – Jensen Huang announced that NVIDIA is moving from liquid‑cooled GPUs (two generations ago) to fully liquid‑cooled AI racks and power supplies to improve efficiency and support 800 VDC transmission in data centers [0:30‑1:01].
+
+**Key insights:**
+- 800 VDC transmission inside AI data centers is “a whole new ball game,” requiring new safety and packaging solutions [0:00‑0:20].
+- Fully liquid‑cooled power racks demand a redesign of power‑supply packaging and new semiconductor types, creating a potential supply‑chain opportunity [0:45‑1:01].
+- Reducing cooling load by liquid‑cooling both racks and power supplies could lower overall data‑center power waste, improving PUE (Power Usage Effectiveness) [0:50‑1:01].
+
+**Jump to:** [0:30](https://youtu.be/8RkmVtoJXFE?t=30) NVIDIA’s liquid‑cool GPU legacy → AI rack cooling · [0:45](https://youtu.be/8RkmVtoJXFE?t=45) Power‑supply repackaging for liquid cooling · [0:50](https://youtu.be/8RkmVtoJXFE?t=50) Energy‑efficiency gains from full liquid cooling
+
+## Who Is Alice Huang?
+
+**The Information** · 1:49 · Nov 09 · [watch](https://www.youtube.com/shorts/we0-Nfdkq-M)
+
+**Bottom line:**  
+Alice Huang, a former senior executive at Singapore‑based Mega Speed—a key Nvidia AI‑server‑chip customer—has been linked to alleged chip‑smuggling to China and a personal relationship with Jensen Huang, raising potential compliance and governance concerns for Nvidia’s China supply chain.
+
+**AI & private markets:**  
+- Mega Speed (private) – identified as a major Nvidia AI‑server‑chip customer in Singapore that allegedly helped divert chips to China, implicating export‑control risks for Nvidia’s supply chain [0:30](https://youtu.be/we0-Nfdkq-M?t=30).  
+- Nvidia (NVDA) – its high‑value AI server chips are subject to U.S. export restrictions; the alleged smuggling via Mega Speed could affect Nvidia’s ability to sell to China and expose it to regulatory scrutiny [0:15](https://youtu.be/we0-Nfdkq-M?t=15).
+
+**Moats, risks & black swans:**  
+- Risk: Nvidia – exposure to Chinese export‑control enforcement and potential reputational damage from the alleged chip‑smuggling network involving Mega Speed and Alice Huang [0:45](https://youtu.be/we0-Nfdkq-M?t=45).
+
+**Key insights:**  
+- Alice Huang held a senior role at Mega Speed, a Singapore‑based Nvidia customer, and was listed as a large shareholder in regulator filings [0:20](https://youtu.be/we0-Nfdkq-M?t=20).  
+- U.S. intelligence reportedly believes Huang was recruited by China’s top spy agency to assist with navigating export controls on Nvidia chips [0:40](https://youtu.be/we0-Nfdkq-M?t=40).  
+- Reporting suggests a personal relationship between Alice Huang and Jensen Huang, which could create conflicts of interest in Nvidia’s China‑related business decisions [1:01](https://youtu.be/we0-Nfdkq-M?t=61).
+
+**Jump to:** [0:15](https://youtu.be/we0-Nfdkq-M?t=15) Nvidia export controls · [0:40](https://youtu.be/we0-Nfdkq-M?t=40) U.S. intel on Huang’s recruitment · [1:01](https://youtu.be/we0-Nfdkq-M?t=61) Jensen Huang‑Alice Huang relationship
+
+## Stocks Climb as Buyers Step In Despite Nvidia Woes  | Closing Bell
+
+**Bloomberg Podcasts** · 10:24 · Nov 09 · [watch](https://www.youtube.com/watch?v=1LSLNJTdphg)
+
+**Bottom line:**  
+Despite a broad market rally, Nvidia remains the only major semiconductor laggard, while AMD surged after an Oppenheimer upgrade and a $600 price target, highlighting a split view on AI‑related chip makers.
+
+**Signals:**  
+- 🟢 Bullish **AMD** – Oppenheimer upgraded to “outperform” and set a $600 price target, implying a 34% upside from the prior close [3:12](https://youtu.be/1LSLNJTdphg?t=192)  
+- 🔴 Cautious **Nvidia** – The sole semiconductor laggard, down while the rest of the index rose [3:12](https://youtu.be/1LSLNJTdphg?t=192)  
+- 🟢 Bullish **Apple** – Up 2.5% on the day [6:17](https://youtu.be/1LSLNJTdphg?t=377)  
+- 🟢 Bullish **Amazon** – Up almost 3% [6:17](https://youtu.be/1LSLNJTdphg?t=377)  
+- 🟢 Bullish **Alphabet (Google)** – Up about 1% [6:17](https://youtu.be/1LSLNJTdphg?t=377)  
+- 🟢 Bullish **Meta** – Up more than 5% [6:17](https://youtu.be/1LSLNJTdphg?t=377)  
+- 🟢 Bullish **Microsoft** – Up 2.75% [6:17](https://youtu.be/1LSLNJTdphg?t=377)  
+- 🟢 Bullish **Tesla** – Up 5.5% [6:17](https://youtu.be/1LSLNJTdphg?t=377)  
+- 🔴 Cautious **Lucid Group** – Shares down 5‑8% after earnings miss and heavy short interest (≈63% of float) [7:20](https://youtu.be/1LSLNJTdphg?t=440)  
+- 🔴 Cautious **Hims & Hers** – Missed Q3 EPS and gave guidance below analyst midpoint, stock down ~5% [8:26](https://youtu.be/1LSLNJTdphg?t=506)  
+
+**Moats, risks & black swans:**  
+- Risk: **Nvidia** – Falling behind peers in the semiconductor index despite overall sector strength [3:12](https://youtu.be/1LSLNJTdphg?t=192)  
+- Risk: **Lucid Group** – High short‑interest (≈63% of float) and large YTD decline (≈66%) signal vulnerability [7:20](https://youtu.be/1LSLNJTdphg?t=440)  
+
+**Key insights:**  
+- All 11 S&P 500 industry groups closed in the green, with industrials up 3.8% and consumer discretionary up >3% [2:08](https://youtu.be/1LSLNJTdphg?t=128)  
+- The semiconductor index jumped 6.9% as 29 of 30 names rose, underscoring a sector‑wide rebound except for Nvidia [3:12](https://youtu.be/1LSLNJTdphg?t=192)  
+- Crude oil fell 5.6% (WTI down 4.2%) even though YTD gains exceed 50%, reflecting expectations of a quicker end to the geopolitical conflict [1:03](https://youtu.be/1LSLNJTdphg?t=63)  
+- CPI data is due tomorrow, the last inflation print before the Fed’s early‑December meeting, and most market participants still expect another rate hike this year [1:03](https://youtu.be/1LSLNJTdphg?t=63)  
+
+**Jump to:**  
+[3:12](https://youtu.be/1LSLNJTdphg?t=192) AMD upgrade & price target · [1:03](https://youtu.be/1LSLNJTdphg?t=63) Oil drop & CPI preview · [2:08](https://youtu.be/1LSLNJTdphg?t=128) All‑industry green rally
+
+## Intel's Earnings Disaster: Bad Luck, Bad Planning, or Both?
+
+**Semi Doped** · 56:53 · Nov 09 · [watch](https://www.youtube.com/watch?v=1eEthO0oDXc)
+
+**Bottom line:** Intel’s earnings miss highlights severe execution gaps in its client‑chip and substrate supply chains, making the stock highly risky until it can reliably deliver server CPUs for AI workloads while fixing inventory and capacity planning.
+
+**Signals**
+- 🔴 Cautious Intel (ticker: INTC) – Austin Lines & Vic Shekhar – stock down ~35% after weak guidance despite a “good” quarter [0:00](https://youtu.be/1eEthO0oDXc?t=0)
+- 🔴 Cautious Intel PC segment – Vic Shekhar – $500‑$1,000 price premium kills consumer/enterprise refresh cycles, making demand elastic [6:05](https://youtu.be/1eEthO0oDXc?t=365)
+- 🔴 Cautious Intel revenue quality – Vic Shekher – Q2 client revenue rose from higher prices, not volumes; Q3/Q4 sales doubtful [11:11](https://youtu.be/1eEthO0oDXc?t=671)
+- 🔴 Cautious Intel CPU wafer supply – speaker – memory supply tight through 2028; Intel should stay conservative on production [14:16](https://youtu.be/1eEthO0oDXc?t=856)
+- 🟡 Mixed Intel process yields – speaker – Q2 yields exceeded expectations but later calls demand “exceptional execution,” hinting inconsistency [18:18](https://youtu.be/1eEthO0oDXc?t=1098)
+- 🔴 Cautious Intel fab flexibility – speaker – moving production between four 10 nm‑class fabs requires qualification, not a quick fix [25:26](https://youtu.be/1eEthO0oDXc?t=1526)
+- 🟢 Bullish Wafer‑fab equipment sector – analyst – Intel’s 14A tooling and CapEx expected to drive WFE growth toward 2030 [30:32](https://youtu.be/1eEthO0oDXc?t=1832)
+- 🔴 Cautious Intel 18A node utilization – analyst – under‑utilized but cannot be repurposed quickly for server CPUs; design lock‑ins [33:34](https://youtu.be/1eEthO0oDXc?t=2014)
+- 🔴 Cautious Intel 2027 outlook – analyst – “first two quarters of 2027 looks pretty dim” due to substrate lag [47:48](https://youtu.be/1eEthO0oDXc?t=2868)
+- 🟡 Mixed Intel – AI drives server‑CPU growth but cannibalizes PC business, creating internal tension [52:51](https://youtu.be/1eEthO0oDXc?t=3171)
+
+**AI & private markets**
+- • Intel’s EMIB advanced packaging positioned as an alternative to TSMC’s CoWoS for AI‑focused chiplets; touted as “perfect” for agentic AI workloads [3:03](https://youtu.be/1eEthO0oDXc?t=183)
+- • Memory shortage: data‑center DRAM demand soaking supply, leaving little for consumer PCs; Sam Altman joked 95 % of home‑PC RAM sits idle [4:04](https://youtu.be/1eEthO0oDXc?t=244)
+- • Intel warned (Jan 2026) that DRAM, NAND, and substrate supply under pressure from AI infrastructure expansion [9:08](https://youtu.be/1eEthO0oDXc?t=548)
+- • AI‑driven DRAM demand expected to keep memory prices high through 2028 as models grow and agentic AI expands (Vic Shekher) [13:15](https://youtu.be/1eEthO0oDXc?t=795)
+- • AI‑focused foundry demand: external customers need a non‑TSMC alternative for future 2 nm‑class nodes; Intel’s 18A is critical to that 2030 story [36:37](https://youtu.be/1eEthO0oDXc?t=2197)
+- • No consumer‑grade LLMs run locally; “AI PC” branding seen as misleading, limiting near‑term on‑device AI adoption [53:52](https://youtu.be/1eEthO0oDXc?t=3232)
+
+**Moats, risks & black swans**
+- Moat: Intel Foundry – long‑term growth story hinges on ability to balance internal wafer allocation with external customer commitments [16:17](https://youtu.be/1eEthO0oDXc?t=977)
+- Moat: Intel EMIB advanced packaging – enables integration of multiple process‑node chiplets, a strategic advantage leveraged for 3‑5 years [22:22](https://youtu.be/1eEthO0oDXc?t=1342)
+- Risk: Internal coordination – lack of alignment between IDM product planning and foundry on memory‑price spikes left client‑chip volumes soft and inventory high [13:15](https://youtu.be/1eEthO0oDXc?t=795)
+- Risk: Substrate shortage – chronic bottleneck for advanced packaging, limiting chiplet‑based CPU production [20:19](https://youtu.be/1eEthO0oDXc?t=1219)
+- Risk: Execution complexity – owning wafers, multiple nodes, substrates, memory, server & client businesses, plus external foundry creates opacity and execution risk [55:55](https://youtu.be/1eEthO0oDXc?t=3355)
+- Black swan: Fab 28 explosion in Israel – gas‑leak accident killed two, disrupted I/O die supply and rippled into server‑CPU production [23:23](https://youtu.be/1eEthO0oDXc?t=1403)
+
+**Key insights**
+- Intel’s server‑CPU supply miss was not a simple “client‑chip to server‑CPU” shift; it stemmed from mis‑aligned wafer allocation and substrate scarcity, capping AI‑driven revenue upside [12:12](https://youtu.be/1eEthO0oDXc?t=732)  
+- Advanced packaging (EMIB) remains Intel’s unique differentiator, but substrate shortages and fab‑accident fallout threaten its ability to deliver chiplet CPUs at scale [22:22](https://youtu.be/1eEthO0oDXc?t=1342)  
+- Even with strong data‑center demand, Intel’s internal inventory (excess 18 A, insufficient server CPUs) creates a “mixed” outcome where AI growth cannibalizes the already‑soft PC market [52:51](https://youtu.be/1eEthO0oDXc?t=3171)  
+- The 14 A node could become a niche moat for mobile‑chip customers (e.g., Apple‑centric designs) if Intel can secure volume commitments before competitors move to 3‑2 nm [46:47](https://youtu.be/1eEthO0oDXc?t=2807)
+
+**Jump to:**  
+[3:03](https://youtu.be/1eEthO0oDXc?t=183) Intel EMIB vs. TSMC CoWoS · [14:16](https://youtu.be/1eEthO0oDXc?t=856) Memory‑supply tightness through 2028 · [29:31](https://youtu.be/1eEthO0oDXc?t=1771) Bullish long‑term Intel Foundry thesis
+
+## Is Jensen Huang’s Job Safe?
+
+**The Information** · 1:40 · Nov 09 · [watch](https://www.youtube.com/shorts/uR3cQBh7eWE)
+
+**Bottom line:**  
+Jensen Huang’s position appears secure for now, but investors should watch the pending board, congressional, and possible government investigations that could affect Nvidia’s governance and reputation over the next 12‑24 months.  
+
+**Moats, risks & black swans:**  
+- Risk: Nvidia – potential reputational damage from the “Alice” spy allegation and uncertainty over succession planning could affect board confidence and investor perception [0:30](https://youtu.be/uR3cQBh7eWE?t=30).  
+- Risk: Nvidia – ongoing investigations by Congress and an independent board/ outside‑counsel probe could create governance turbulence and impact stock stability [1:00](https://youtu.be/uR3cQBh7eWE?t=60).  
+
+**Key insights:**  
+- Succession uncertainty: Nvidia has no clear, publicly‑prepared successor to Jensen Huang; his son‑in‑law and other relatives have only been at the company a few years, raising governance concerns [0:45](https://youtu.be/uR3cQBh7eWE?t=45).  
+- Congressional testimony: Jensen is slated to testify in a closed‑door briefing with members of Congress on Wednesday, indicating heightened regulatory scrutiny [0:55](https://youtu.be/uR3cQBh7eWE?t=55).  
+- Timeline expectation: Any major outcome from the investigations is unlikely to occur immediately, with potential effects materializing “next year or the year after” [1:10](https://youtu.be/uR3cQBh7eWE?t=70).  
+
+**Jump to:**  
+[0:30](https://youtu.be/uR3cQBh7eWE?t=30) Reputation risk from spy allegation · [0:45](https://youtu.be/uR3cQBh7eWE?t=45) Succession plan gaps · [0:55](https://youtu.be/uR3cQBh7eWE?t=55) Upcoming congressional testimony
+
+## Spies Inside AI (Labs)
+
+**The Information** · 1:29 · Nov 09 · [watch](https://www.youtube.com/shorts/EQv3dIOb0yw)
+
+**Bottom line:**  
+AI labs face a growing espionage threat; companies will likely tighten internal access controls and adopt government‑style clearance frameworks over the next year.
+
+**Moats, risks & black swans:**  
+- **Risk:** AI companies – risk of corporate espionage exposing trade secrets; mitigation will focus on reducing staff access and implementing “sensitivity levels” clearance frameworks. [0:45](https://youtu.be/EQv3dIOb0yw?t=45)  
+- **Risk:** Difficulty of fully protecting AI secrets; even with strict controls, leaks are likely inevitable. [0:55](https://youtu.be/EQv3dIOb0yw?t=55)
+
+**Key insights:**  
+- Espionage in AI labs is considered “pretty likely” and expected to increase in visibility over the next year. [0:30](https://youtu.be/EQv3dIOb0yw?t=30)  
+- The best defense is triaging information, limiting the number of people with access, and moving toward government‑style clearance levels. [0:58](https://youtu.be/EQv3dIOb0yw?t=58)  
+- A framework called “sensitivity levels” has been published to guide the industry on how to tier access to critical AI assets. [1:00](https://youtu.be/EQv3dIOb0yw?t=60)
+
+**Jump to:**  
+[0:30](https://youtu.be/EQv3dIOb0yw?t=30) Espionage likelihood · [0:58](https://youtu.be/EQv3dIOb0yw?t=58) Access‑control strategy · [1:00](https://youtu.be/EQv3dIOb0yw?t=60) Sensitivity‑levels framework
+
+## Poland, Malaysia, and Oklahoma Want Your Data Center
+
+**Six Five Media** · 2:08 · Nov 09 · [watch](https://www.youtube.com/shorts/h4q72efC_pI)
+
+**Bottom line:**  
+If U.S. states tighten data‑center incentives, developers will shift to other U.S. states (e.g., Oklahoma) and abroad (Poland, Malaysia, UAE, KSA), creating new regional opportunities but also exposing projects to geopolitical risk.
+
+**Moats, risks & black swans:**  
+- **Risk:** Military conflict could disrupt data‑center operations, highlighted by the AWS data‑center attack mentioned at 2:02.  
+- **Risk:** U.S. state policy shifts (e.g., Iowa, Ohio, South Carolina, Georgia pulling back incentives) may increase costs and delay projects, noted at 0:00.
+
+**Key insights:**  
+- Governors in Iowa, Ohio, South Carolina and Georgia plan to raise investment thresholds and reduce tax breaks for new data centers, potentially slowing builds in those states [0:00](https://youtu.be/h4q72efC_pI?t=0).  
+- States such as West Virginia, Idaho and Oklahoma are actively courting data‑center developers, positioning themselves as “open for business” alternatives to Texas and Georgia [0:00‑1:01].  
+- Eastern European countries (Poland, Kazakhstan) and Southeast Asian nations (Malaysia) are being promoted as new data‑center hubs because of available energy, economic incentives, and a desire to be seen as tech players [1:01‑2:02].  
+- The United Arab Emirates and Saudi Arabia are also mentioned as emerging locations, though they carry heightened geopolitical risk due to potential military conflicts [2:02](https://youtu.be/h4q72efC_pI?t=122).
+
+**Jump to:**  
+[0:00](https://youtu.be/h4q72efC_pI?t=0) U.S. state policy tightening · [1:01](https://youtu.be/h4q72efC_pI?t=61) Eastern Europe and Malaysia as new hubs · [2:02](https://youtu.be/h4q72efC_pI?t=122) Geopolitical risk and space data‑center ideas
+
+## HPE & AMD: Why Agentic AI Is Changing Enterprise Compute
+
+**Six Five Media** · 9:48 · Nov 09 · [watch](https://www.youtube.com/watch?v=MkIBUs24rLQ)
+
+**Bottom line:** HPE and AMD are jointly rolling out a new Gen 13 server line built for demanding, agentic‑AI inferencing workloads, signaling strong near‑term demand for higher‑core, power‑efficient compute and a deepening partnership that could benefit both stocks.
+
+**Signals:**
+- 🟢 Bullish **HPE** (HPE), Krista Satterwhite said customers are “hungry for performance and power efficiency” and the company just launched four brand‑new Gen 13 servers targeting demanding AI workloads [5:11](https://youtu.be/MkIBUs24rLQ?t=311).
+- 🟢 Bullish **AMD** (AMD), Dan McNamara noted the need to “design … the most efficient head‑node capability” for agentic AI and that AMD is delivering “full solution set” with HPE to meet that demand [4:09](https://youtu.be/MkIBUs24rLQ?t=249).
+
+**AI & private markets:**
+- Agentic AI inferencing is becoming a major driver of server purchases, shifting demand from training‑focused hardware to inference‑optimized platforms [2:05](https://youtu.be/MkIBUs24rLQ?t=125).
+- HPE’s new Gen 13 line offers up to 256‑core configurations, a jump from the original 32‑core “Naples” platform launched nine years ago [6:12](https://youtu.be/MkIBUs24rLQ?t=372).
+- No private‑company valuations, funding rounds, or IPO timelines were discussed. [None]
+
+**Moats, risks & black swans:**
+- Moat: HPE – its integrated hardware‑software portfolio and close partnership with AMD give it a differentiated offering for high‑performance, power‑efficient AI servers [5:11](https://youtu.be/MkIBUs24rLQ?t=311).
+- Risk: Both firms must stay “tighter with the model makers” to ensure silicon matches evolving AI workloads; lagging could erode competitiveness [8:13](https://youtu.be/MkIBUs24rLQ?t=493).
+- Black swan: None mentioned. [None]
+
+**Key insights:**
+- The partnership between HPE and AMD has matured from a 32‑core “Naples” platform to 256‑core Gen 13 servers, reflecting rapid scaling of enterprise AI compute needs [6:12](https://youtu.be/MkIBUs24rLQ?t=372).
+- Customers are demanding better price‑performance and performance‑per‑watt, driving HPE to launch four entirely new server models rather than simple refreshes [5:11](https://youtu.be/MkIBUs24rLQ?t=311).
+- Agentic AI inferencing, still nascent, is identified as the next big workload category, prompting both companies to focus on head‑node efficiency and tool execution [7:13](https://youtu.be/MkIBUs24rLQ?t=433).
+
+**Jump to:** [5:11](https://youtu.be/MkIBUs24rLQ?t=311) HPE launches four new Gen 13 servers · [2:05](https://youtu.be/MkIBUs24rLQ?t=125) Shift to agentic AI inferencing demand · [7:13](https://youtu.be/MkIBUs24rLQ?t=433) Focus on head‑node efficiency for agentic AI.
+
+## The US Midterms: Reshaping the Stock Market
+
+**Goldman Sachs** · 5:21 · Nov 06 · [watch](https://www.youtube.com/watch?v=zBKVtdZ0jZc)
+
+**Bottom line:**  
+The key takeaway is to focus on high‑quality, low‑multiple stocks outside the AI hype, especially in sectors like healthcare and quality “compounders,” while treating AI‑heavy data‑center names as heavily discounted and risky.
+
+**Signals:**  
+- 🟢 Bullish **S&P 500 ex‑AI** – Lou Miller recommends buying the index without AI stocks, citing “high‑quality balance sheets” and “low‑teen earnings‑growth multiples” as a safe play for the next six months. [4:07](https://youtu.be/zBKVtdZ0jZc?t=247)  
+- 🔴 Cautious **Data‑center stocks** – Lou notes they are down 36% from highs, with multiples cut to about half of June levels, indicating steep valuation declines and heightened risk. [1:02](https://youtu.be/zBKVtdZ0jZc?t=62)  
+- 🔴 Cautious **Memory sector** – down 42% from highs, reflecting similar valuation pressure as data‑center names. [1:02](https://youtu.be/zBKVtdZ0jZc?t=62)  
+- 🔴 Cautious **Optical networking** – down 46% from highs, part of the broader AI data‑center pullback. [1:02](https://youtu.be/zBKVtdZ0jZc?t=62)  
+- 🔴 Cautious **NeoCloud** – down 57% from highs, the most severe drop in the AI‑related trade. [1:02](https://youtu.be/zBKVtdZ0jZc?t=62)  
+- 🟢 Bullish **Healthcare AI** – Lou says the next leg of AI is in healthcare tools and diagnostics, calling it “one of the few sectors we’ll see accelerating growth next year.” [3:06](https://youtu.be/zBKVtdZ0jZc?t=186)  
+- 🔴 Cautious **Staples** – Lou argues staple dividend and earnings yields are only half of bond yields, making them unattractive relative to other defensive characteristics. [3:06](https://youtu.be/zBKVtdZ0jZc?t=186)  
+
+**Moats, risks & black swans:**  
+- Moat: **Healthcare AI** – strong defensiveness and low correlation to broader market cycles, according to Lou. [3:06](https://youtu.be/zBKVtdZ0jZc?t=186)  
+- Risk: **AI data‑center trade** – ROI concerns, open‑source competition, and limited capital market access have driven multiples down sharply. [1:02](https://youtu.be/zBKVtdZ0jZc?t=62)  
+- Risk: **Expensive defensives** – high valuations relative to bond yields could trap investors in low‑return assets. [3:06](https://youtu.be/zBKVtdZ0jZc?t=186)  
+
+**Key insights:**  
+- AI‑related data‑center valuations have collapsed to roughly 50% of June levels, creating “liberation day lows” for multiples. [1:02](https://youtu.be/zBKVtdZ0jZc?t=62)  
+- Memory, optical networking, and NeoCloud have suffered the steepest price drops (42%, 46%, 57% respectively) since their peaks earlier this year. [1:02](https://youtu.be/zBKVtdZ0jZc?t=62)  
+- Healthcare is positioned as the next defensive AI play, with expected accelerating growth driven by AI tools and diagnostics. [3:06](https://youtu.be/zBKVtdZ0jZc?t=186)  
+- Traditional staples offer poor yield relative to high‑yield bonds and 10‑year Treasury rates, suggesting investors should seek quality or free‑cash‑flow yields instead. [3:06](https://youtu.be/zBKVtdZ0jZc?t=186)  
+
+**Jump to:**  
+[1:02](https://youtu.be/zBKVtdZ0jZc?t=62) AI data‑center valuation collapse · [3:06](https://youtu.be/zBKVtdZ0jZc?t=186) Healthcare as the next AI defensive · [4:07](https://youtu.be/zBKVtdZ0jZc?t=247) S&P 500 ex‑AI trade recommendation
+
+## Skipped as off-topic
+
+- [Bloomberg News Now: Scrutiny Mounts on Nvidia CEO](https://www.youtube.com/watch?v=cqm4pA9HZkE) — Bloomberg Podcasts
+- [FBI Investigates Nvidia Scandal, Europe Riots Insurance Risk, Taiwan's Preppers | Bloomberg...](https://www.youtube.com/watch?v=nvEzcqsIADY) — Bloomberg Podcasts
+- [How Robert Moses Ruled New York Without Being Elected - Robert Caro](https://www.youtube.com/shorts/bkzWrrsRyqA) — Dwarkesh Patel
+- [From Employees to Owners: Scaling Culture and Value With ISC CEO Matt Grossberg | Invested at Work](https://www.youtube.com/watch?v=s75ib8S7T3M) — Morgan Stanley
+
+## No transcript available
+
+- [LSEG CEO David Schwimmer on Capital Shifting Beyond US Markets](https://www.youtube.com/watch?v=diHxgqt2pL0) — Goldman Sachs
+- [The 2026 Goldman Sachs Analyst Impact Fund Finals](https://www.youtube.com/watch?v=hhxPkhWrexQ) — Goldman Sachs
+
+_Summaries by openai/gpt-oss-120b (open-source models)._
