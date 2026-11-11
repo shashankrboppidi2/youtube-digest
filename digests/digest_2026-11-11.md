@@ -401,3 +401,236 @@ Investors should focus on AI infrastructure that is flexible and open‑source�
 
 
 _Summaries by openai/gpt-oss-120b (open-source models)._
+
+<!-- run 15:35Z -->
+
+## TL;DR
+
+**Most bullish:**  
+- **ASML** — 1 video — sole supplier of sub‑7 nm lithography machines, critical for AI logic‑chip production (TheStreet).  
+- **Aluminum** — 1 video — abundant supply and potential substitution for copper amid high copper prices (Bloomberg Podcasts).  
+- **DHS** — 1 video — ~3 % yield, $10k → $18k over 5 yr, outperforms S&P 500 despite COVID dip (BWB).  
+- **DIVO** — 1 video — ~5 % yield, lower volatility, outperformed the S&P 500 in every major market drop (BWB).  
+- **GOOGL** — 1 video — >10 % YoY ad‑revenue growth and new AI‑query monetization driving higher CPMs (TheStreet).  
+
+**Most cautious:**  
+- **Arm** — 1 video — concerns about valuation and execution risk in the AI‑chip market (TheStreet).  
+- **JEPI** — 1 video — dividend ETF flagged as needing to pass a “price‑appreciation test” before investors commit (BWB).  
+- **Nvidia** — 1 video — regulatory investigation in China could trigger fines or sales restrictions (The Information).  
+- **O** — 1 video — Realty Income’s price down ~‑14 % over five years, fails the price‑test (BWB).  
+- **QYLD** — 1 video — caution on high‑yield ETF due to potential capital‑return risk (BWB).  
+
+**Trends:**  
+- **On‑device AI for Siri** – Apple may launch a locally‑run agent‑style Siri next year, leveraging iOS hardware and privacy strengths (This Week in Startups).  
+- **AI‑chip supply chain concentration** – ASML’s exclusive lithography, Micron/SK Hynix memory, and TSMC’s ~90 % share of cutting‑edge logic chips underline a tight upstream ecosystem (The Wall Street Skinny).  
+- **Copper‑to‑aluminum substitution** – High copper demand and supply constraints boost bullish outlook for aluminum as a substitute in the energy transition (Bloomberg Podcasts).  
+- **Mercor’s “Time Travelers” moat** – Private AI‑talent network emphasizes ultra‑high hiring standards and long‑term AI‑trend foresight, fueling a $20 B valuation (Sourcery).  
+
+**Risks & black swans:**  
+- **Siri leadership turnover** – Possible departure of head of Siri development could delay the on‑device AI rollout (This Week in Startups).  
+- **Geopolitical supply shock** – Taiwan supplies 90 % of cutting‑edge logic chips; any disruption could choke AI hardware production (The Wall Street Skinny).  
+- **China’s “one tier down” lithography** – Emergence of a domestic lithography machine could erode ASML’s technology edge (The Wall Street Skinny).  
+- **Nvidia regulatory fine or sales ban** – Investigation into China‑related sales could lead to a substantial fine or loss of a meaningful revenue stream (The Information).  
+
+**Private & pre‑IPO watch:**  
+- **Mercor** — valuation $20 B, driven by ultra‑high hiring standards, “Time Travelers” long‑term AI insight, and strong demand from AI‑hardware customers (Sourcery).  
+- **JSR** — photoresist maker taken private by a Japanese state‑backed fund in 2024, highlighting government interest in the AI supply chain (The Wall Street Skinny).
+
+## They’re finally fixing Siri
+
+**This Week in Startups** · 1:19 · Nov 11 · [watch](https://www.youtube.com/shorts/JdH4n1pFFRA)
+
+**Bottom line:** Apple may accelerate Siri toward a locally‑run AI agent as early as next year, but a possible leadership change at the Siri team adds execution risk.
+
+**AI & private markets:**
+- Apple (no ticker mentioned) – CEO John Turner is urging software chief Craig Federighi to speed up the AI roadmap and turn Siri into a true agent that can handle ongoing tasks, with a target for a locally‑run version as early as next year【0:00‑0:45】.
+- Apple – Mike Rockwell, the longtime head of Siri development, is reportedly considering stepping down next year, which could shift the direction of Siri’s AI development【0:45‑1:00】.
+
+**Moats, risks & black swans:**
+- Moat: Apple’s control over iOS hardware and its privacy‑focused ecosystem could give a locally‑run Siri agent a competitive edge in secure, on‑device AI【1:00】.
+- Risk: Potential turnover of Siri leadership (Mike Rockwell) may delay or disrupt the rollout of the new agent‑style Siri【1:00】.
+
+**Key insights:**
+- Apple is exploring a shift from cloud‑based large language models to an open‑source, on‑device AI stack for Siri, emphasizing privacy and security【0:45‑1:00】.
+- The proposed agent‑style Siri would start with personal data integrations such as photos, calendar, and email, aiming for seamless task automation on the device【1:00】.
+- Execution timeline is aggressive: a functional agent‑like Siri could appear as early as next calendar year, contingent on internal leadership decisions【0:00‑0:45】.
+
+**Jump to:** 0:00 Apple leadership push for Siri AI · 0:45 On‑device AI vision · 1:00 Leadership change risk
+
+## How Nvidia’s AI Chips Get Made 👀
+
+**The Wall Street Skinny** · 2:46 · Nov 11 · [watch](https://www.youtube.com/shorts/CtHk0cuq5cU)
+
+**Bottom line:** Nvidia’s AI GPUs are assembled by a global supply chain; the most material cost driver for investors is the $6 million price tag of a finished rack, not the chip itself.
+
+**AI & private markets:**
+- ASML (Netherlands) is the sole supplier of leading‑edge lithography machines, giving it a critical role in AI logic chip production [1:45](https://youtu.be/CtHk0cuq5cU?t=105).
+- JSR, a photoresist maker, was taken private by a Japanese state‑backed fund in 2024, highlighting government interest in the AI supply chain [1:20](https://youtu.be/CtHk0cuq5cU?t=80).
+- Micron and SK Hynix are the primary suppliers of high‑bandwidth memory (HBM) that pairs with Nvidia GPUs [2:30](https://youtu.be/CtHk0cuq5cU?t=150).
+
+**Moats, risks & black swans:**
+- Moat: ASML’s exclusive lithography technology for sub‑7 nm nodes creates a durable advantage in AI chip manufacturing [1:45](https://youtu.be/CtHk0cuq5cU?t=105).
+- Risk: Taiwan supplies 90 % of cutting‑edge logic chips via TSMC; any geopolitical disruption could choke AI hardware supply [0:55](https://youtu.be/CtHk0cuq5cU?t=55).
+- Black swan: China has built a “one tier down” lithography machine, potentially narrowing the technology gap and altering the competitive landscape [1:50](https://youtu.be/CtHk0cuq5cU?t=110).
+
+**Key insights:**
+- Nvidia outsources all chip fabrication to TSMC, which handles ~90 % of the world’s cutting‑edge logic chips, making TSMC a pivotal upstream partner for AI hardware [0:55](https://youtu.be/CtHk0cuq5cU?t=55).
+- The wafer‑to‑rack process involves ~80 lithography cycles and dozens of specialized equipment suppliers (Applied Materials, Lam Research, Tokyo Electron, Disco, KA, Aventest, Pterodine), illustrating the depth of the supply chain [1:30‑2:15].
+- A finished Nvidia AI rack costs roughly $6 million, indicating that revenue and profit exposure for Nvidia is tied more to system integration and services than to the silicon cost alone [2:45](https://youtu.be/CtHk0cuq5cU?t=165).
+
+**Jump to:** [0:55 Geopolitical importance of TSMC] · [1:45 ASML’s lithography monopoly] · [2:45 $6 M rack price]
+
+## The Energy Transition Has One Big Metal Problem | Switched On
+
+**Bloomberg Podcasts** · 29:26 · Nov 11 · [watch](https://www.youtube.com/watch?v=o_hxFzkCAfo)
+
+**Bottom line:**  
+Copper’s supply constraints and long lead‑times create a material upside risk for the metal and a substitution opportunity for aluminum, but the gap is unlikely to be closed for the next decade‑plus.
+
+**Signals:**  
+- 🟡 Mixed Copper — BloombergNEF metals team (Martin Tangler) warns demand up ~60 % by 2050 vs limited new supply, price ~US$14,000/ton vs marginal cost $4‑6 k/ton [0:00](https://youtu.be/o_hxFzkCAfo?t=0)  
+- 🟢 Bullish Aluminum — Analysts note abundant supply and potential substitution demand as copper prices stay high [14:18](https://youtu.be/o_hxFzkCAfo?t=858)  
+
+**Moats, risks & black swans:**  
+- Risk: Copper — declining ore grades force processing more rock for the same output, limiting primary supply growth [7:10](https://youtu.be/o_hxFzkCAfo?t=430)  
+- Risk: Copper — no new “greenfield” mines with final investment decisions; 17‑year development lag pushes new supply to early 2040s [8:10](https://youtu.be/o_hxFzkCAfo?t=490)  
+- Risk: Copper — high prices benefit incumbents, reducing incentive to develop new supply [10:11](https://youtu.be/o_hxFzkCAfo?t=611)  
+- Risk: Aluminum — price spikes if used as copper substitute could make substitution uneconomic (price ratio could fall below 3.5‑4) [27:35](https://youtu.be/o_hxFzkCAfo?t=1655)  
+- Black swan: Copper‑to‑aluminum substitution — if aluminum prices surge dramatically, the expected relief for copper demand evaporates, potentially driving copper prices to “enormous” levels by 2050 [27:35](https://youtu.be/o_hxFzkCAfo?t=1655)  
+
+**Key insights:**  
+- 9 of 10 transition metals have sufficient supply to 2050; copper is the sole exception, with a projected “enormous” gap by 2050 [0:00](https://youtu.be/o_hxFzkCAfo?t=0)  
+- Lithium and graphite shortages are now seen as unlikely, while cobalt and nickel face export/quota constraints that could tighten supply [5:08](https://youtu.be/o_hxFzkCAfo?t=308) · [22:27](https://youtu.be/o_hxFzkCAfo?t=1347)  
+- LFP battery adoption in China eliminates nickel and cobalt demand, easing pressure on those metals but not on copper [20:26](https://youtu.be/o_hxFzkCAfo?t=1226) · [21:27](https://youtu.be/o_hxFzkCAfo?t=1287)  
+- Substitution pressure is rising: industries may shift to aluminum, but the higher price ratio and potential aluminum price volatility limit its effectiveness [12:15](https://youtu.be/o_hxFzkCAfo?t=735) · [27:35](https://youtu.be/o_hxFzkCAfo?t=1655)  
+
+**Jump to:**  
+[0:00](https://youtu.be/o_hxFzkCAfo?t=0) copper supply gap risk · [14:18](https://youtu.be/o_hxFzkCAfo?t=858) aluminum demand upside · [20:26](https://youtu.be/o_hxFzkCAfo?t=1226) LFP battery impact on metal demand
+
+## Don’t Buy Nvidia Yet: 4 Stocks to Buy Instead
+
+**TheStreet** · 27:32 · Nov 10 · [watch](https://www.youtube.com/watch?v=6ny7W8T1Nk8)
+
+**Bottom line:**  
+The video argues that Nvidia is over‑weighted and risky for most portfolios; investors should shift to diversified AI beneficiaries like Alphabet, Microsoft, ASML and select non‑AI “value” names (e.g., Sony, ESAB, Greenbrick) while keeping modest exposure to AI‑heavy stocks.
+
+**Signals:**
+- 🟡 Mixed **NVDA** – Christopher Davis (Hudson Value Partners) says it’s “in the penalty box” after a 10% weekly drop and 30% off highs; risk of founder‑centric exposure and price shock. [6:09](https://youtu.be/6ny7W8T1Nk8?t=369)
+- 🟢 Bullish **GOOGL** – Davis notes >10% YoY ad‑revenue growth and new AI‑query monetization internationally, enabling higher CPMs. [7:10](https://youtu.be/6ny7W8T1Nk8?t=430)
+- 🟢 Bullish **ASML** – Davis cites dominant market share in advanced lithography, multi‑year backlog with large deposits and low cancellation risk. [8:10](https://youtu.be/6ny7W8T1Nk8?t=490)
+- 🟢 Bullish **SONY** – Analyst points to 4% YTD stock rise, 44% YoY earnings jump, 10% revenue lift from Spider‑Man tie‑ins and upcoming GTA VI launch. [13:15](https://youtu.be/6ny7W8T1Nk8?t=795)
+- 🟢 Bullish **GREENBRICK PARTNERS** – Analyst highlights >40 k owned lots, 29% home‑building margins and a valuation near a floor despite a possible 25 bp Fed hike. [16:19](https://youtu.be/6ny7W8T1Nk8?t=979)
+- 🟢 Bullish **ESAB** – Analyst points to $5.8 bn market cap, ~15‑16× forward earnings, >50% revenue outside the U.S., and recent Edify acquisition expanding the franchise. [19:26](https://youtu.be/6ny7W8T1Nk8?t=1166)
+- 🟢 Bullish **Healthcare AI beneficiaries** (MERCK, AMGN, JNJ, TMO) – Analyst says AI accelerates R&D despite higher valuations. [22:27](https://youtu.be/6ny7W8T1Nk8?t=1347)
+- 🔴 Cautious **overall market** – Davis warns AI exposure now ~60% of market; many portfolios are over‑weighted and should trim >6‑7% single‑stock positions. [4:05](https://youtu.be/6ny7W8T1Nk8?t=245)
+- 🔴 Cautious **S&P 500 concentration** – Davis recommends adding 5‑10% international, 5% small‑cap and 5% mid‑cap to offset AI‑driven tech correlation spikes. [24:28](https://youtu.be/6ny7W8T1Nk8?t=1468)
+- 🔴 Cautious **Arm** – Davis finds its design business interesting but prefers ASML’s proven franchise. [9:11](https://youtu.be/6ny7W8T1Nk8?t=551)
+
+**AI & private markets:**
+- 📌 AI spending is now ~60% of market cap; many non‑tech stocks are highly correlated, prompting portfolio rebalancing. [4:05](https://youtu.be/6ny7W8T1Nk8?t=245)
+- 📌 Davis favors AI beneficiaries that need less capex (e.g., software, ad platforms) over hardware‑intensive firms. [5:07](https://youtu.be/6ny7W8T1Nk8?t=307)
+- 📌 Risk of AI rally collapse if Nvidia falters; a sustained decline could drag the broader AI theme. [11:14](https://youtu.be/6ny7W8T1Nk8?t=674)
+- 📌 Alphabet is beginning to monetize AI queries outside the U.S., tapping a large untapped query base. [7:10](https://youtu.be/6ny7W8T1Nk8?t=430)
+- 📌 Sony’s media assets (movies, music, games) become more valuable in an AI world, creating flywheel effects across divisions. [13:15](https://youtu.be/6ny7W8T1Nk8?t=795)
+
+**Moats, risks & black swans:**
+- Moat: **ASML** – scale and market dominance in advanced lithography equipment, backed by multi‑year orders with substantial deposits. [8:10](https://youtu.be/6ny7W8T1Nk8?t=490)
+- Risk: **NVDA** – over‑reliance on Jensen Huang; loss of the founder could hurt the stock. [6:09](https://youtu.be/6ny7W8T1Nk8?t=369)
+- Risk: **Software niche players** – AI’s nondeterministic output makes mission‑critical software execution riskier for specialty vendors. [10:12](https://youtu.be/6ny7W8T1Nk8?t=612)
+- Black swan: **AI trade collapse** – a sharp, sustained Nvidia decline could trigger a broader AI‑sector sell‑off. [11:14](https://youtu.be/6ny7W8T1Nk8?t=674)
+
+**Key insights:**
+- Energy price declines are “the thumb on the scales of CPI,” potentially easing inflation and limiting Fed rate hikes. [2:02](https://youtu.be/6ny7W8T1Nk8?t=122)
+- The Fed is expected to raise rates only 25 bp in December, not 50 bp, due to falling energy prices and de‑escalating Iran tensions. [1:01](https://youtu.be/6ny7W8T1Nk8?t=61)
+- International exposure (10‑15% of portfolio) to non‑U.S. revenue‑heavy firms like Sony and ASML can improve diversification amid AI‑driven tech correlation spikes. [21:26](https://youtu.be/6ny7W8T1Nk8?t=1286)
+
+**Jump to:**  
+[4:05](https://youtu.be/6ny7W8T1Nk8?t=245) AI‑heavy allocation caution · [7:10](https://youtu.be/6ny7W8T1Nk8?t=430) Alphabet AI monetization abroad · [8:10](https://youtu.be/6ny7W8T1Nk8?t=490) ASML moat and backlog
+
+## Who Could Replace Jensen Huang?
+
+**The Information** · 7:56 · Nov 10 · [watch](https://www.youtube.com/watch?v=GQfv3k4tbDo)
+
+**Bottom line:** The investigation into possible China‑related violations and the risk of Jensen Huang’s departure create a near‑term downside risk for Nvidia, but the company’s dominant AI position and strong customer ties mean the long‑term business remains resilient.
+
+**Signals:**
+- 🟢 Bullish **Nvidia (NVDA)** – Gil Laura notes the stock was “very attractively valued” before the news and that “Nvidia is so well situated… a very resilient business” if no regulatory finding occurs [2:04](https://youtu.be/GQfv3k4tbDo?t=124).
+- 🔴 Cautious **Nvidia (NVDA)** – Same analyst warns of “big government fine” or loss of sales to Asian resellers if the board finds wrongdoing in China‑related sales, which could cut a “meaningful part of their business” [4:06](https://youtu.be/GQfv3k4tbDo?t=246).
+
+**Moats, risks & black swans:**
+- Moat: **Nvidia** – dominant AI GPU platform, deep integration with hyperscalers (Microsoft, Amazon, Google) and key suppliers like TSMC and ASML, sustaining ecosystem leadership [7:08](https://youtu.be/GQfv3k4tbDo?t=428).
+- Risk: **Nvidia** – potential regulatory fine or sales restrictions in Asia if investigation finds illicit China sales, threatening revenue from “Singapore… Taiwan” resellers [4:06](https://youtu.be/GQfv3k4tbDo?t=246).
+- Risk: **Nvidia leadership** – possible removal of Jensen Huang could destabilize the company unless a succession plan is executed quickly [5:06](https://youtu.be/GQfv3k4tbDo?t=306).
+- Black swan: **U.S. congressional/national‑security crackdown** on AI chip exports to China that could sharply curtail Nvidia’s growth trajectory [3:04](https://youtu.be/GQfv3k4tbDo?t=184).
+
+**Key insights:**
+- The board‑initiated probe adds “a couple pretty negative scenarios” that are now priced into Nvidia’s valuation, explaining the $0.5 trillion market‑cap loss over two days [2:04](https://youtu.be/GQfv3k4tbDo?t=124).
+- Even if a regulatory finding occurs, “there’s probably still enough demand outside of that” region, but Asian non‑China sales could be materially reduced [4:06](https://youtu.be/GQfv3k4tbDo?t=246).
+- Succession considerations are already urgent; Gil Laura suggests **Lee Bute** (current Intel CEO) as a potential external candidate with “good connections in Asia” [6:06](https://youtu.be/GQfv3k4tbDo?t=366).
+
+**Jump to:** [2:04](https://youtu.be/GQfv3k4tbDo?t=124) baseline vs. negative scenarios · [4:06](https://youtu.be/GQfv3k4tbDo?t=246) Asian sales risk · [6:06](https://youtu.be/GQfv3k4tbDo?t=366) possible CEO successor (Lee Bute)
+
+## Best Monthly Dividend ETFs That Still Grow Your Money
+
+**BWB - Business With Brian** · 13:45 · Nov 10 · [watch](https://www.youtube.com/watch?v=XCQcwwauIb0)
+
+**Bottom line:**  
+Monthly‑paying dividend ETFs can give steady cash flow with less downside than the broader market, but you must pass a price‑appreciation “price test” and hold them in tax‑advantaged accounts to maximize after‑tax returns.
+
+**Signals:**
+- 🟢 Bullish **JEPIQ** – JPMorgan Nasdaq Equity Premium Income ETF; 12% annual yield (≈1% / mo) from option‑selling, 3‑yr total return ~74% vs Nasdaq ~100% (trades growth for yield) [4:03](https://youtu.be/XCQcwwauIb0?t=243)  
+- 🟢 Bullish **DIVO** – Amplify CWP Enhanced Dividend Income ETF; ~5% annual yield, lower price volatility, outperformed S&P 500 in every major market drop [6:05](https://youtu.be/XCQcwwauIb0?t=365)  
+- 🟢 Bullish **SPYI** – NEOS S&P 500 High Income ETF; ~12% annual yield (mostly return of capital), price up ~8% since launch, meets price test [8:09](https://youtu.be/XCQcwwauIb0?t=489)  
+- 🟢 Bullish **IDVO** – Amplify CWP International Enhanced Dividend Income ETF; ~6% annual yield, 3‑yr growth ~81%, best performer among the five ETFs [9:10](https://youtu.be/XCQcwwauIb0?t=550)  
+- 🟢 Bullish **DHS** – WisdomTree US High Dividend Fund; ~3% annual yield, $10k → $18k over 5 yr, beats S&P 500 despite COVID‑19 dip of –37% [10:11](https://youtu.be/XCQcwwauIb0?t=611)  
+- 🟢 Bullish **MAIN** – Main Street Capital (stock); ~6% annual yield, never cut dividend since 2007, 5‑yr total return 86% vs S&P 500 76% [11:11](https://youtu.be/XCQcwwauIb0?t=671)  
+- 🔴 Cautious **O** – Realty Income (stock); 55‑yr monthly dividend record but price down ~‑14% over 5 yr, fails price test [11:11](https://youtu.be/XCQcwwauIb0?t=671)  
+- 🔴 Cautious **JEPI** (older version) – failed price test, not recommended [10:11](https://youtu.be/XCQcwwauIb0?t=611)  
+- 🔴 Cautious **QYLD** – Global X Nasdaq 100 Covered Call ETF; failed price test, not recommended [10:11](https://youtu.be/XCQcwwauIb0?t=611)  
+- **None** – No other investable assets were discussed.
+
+**Moats, risks & black swans:**
+- Moat: **JEPIQ** – option‑selling premium provides a steady cash‑flow buffer that supports the high monthly yield. [4:03](https://youtu.be/XCQcwwauIb0?t=243)  
+- Risk: **MAIN** – exposure to private‑company lending; “gets sold out first” when investors fear private credit risk, and it fell ‑64% in the 2020 COVID crash. [11:11](https://youtu.be/XCQcwwauIb0?t=671)  
+- Black swan: **DHS** – COVID‑19 market crash caused a –37% drop, slightly worse than the S&P 500, showing that even high‑dividend “corner‑bakery” stocks can suffer severe shocks. [10:11](https://youtu.be/XCQcwwauIb0?t=611)  
+
+**Key insights:**
+- The “price test” (share price must be higher than five years ago or at launch) weeds out high‑yield funds that lose capital, preventing dividend‑only traps. [4:03](https://youtu.be/XCQcwwauIb0?t=243)  
+- Total return already includes reinvested dividends; adding the yield again double‑counts performance and can mislead investors. [7:07](https://youtu.be/XCQcwwauIb0?t=427)  
+- Holding monthly dividend assets in an IRA or other tax‑advantaged account can add ~$450 k over 30 yr versus a taxable account, because dividends are tax‑deferred. [1:00](https://youtu.be/XCQcwwauIb0?t=60)  
+
+**Jump to:**  
+[4:03](https://youtu.be/XCQcwwauIb0?t=243) JEPIQ – high‑yield tech‑heavy ETF using option premiums · [7:07](https://youtu.be/XCQcwwauIb0?t=427) Dividend‑yield trap explained · [11:11](https://youtu.be/XCQcwwauIb0?t=671) Main Street Capital – private‑lending stock risk and performance
+
+## Mercor CEO Brendan Foody on the three values behind the company's $20B rise
+
+**Sourcery with Molly O'Shea** · 1:48 · Nov 10 · [watch](https://www.youtube.com/shorts/xzHffVugHyQ)
+
+**Bottom line:**  
+Mercor’s $20 B valuation surge is credited to a culture of ultra‑high hiring standards, a long‑term “Time Travelers” mindset that lets them anticipate AI frontier shifts, and a deep customer‑obsession that drives revenue from top AI‑hardware customers.
+
+**Signals:**  
+- 🟢 Bullish **Mercor** (no ticker mentioned), Brendan Foody says the three cultural values have created market leadership and underpin the $20 B rise, highlighting strong demand from AI‑hardware customers. [0:00‑1:02]  
+
+**AI & private markets:**  
+- Mercor’s “Time Travelers” approach lets them spot AI frontier research early, which Foody says predicts moves in AI‑native and application‑layer companies and even the broader global economy. [0:45‑1:02]  
+
+**Moats, risks & black swans:**  
+- Moat: Mercor’s **high hiring bar** creates an “unparalleled” talent pool that differentiates it from other talent networks. [0:10‑0:25]  
+- Moat: The **Time Travelers** long‑term orientation gives Mercor early insight into AI research trends, acting as a leading indicator for AI‑native markets. [0:45‑1:02]  
+- Risk: No explicit risks or black‑swan scenarios were mentioned.  
+
+**Key insights:**  
+- High hiring standards are presented as a core competitive advantage, enabling Mercor to deliver superior talent to AI hardware firms. [0:10‑0:25]  
+- The “Time Travelers” mindset is described as a systematic way to map research breakthroughs to future market demand, positioning Mercor ahead of emerging talent networks. [0:45‑1:02]  
+- Customer obsession is framed as a revenue engine, with Mercor “moving mountains” for customers building the most important technology on earth. [1:02‑1:20]  
+
+**Jump to:**  
+[0:10](https://youtu.be/xzHffVugHyQ?t=10) high hiring standards · [0:45](https://youtu.be/xzHffVugHyQ?t=45) Time Travelers long‑term view · [1:02](https://youtu.be/xzHffVugHyQ?t=62) customer obsession driving market leadership
+
+## Skipped as off-topic
+
+- [GLP-1s Are a Bigger Business Than AI](https://www.youtube.com/watch?v=aOSuI2qPeB8) — Invest Like The Best
+
+
+_Summaries by openai/gpt-oss-120b (open-source models)._
