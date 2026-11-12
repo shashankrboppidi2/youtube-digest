@@ -610,3 +610,84 @@ Peter argues that a 100 % equity portfolio should focus on cheap, high‑profi
 
 
 _Summaries by openai/gpt-oss-120b (open-source models)._
+
+<!-- run 16:11Z -->
+
+## TL;DR
+
+**Most bullish:**  
+- **AMD** — 1 video — highlighted as one of only two large‑cap options for AI exposure after Nvidia’s leadership shake‑up (Bloomberg Podcasts)  
+- **Broadcom** — 1 video — seen as an alternative AI play amid Nvidia turmoil (Bloomberg Podcasts)  
+
+**Most cautious:**  
+- **Nvidia** — 1 video — shares down >11% after Jensen Huang’s resignation, expected volatility (Bloomberg Podcasts)  
+- **Rocket Lab (RKLB)** — 1 video — 25% YoY share dilution, $1.93 bn debt refinancing and Neutron launch delay raise downside risk (Chip Stock Investor)  
+
+**Trends:**  
+- AI leadership uncertainty: Nvidia’s CEO resignation triggers short‑term volatility and shifts investor interest to AMD and Broadcom (Bloomberg Podcasts)  
+- Private‑sector AI hardware progress: Nvidia’s “Vera Rubin” architecture touted as five‑times faster than the prior “Blackwell” chips (Bloomberg Podcasts)  
+
+**Risks & black swans:**  
+- Further delays or technical issues with Rocket Lab’s Neutron rocket could stall revenue growth and depress the stock (Chip Stock Investor)  
+- Continued share‑count dilution at Rocket Lab could erode shareholder value (Chip Stock Investor)  
+- Nvidia’s stock could experience heightened volatility and price pressure following the CEO resignation (Bloomberg Podcasts)  
+
+**Private & pre‑IPO watch:**  
+- **Rocket Lab** — valuation not disclosed; Q3 2026 revenue $268 m, $3.6 bn backlog, $2 bn‑year revenue outlook; facing 25% share‑count increase, $1.93 bn debt refinancing, and Neutron launch delay to 2027 (Chip Stock Investor)
+
+## Rocket Lab Is BOOMING -- So Why Aren’t We Buying RKLB?
+
+**Chip Stock Investor** · 15:54 · Nov 12 · [watch](https://www.youtube.com/watch?v=aaEDWZ9dSfA)
+
+**Bottom line:**  
+Rocket Lab’s growth is impressive—record revenue, a $3.6 bn backlog and the Iridium acquisition—but dilution, debt refinancing and the Neutron delay keep the author from buying at current levels.
+
+**Signals:**
+- 🔴 Cautious **RKLB** – Chip Stock Investor cites 25 % YoY share dilution, $1.93 bn debt to refinance and the Neutron launch delay to 2027 as downside risks, despite a $2 bn‑year revenue outlook [12:33](https://youtu.be/aaEDWZ9dSfA?t=753).
+
+**Moats, risks & black swans:**
+- Moat: **Rocket Lab** – vertical integration of spacecraft, launch services and now communications (Iridium) gives higher‑margin revenue vs traditional aerospace peers [4:11](https://youtu.be/aaEDWZ9dSfA?t=251).
+- Risk: **Rocket Lab** – 25 % share‑count increase in the past year could erode shareholder value and may continue if more stock is issued to fund Iridium and refinance debt [8:21](https://youtu.be/aaEDWZ9dSfA?t=501).
+- Black swan: **Rocket Lab** – further delays or technical issues with the Neutron medium‑lift rocket could stall the expected revenue uplift and depress the stock [12:33](https://youtu.be/aaEDWZ9dSfA?t=753).
+
+**Key insights:**
+- Rocket Lab’s Q3 2026 revenue jumped to $268 m, up from $155 m a year earlier, driven mainly by Space Systems (+88 % YoY) and launch services (+30 % YoY) [3:09](https://youtu.be/aaEDWZ9dSfA?t=189).
+- Backlog grew 52 % QoQ to $3.6 bn, with launch services now representing just over half of the total, highlighting the importance of the Electron rocket and upcoming Neutron contracts [5:15](https://youtu.be/aaEDWZ9dSfA?t=315).
+- The Iridium acquisition adds $900 m of revenue, $278 m of free cash flow and $1.93 bn of debt; the deal is funded largely by a stock sale that doubled cash on hand to $4.6 bn but also caused 25 % share dilution [9:23](https://youtu.be/aaEDWZ9dSfA?t=563).
+
+**Jump to:**  
+[3:09](https://youtu.be/aaEDWZ9dSfA?t=189) Revenue surge & margin trends · [5:15](https://youtu.be/aaEDWZ9dSfA?t=315) Backlog composition shift · [9:23](https://youtu.be/aaEDWZ9dSfA?t=563) Iridium deal financing & impact
+
+## Jensen Huang Resigns as Nvidia CEO
+
+**Bloomberg Podcasts** · 7:29 · Nov 12 · [watch](https://www.youtube.com/watch?v=t360mMj67H8)
+
+**Bottom line:** Jensen Huang’s resignation creates short‑term volatility for Nvidia (down ~10‑11% pre‑market) and pushes investors toward AMD and Broadcom for AI exposure while the board searches for a technically strong CEO, likely internal candidate Ian Buck.
+
+**Signals:**
+- 🟢 Bullish AMD (ticker AMD) – analysts cite it as “one of the only two large‑cap options” for AI exposure after Nvidia’s drop, driving buying interest [4:14](https://youtu.be/t360mMj67H8?t=254).
+- 🟢 Bullish Broadcom (ticker AVGO) – same analyst view as AMD, seen as alternative AI play amid Nvidia turmoil [4:14](https://youtu.be/t360mMj67H8?t=254).
+- 🔴 Cautious Nvidia (ticker NVDA) – shares down more than 11% after news of Huang’s resignation; volatility expected in pre‑market [4:14](https://youtu.be/t360mMj67H8?t=254).
+
+**AI & private markets:**
+- Nvidia’s new “Vera Rubin” architecture is claimed to be five times faster in throughput than the prior “Blackwell” chips, underpinning its dominant GPU market share [2:11](https://youtu.be/t360mMj67H8?t=131).
+- Internal candidate Ian Buck, creator of CUDA, is highlighted as the frontrunner to lead Nvidia’s tech roadmap and maintain ecosystem relationships with TSMC and suppliers [5:14‑7:24].
+- No private‑company valuations, funding rounds, or IPO timelines were discussed. None
+
+**Moats, risks & black swans:**
+- Moat: Nvidia’s ecosystem – Jensen Huang built deep ties between chipmakers, hyperscalers, and software, giving the company a durable competitive advantage [0:00‑1:05].
+- Risk: Leadership gap – loss of Huang’s dual technical‑and‑relationship expertise could disrupt supply‑chain coordination with TSMC and slow product cadence [0:00‑7:24].
+- Black swan: Prolonged CEO search – if an interim CEO (Colette Kress) remains for “1 or 2 quarters,” investor confidence could erode further, pressuring the stock [0:00‑1:05].
+
+**Key insights:**
+- Nvidia’s stock fell ~10.5% pre‑market on the resignation news, indicating high sensitivity to leadership changes [4:14](https://youtu.be/t360mMj67H8?t=254).
+- The board is using an external search firm while Colette Kress (CFO, 13‑year Nvidia veteran) serves as interim CEO, suggesting a potentially extended transition period [0:00‑1:05].
+- Analysts view AMD and Broadcom as the only large‑cap substitutes for direct AI exposure, highlighting a narrow field of alternatives [4:14](https://youtu.be/t360mMj67H8?t=254).
+
+**Jump to:** [4:14](https://youtu.be/t360mMj67H8?t=254) Nvidia stock plunge & AMD/Broadcom rally · [5:14](https://youtu.be/t360mMj67H8?t=314) Ian Buck positioned as internal CEO candidate · [2:11](https://youtu.be/t360mMj67H8?t=131) Vera Rubin chip performance claim
+
+## No transcript available
+
+- [GS' Lou Miller discusses why traditional defensives might offer limited value at current prices](https://www.youtube.com/shorts/aqMpTzWpJrY) — Goldman Sachs
+
+_Summaries by openai/gpt-oss-120b (open-source models)._
