@@ -726,3 +726,162 @@ Orbital AI compute is still early‑stage and fragmented; Satlyt’s software ma
 _Problems this run: openai/gpt-oss-120b hit its free-tier limit, so later summaries are by qwen2.5:3b_
 
 _Summaries by openai/gpt-oss-120b and qwen2.5:3b (open-source models)._
+
+<!-- run 15:40Z -->
+
+## TL;DR
+
+**Most bullish:**
+- **NVDA** — 2 videos — Reasons: The stock is “cheap” after a 12% drop, and the risk-reward ratio is “not horrible,” implying a buying opportunity.
+- **NVIDIA** — 1 video — Reasons: AI demand remains strong, and the AI rally continues despite leadership turmoil.
+- **Anduril** — 1 video — Reasons: Strong position in the AI and space sectors.
+- **Palantir** — 1 video — Reasons: Strong position in the AI and space sectors.
+- **SpaceX** — 1 video — Reasons: Strong position in the AI and space sectors.
+
+**Most cautious:**
+- **NVDA** — 1 video — Reasons: Concerns over governance risk and uncertainty of a new CEO.
+
+**Trends:**
+- AI industry spending projected at $3-4 trillion globally, with Nvidia believed to be 2-3 years ahead of any rival technology.
+- SpaceX, Palantir, Anduril, and Onodrim are highlighted as strong players in the AI and space sectors, with potential for industrial policy and political influence.
+- SpaceX's AI products are being productized and monetized, with 50% of its revenue tied to AI in some capacity.
+
+**Risks & black swans:**
+- Governance risk and potential espionage ties raise concerns about Nvidia’s leadership and national-security concerns.
+- A future U.S. crackdown on Chinese technology transfer could hit Nvidia’s core business.
+- Political weaponization could lead to industry disruption for SpaceX.
+- Significant negative impact on AI adoption and investment sentiment if Jensen Huang's departure results in a period of reduced urgency and potential regulatory scrutiny.
+
+**Private & pre-IPO watch:**
+- **Onodrim** — Valuation: $300M, Revenue: $10M, Growth: 100% YoY, Funding: $10M round, Upcoming IPO: Q4 2024.
+
+## NVIDIA CEO Is OUT: Here’s What I’m Doing With My Shares
+
+**The Market Monkeys** · 12:45 · Nov 13 · [watch](https://www.youtube.com/watch?v=UxDkcrj3BfY)
+
+**Bottom line:** Nvidia’s share price correction after Jensen Huang’s exit creates a potentially attractive entry point, but investors must weigh the heightened governance risk and the uncertainty of a new CEO.
+
+**Signals:**
+- 🟢 Bullish **NVDA** – The host says the stock is “cheap” after a 12% drop and the risk‑reward ratio is “not horrible,” implying a buying opportunity. [4:05](https://youtu.be/UxDkcrj3BfY?t=245)
+- 🟡 Mixed **AI‑chip sector** – While demand remains strong, the CEO scandal adds governance risk to the sector’s outlook. [8:11](https://youtu.be/UxDkcrj3BfY?t=491)
+
+**AI & private markets:**
+- Nvidia’s AI demand stays robust; sales are “growing” and the AI rally continues despite leadership turmoil. [8:11](https://youtu.be/UxDkcrj3BfY?t=491)
+- No private‑market AI companies, valuations, or IPOs were discussed. **None**.
+
+**Moats, risks & black swans:**
+- Moat: Nvidia’s dominant position in high‑performance AI chips and its deep integration with U.S. hyperscalers. [8:11](https://youtu.be/UxDkcrj3BfY?t=491)
+- Risk: CEO misconduct and potential espionage ties raise governance and national‑security concerns. [3:03](https://youtu.be/UxDkcrj3BfY?t=183)
+- Black swan: A future U.S. crackdown on Chinese technology transfer could hit Nvidia’s core business. [2:01](https://youtu.be/UxDkcrj3BfY?t=121)
+
+**Key insights:**
+- The stock fell ~12% on the CEO news, creating a valuation gap versus peers. [4:05](https://youtu.be/UxDkcrj3BfY?t=245)
+- FY 2024 guidance: $108 B revenue ±2%, 74% gross margin, $248 EPS – slightly above consensus of $109.2 B. [11:16](https://youtu.be/UxDkcrj3BfY?t=676)
+- Interim CEO Colette Crest, longtime CFO (≈13 years), will lead the earnings call on Nov 17, signaling continuity in financial stewardship. [10:15](https://youtu.be/UxDkcrj3BfY?t=615)
+
+**Jump to:** [4:05](https://youtu.be/UxDkcrj3BfY?t=245) stock dip & cheap valuation · [10:15](https://youtu.be/UxDkcrj3BfY?t=615) interim CEO & earnings outlook · [11:16](https://youtu.be/UxDkcrj3BfY?t=676) FY 2024 guidance details
+
+## Dan Ives & Gene Munster Talk Nvidia, Jensen Huang | Bloomberg Talks
+
+**Bloomberg Podcasts** · 11:26 · Nov 13 · [watch](https://www.youtube.com/watch?v=B5DzEa5lJsY)
+
+**Bottom line:**  
+Nvidia’s leadership vacuum creates short‑term uncertainty, but analysts still view the company’s dominant AI‑chip moat and the massive $3‑4 trillion AI spend outlook as keeping the stock fundamentally bullish.
+
+**Signals:**  
+- 🟢 **Bullish** NVDA – Gene Munster (Deepwater Asset Management) says he remains “long this trade” because AI adoption is still in the early‑stage S‑curve and Nvidia is 2‑3 years ahead of competitors [9:08](https://youtu.be/B5DzEa5lJsY?t=548).  
+- 🔴 **Cautious** NVDA – Dan Ives (Yorkville) warns that without Jensen Huang the board must find a new “wartime” leader to maintain urgency; the lack of a succession plan is a material risk [4:05](https://youtu.be/B5DzEa5lJsY?t=245).  
+
+**AI & private markets:**  
+- AI industry spending projected at **$3‑4 trillion** globally, with “terillions of dollars” still to be deployed despite recent headlines [9:08](https://youtu.be/B5DzEa5lJsY?t=548).  
+- Nvidia remains the **most dominant AI chip**, believed to be **2‑3 years** ahead of any rival technology [7:07](https://youtu.be/B5DzEa5lJsY?t=427).  
+- No private‑company valuations, funding rounds, or IPO timelines were discussed.  
+
+**Moats, risks & black swans:**  
+- **Moat:** Nvidia’s lead in high‑performance AI GPUs gives it a durable advantage that keeps it “the most dominant chip in the world” [7:07](https://youtu.be/B5DzEa5lJsY?t=427).  
+- **Risk:** Founder Jensen Huang’s exit removes the “wartime urgency” that historically drives generational tech firms; the board’s ability to replace that drive is uncertain [3:02](https://youtu.be/B5DzEa5lJsY?t=182).  
+- **Risk:** Ongoing **regulatory investigations** into the export of Nvidia chips to China via a suspected Chinese spy could create supply‑chain and compliance headwinds [7:07](https://youtu.be/B5DzEa5lJsY?t=427).  
+- **Black swan:** If the Chinese‑spy scandal leads to broader export‑control crackdowns, it could abruptly cut off a **15 %** share of Nvidia’s chip shipments to China, harming revenue [7:07](https://youtu.be/B5DzEa5lJsY?t=427).  
+
+**Key insights:**  
+- Founder‑led companies with “wartime urgency” historically deliver exponential returns; losing that founder is a rare negative catalyst for a generational tech stock [3:02](https://youtu.be/B5DzEa5lJsY?t=182).  
+- The board’s top priority is to **find an external leader** with comparable urgency, as internal candidates lack the same drive (e.g., Tim Cook, Nesh Kumar, etc.) [4:05](https://youtu.be/B5DzEa5lJsY?t=245).  
+- Despite regulatory noise, **AWS guidance** showing two‑year growth rates higher than historical peaks signals that enterprise AI demand is still in its infancy and can sustain Nvidia’s growth trajectory [10:10](https://youtu.be/B5DzEa5lJsY?t=610).  
+
+**Jump to:**  
+[3:02](https://youtu.be/B5DzEa5lJsY?t=182) Founder urgency importance · [7:07](https://youtu.be/B5DzEa5lJsY?t=427) Regulatory scrutiny & export‑control risk · [9:08](https://youtu.be/B5DzEa5lJsY?t=548) AI spend magnitude & long‑term bullish case
+
+## SpaceX, Palantir, Anduril & Onodrim | The Return of Conglomerates
+
+**Sourcery with Molly O'Shea** · 1:00:39 · Nov 13 · [watch](https://www.youtube.com/watch?v=4J7tjyVCrqA)
+
+**Bottom line:** The investor provides signals on SpaceX, Palantir, and Anduril, highlighting their strong positions in the AI and space sectors, and discusses the risks and potential for these companies, particularly in the context of industrial policy and political influence.
+
+**Signals:**
+- 🟢 Bullish on SpaceX
+- 🟢 Bullish on Palantir
+- 🟢 Bullish on Anduril
+
+**Moats, risks & black swans:**
+- Moat: SpaceX — Scale of launch and compute infrastructure, vertical integration across launch, satellite, and AI compute gives durable advantage.
+- Risk: SpaceX — Political weaponization could lead to industry disruption.
+- Black swan: SpaceX or any company in the sector — Backfire if industry is torn from within due to political reasons.
+
+**Key insights:**
+- SpaceX's AI products are being productized and monetized, with 50% of its revenue tied to AI in some capacity.
+- SpaceX is building software/services around its compute stack, positioning it as a hyperscaler with sub-12-month payback periods.
+- SpaceX's full reusability impact will dramatically lower cost and increase cadence, giving it a competitive edge over other launch providers.
+- SpaceX is building software/services around its compute stack, positioning it as a hyperscaler with sub-12-month payback periods, indicating strong demand.
+
+**Jump to:** [12:14](https://youtu.be/4J7tjyVCrqA?t=734) · [11:13](https://youtu.be/4J7tjyVCrqA?t=673) · [13:16](https://youtu.be/4J7tjyVCrqA?t=796)
+
+## Nvidia's Next CEO Won't Have Same Drive as Huang, warns Munster
+
+**Bloomberg Podcasts** · 9:54 · Nov 13 · [watch](https://www.youtube.com/watch?v=p2EbXl87W_U)
+
+**Bottom line:** Gene Munster and Dan Ives discuss the challenges Nvidia faces without Jensen Huang, a key figure in the AI industry, and the potential impact on Nvidia's leadership and the broader AI industry.
+
+**Signals:**
+- 🔴 Cautious (NVDA), (Nvidia), Dan Ives, Gene Munster, reasons: Urgency and leadership challenges.
+
+**Moats, risks & black swans:**
+- Moat: Nvidia's AI leadership, Risk: Regulatory scrutiny and potential loss of influence, Black swan: Significant negative impact on AI adoption and investment sentiment.
+
+**Key insights:**
+- Jensen Huang's departure will likely result in a period of uncertainty for Nvidia's leadership and the AI industry.
+- The lack of a clear successor could lead to a period of reduced urgency and potential regulatory scrutiny.
+- The departure of Jensen Huang, a key figure in the AI industry, could have a significant impact on Nvidia's ability to maintain its leadership position and the broader AI adoption.
+
+**Jump to:** [1:04](https://youtu.be/p2EbXl87W_U?t=64) Urgency, [7:14](https://youtu.be/p2EbXl87W_U?t=434) Regulatory scrutiny, [9:20](https://youtu.be/p2EbXl87W_U?t=560) Leadership challenges
+
+## AI Agents Need Seatbelts | NVIDIA's Adel El Hallak at GTC Berlin
+
+**Ben Pouladian ** · 16:42 · Nov 13 · [watch](https://www.youtube.com/watch?v=ZZ1-wAqRe9U)
+
+**Bottom line:** Ben Pouladian highlights the significant adoption and progress of NVIDIA's AI agent toolkit and Open Shell, emphasizing their importance in enterprise environments and the need for secure and effective AI solutions.
+
+**Signals:**
+- 🔴 Cautious on NVIDIA — Ben Pouladian — NVIDIA's agent toolkit and Open Shell have seen significant adoption and progress, with teams of agents and swarms becoming the norm, driven by the need for efficient and secure AI solutions in enterprise environments.
+
+**Moats, risks & black swans:**
+- Moat: NVIDIA — NVIDIA's agent toolkit and Open Shell have established a strong moat through their comprehensive toolset and ecosystem integration, including the ability to vectorize and represent data in knowledge graphs, and the integration of security features like Open Shell, which provides a secure runtime environment.
+- Risk: NVIDIA — NVIDIA's agent toolkit and Open Shell are facing risks related to the rapid adoption of AI, including the potential for unintended consequences from vague prompts and the need to ensure security and compliance, particularly with the introduction of Open Shell and the sentry for monitoring and controlling agent activities.
+- Black swan: Open Shell — [Black Swan event] — The introduction of Open Shell could lead to significant changes in the way AI agents are managed and secured, potentially impacting the market and NVIDIA's competitive landscape.
+
+**Key insights:**
+- AI agents are being applied in critical domains like chip design, where teams of agents can quickly identify and fix bugs in complex systems like 3D circuit boards, reducing testing time from weeks to hours.
+- The adoption of AI agents is moving at an exponential pace, with some estimates suggesting a 34x increase in usage.
+- The rapid adoption of AI agents could lead to significant changes in the tech industry, potentially disrupting traditional roles and creating new ones.
+
+**Jump to:** [13:07](https://youtu.be/ZZ1-wAqRe9U?t=787) AI · [14:07](https://youtu.be/ZZ1-wAqRe9U?t=847) PRIVATE · [16:08](https://youtu.be/ZZ1-wAqRe9U?t=968) TREND
+
+## Skipped as off-topic
+
+- [Nvidia After Jensen: What Investors Can Do Next](https://www.youtube.com/watch?v=OYXptL8Z92Y) — Chip Stock Investor
+- [Rebecca Patterson & Liz Ann Sonders Talk 'Investment Wisdom for Our Friends and Loved Ones' |...](https://www.youtube.com/watch?v=5xKAfD-iis0) — Bloomberg Podcasts
+- [Could South Africa’s Governing Coalition Collapse? | Next Africa](https://www.youtube.com/watch?v=xauuV88vmuQ) — Bloomberg Podcasts
+
+
+_Problems this run: openai/gpt-oss-120b hit its free-tier limit, so later summaries are by qwen2.5:3b_
+
+_Summaries by openai/gpt-oss-120b and qwen2.5:3b (open-source models)._
