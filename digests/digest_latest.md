@@ -578,3 +578,159 @@ AI’s near‑term market edge is likely to come from cost‑cutting application
 _Problems this run: openai/gpt-oss-120b hit its free-tier limit, so later summaries are by qwen2.5:3b_
 
 _Summaries by openai/gpt-oss-120b and qwen2.5:3b (open-source models)._
+
+<!-- run 14:27Z -->
+
+## TL;DR
+
+**Most bullish:**
+- NVIDIA — 2 (Ben Pouladian, Bloomberg Podcasts) — NVIDIA’s core advantage remains strong, but leadership uncertainty creates short-term risk; investors should weigh the durable moat against the chance of a board-driven CEO change.
+- NVIDIA — 1 (Bloomberg Podcasts) — NVIDIA’s AI chip supply is “sold out through 2028,” indicating long-term hardware demand despite leadership turmoil.
+
+**Most cautious:**
+- NVIDIA — 1 (Bloomberg Podcasts) — Internal poll shows 97% CEO approval but board faces PR crisis and retention risk.
+- NVIDIA — 1 (Bloomberg Podcasts) — Potential CEO candidate: former Google TPU lead with deep data-center and GPU-competitor experience could become a “wild-card” board pick.
+- NVIDIA — 1 (Bloomberg Podcasts) — Loss of Jensen Huang’s personal brand could weaken sales momentum and investor confidence.
+- NVIDIA — 1 (Bloomberg Podcasts) — Loss of Jensen Huang’s personal brand could weaken sales momentum and investor confidence.
+- NVIDIA — 1 (Bloomberg Podcasts) — Loss of Jensen Huang’s personal brand could weaken sales momentum and investor confidence.
+
+**Trends:**
+- AI adoption is accelerating, driven by increased spending and advancements in the field.
+- NVIDIA’s AI-chip supply is “sold out through 2028,” indicating long-term hardware demand despite leadership turmoil.
+- Anthropic’s IPO was oversubscribed ×6, showing strong private-market demand for AI software.
+
+**Risks & black swans:**
+- US-China relations: Bloomberg Podcasts — The video highlights Nvidia's leadership crisis and provides insights into the AI industry, private markets, and market trends, suggesting a positive outlook for Nvidia and a resilient market, but also pointing to potential risks such as geopolitical issues and market corrections.
+- US-China trade war escalation: Bloomberg Podcasts — The video touches on broader trends in AI spending and retail investor participation, highlighting Nvidia’s leadership crisis and the upcoming debut of Anthropic, while also touching on geopolitical issues and market corrections.
+
+**Private & pre-IPO watch:**
+- Anthropic — 1 (Bloomberg Podcasts) — Oversubscribed IPO, showing strong private-market demand for AI software.
+
+## NVIDIA After Jensen: What Actually Changes?
+
+**Ben Pouladian ** · 15:53 · Nov 14 · [watch](https://www.youtube.com/watch?v=g0YYnexVfqA)
+
+**Bottom line:**  
+NVIDIA’s core advantage—its CUDA ecosystem and deep data‑center ties—remains strong, but leadership uncertainty creates short‑term risk; investors should weigh the durable moat against the chance of a board‑driven CEO change.
+
+**Signals:**
+- 🟢 Bullish **NVIDIA** – Ben Pouladian bought more shares at $155, citing a 9% 2028 free‑cash‑flow yield and record 700 M‑share volume, despite price around $166‑$169. [8:12](https://youtu.be/g0YYnexVfqA?t=492)
+- 🔴 Cautious **NVIDIA** – internal poll shows 97% CEO approval but board faces PR crisis and retention risk; source shared poll screenshot. [1:01](https://youtu.be/g0YYnexVfqA?t=61)
+- 🟡 Mixed **NVIDIA** – long‑term shareholder would vote to keep Jensen with guardrails, but notes board pressure from media and potential lawsuits. [3:03](https://youtu.be/g0YYnexVfqA?t=183)
+
+**AI & private markets:**
+- NVIDIA’s valuation premium over Micron is driven by its software ecosystem (CUDA) and non‑commodity status, not just hardware. [5:07](https://youtu.be/g0YYnexVfqA?t=307)
+- Potential CEO candidate: former Google TPU lead (unnamed) with deep data‑center and GPU‑competitor experience could become a “wild‑card” board pick. [12:15](https://youtu.be/g0YYnexVfqA?t=735)
+- Google’s TPU program described as “much more robust, mature, and much more similar to GPUs” versus Apple’s consumer‑grade silicon, implying TPU competition for inference clusters. [13:18](https://youtu.be/g0YYnexVfqA?t=798)
+
+**Moats, risks & black swans:**
+- Moat: NVIDIA – system‑level integration (data‑center deployability, supply‑chain ties, CUDA) provides a durable advantage beyond being a pure chip commodity. [6:07](https://youtu.be/g0YYnexVfqA?t=367)
+- Moat: NVIDIA – CUDA background of potential CEO Ian Buck (22 years at NVIDIA, helped design H100/A100) seen as a strong technical moat. [9:13](https://youtu.be/g0YYnexVfqA?t=553)
+- Risk: NVIDIA – massive employee retention problem if board replaces Jensen; many staff hold $10 M+ RSUs. [2:02](https://youtu.be/g0YYnexVfqA?t=122)
+- Risk: NVIDIA – “lawsuit city” expected; shareholders will scrutinize insider stock sales and email evidence. [4:05](https://youtu.be/g0YYnexVfqA?t=245)
+- Risk: NVIDIA – leadership uncertainty (20% chance Jensen returns) could affect roadmap execution and investor confidence. [14:19](https://youtu.be/g0YYnexVfqA?t=859)
+
+**Key insights:**
+- NVIDIA’s supply‑chain commitments (TSMC wafer capacity, tape‑outs) are locked in, making hyperscaler switches to AMD unlikely in the short term. [7:09](https://youtu.be/g0YYnexVfqA?t=429)
+- Even without Jensen, the company’s “embedded momentum and advantages” are likened to an organ transplant that may be accepted, supporting a bullish view. [10:14](https://youtu.be/g0YYnexVfqA?t=614)
+- AI ecosystem rally: NVIDIA’s mission to support the U.S. AI economy and open‑source development is framed as a rallying point that could strengthen the firm post‑crisis. [11:15](https://youtu.be/g0YYnexVfqA?t=675)
+
+**Jump to:**  
+[1:01](https://youtu.be/g0YYnexVfqA?t=61) cautious – board PR crisis & retention risk · [8:12](https://youtu.be/g0YYnexVfqA?t=492) bullish – personal share purchase & cash‑flow yield · [14:19](https://youtu.be/g0YYnexVfqA?t=859) cautious – 20% chance Jensen returns as CEO
+
+## Nvidia’s Leadership Shakeup Tests Chip Giant
+
+**Bloomberg Podcasts** · 6:01 · Nov 14 · [watch](https://www.youtube.com/watch?v=BysHhcF7oy8)
+
+**Bottom line:**  
+Nvidia’s board moved quickly to replace Jensen Huang with CFO Colette Kress as interim CEO, which has steadied investor sentiment but leaves uncertainty about future AI‑chip financing and leadership continuity.
+
+**Signals:**  
+- 🟢 Bullish **Nvidia** (NVDA), Mike Shepard (Bloomberg senior editor) – interim CEO Colette Kress offers continuity; board added first chair Harvey Jones, calming investors ahead of earnings call [1:07](https://youtu.be/BysHhcF7oy8?t=67)  
+- 🔴 Cautious **AMD** (AMD), Mike Shepard – competitor gains attention now that Nvidia’s charismatic founder is out; AMD shares have risen but still trailing Nvidia [3:13](https://youtu.be/BysHhcF7oy8?t=193)  
+- 🟡 Mixed **Broadcom** (AVGO), Mike Shepard – developing competing AI‑chip products; could capture market share if Nvidia’s momentum stalls [3:13](https://youtu.be/BysHhcF7oy8?t=193)  
+
+**AI & private markets:**  
+- Anthropic IPO was oversubscribed ×6, showing strong private‑market demand for AI software [2:08](https://youtu.be/BysHhcF7oy8?t=128)  
+- Nvidia’s AI‑chip supply is “sold out through 2028,” indicating long‑term hardware demand despite leadership turmoil [2:08](https://youtu.be/BysHhcF7oy8?t=128)  
+
+**Moats, risks & black swans:**  
+- Moat: **Nvidia** – dominant AI‑chip market share and sold‑out supply through 2028 provide a durable advantage [2:08](https://youtu.be/BysHhcF7oy8?t=128)  
+- Risk: **Nvidia** – loss of Jensen Huang’s personal brand could weaken sales momentum and investor confidence [4:19](https://youtu.be/BysHhcF7oy8?t=259)  
+- Black swan: **AI‑chip financing** – future CEO’s enthusiasm for “circular financing” could be questioned, potentially tightening capital for AI infrastructure projects [3:13](https://youtu.be/BysHhcF7oy8?t=193)  
+
+**Key insights:**  
+- Board’s rapid actions (outside law firm, ousting CEO, appointing interim CEO, naming first chair) were designed to reassure markets and limit contagion risk [1:07](https://youtu.be/BysHhcF7oy8?t=67)  
+- Competitors (Broadcom, Google, AMD) now have a clearer path to gain AI‑chip market attention without Nvidia’s singular evangelist [3:13](https://youtu.be/BysHhcF7oy8?t=193)  
+- The AI ecosystem’s health is reflected more in hardware demand (sold‑out supply) than in short‑term stock volatility, suggesting a longer‑term investment horizon [2:08](https://youtu.be/BysHhcF7oy8?t=128)  
+
+**Jump to:**  
+[1:07](https://youtu.be/BysHhcF7oy8?t=67) Board’s crisis response · [2:08](https://youtu.be/BysHhcF7oy8?t=128) AI‑chip demand through 2028 · [3:13](https://youtu.be/BysHhcF7oy8?t=193) Competitor opportunities after leadership change
+
+## Nvidia's Leadership Crisis, US Retirement Gets a C+ & Anthropic's Big Debut Next Week |...
+
+**Bloomberg Podcasts** · 55:46 · Nov 14 · [watch](https://www.youtube.com/watch?v=RbGUqmvr6ew)
+
+**Bottom line:** The Bloomberg Podcasts video highlights Nvidia's leadership crisis and provides insights into the AI industry, private markets, and market trends, suggesting a positive outlook for Nvidia and a resilient market, but also pointing to potential risks such as geopolitical issues and market corrections.
+
+**Signals:**
+- 🔴 Cautious on US-China relations
+- 🔴 Cautious on US-China trade war escalation
+
+**Moats, risks & black swans:**
+- Moat: NVIDIA — Data and scale
+- Risk: US-China relations
+- Black swan: US-China trade war escalation
+
+**Key insights:**
+- AI adoption is accelerating, driven by increased spending and advancements in the field.
+- NVIDIA is a key player in this trend, with strong fundamentals and a growing market share.
+- Bloomberg is hosting a conference on racism and anti-semitism in the Democratic party, with a book by Adam Gentlesson on how Democrats should strive for supermajorities.
+- The election showed Democrats can attract disaffected Republicans, but the question is whether they can keep them there.
+- The DXY index at 103 is a strong indicator of a positive market sentiment.
+
+**Jump to:** [12:34](https://youtu.be/RbGUqmvr6ew?t=754) SIGNAL: bullish on NVIDIA · [12:34](https://youtu.be/RbGUqmvr6ew?t=754) FACT: DXY at 103 is a significant move
+
+## Nvidia's Leadership Crisis, US Retirement Gets a C+ & Anthropic's Big Debut Next Week |...
+
+**Bloomberg Podcasts** · 51:32 · Nov 14 · [watch](https://www.youtube.com/watch?v=VPrEIQvtL7U)
+
+**Bottom line:** The video covers the AI industry, private companies, and market signals, highlighting Nvidia's leadership crisis and the upcoming debut of Anthropic, while also touching on broader trends in AI spending and retail investor participation.
+
+**Signals:**
+- 🔴 Cautious on Nvidia — Bloomberg Podcasts — Despite recent issues, there is strong demand from retail investors for Nvidia’s products and services.
+- 🔴 Cautious on AI — Bloomberg Podcasts — The AI industry is seeing a mixed landscape with strong retail investor demand, but also concerns about Nvidia’s impact and the overall AI market’s uncertain future.
+- 🔴 Cautious on Anthropic — Bloomberg Podcasts — Anthropic is expected to have strong growth, with a lot of excitement from tech workers and AI nerds, and they are looking to take advantage of the AI trading dynamic.
+
+**Moats, risks & black swans:**
+- Moat: Nvidia — Strong competitive advantage in the AI hardware market, with a large customer base and a strong brand reputation.
+- Risk: Nvidia — Risks from the Nvidia issues and the overall decline in AI stocks over the past few months.
+- Black swan: Nvidia IPO failure — If the IPO does not go well, it could harm OpenAI, which is seen as a rival in the AI space.
+
+**Key insights:**
+- AI adoption is accelerating, with spending expected to grow by 40% in 2023, according to a recent report by ABI Research.
+- The AI industry is seeing a surge in investment, with a record number of private companies raising funds in the last quarter.
+- Retail investors are increasingly participating in AI-related stocks, with Anthropic expected to benefit from this trend.
+- The world's oil intensity has fallen, leading to lower oil prices compared to the 1970s.
+
+**Jump to:** [12:34](https://youtu.be/VPrEIQvtL7U?t=754) SIGNAL: bullish on Nvidia · [12:34](https://youtu.be/VPrEIQvtL7U?t=754) SIGNAL: bullish on AI
+
+## Skipped as off-topic
+
+- [Trump Heads to China for Talks With Xi and Putin](https://www.youtube.com/watch?v=7J9lW7peNok) — Bloomberg Podcasts
+- [From Errors to Efficiency: Can AI Transform the Practice of Law? | UnCommon Law](https://www.youtube.com/watch?v=fa-zjTW7CCU) — Bloomberg Podcasts
+- [Couples Are Bringing AI Chatbots Into Their Arguments](https://www.youtube.com/watch?v=q79Jei-Muy0) — Bloomberg Podcasts
+- [David Cameron Sees Hope in New Alzheimer’s Research](https://www.youtube.com/watch?v=1h5jItA-EiQ) — Bloomberg Podcasts
+- [Ukraine Peace Talks Turns to NATO and Donbas](https://www.youtube.com/watch?v=lc0OHisB2oA) — Bloomberg Podcasts
+- [FAA Systems in Focus After Air Travel Chaos](https://www.youtube.com/watch?v=DcmEYDtP620) — Bloomberg Podcasts
+- [FAA Ends Nationwide Ground Stop: Full Press Conference](https://www.youtube.com/watch?v=BawKxUIIqmQ) — Bloomberg Podcasts
+
+## No transcript available
+
+- [GS’ Nicole Pullen Ross shares how stadium financing is changing as the fan experience evolves](https://www.youtube.com/shorts/s5kwoDTVECo) — Goldman Sachs
+- [Where are investors looking to get exposure to sports? Goldman Sachs’ Nicole Pullen Ross explains](https://www.youtube.com/shorts/cNey7ZYomvI) — Goldman Sachs
+- [Goldman Sachs’ Nicole Pullen Ross explains the impact of new player-pay rules on college financing](https://www.youtube.com/shorts/HnTVv93gE-g) — Goldman Sachs
+
+_Problems this run: openai/gpt-oss-120b hit its free-tier limit, so later summaries are by qwen2.5:3b_
+
+_Summaries by openai/gpt-oss-120b and qwen2.5:3b (open-source models)._
