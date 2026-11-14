@@ -223,3 +223,358 @@ Geopolitical and regulatory risks around Nvidia’s leadership and export contro
 
 
 _Summaries by openai/gpt-oss-120b (open-source models)._
+
+<!-- run 12:04Z -->
+
+## TL;DR
+
+**Most bullish:**
+- Apple — 1 video — Gerard Williams sees Apple's "performance per watt" advantage in AI data-center chips giving it a competitive edge over Intel, with potential for a new efficiency-focused challenger.
+- AMD — 1 video — AMD is seen as a strong competitor, with the speaker noting that when they were excited about AMD, they viewed AMD as a "weak out-engineer them."
+- Anthropic — 1 video — Dwarkesh Patel sees internal R&D uplift to 26% of Anthropic's work, indicating early automation of research tasks.
+- BNY — 1 video — Peter Lazaroff highlights BNY's cheap, high-momentum small-cap profile and AI-driven "Eliza" platform, boosting profitability.
+- CPU architecture for AI data-center workloads — 1 video — The speaker sees CPUs as a foundation for NuvoCore's "core-first" strategy for LLM-driven servers.
+
+**Most cautious:**
+- AI-related stocks overall — 1 video — The speaker warns that recent volatility and AI usage is still under 5% of the population, with only ~1% heavy-lift users.
+- NVDA — 1 video — Jensen Huang's resignation is seen as highlighting governance risk, with potential for leadership instability and strategic continuity issues.
+- NVIDIA — 1 video — Jensen Huang's resignation and the potential for increased regulatory scrutiny over China sales.
+- NuvoCore/Novaore production timeline — 1 video — The speaker notes that the startup is still early-stage and not yet in volume production.
+
+**Trends:**
+- AI CapEx is now a “self-balancing” factor in Fed rate modeling, potentially moderating rate hikes.
+- Data-service firms selling data to China are currently unregulated, but this may change soon.
+- AI research automation timeline is forecasted to be around 2028, with some predicting it could happen as early as 2027 or next year.
+
+**Risks & black swans:**
+- Risk: Increased U.S. regulatory focus on chip and cloud rentals to China could restrict shipments and rentals, hurting exporters.
+- Risk: Future restricitions on data sales to China could impact data-service firms.
+- Risk: Large-scale AI failures could lead to significant market disruptions, impacting the industry.
+- Black swan: Political outcomes discussed in the video could have worked out well for the semiconductor companies, but specific details are not provided.
+
+**Private & pre-IPO watch:**
+- NuvoCore/Novaore — Valuation not provided, but production timeline is noted as still early-stage and not yet in volume production.
+- OpenAI — $250 billion credit facility to help OpenAI buy Nvidia chips for a dedicated data center was negotiated, but later split into two parts after internal pushback.
+- Marvell — Claims to deliver 25% power savings with optical scale-up networking and dense memory solutions, positioning the company to benefit from AI workloads shifting from copper to optical interconnects.
+
+**Note:** The summaries provided cover the main points and insights from the videos discussed, without inventing any information not present in the source.
+
+## Weekend Listen: Apple’s Former Chief Chip Architect on the AI Chip Race | Bloomberg Tech
+
+**Bloomberg Podcasts** · 47:03 · Nov 14 · [watch](https://www.youtube.com/watch?v=WdPR_J37pEw)
+
+**Bottom line:**  
+Apple’s legacy of performance‑per‑watt CPU design gives it a durable edge in data‑center AI workloads, but the departure of its former chief chip architect and the early‑stage nature of his new venture, NuvoCore, mean investors should stay cautious on short‑term execution while watching for a potential new efficiency‑focused challenger.
+
+**Signals:**  
+- 🟢 Bullish **Apple** (no ticker needed) – Gerard Williams says Apple’s “performance per watt” advantage that powered the M1 family gives it a competitive edge over Intel in AI data‑center chips. [5:07](https://youtu.be/WdPR_J37pEw?t=307)  
+- 🔴 Cautious **Apple** – Williams notes the unknown background of new CEO John Turner (Turnis) creates uncertainty about future engineering decisions. [10:15](https://youtu.be/WdPR_J37pEw?t=615)  
+- 🟢 Bullish **CPU architecture for AI data‑center workloads** – Guest claims CPUs can scale and are the foundation of NuvoCore’s “core‑first” strategy for LLM‑driven servers. [20:28](https://youtu.be/WdPR_J37pEw?t=1228)  
+- 🟢 Bullish **on‑device AI compute** – Guest sees huge opportunity to shrink large language models for phones, laptops and desktops, expanding the talent pipeline. [25:30](https://youtu.be/WdPR_J37pEw?t=1530)  
+- 🔴 Cautious **NuvoCore/Novaore production timeline** – Founder left Qualcomm in Jan, indicating the startup is still early‑stage and not yet in volume production. [38:42](https://youtu.be/WdPR_J37pEw?t=2322)  
+
+**AI & private markets:**  
+- Apple’s AI‑focused CPU design (M1, M2) leverages power‑efficiency to let data‑centers pack “two‑to‑three‑times more cores” in the same rack power envelope, a key cost lever. [7:12](https://youtu.be/WdPR_J37pEw?t=432)  
+- NuvoCore is building a clean‑sheet CPU from first principles, targeting an ISA‑agnostic product that can support x86, ARM and RISC‑V after the core is finalized. [21:28](https://youtu.be/WdPR_J37pEw?t=1288) [22:29](https://youtu.be/WdPR_J37pEw?t=1349)  
+- AI‑assisted design cuts CPU performance‑modeling cycles from 7‑12 months to 2‑3 months, accelerating time‑to‑market. [30:35](https://youtu.be/WdPR_J37pEw?t=1835)  
+- Private startup Novaore (related to NuvoCore) has raised undisclosed capital from “strategic players” in silicon; full silicon tape‑out expected in 2‑3 years, ~7 months into development. [34:40](https://youtu.be/WdPR_J37pEw?t=2080) [35:42](https://youtu.be/WdPR_J37pEw?t=2142)  
+
+**Moats, risks & black swans:**  
+- Moat: **Apple** – tight hardware‑software integration delivers superior performance‑per‑watt that rivals find hard to match. [8:14](https://youtu.be/WdPR_J37pEw?t=494)  
+- Risk: **Apple CPU roadmap** – Williams’s 2019 departure just before the M1 rollout raises knowledge‑transfer risk for next‑gen silicon. [13:20](https://youtu.be/WdPR_J37pEw?t=800)  
+- Risk: **Talent‑poaching lawsuits** – past suit accusing Nuvia of poaching engineers and trade‑secret theft was largely frivolous but highlights legal exposure when talent moves between rivals. [15:20](https://youtu.be/WdPR_J37pEw?t=920)  
+- Black swan: **AI‑generated design assistance** – models cannot fully replace experienced engineers; over‑reliance could produce design flaws if human oversight fails. [26:30](https://youtu.be/WdPR_J37pEw?t=1590)  
+
+**Key insights:**  
+- Power‑efficiency (millowatts per core) is a decisive economic factor; saving a few milliwatts across millions of cores materially lowers total‑site power consumption. [6:11](https://youtu.be/WdPR_J37pEw?t=371)  
+- Large language models still need high‑performance CPUs/DPUs for memory, security and single‑thread tasks; GPUs dominate compute but CPUs remain “front‑and‑center” in data centers. [18:24](https://youtu.be/WdPR_J37pEw?t=1104)  
+- Industry is moving toward compressing the traditional 2.5‑3‑year CPU design cycle to ~2 years, with “a year‑and‑a‑half would be beautiful” as a target. [32:38](https://youtu.be/WdPR_J37pEw?t=1958)  
+- On‑device AI compute is expected to enable consumer products like AR glasses and everyday LLM interactions within 3‑5 years, expanding the end‑user market for CPU‑centric AI. [39:43](https://youtu.be/WdPR_J37pEw?t=2383)  
+
+**Jump to:**  
+[5:07](https://youtu.be/WdPR_J37pEw?t=307) bullish on Apple CPU business · [20:28](https://youtu.be/WdPR_J37pEw?t=1228) CPU architecture as AI foundation · [25:30](https://youtu.be/WdPR_J37pEw?t=1530) on‑device AI compute opportunity
+
+## Inside Jensen Huang’s Nvidia Exit
+
+**The Information** · 2:11 · Nov 13 · [watch](https://www.youtube.com/shorts/9okVLB6hzdY)
+
+**Bottom line:** Jensen Huang’s resignation was driven by personal conduct issues and alleged misinformation to executives and the board, not by Nvidia’s business performance, highlighting governance risk for investors.
+
+**Moats, risks & black swans:**
+- Risk: Nvidia – potential governance risk after the board forced out its founder over alleged lying about personal relationships, which could affect leadership stability and strategic continuity. [1:45](https://youtu.be/9okVLB6hzdY?t=105)
+
+**Key insights:**
+- The board called an emergency meeting after learning of a second alleged affair involving Jensen Huang and vice‑president Kimberly Powell, suggesting the board acted on perceived dishonesty rather than business metrics. [1:30](https://youtu.be/9okVLB6hzdY?t=90)
+- General counsel Tim Teter confronted Huang at his home, prompting an apology and indicating internal legal pressure before the resignation. [0:55](https://youtu.be/9okVLB6hzdY?t=55)
+- The New York Times and Financial Times reports linked a personal relationship with “Alice” (alleged Chinese spy) to possible export‑control violations, raising compliance concerns for Nvidia’s AI‑chip shipments to China. [0:20](https://youtu.be/9okVLB6hzdY?t=20)
+
+**Jump to:** [0:20 NYT report on alleged spy relationship] · [0:55 General counsel confrontation] · [1:30 Board emergency meeting over second affair]
+
+## Chips are under scrutiny. Data sales to China aren’t, yet.
+
+**SemiAnalysis** · 1:41 · Nov 13 · [watch](https://www.youtube.com/shorts/zjn29csaxN4)
+
+**Bottom line:** Investors should expect tighter U.S. scrutiny on chip and cloud rentals to China, while data‑sales to China remain largely unregulated for now, creating a near‑term risk for semiconductor exporters but a short‑term window for data‑service firms.
+
+**Signals:**
+- 🔴 Cautious NVIDIA (NVDA) – the host notes that Jensen Huang and Micron’s CEO Sanjay Lutnick (and David Sachs) have been “heavily discredited” in arguments defending Nvidia’s China sales, implying heightened regulatory risk for Nvidia’s China exposure. [0:45](https://youtu.be/zjn29csaxN4?t=45)
+- 🟢 Bullish AMD – the speaker says “when we were excited about AMD… they view that as a weak out‑engineer them,” suggesting a more favorable view of AMD versus Nvidia in the China‑restriction debate. [0:55](https://youtu.be/zjn29csaxN4?t=55)
+
+**AI & private markets:**
+- Data‑service firms (e.g., “the Macquires”) are currently selling large volumes of data to China without regulatory scrutiny, but the speaker expects this to change soon. [0:30](https://youtu.be/zjn29csaxN4?t=30)
+- Chip and cloud rentals to China will face “a lot more scrutiny,” raising compliance risk for semiconductor and cloud providers. [0:50](https://youtu.be/zjn29csaxN4?t=50)
+
+**Moats, risks & black swans:**
+- Risk: Chip sales to China – increased U.S. regulatory focus could restrict shipments and rentals, hurting exporters. [0:45](https://youtu.be/zjn29csaxN4?t=45)
+- Risk: Data sales to China – lack of current oversight may be temporary; future restrictions could impact data‑centric business models. [1:00](https://youtu.be/zjn29csaxN4?t=60)
+
+**Key insights:**
+- Chip and cloud rentals to China are now a regulatory flashpoint, unlike data sales which remain unexamined. [0:45](https://youtu.be/zjn29csaxN4?t=45)
+- Industry defenders of Nvidia’s China business (Jensen Huang, Lutnick, David Sachs) have lost credibility, signaling a shift toward stricter policy enforcement. [0:55](https://youtu.be/zjn29csaxN4?t=55)
+- AMD is perceived more favorably than Nvidia in the context of China restrictions, hinting at a relative competitive edge. [0:55](https://youtu.be/zjn29csaxN4?t=55)
+
+**Jump to:** [0:45](https://youtu.be/zjn29csaxN4?t=45) Chip & cloud rental scrutiny · [0:55](https://youtu.be/zjn29csaxN4?t=55) AMD viewed more favorably than Nvidia · [1:00](https://youtu.be/zjn29csaxN4?t=60) Anticipated scrutiny of data sales to China
+
+## How Will Higher-than-Expected Inflation Data Impact the Fed's Next Rate Decisions?
+
+**Goldman Sachs** · 9:46 · Nov 13 · [watch](https://www.youtube.com/watch?v=DFqpv4ofPW4)
+
+**Bottom line:**  
+Higher‑than‑expected CPI has revived expectations of 50‑bp Fed hikes and tied future rate moves to AI‑related capital spending, meaning rates may stay elevated unless earnings growth or a supply‑side shift eases pressure.
+
+**Signals:**  
+- 🔴 Cautious **U.S. 10‑yr Treasury** – Muhammad Qubbaj warns the same confluence of strong CPI, 50‑bp hike expectations, term‑premium worries and convexity selling is unlikely to repeat, keeping yields near 5% and limiting upside for bonds. [4:14](https://youtu.be/DFqpv4ofPW4?t=254)  
+- 🟢 Bullish **Mega‑cap tech equities** – Qubbaj says the market is “all about mega‑cap tech” and the trade idea is to own the factor (stocks) while hedging with puts, implying a bias toward large‑cap AI‑exposed names. [8:22](https://youtu.be/DFqpv4ofPW4?t=502)  
+
+**AI & private markets:**  
+- AI CapEx is now a “self‑balancing” factor in Fed rate modeling; higher rates would slow AI spending, which in turn could temper rate hikes. [5:16](https://youtu.be/DFqpv4ofPW4?t=316)  
+- No private‑company valuations, funding rounds, or IPO timelines were discussed.  
+
+**Moats, risks & black swans:**  
+- Risk: **Fed reaction function** – Waller’s comment that 0.3% CPI could justify 50‑bp hikes adds uncertainty to rate path and could trigger market positioning swings. [1:01](https://youtu.be/DFqpv4ofPW4?t=61)  
+- Risk: **Convexity selling** – described as a feedback loop where market sell‑offs force more selling, amplifying moves. [6:19](https://youtu.be/DFqpv4ofPW4?t=379)  
+- Black swan: **Geopolitical oil shock** – a sudden oil price spike could feed core CPI and force a more aggressive Fed stance, but the link is not one‑for‑one. [3:12](https://youtu.be/DFqpv4ofPW4?t=192)  
+
+**Key insights:**  
+- The Fed’s “reaction function” now explicitly ties a 0.3% CPI reading to the possibility of 50‑bp hikes, widening the rate‑move distribution. [1:01](https://youtu.be/DFqpv4ofPW4?t=61)  
+- A month‑long “hike compression” removed ~50 bps of expected hikes; the market is now re‑pricing that compression away, limiting further yield spikes. [2:03](https://youtu.be/DFqpv4ofPW4?t=123)  
+- AI‑related capital expenditures are being used by the Fed as a gauge; excessive rate rises could choke AI spending, creating a feedback loop that may cap yields. [5:16](https://youtu.be/DFqpv4ofPW4?t=316)  
+
+**Jump to:**  
+[1:01](https://youtu.be/DFqpv4ofPW4?t=61) CPI‑driven 50 bp hike possibility · [5:16](https://youtu.be/DFqpv4ofPW4?t=316) AI CapEx linked to rate outlook · [8:22](https://youtu.be/DFqpv4ofPW4?t=502) Mega‑cap tech trade idea
+
+## Inside Jensen Huang’s Final Days as Nvidia CEO
+
+**The Information** · 9:11 · Nov 13 · [watch](https://www.youtube.com/watch?v=mrvF2hQiGno)
+
+**Bottom line:** Jensen Huang’s abrupt exit highlights governance risk at Nvidia and suggests the interim CEO, Colette Kress, may tighten credit exposure and slow the aggressive AI‑chip deals that have driven recent growth.
+
+**Signals:**
+- 🔴 Cautious **NVDA** – Colette Kress, CFO‑turned‑interim CEO, warned that the $250 billion credit support Nvidia was considering for OpenAI “was probably too much risk” and pushed to scale it back. [7:08](https://youtu.be/mrvF2hQiGno?t=428)
+- 🟢 Bullish **AI‑chip demand** – Despite the leadership turmoil, the discussion notes that Nvidia’s “pace of dealmaking has just skyrocketed” over the past year, indicating continued strong demand for its GPUs in data‑center AI workloads. [7:08](https://youtu.be/mrvF2hQiGno?t=428)
+
+**AI & private markets:**
+- Nvidia was negotiating a **$250 billion credit facility** to help OpenAI buy Nvidia chips for a dedicated data center; the deal was later split into two parts after internal pushback. [7:08](https://youtu.be/mrvF2hQiGno?t=428)
+- Export‑control concerns resurfaced when a New York Times report linked Jensen Huang’s personal relationship with “Alice” (alleged Chinese spy) to the alleged diversion of AI chips to China, underscoring regulatory risk for AI‑chip exporters. [2:02](https://youtu.be/mrvF2hQiGno?t=122)
+
+**Moats, risks & black swans:**
+- **Moat:** Nvidia’s dominance in high‑performance GPUs for AI workloads remains a durable competitive advantage, even as leadership changes. [0:00](https://youtu.be/mrvF2hQiGno?t=0)
+- **Risk:** Governance risk from the board’s handling of Jensen Huang’s personal scandals and the potential for further regulatory scrutiny over chip exports to China. [2:02](https://youtu.be/mrvF2hQiGno?t=122)
+- **Black swan:** If U.S. authorities were to impose stricter export bans on advanced AI chips, Nvidia’s revenue pipeline could be sharply curtailed. [2:02](https://youtu.be/mrvF2hQiGno?t=122)
+
+**Key insights:**
+- The board called an emergency meeting after learning of Jensen Huang’s alleged affair with VP Kimberly Powell, suggesting the resignation was driven more by perceived dishonesty than by business performance. [3:04](https://youtu.be/mrvF2hQiGno?t=184)
+- Colette Kress’s more conservative style may lead to “more due diligence” and tighter coupling of investments to actual chip sales, potentially slowing the rapid expansion of Nvidia’s AI ecosystem. [8:09](https://youtu.be/mrvF2hQiGno?t=489)
+- Jensen’s daughter Madison coordinated crisis‑communication firms for her father, but the firm’s controversial reputation (defending Jared Kushner and Harvey Weinstein) forced a split in representation, highlighting reputational sensitivities around Nvidia’s leadership. [5:06](https://youtu.be/mrvF2hQiGno?t=306)
+
+**Jump to:** [2:02 Export‑control risk] · [7:08 Credit‑support debate] · [8:09 Potential slowdown under Colette Kress]
+
+## Marvell at the Six Five Summit: AI Unleashed 2026 | Highlights
+
+**Six Five Media** · 1:16 · Nov 13 · [watch](https://www.youtube.com/watch?v=kG9PGjZQcI0)
+
+**Bottom line:** Marvell says its optical‑scale‑up networking and dense memory solutions could cut data‑center power use by over 25%, positioning the company to benefit as AI workloads drive a shift from copper to optical interconnects.
+
+**AI & private markets:**
+- Marvell highlighted that AI models are forcing a move from copper to optical scale‑up networks to handle bandwidth needs, which they claim can deliver “25 plus percent power reduction” at the data‑center level once fully deployed. [1:01](https://youtu.be/kG9PGjZQcI0?t=61)
+- The company is developing “very dense and really optimized memory‑based solutions” to overcome the “memory wall,” which it says is essential for AI infrastructure performance. [0:45](https://youtu.be/kG9PGjZQcI0?t=45)
+
+**Moats, risks & black swans:**
+- **Moat:** Marvell’s optical networking technology that promises >25% power savings gives it a cost‑advantage in AI data‑center builds. [1:01](https://youtu.be/kG9PGjZQcI0?t=61)
+- **Risk:** The benefits are “very early innings” and depend on widespread adoption of optical interconnects, which may be delayed by cloud providers’ custom architectures. [1:20](https://youtu.be/kG9PGjZQcI0?t=80)
+
+**Key insights:**
+- AI workloads are creating a “must‑have” demand for optical interconnects rather than a nice‑to‑have upgrade, driving a fundamental shift in data‑center architecture. [0:15](https://youtu.be/kG9PGjZQcI0?t=15)
+- Each cloud provider will likely implement its own customized optical network stack, meaning vendors must support multiple, highly tailored solutions. [0:30](https://youtu.be/kG9PGjZQcI0?t=30)
+- Marvell’s focus on both optical networking and high‑density memory is intended to address the twin bottlenecks of bandwidth and memory capacity that are limiting AI model scaling today. [0:45](https://youtu.be/kG9PGjZQcI0?t=45)
+
+**Jump to:** [0:15 AI drives optical shift] · [0:45 Memory‑wall solution] · [1:01 25% power reduction claim]
+
+## You Can Clone Slack. Can You Build a Business?
+
+**This Week in Startups** · 1:31 · Nov 13 · [watch](https://www.youtube.com/shorts/2JvajKcYv9k)
+
+**Bottom line:**  
+Incubating a Slack‑like product is easy, but without a large user base, data advantage, and enterprise‑grade security/compliance, it cannot scale into a competitive business.
+
+**Moats, risks & black swans:**  
+- Moat: Network effect and distribution that generate a data advantage for incumbent chat platforms (e.g., Slack) [0:45](https://youtu.be/2JvajKcYv9k?t=45)  
+- Risk: Lack of SOC 2 compliance and enterprise‑grade security makes open‑source clones unattractive to large organizations [1:00](https://youtu.be/2JvajKcYv9k?t=60)
+
+**Key insights:**  
+- Building a feature‑parity Slack clone can be done over a weekend, but the real challenge is adding the “hardening” layer—security, compliance, and reliability—that enterprises require [0:55](https://youtu.be/2JvajKcYv9k?t=55)  
+- Without a built‑in user base, a clone lacks the network effects that turn a messaging app into a platform with sticky usage and data feedback loops [0:45](https://youtu.be/2JvajKcYv9k?t=45)  
+- Even if a clone is “good enough” for small teams, scaling to the enterprise market demands resources and expertise that most indie developers don’t have [1:00](https://youtu.be/2JvajKcYv9k?t=60)
+
+**Jump to:**  
+[0:45](https://youtu.be/2JvajKcYv9k?t=45) network effect importance · [0:55](https://youtu.be/2JvajKcYv9k?t=55) hardening for enterprise readiness · [1:00](https://youtu.be/2JvajKcYv9k?t=60) compliance as a barrier to scaling
+
+## Recursive self-improvement has started
+
+**Dwarkesh Patel** · 44:19 · Nov 13 · [watch](https://www.youtube.com/watch?v=1NHPDzpfR6Y)
+
+**Bottom line:**  
+Recursive self‑improvement (RSI) is already accelerating AI research, and most experts expect a major capability jump (roughly GPT‑3.5 to “GPT‑6‑size”) by 2028, but there remains a 25 % chance the breakthrough won’t happen until after 2032.
+
+**Signals**
+- 🟢 Bullish **Anthropic** (Claude 7), Dwarkesh Patel – internal R&D uplift to 26 % of Anthropic’s work, showing early automation of research tasks [1:01](https://youtu.be/1NHPDzpfR6Y?t=61)  
+- 🟢 Bullish **OpenAI** (coding‑agent spend), Patel – daily spend rose from ~$1k to >$7k, indicating rapid scaling of internal AI tools [1:01](https://youtu.be/1NHPDzpfR6Y?t=61)  
+- 🟢 Bullish **AI‑research automation timeline**, unnamed well‑informed researchers – median estimate 2028, some forecast 2027 or next year [8:08](https://youtu.be/1NHPDzpfR6Y?t=488)  
+- 🔴 Cautious **AI‑take‑off speed**, Patel – expects GPT‑3.5‑to‑GPT‑6 jump around 2028, not an “overnight singularity” because of remaining bottlenecks [33:38](https://youtu.be/1NHPDzpfR6Y?t=2018)  
+- 🟡 Mixed **Continual learning**, Patel – 25 % chance full automation of top‑human researchers delayed past 2032; scaling context windows may help [35:41](https://youtu.be/1NHPDzpfR6Y?t=2141)  
+
+**AI & private markets**
+- Anthropic’s Claude now does 26 % of the company’s R&D, up from <1 % in Feb 2023 (Anthropic post) [1:01](https://youtu.be/1NHPDzpfR6Y?t=61)  
+- OpenAI’s internal coding‑agent spend grew >7‑fold (≈$1k → >$7k per day) between early summer and Aug 2023 (OpenAI blog) [1:01](https://youtu.be/1NHPDzpfR6Y?t=61)  
+- Meter’s three‑month embed in Anthropic showed AI‑driven R&D speed doubled vs. a year earlier (Meter report) [1:01](https://youtu.be/1NHPDzpfR6Y?t=61)  
+- Global AI compute has been growing ~3× per year for five years; post‑spark AIs could design new chips and data‑center robots, further accelerating compute growth [25:29](https://youtu.be/1NHPDzpfR6Y?t=1529)  
+- “AI Lab Magic” team announced a model matching leading open‑source performance for roughly $500 k, about half the compute cost of original GPT‑3 [31:36](https://youtu.be/1NHPDzpfR6Y?t=1896)  
+- Frontier labs are quadrupling compute annually; OpenAI could run ~10,000 agents each capable of a GPT‑3‑size training run daily by end‑2027 [40:46](https://youtu.be/1NHPDzpfR6Y?t=2446)  
+
+**Moats, risks & black swans**
+- Moat: **Claude 7** (Anthropic) – ability to match dozens of ideas at scale, potentially inventing transformer‑style advances [7:06](https://youtu.be/1NHPDzpfR6Y?t=426)  
+- Risk: **Continual learning** – models retain only a few hours of experience per session, limiting full automation of top researchers [34:39](https://youtu.be/1NHPDzpfR6Y?t=2079)  
+- Risk: **Research taste / proxy discovery** – finding the right verifiable objectives could slow progress despite past paradigm‑shift successes [36:41](https://youtu.be/1NHPDzpfR6Y?t=2201)  
+- Black swan: **AI with remote lab access** discovering a room‑temperature superconductor, out‑performing all human experts [17:19](https://youtu.be/1NHPDzpfR6Y?t=1039)  
+
+**Key insights**
+- AI research productivity is now ~10× faster than human researchers; automated agents could output ~50× more work per calendar week [11:14](https://youtu.be/1NHPDzpfR6Y?t=674)  
+- AI‑driven R&D is becoming modular and highly parallelizable, enabling “swarm” agents to test thousands of approaches simultaneously [13:15](https://youtu.be/1NHPDzpfR6Y?t=795)  
+- Sample‑efficiency and online learning are identified as the “deepest open problem” in ML, comparable to a Millennium Prize problem [26:30](https://youtu.be/1NHPDzpfR6Y?t=1590)  
+- Scaling‑law research can predict large‑model loss from tiny‑model experiments, potentially cutting compute needs by 10,000× [42:47](https://youtu.be/1NHPDzpfR6Y?t=2567)  
+
+**Jump to:**  
+[1:01](https://youtu.be/1NHPDzpfR6Y?t=61) Anthropic’s internal R&D uplift → Claude 7 impact · [8:08](https://youtu.be/1NHPDzpfR6Y?t=488) Bullish timeline for AI‑research automation (median 2028) · [33:38](https://youtu.be/1NHPDzpfR6Y?t=2018) Cautious view on near‑term AI take‑off speed
+
+## Tech Selloff? Buy These 3 Non-Tech AI Winners Now
+
+**TheStreet** · 25:17 · Nov 13 · [watch](https://www.youtube.com/watch?v=fFRXomxdckc)
+
+**Bottom line:**  
+AI’s near‑term market edge is likely to come from cost‑cutting applications in non‑tech businesses (small‑cap, consumer‑discretionary, construction equipment) rather than from owning the big model‑builders or chip makers.
+
+**Signals:**  
+- 🟢 **Bullish** BNY (ticker not given) – Peter Lazaroff says its cheap, high‑momentum small‑cap profile and AI‑driven “Eliza” platform boost profitability [4:04](https://youtu.be/fFRXomxdckc?t=244)  
+- 🟢 **Bullish** Visa – Lazaroff notes AI‑enabled fraud detection and leaner payment flows add to revenue beats, share repurchases and low leverage [6:06](https://youtu.be/fFRXomxdckc?t=366)  
+- 🟢 **Bullish** Williams‑Sonoma (WSM) – Lazaroff points to ~40 % YTD gain, 65 % online sales, high margins and AI virtual assistants that convert shoppers [8:08](https://youtu.be/fFRXomxdckc?t=488)  
+- 🟢 **Bullish** Manitowoc – Lazaroff believes AI‑enhanced construction‑equipment demand will lift the business [24:30](https://youtu.be/fFRXomxdckc?t=1470)  
+- 🔴 **Cautious** AI‑related stocks overall – Lazaroff warns recent volatility and that AI usage is still under 5 % of the population, with only ~1 % heavy‑lift users [0:00](https://youtu.be/fFRXomxdckc?t=0)  
+- 🔴 **Cautious** Visa – Lazaroff cautions that AI benefits may already be priced in and momentum could reverse [7:07](https://youtu.be/fFRXomxdckc?t=427)  
+- 🔴 **Cautious** Williams‑Sonoma – higher rates, energy prices and inflation could curb discretionary spending [9:10](https://youtu.be/fFRXomxdckc?t=550)  
+- 🔴 **Cautious** AI‑sector overweight – speaker says >5 % of a portfolio in AI bets needs strong justification [16:20](https://youtu.be/fFRXomxdckc?t=980)  
+- 🟡 **Mixed** Tech stocks – speaker calls tech a “falling knife” for short‑term traders; earnings could correct the dip [14:17](https://youtu.be/fFRXomxdckc?t=857)  
+
+**AI & private markets:**  
+- AI adoption is very low: <5 % of people use AI daily; ~1 % are heavy‑lift users [0:00](https://youtu.be/fFRXomxdckc?t=0)  
+- AI can cut costs more than drive revenue growth, especially in online retail inventory and pricing [23:29](https://youtu.be/fFRXomxdckc?t=1409)  
+- Nvidia chip demand faces risk from data‑center water‑cooling constraints and possible over‑estimation of compute demand [22:28](https://youtu.be/fFRXomxdckc?t=1348)  
+- Anthropic (pre‑IPO) is a long‑term bullish pick; investors will likely gain exposure via total‑market funds after its IPO [18:22](https://youtu.be/fFRXomxdckc?t=1102)  
+- Emerging‑market AI chip exposure is a preferred play; Europe is seen as less attractive due to fiscal and innovation barriers [20:26](https://youtu.be/fFRXomxdckc?t=1226)  
+
+**Moats, risks & black swans:**  
+- Risk: Visa – AI advantages may already be priced in, threatening momentum [7:07](https://youtu.be/fFRXomxdckc?t=427)  
+- Risk: Williams‑Sonoma – consumer pull‑back from higher rates, energy prices and inflation [9:10](https://youtu.be/fFRXomxdckc?t=550)  
+- Risk: AI‑sector overweight – >5 % portfolio tilt requires justification [16:20](https://youtu.be/fFRXomxdckc?t=980)  
+- Black swan: Oil price spike – could reignite inflation and further suppress consumer demand [11:13](https://youtu.be/fFRXomxdckc?t=673)  
+
+**Key insights:**  
+- AI’s biggest upside is cost reduction in “boring” businesses rather than revenue growth from model‑builders [23:29](https://youtu.be/fFRXomxdckc?t=1409)  
+- Small‑cap, high‑quality, high‑momentum stocks have outperformed expensive, low‑profit large caps in recent quantitative studies [5:06](https://youtu.be/fFRXomxdckc?t=306)  
+- Higher‑rate environment is pressuring consumer discretionary spending; cash yields are becoming more attractive [11:13](https://youtu.be/fFRXomxdckc?t=673)  
+- AI adoption is expected to spill over into heavy‑equipment sectors like construction, creating ancillary demand for AI‑enhanced machinery [24:30](https://youtu.be/fFRXomxdckc?t=1470)  
+
+**Jump to:**  
+[0:00](https://youtu.be/fFRXomxdckc?t=0) Cautious view on AI stocks · [6:06](https://youtu.be/fFRXomxdckc?t=366) Visa AI benefits · [24:30](https://youtu.be/fFRXomxdckc?t=1470) AI spillover to construction equipment
+
+## Who Should Replace Jensen Huang?
+
+**The Information** · 1:22 · Nov 13 · [watch](https://www.youtube.com/shorts/18j6X5lz5k8)
+
+**Bottom line:** The video discusses potential successors for Jensen Huang, the CEO of Nvidia, and provides insights into the AI industry and private market valuations.
+
+**Moats, risks & black swans:**
+- Moat: Nvidia, durable advantage in GPU technology, risk of new entrants disrupting the market, [1:22](https://youtu.be/18j6X5lz5k8?t=82)
+- Risk: AI spending growth slowing, risk of regulatory changes impacting AI adoption, [1:22](https://youtu.be/18j6X5lz5k8?t=82)
+- Black swan: Large-scale AI failures leading to significant market disruptions, [1:22](https://youtu.be/18j6X5lz5k8?t=82)
+
+**Key insights:**
+- The discussion highlights potential candidates for Nvidia's CEO position, [1:22](https://youtu.be/18j6X5lz5k8?t=82)
+- Mention of potential candidates like Alex Karp and Lisa Su, [1:22](https://youtu.be/18j6X5lz5k8?t=82)
+- Elon Musk's offer to Jensen Huang at Tesla/SpaceX, [1:22](https://youtu.be/18j6X5lz5k8?t=82)
+
+**Jump to:** [1:00](https://youtu.be/18j6X5lz5k8?t=60) Elon Musk's offer · [1:22](https://youtu.be/18j6X5lz5k8?t=82) AI spending growth risks · [1:22](https://youtu.be/18j6X5lz5k8?t=82) AI failures as a black swan event
+
+## Is This The End of the AI Trade? #datacenters #AI
+
+**Chip Stock Investor** · 2:13 · Nov 13 · [watch](https://www.youtube.com/shorts/Jov99fdMt4U)
+
+**Bottom line:** The video discusses the potential end of the AI data center growth trend, but concludes it's not the end of the AI trade, as it doesn't signal the end of the capex to revenue cycle for the companies involved.
+
+**Moats, risks & black swans:**
+- Moat: Hyperscalers (N/A), Risk: Slowdown in capex to revenue cycle, [2:01](https://youtu.be/Jov99fdMt4U?t=121)
+- Black swan: New regulatory environment forcing companies to find alternative locations, [2:01](https://youtu.be/Jov99fdMt4U?t=121)
+
+**Key insights:**
+- The video suggests the AI data center growth trend might be nearing its end, but doesn't indicate a definitive end.
+- The video notes that the hyperscalers might start slowing down their capex to revenue cycle, which could be a positive sign for the semiconductor companies.
+- The video mentions that the political result discussed in the video could have worked out well for the semiconductor companies, but doesn't provide specific details or data.
+
+**Jump to:** [2:01](https://youtu.be/Jov99fdMt4U?t=121) AI & private markets · [2:01](https://youtu.be/Jov99fdMt4U?t=121) Moats, risks & black swans
+
+## Ep. 044 - Is NVIDIA Over? EMERGENCY Pod with ChinaTalk | Dylan Patel, Jordan Nanos, Jordan Schneider
+
+**SemiAnalysis** · 51:22 · Nov 13 · [watch](https://www.youtube.com/watch?v=2jqSNHWdHEY)
+
+**Bottom line:** The video discusses the AI industry and NVIDIA's position within it, highlighting the challenges and potential risks, but also the significant leadership and scale that NVIDIA still holds.
+
+**Signals:**
+- 🔴 Cautious on NVIDIA (NVDA) — Dylan Patel, Jordan Nanos, Jordan Schneider — NVIDIA's leadership and supply chain issues could slow progress, but they are still the leader in the industry
+
+**Moats, risks & black swans:**
+- Moat: NVIDIA — Durable advantage claimed: leadership in the industry, scale, data, switching costs, network effects [12:34](https://youtu.be/2jqSNHWdHEY?t=754)
+- Risk: NVIDIA — Leadership and supply chain issues could lead to slower progress and reduced market relevance [12:34](https://youtu.be/2jqSNHWdHEY?t=754)
+- Black swan: Chinese espionage in the chip industry — impact on NVIDIA and the industry [12:34](https://youtu.be/2jqSNHWdHEY?t=754)
+
+**Key insights:**
+- AI: Chinese models are aiding AI diffusion across the US, with revenue from application layer companies running on open models well north of $10 billion [15:23](https://youtu.be/2jqSNHWdHEY?t=923)
+- Scale game, need megawatts of advanced hardware for training and delivery. US has a significant advantage over China [27:36](https://youtu.be/2jqSNHWdHEY?t=1656)
+- Not guaranteed to be effective just by pouring money and time into open source models [31:42](https://youtu.be/2jqSNHWdHEY?t=1902)
+- In the short term, Nvidia is fine, but in the long term, they need to execute on commitments and build supply chain [32:43](https://youtu.be/2jqSNHWdHEY?t=1963)
+- Nvidia's supply chain, sales, and partnerships are significant advantages [34:43](https://youtu.be/2jqSNHWdHEY?t=2083)
+
+**Jump to:** [12:34](https://youtu.be/2jqSNHWdHEY?t=754) NVIDIA's leadership and supply chain issues could slow progress, but they are still the leader in the industry · [12:34](https://youtu.be/2jqSNHWdHEY?t=754) Chinese espionage in the chip industry — impact on NVIDIA and the industry
+
+## Skipped as off-topic
+
+- [SpaceX Starship Launches on Key Test, Skipped Booster Catch](https://www.youtube.com/watch?v=CJFHJodV1TI) — Bloomberg Podcasts
+- [Use AI to Defend Against AI](https://www.youtube.com/shorts/N2qOC3nxknI) — Six Five Media
+- [Is the iPhone Duo Apple’s Best iPhone Ever? Full Hands-On](https://www.youtube.com/watch?v=1qz_eSvgXes) — Big Technology
+
+## No transcript available
+
+- [Goldman Sachs' Nicole Pullen Ross explains the factors behind the surge in sports team valuations](https://www.youtube.com/shorts/OwwcDPMtJdg) — Goldman Sachs
+- [Goldman Sachs’ Nicole Pullen Ross on the growth of streaming in sports media rights](https://www.youtube.com/shorts/24FuDKW-Nd8) — Goldman Sachs
+
+_Problems this run: openai/gpt-oss-120b hit its free-tier limit, so later summaries are by qwen2.5:3b_
+
+_Summaries by openai/gpt-oss-120b and qwen2.5:3b (open-source models)._
