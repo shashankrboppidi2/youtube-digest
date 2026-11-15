@@ -242,3 +242,181 @@ A Tesla‑SpaceX merger would create a $3½‑$4 trillion conglomerate, but th
 
 
 _Summaries by openai/gpt-oss-120b (open-source models)._
+
+<!-- run 12:40Z -->
+
+## TL;DR
+
+**Most bullish:**  
+- **Fractile** — 1 video — 3‑D‑stacked SRAM‑DRAM chips promise huge inference speed/cost gains; $720 M Series C funding fuels rapid iteration (Fractile Founder, 20VC)  
+- **Nvidia** — 1 video — Jensen Huang lauds Fractile’s solution and projects Nvidia could become a $10 T business in five years, trading at a discount to Cisco (Fractile Founder, 20VC)  
+- **TSMC** — 1 video — Founder calls TSMC “extraordinary business” and says he would buy the stock daily (Fractile Founder, 20VC)  
+
+**Most cautious:**  
+- **AI‑compute financing** — 1 video — VCs worry about debt cycles and insufficient capital for massive data‑center power‑land upgrades (Fractile Founder, 20VC)  
+- **Energy‑supply / data‑center expansion** — 1 video — 500 MW sites can’t support multi‑trillion‑parameter models; grid‑connection queues far exceed generation capacity (Fractile Founder, 20VC)  
+- **Existing silicon providers** — 1 video — Current architectures can’t deliver the bandwidth and capacity needed for emerging long‑context LLM workloads (Fractile Founder, 20VC)  
+
+**Trends:**  
+- Health‑AI M&A activity is heating up, highlighted by Oura’s $625 M purchase of AI‑doctor service Counsel (Bloomberg Quiz)  
+- SpaceX is positioning itself as a future AI‑chip contender, with Starship reusability aimed at “maybe second to NVIDIA” in AI hardware (SpaceX Starship podcast)  
+- U.S. export‑control debate intensifies around private AI‑chip firm Mega Speed, reflecting geopolitical pressure on AI supply chains (Bessent vs Lutnick podcast)  
+
+**Risks & black swans:**  
+- Governance risk: concentrated founder voting power and CEO scandals could trigger board‑oversight failures (Ritholtz podcast)  
+- Export‑control risk: If Mega Speed is not placed on the Entity List, sensitive AI‑chip tech could flow to China, raising national‑security concerns (Bessent vs Lutnick podcast)  
+- Energy‑infrastructure risk: Limited grid capacity may choke the rollout of ultra‑large models, slowing AI adoption (Fractile Founder, 20VC)  
+- SpaceX profitability risk: Starship launches are not yet cash‑positive; a failure to achieve cost cuts could undermine the “AI‑chip” ambition (SpaceX Starship podcast)  
+
+**Private & pre‑IPO watch:**  
+- **Oura** — acquired AI‑doctor service Counsel for **$625 M** (Bloomberg Quiz)  
+- **SpaceX** — cited IPO‑debut valuation of **$1.8 T**; pursuing AI‑chip development via Starship reusability (SpaceX Starship podcast)  
+- **Mega Speed** — private AI‑chip firm linked to Nvidia; under scrutiny for possible Entity List placement (Bessent vs Lutnick podcast)  
+- **Mars** — invested **$60 M** in a fruit‑based snack brand, showing consumer‑goods interest in health‑oriented private markets (Bloomberg Quiz)
+
+## Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers
+
+**Bloomberg Podcasts** · 6:15 · Nov 14 · [watch](https://www.youtube.com/watch?v=AJBIo33A1iY)
+
+**Bottom line:**  
+The only actionable takeaway is that Oura has bought the AI‑doctor service Counsel for $625 million, showing continued M&A activity in health‑tech AI, while Mars is investing $60 million in a fruit‑based snack brand.
+
+**AI & private markets:**  
+- Oura acquired the AI‑on‑demand doctor service Counsel for $625 million, indicating valuation appetite for AI health‑assistant platforms. [4:06](https://youtu.be/AJBIo33A1iY?t=246)  
+- Mars invested $60 million in an unnamed fruit‑based treat brand, highlighting private‑equity interest in snack innovations. [5:09](https://youtu.be/AJBIo33A1iY?t=309)
+
+**Key insights:**  
+- SpaceX’s IPO debut valuation was cited as $1.8 trillion, underscoring the scale of mega‑tech IPOs, though this was a quiz answer rather than a market forecast. [2:02](https://youtu.be/AJBIo33A1iY?t=122)  
+- The quiz format emphasized that even knowledgeable participants can miss niche AI acquisitions, suggesting that private‑market AI deals may be under‑the‑radar for many investors. [4:06](https://youtu.be/AJBIo33A1iY?t=246)  
+- Mars’s $60 million snack investment shows large consumer‑goods firms are allocating capital to niche, health‑oriented snack categories. [5:09](https://youtu.be/AJBIo33A1iY?t=309)
+
+**Jump to:** [4:06](https://youtu.be/AJBIo33A1iY?t=246) Oura‑Counsel acquisition · [5:09](https://youtu.be/AJBIo33A1iY?t=309) Mars snack investment · [2:02](https://youtu.be/AJBIo33A1iY?t=122) SpaceX valuation mention
+
+## The Entrepreneurs Behind Poppi Brand Start Over
+
+**Bloomberg Podcasts** · 7:26 · Nov 14 · [watch](https://www.youtube.com/watch?v=ryGfsYIyrAI)
+
+**Bottom line:**  
+Allison and Stephen Ellsworth leveraged a digital‑first, social‑media‑driven strategy and a high‑profile exit (Pepsi’s ~$2 bn purchase of Poppi) to launch a new everyday‑hydration brand, Jettie, emphasizing self‑funding, premium talent hiring and access to retail distribution.
+
+**Key insights:**  
+- The founders’ TikTok video that “broke the Internet” amassed ~250 million views, proving that viral, authentic content can rapidly scale a consumer brand. [3:06](https://youtu.be/ryGfsYIyrAI?t=186)  
+- Post‑exit, they are self‑funding Jettie, allowing full control and avoiding dilution while leveraging existing retailer and distributor relationships from the Poppi sale. [5:16](https://youtu.be/ryGfsYIyrAI?t=316)  
+- Their hiring philosophy focuses on “player‑coaches” – senior talent paid market rates who can both strategize and execute – to avoid the cost‑cutting pitfalls of early‑stage startups. [6:18](https://youtu.be/ryGfsYIyrAI?t=378)
+
+**Jump to:**  
+[3:06](https://youtu.be/ryGfsYIyrAI?t=186) viral TikTok success · [5:16](https://youtu.be/ryGfsYIyrAI?t=316) self‑funded launch of Jettie · [6:18](https://youtu.be/ryGfsYIyrAI?t=378) premium talent hiring strategy
+
+## The AI Compute Crisis: Why We Need Thousands of Times More Computing Power | Fractile Founder
+
+**20VC with Harry Stebbings** · 1:15:47 · Nov 14 · [watch](https://www.youtube.com/watch?v=UZ8eYaAf08M)
+
+**Bottom line:**  
+Fractile’s 3‑D‑stacked SRAM‑DRAM chips could dominate frontier‑model inference by delivering order‑of‑magnitude speed or cost advantages, but scaling is limited by tight TSMC/HBM capacity and looming data‑center power‑land constraints.
+
+**Signals**
+- 🟢 Bullish **Fractile** – founder says $720 M Series C capital lets it iterate across generations and “task zero” rack‑scale demo, creating compounding tech advantage [22:20](https://youtu.be/UZ8eYaAf08M?t=1340)  
+- 🟢 Bullish **Nvidia** – Jensen Huang praised Fractile’s fast‑inference solution; founder predicts Nvidia will become a $10 trillion business in five years, trading at a discount to Cisco post‑dot‑com [1:12:27](https://youtu.be/UZ8eYaAf08M?t=4347)  
+- 🟢 Bullish **TSMC** – founder calls TSMC “extraordinary business” and says he would buy the stock daily [1:09:24](https://youtu.be/UZ8eYaAf08M?t=4164)  
+- 🔴 Cautious **Existing silicon providers** – their architectures cannot deliver both bandwidth and capacity needed for emerging long‑context LLM workloads [25:24](https://youtu.be/UZ8eYaAf08M?t=1524)  
+- 🔴 Cautious **AI‑compute financing** – VCs worry about debt cycles and insufficient capital to fund massive data‑center land‑power upgrades [47:55](https://youtu.be/UZ8eYaAf08M?t=2875)  
+- 🔴 Cautious **Energy‑supply / data‑center expansion** – 500 MW sites can’t support multi‑trillion‑parameter models; grid‑connection queues are an order of magnitude larger than generation capacity [37:43](https://youtu.be/UZ8eYaAf08M?t=2263)  
+- 🟡 Mixed **Inference providers vs. NeoClouds** – specialist inference firms (Modal, Fireworks, Base10) preferred for flexibility, but heterogeneous chip stacks risk stranded capacity [1:03:12](https://youtu.be/UZ8eYaAf08M?t=3792)  
+
+**AI & private markets**
+- AI: Vertical integration is accelerating; OpenAI, DeepSeek, Anthropic, Meta all building own chips/servers, questioning survivability of pure‑chip firms [1:01](https://youtu.be/UZ8eYaAf08M?t=61)  
+- AI: Frontier inference still high‑margin; large models not yet commoditized, margins will trickle down later [6:04](https://youtu.be/UZ8eYaAf08M?t=364)  
+- AI: DeepSeek’s custom inference stack delivers “much higher throughput, better interactivity, better speeds” than competitors [7:05](https://youtu.be/UZ8eYaAf08M?t=425)  
+- AI: Memory bandwidth is the bottleneck – 40× growth vs. 1 000 000× flop growth, limiting LLM inference to ~80 tokens/sec [14:12‑16:12]  
+- Private: Fractile Series C raised $720 M at a $7 B valuation (led by Thrive Founders Fund, Lightspeed, Radpoint) [0:00](https://youtu.be/UZ8eYaAf08M?t=0)  
+- Private: Neolabs (London) highlighted as early‑stage AI‑automation startup, “scrappy” and cheaper than larger players [1:10:25](https://youtu.be/UZ8eYaAf08M?t=4225)  
+
+**Moats, risks & black swans**
+- Moat: **Fractile** – “green space” from deep internal ML expertise plus chip design, avoiding conflict with customers [3:02](https://youtu.be/UZ8eYaAf08M?t=182)  
+- Moat: **Fractile** – 3‑D stacking of SRAM‑like memory on logic gives high bandwidth with DRAM‑scale capacity, a durable advantage [19:16](https://youtu.be/UZ8eYaAf08M?t=1156)  
+- Moat: **Nvidia** – “extraordinary business” delivering high‑quality, high‑volume general‑purpose AI chips, dominant in data‑center inference [12:10](https://youtu.be/UZ8eYaAf08M?t=730)  
+- Risk: Manufacturing complexity – success hinges on Fractile’s ability to redesign chips and convince foundries to adopt new stacking process [26:25](https://youtu.be/UZ8eYaAf08M?t=1585)  
+- Risk: Fixed‑mix heterogeneous chip deployments can become stranded if model contexts grow, limiting revenue per megawatt [59:09](https://youtu.be/UZ8eYaAf08M?t=3549)  
+- Black swan: Regulatory or grid‑connection bottlenecks preventing new power projects could stall AI‑compute expansion globally [39:44](https://youtu.be/UZ8eYaAf08M?t=2384)  
+
+**Key insights**
+- Specialist inference chips now represent a large share of the AI market, no longer a niche, because frontier LLM inference requires massive build‑out [13:11](https://youtu.be/UZ8eYaAf08M?t=791)  
+- Data‑center land and power have become the primary scaling constraint, overtaking silicon and HBM shortages [36:41‑37:43]  
+- Fractile’s “task zero” rack‑scale reference workload is a concrete milestone indicating progress toward volume production [33:36](https://youtu.be/UZ8eYaAf08M?t=2016)  
+- Long‑context workloads (e.g., multi‑agent simulations for scientific problems) need both high bandwidth and high capacity, a combination current HBM‑based chips cannot provide [24:23‑25:24]  
+
+**Jump to:**  
+[22:20](https://youtu.be/UZ8eYaAf08M?t=1340) bullish on Fractile’s hardware roadmap · [37:43](https://youtu.be/UZ8eYaAf08M?t=2263) caution on energy‑supply limits for AI compute · [1:12:27](https://youtu.be/UZ8eYaAf08M?t=4347) bullish on Nvidia’s $10 T outlook
+
+## Looking Beyond Big Tech’s Recent Market Turmoil
+
+**Bloomberg Podcasts** · 7:33 · Nov 14 · [watch](https://www.youtube.com/watch?v=tpi4_na7xCU)
+
+**Bottom line:**  
+Barry Ritholtz argues that recent tech sell‑offs are largely a market‑wide correction, not a sector collapse, and that historical data (e.g., post‑midterm market strength and CEO turnover effects) can help gauge short‑term risk.
+
+**Moats, risks & black swans:**  
+- Risk: Concentrated governance failures (e.g., founders with super‑voting shares, CEOs with personal scandals) can create board‑oversight gaps that may hurt stock performance if misconduct persists. [4:09](https://youtu.be/tpi4_na7xCU?t=249)  
+- Risk: Market complacency when a CEO delivers extraordinary returns (e.g., “700,000% gains”) can delay necessary board action, increasing downside risk. [6:24](https://youtu.be/tpi4_na7xCU?t=384)
+
+**Key insights:**  
+- The S&P 500 is only 3.3% below its all‑time high, indicating a broad‑market pullback rather than a tech‑only crisis. [1:04](https://youtu.be/tpi4_na7xCU?t=64)  
+- The Nasdaq is down about 10% from its peak, showing the tech index is bearing the brunt of the sell‑off. [1:04](https://youtu.be/tpi4_na7xCU?t=64)  
+- Historical data since 1950 shows markets are, on average, 15% higher by June after a midterm election, with a range of 2.5%–29%—a potential bullish signal for the second half of the year. [2:07](https://youtu.be/tpi4_na7xCU?t=127)  
+- CEO departures typically cause a short‑term dip but are usually followed by market recovery; the only notable exception cited was Steve Ballmer’s exit from Microsoft, which actually boosted the rally. [1:04](https://youtu.be/tpi4_na7xCU?t=64)
+
+**Jump to:**  
+[1:04](https://youtu.be/tpi4_na7xCU?t=64) S&P 500 vs. Nasdaq performance · [2:07](https://youtu.be/tpi4_na7xCU?t=127) Post‑midterm election market boost statistic · [4:09](https://youtu.be/tpi4_na7xCU?t=249) Governance risks from founder‑centric control
+
+## SpaceX Starship Pushes Reusability to New Test
+
+**Bloomberg Podcasts** · 3:16 · Nov 14 · [watch](https://www.youtube.com/watch?v=NTeCrTCREgA)
+
+**Bottom line:** SpaceX’s Starship reusability test could dramatically lower launch costs, accelerate Starlink deployment and enable “orbital data centers,” which Ross Hamilton says may position the company as a major AI‑chip player rivaling NVIDIA.  
+
+**AI & private markets:**  
+- Ross Hamilton said SpaceX’s “AI ambitions… in terms of manufacturing chips” could make it “maybe second to NVIDIA” in the AI‑chip space, implying a future competitive edge in AI hardware [1:45](https://youtu.be/NTeCrTCREgA?t=105).  
+- He noted that Starlink’s expanded capacity, enabled by higher launch frequency, will “change the game in terms of connectivity with Earth,” supporting growth in data‑intensive AI services [1:20](https://youtu.be/NTeCrTCREgA?t=80).  
+
+**Moats, risks & black swans:**  
+- **Moat:** SpaceX’s reusable Starship system aims to cut launch costs and increase launch cadence, giving it a durable cost‑advantage over traditional launch providers [0:45](https://youtu.be/NTeCrTCREgA?t=45).  
+- **Risk:** The rockets “are not making money” currently; profitability depends on achieving lower costs and securing enough external customers [2:30](https://youtu.be/NTeCrTCREgA?t=150).  
+
+**Key insights:**  
+- The booster explosion was followed by a planned “catch” of the Starship in the “Mechazilla” – a critical step toward routine rapid reuse [0:55](https://youtu.be/NTeCrTCREgA?t=55).  
+- Faster, cheaper launches would allow rapid deployment of the next generation Starlink constellation, expanding global broadband and supporting AI workloads [1:20](https://youtu.be/NTeCrTCREgA?t=80).  
+- Orbital data centers become plausible as launch capacity rises, potentially creating a new market for space‑based compute that could serve AI training and inference [2:02](https://youtu.be/NTeCrTCREgA?t=122).  
+
+**Jump to:** [0:55](https://youtu.be/NTeCrTCREgA?t=55) Starship catch attempt · [1:20](https://youtu.be/NTeCrTCREgA?t=80) Starlink capacity boost · [2:02](https://youtu.be/NTeCrTCREgA?t=122) Orbital data centers concept
+
+## Scott Bessent and Howard Lutnick Clash Over Nvidia China Curbs
+
+**Bloomberg Podcasts** · 6:51 · Nov 14 · [watch](https://www.youtube.com/watch?v=nQqBJxGlU94)
+
+**Bottom line:** Treasury Secretary Scott Bessent publicly pressed Commerce Secretary Howard Lutnick to put Nvidia‑linked firm Mega Speed on the U.S. Entity List, exposing a split in the Trump administration over Chinese export controls for AI chips.
+
+**AI & private markets:**
+- Mega Speed (private AI‑chip firm linked to Nvidia’s Jensen Huang) should be added to the Commerce Department’s Entity List because of alleged Chinese espionage ties – Bessent urged action, Lutnick resisted [1:02](https://youtu.be/nQqBJxGlU94?t=62).
+- Nvidia is lobbying for “H‑200” chips (mid‑range AI accelerators, not its top‑tier models) to be sold to China, arguing it would make the U.S. adversary dependent on U.S. tech – Jensen Huang described the pitch to the Trump administration [3:06](https://youtu.be/nQqBJxGlU94?t=186).
+- Treasury officials (Bessent, Greer, Hager) and Senator Marco Rubio support imposing controls on Mega Speed, while Lutnick is the “lone holdout” in the Commerce Department [4:07‑5:11].
+
+**Moats, risks & black swans:**
+- Risk: If Mega Speed is not placed on the Entity List, sensitive AI chip technology could be rerouted to China, potentially compromising U.S. national security [2:02‑3:06].
+- Moat: Nvidia’s “H‑200” chip line could create a dependency lock‑in for Chinese AI firms, giving Nvidia leverage if exports are allowed [3:06](https://youtu.be/nQqBJxGlU94?t=186).
+
+**Key insights:**
+- The internal clash between Treasury (Bessent) and Commerce (Lutnick) shows that U.S. export‑control policy on AI chips is not settled, creating regulatory uncertainty for AI hardware vendors [1:02‑5:11].
+- High‑level lobbying by Nvidia (via Jensen Huang) seeks to keep mid‑tier AI chips flowing to China, contrasting with intelligence concerns about espionage linked to an executive at Mega Speed [3:06‑4:07].
+- Senator Marco Rubio personally delivered a memo about Mega Speed to President Trump on Air Force One in May, indicating that the issue has been on the president’s radar for months without decisive action [6:12](https://youtu.be/nQqBJxGlU94?t=372).
+
+**Jump to:** [1:02](https://youtu.be/nQqBJxGlU94?t=62) Bessent demands Mega Speed be listed · [3:06](https://youtu.be/nQqBJxGlU94?t=186) Nvidia’s push for H‑200 chips to China · [5:11](https://youtu.be/nQqBJxGlU94?t=311) Lutnick as the lone holdout on export controls
+
+## Skipped as off-topic
+
+- [BTW: Headlines You May Have Missed](https://www.youtube.com/watch?v=sMJMWag3TrU) — Bloomberg Podcasts
+- [Trading vs Long Term Investing -- How to REALLY measure your returns #trading #longterminvesting](https://www.youtube.com/shorts/Ly01QQNbwXU) — Chip Stock Investor
+- [Anthropic IPO Will Tests Investor Appetite for AI](https://www.youtube.com/watch?v=3iBoLedvvNY) — Bloomberg Podcasts
+- [How China’s Intelligence Operations Target Tech Companies](https://www.youtube.com/watch?v=Pi3Sn2fVux4) — Bloomberg Podcasts
+
+
+_Summaries by openai/gpt-oss-120b (open-source models)._
