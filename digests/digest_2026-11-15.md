@@ -420,3 +420,149 @@ Barry Ritholtz argues that recent tech sell‑offs are largely a market‑wide c
 
 
 _Summaries by openai/gpt-oss-120b (open-source models)._
+
+<!-- run 14:57Z -->
+
+## TL;DR
+
+**Most bullish:**  
+- **NVIDIA** — 2 videos — demand for GPUs stays strong despite modest data‑center slowdown (BWB, Bloomberg Podcasts)  
+- **Amazon** — 1 video — AI‑related services viewed positively (BWB)  
+- **AMD** — 1 video — EPS expected to more than double next year, estimates raised (BWB)  
+- **Investment‑grade corporate credit** — 1 video — ~6% yield, “exceptional value” and near‑certain repayment (Bloomberg Podcasts)  
+- **Meta** — 1 video — ~26% YoY sales growth and higher ad revenue per impression (BWB)  
+
+**Most cautious:**  
+- **NVIDIA** — 1 video — CEO succession uncertainty could cut valuation 25‑30% (BWB)  
+- **Anthropic (ANT)** — 1 video — No free‑cash‑flow until ~2030; IPO priced above $1 trillion (Bloomberg Podcasts)  
+- **Bloom Energy** — 1 video — Valuation “so high” and negative cash flow last quarter (BWB)  
+- **CoreWeave** — 1 video — High debt, $1 bn quarterly interest expense (BWB)  
+- **Data‑center construction** — 1 video — Policy “speed bumps” may modestly curb build‑out (Bloomberg Podcasts)  
+
+**Trends:**  
+- Modest slowdown in AI data‑center construction due to political pressure, but credit spreads stay tight (Bloomberg Podcasts)  
+- AI‑focused IPOs pricing at trillion‑plus valuations despite long cash‑flow horizons (Bloomberg Podcasts)  
+- Compute‑cost pressures driving firms like Anthropic to consider offshore outsourcing (Bloomberg Podcasts)  
+- Investor appetite for AI‑related corporate credit remains high, with yields around 6% (Bloomberg Podcasts)  
+
+**Risks & black swans:**  
+- Legislative blockage of data‑center expansion could sharply curtail AI infrastructure funding (Bloomberg Podcasts)  
+- NVIDIA leadership uncertainty after Jensen Huang’s resignation may depress valuation (BWB)  
+- Anthropic’s reliance on costly compute could delay profitability and strain the IPO (Bloomberg Podcasts)  
+- Unexpected tightening of credit markets could raise yields and reduce the attractiveness of investment‑grade corporate bonds (Bloomberg Podcasts)  
+
+**Private & pre‑IPO watch:**  
+- **Anthropic** — targeting $1.4 trillion IPO valuation; 2024‑25 revenue up ~10× YoY; free cash flow not expected until ~2030 (Bloomberg Podcasts)  
+- **OpenAI** — raising a private round aimed at a $1.25 trillion valuation, signaling strong investor demand ahead of any public exit (Bloomberg Podcasts)
+
+## AI Investors Bracing for Data Center Restrictions
+
+**Bloomberg Podcasts** · 7:26 · Nov 15 · [watch](https://www.youtube.com/watch?v=NMWZEsxJDak)
+
+**Bottom line:**  
+Investors can expect only modest slow‑downs in AI data‑center construction due to new political pressure, but credit spreads should stay tight and investment‑grade corporate bonds remain attractive at ~6% yield.
+
+**Signals:**  
+- 🟢 Bullish **NVIDIA** (NVDA) – Tony Crescenzi says the slowdown will be “not substantial” and the AI story is still in early innings, implying continued demand for GPUs [5:11](https://youtu.be/NMWZEsxJDak?t=311)  
+- 🟢 Bullish **Investment‑grade corporate credit** – Crescenzi cites a 6% average yield with “exceptional value” and a 99.98% chance of repayment, recommending staying invested [6:12](https://youtu.be/NMWZEsxJDak?t=372)  
+- 🔴 Cautious **Data‑center construction** – Potential policy “speed bumps” could reduce build‑out pace, though not dramatically [4:09](https://youtu.be/NMWZEsxJDak?t=249)  
+
+**Moats, risks & black swans:**  
+- Moat: **NVIDIA** – dominant GPU platform for AI workloads, likely to retain market share despite construction slow‑downs [5:11](https://youtu.be/NMWZEsxJDak?t=311)  
+- Risk: **Data‑center policy** – new community business agreements could add transparency and cost constraints, modestly curbing expansion [4:09](https://youtu.be/NMWZEsxJDak?t=249)  
+- Black swan: **Legislative blockage** – if Democrats succeed in enacting strict data‑center limits, AI infrastructure funding could face a sharper contraction than anticipated [0:00](https://youtu.be/NMWZEsxJDak?t=0)  
+
+**Key insights:**  
+- Politicians are using data‑center opposition as a campaign tool, but industry insiders expect “business as usual” because states compete for AI projects [3:08](https://youtu.be/NMWZEsxJDak?t=188)  
+- Community Business Agreements (CBAs) may replace NDAs, forcing data‑center developers to disclose energy, water, noise, and local employment impacts [4:09](https://youtu.be/NMWZEsxJDak?t=249)  
+- The U.S. unemployment rate has fallen from the mid‑7% range in the late 1990s to about 5.5% today, indicating a healthier macro backdrop for AI spending [2:04](https://youtu.be/NMWZEsxJDak?t=124)  
+
+**Jump to:**  
+[3:08](https://youtu.be/NMWZEsxJDak?t=188) industry sentiment on data‑center policy · [4:09](https://youtu.be/NMWZEsxJDak?t=249) CBAs and transparency requirements · [6:12](https://youtu.be/NMWZEsxJDak?t=372) attractiveness of 6% investment‑grade corporate bonds
+
+## The AI Panic Started. Here’s What 16 YouTubers Are Buying
+
+**BWB - Business With Brian** · 19:01 · Nov 15 · [watch](https://www.youtube.com/watch?v=uc81ZM85WMc)
+
+**Bottom line:**  
+The video shows that while most AI‑related stocks (Meta, Microsoft, Nvidia, AMD, Micron) are still seen as bullish, the biggest near‑term risk is Nvidia’s leadership uncertainty and the cash‑flow strain at high‑growth, capital‑intensive players like Bloom Energy and CoreWeave.
+
+**Signals**
+- 🟢 Bullish **META** – multiple YouTubers cite ~26% YoY sales growth, ~15% headcount reduction and higher ad revenue per impression despite a cash‑burning data‑center spend. [1:02](https://youtu.be/uc81ZM85WMc?t=62)  
+- 🟢 Bullish **MICROSOFT** – 8 of 16 YouTubers bullish; bookings now cover ~2 years of sales, PE ~27 (near 10‑yr average). [4:04](https://youtu.be/uc81ZM85WMc?t=244)  
+- 🟢 Bullish **NVDA** – 8 of 16 YouTubers bullish; PE 100% after a slowdown to 56%. [7:05](https://youtu.be/uc81ZM85WMc?t=425)  
+- 🔴 Cautious **NVDA** – CEO succession uncertainty after Jensen Huang resignation; Dan Ives estimates a 25‑30% valuation drop in a worst case. [8:05](https://youtu.be/uc81ZM85WMc?t=485)  
+- 🟢 Bullish **AMD** – 7 of 16 YouTubers bullish; EPS expected to more than double next year, estimates raised ~15% in three months. [10:05](https://youtu.be/uc81ZM85WMc?t=605)  
+- 🟢 Bullish **SANDISK** – 4 of 16 YouTubers bullish; AI data‑center storage demand cited. [11:07](https://youtu.be/uc81ZM85WMc?t=667)  
+- 🔴 Cautious **BLOOM ENERGY** – Brian holds a long position but says valuation “so high” and cash flow was negative last quarter. [13:09](https://youtu.be/uc81ZM85WMc?t=789)  
+- 🔴 Cautious **COREWEAVE** – High debt (bonds paying 16%); $1 bn quarterly interest expense; still losing money despite $132 bn backlog and 168% sales growth. [15:11](https://youtu.be/uc81ZM85WMc?t=911)  
+- 🟡 Mixed **NEBIUS** – Sales jumped ~570% YoY but most was a one‑time payment; capacity rollout delayed, target price cut. [16:14](https://youtu.be/uc81ZM85WMc?t=974)  
+- 🟢 Bullish **AMAZON** – Speaker places Amazon at top of his anchor list. [18:16](https://youtu.be/uc81ZM85WMc?t=1096)  
+
+**AI & private markets**
+- 📈 US‑China race for critical metals (tungsten, silver) creates supply constraints; CME planning tungsten futures for 2027; market >$20 bn, prices down 57% (silver) and 68% (tungsten) YTD. [5:04](https://youtu.be/uc81ZM85WMc?t=304)  
+- 🛠️ **Gold Haven Resources (TSXV:GHR)** – Early‑stage explorer in BC with tungsten & silver‑zinc zones; drilling started Aug, no mine yet, upside if metal prices rebound. [6:05](https://youtu.be/uc81ZM85WMc?t=365)  
+- 🤖 Inference workloads are “entrenched” and growing, driving recurring demand for AI memory (HBM) and storage; buyers replace AI memory each chip generation. [12:08](https://youtu.be/uc81ZM85WMc?t=728)  
+- 📊 **CoreWeave** – Signed‑future‑business backlog ~ $132 bn, sales growth ~168%; heavy debt load threatens profitability. [15:11](https://youtu.be/uc81ZM85WMc?t=911)  
+- 📈 **Nebius** – Sales up ~570% YoY, largely one‑time; delayed capacity rollout lowers outlook. [16:14](https://youtu.be/uc81ZM85WMc?t=974)  
+- 🏢 **Neocloud landlords** – Own land, power, buildings; lease income stable for 15‑year terms, insulated from GPU‑generation risk. [16:14](https://youtu.be/uc81ZM85WMc?t=974)  
+
+**Moats, risks & black swans**
+- **Moat:** Neocloud landlords – ownership of real‑estate and power infrastructure provides durable 15‑year lease stability independent of GPU cycles. [16:14](https://youtu.be/uc81ZM85WMc?t=974)  
+- **Risk:** Amazon – 46% of profit comes from revaluing Anthropic stake, not cash earnings; EPS expected to fall next year. [3:03](https://youtu.be/uc81ZM85WMc?t=183)  
+- **Risk:** Nvidia – CEO succession uncertainty after Jensen Huang resignation; potential 25‑30% valuation drop. [8:05](https://youtu.be/uc81ZM85WMc?t=485)  
+- **Risk:** Micron & SanDisk – System flags peak earnings; historically top‑of‑cycle profit levels, but presenter argues cycle may be stretched. [12:08](https://youtu.be/uc81ZM85WMc?t=728)  
+- **Risk:** CoreWeave – High‑interest debt (16% bonds, $1 bn quarterly interest) could erode profitability despite strong backlog. [15:11](https://youtu.be/uc81ZM85WMc?t=911)  
+- **Risk:** Nebius – Reliance on one‑time revenue and delayed capacity rollout. [16:14](https://youtu.be/uc81ZM85WMc?t=974)  
+
+**Key insights**
+- Nvidia’s current PE is less than half of its historical average while YoY growth has surged past 100%, indicating a valuation disconnect. [7:05](https://youtu.be/uc81ZM85WMc?t=425)  
+- Azure’s growth (~40% YoY) and AWS’s profit contribution (now ~63% of Amazon’s operating profit) highlight the accelerating shift to AI‑focused cloud services. [2:03](https://youtu.be/uc81ZM85WMc?t=123)  
+- AI‑specific memory (HBM) and storage demand create a recurring‑revenue model as each new chip generation forces memory replacement. [12:08](https://youtu.be/uc81ZM85WMc?t=728)  
+- Critical‑metal supply constraints (tungsten, silver) and falling prices present both a risk to AI hardware costs and a potential upside for explorers like Gold Haven. [5:04](https://youtu.be/uc81ZM85WMc?t=304)  
+
+**Jump to:**  
+[1:02](https://youtu.be/uc81ZM85WMc?t=62) Meta bullish · [7:05](https://youtu.be/uc81ZM85WMc?t=425) Nvidia valuation & growth rebound · [15:11](https://youtu.be/uc81ZM85WMc?t=911) CoreWeave debt risk
+
+## Anthropic IPO Arrives at a Pivotal Moment for AI
+
+**Bloomberg Podcasts** · 11:06 · Nov 15 · [watch](https://www.youtube.com/watch?v=pq5VZnJ_pR8)
+
+**Bottom line:** Anthropic’s $1.4 trillion IPO comes with a 50 % gross‑margin model but won’t be cash‑flow positive until around 2030, while NVIDIA’s upcoming earnings are expected to beat expectations and could ease the broader AI cap‑ex squeeze.
+
+**Signals:**
+- 🟢 Bullish **NVDA** – Mandeep Singh expects Q3 revenue to hit $110 billion and beat consensus, which could calm AI‑capex concerns. [8:12](https://youtu.be/pq5VZnJ_pR8?t=492)  
+- 🔴 Cautious **ANT** – Mandeep Singh notes Anthropic won’t generate free cash flow annually until 2030 and is priced above $1 trillion, raising underwriting risk. [4:06](https://youtu.be/pq5VZnJ_pR8?t=246)  
+- 🟢 Bullish **OpenAI** – Bloomberg reports the lab is raising a private round targeting a $1.25 trillion valuation, indicating strong investor appetite despite waiting for a public exit. [8:12](https://youtu.be/pq5VZnJ_pR8?t=492)  
+
+**AI & private markets:**
+- Anthropic’s valuation has slid from $2 trillion two months ago to $1.1 trillion a week ago, now targeting up to $1.4 trillion for the IPO. [3:06](https://youtu.be/pq5VZnJ_pR8?t=186)  
+- Anthropic’s 2024‑25 revenue grew roughly 10 × year‑over‑year, but future growth is “highly uncertain” due to compute cost dynamics. [5:07](https://youtu.be/pq5VZnJ_pR8?t=307)  
+- Compute spending is the “deepest business dilemma” for Anthropic; the firm may need to outsource compute to locations like Qatar, affecting cost structure. [5:07](https://youtu.be/pq5VZnJ_pR8?t=307)  
+- Data‑center build‑out could be 10 % lower this year and through 2028 because permitting delays lengthen timelines, a side effect of the NVIDIA supply shock. [6:10](https://youtu.be/pq5VZnJ_pR8?t=370)  
+- OpenAI is pursuing a private funding round at a $1.25 trillion valuation, positioning its exit valuation against Anthropic’s public debut. [8:12](https://youtu.be/pq5VZnJ_pR8?t=492)  
+
+**Moats, risks & black swans:**
+- **Moat:** NVIDIA’s dominance in AI‑chip supply underpins the entire AI compute ecosystem, influencing cap‑ex cycles for all AI firms. [9:18](https://youtu.be/pq5VZnJ_pR8?t=558)  
+- **Risk:** Anthropic’s heavy reliance on expensive compute means it won’t be free‑cash‑flow positive until ~2030, creating a long‑term underwriting risk. [4:06](https://youtu.be/pq5VZnJ_pR8?t=246)  
+- **Black swan:** Governance turmoil at NVIDIA (Jensen Huang’s departure, board scrutiny) could trigger broader market instability for AI‑related stocks. [10:18](https://youtu.be/pq5VZnJ_pR8?t=618)  
+
+**Key insights:**
+- The Anthropic valuation swing (from $2 trillion to $1.1 trillion to $1.4 trillion) illustrates how quickly AI‑IPO sentiment can shift with market events. [3:06](https://youtu.be/pq5VZnJ_pR8?t=186)  
+- Compute cost uncertainty is the primary unknown for AI profitability; whether firms can offshore or secure cheaper chips will dictate model pricing battles. [5:07](https://youtu.be/pq5VZnJ_pR8?t=307)  
+- Slower data‑center permitting may temper the expected AI‑infrastructure build‑out, potentially reducing new capacity by ~10 % annually through 2028. [6:10](https://youtu.be/pq5VZnJ_pR8?t=370)  
+- NVIDIA’s expected Q3 earnings beat could temporarily relieve AI‑capex pressure, but long‑term risks remain tied to China restrictions and board governance. [8:12](https://youtu.be/pq5VZnJ_pR8?t=492)  
+
+**Jump to:** [3:06](https://youtu.be/pq5VZnJ_pR8?t=186) Anthropic valuation swing · [5:07](https://youtu.be/pq5VZnJ_pR8?t=307) Compute cost uncertainty · [8:12](https://youtu.be/pq5VZnJ_pR8?t=492) NVIDIA earnings outlook
+
+## Skipped as off-topic
+
+- [Congress Presses Nvidia Over China Chip Access](https://www.youtube.com/watch?v=4XWyvjxZuBg) — Bloomberg Podcasts
+- [Why the 1973 Oil Crisis Still Matters Today](https://www.youtube.com/watch?v=CFoXFgZP9QQ) — Bloomberg Podcasts
+- [Nvidia Crisis Reshapes Washington’s Technology Debate](https://www.youtube.com/watch?v=onqlskLdEZY) — Bloomberg Podcasts
+- [Risks in FAA Network Exposed by Router Failure](https://www.youtube.com/watch?v=1i_eMv9VxyU) — Bloomberg Podcasts
+- [Nvidia Crisis Complicates Trump’s Trip to China](https://www.youtube.com/watch?v=TIHOCcvJUWU) — Bloomberg Podcasts
+- [Trump Heads to Asia With Security, Trade at Stake](https://www.youtube.com/watch?v=9aBAQ114WZU) — Bloomberg Podcasts
+
+
+_Summaries by openai/gpt-oss-120b (open-source models)._
