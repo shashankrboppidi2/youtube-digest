@@ -413,3 +413,242 @@ The video shows that market sentiment currently favors Arm CEO Rene Haas (�
 - [Ben Pouladian  Live Stream](https://www.youtube.com/watch?v=Kp47C221CVo) — Ben Pouladian 
 
 _Summaries by openai/gpt-oss-120b (open-source models)._
+
+<!-- run 17:24Z -->
+
+## TL;DR
+
+**Most bullish:**  
+- **NVIDIA** — 2 videos — supply‑chain contracts stay strong but governance risk from Jensen Huang’s exit (Six Five Media).  
+- **Jev** — 2 videos — $7.5 bn valuation, ~⅓ of Fortune 500 using it, profitable and reliability‑first moat (20VC).  
+- **Coherent (COHR)** — 1 video — ~50% YoY revenue growth to $2.3 bn and 79% data‑center growth, attractive AI‑infra play (The Market Monkeys).  
+- **Lumentum (LUMN)** — 1 video — large laser‑optics player that could benefit if Marvel’s acquisition stalls (The Market Monkeys).  
+- **Semiconductor sector** — 1 video — tight supply through 2028, stocks down 60‑70% but trading at ~3 × earnings, bullish outlook (Morgan Stanley).
+
+**Most cautious:**  
+- **NVIDIA** — 2 videos — governance turmoil, lack of succession plan, export‑control uncertainty (Six Five Media).  
+- **Marvel (MARV)** — 1 video — $115 bn all‑share Lumentum purchase dilutes shareholders and faces regulatory risk (The Market Monkeys).  
+- **Chinese open‑source models** — 1 video — efficient but raise security and competitive concerns for U.S. models (20VC).  
+- **GPU export bans** — 1 video — bans on deep‑sea Chinese models add supply‑chain uncertainty (20VC).  
+- **Copy‑cat LLMs** — 1 video — chase benchmarks, ignore reliability, seen as over‑hyped (20VC).
+
+**Trends:**  
+- AI‑driven data‑center power demand outpacing grid capacity, creating a multi‑trillion‑dollar power‑generation opportunity in Asia (Morgan Stanley).  
+- Private‑sector focus on reliability‑first AI models (Jev) versus benchmark‑chasing copycats (20VC).  
+- Semiconductor supply remains tight through 2028, supporting a bullish view of the sector despite price weakness (Morgan Stanley).  
+- Consolidation in AI‑optics (Marvel’s bid for Lumentum) could reshape the end‑to‑end solution market (The Market Monkeys).
+
+**Risks & black swans:**  
+- Governance and reputational risk at NVIDIA after Jensen Huang’s scandal (Six Five Media).  
+- Near‑term slowdown in data‑center build‑out due to labor, chip shortages, and supply‑chain constraints (Bloomberg Podcasts).  
+- Grid bottlenecks and policy shifts away from coal/gas in Asia could cripple power supply for AI workloads (Morgan Stanley).  
+- Persistent oil‑driven inflation (~$85/barrel) squeezing enterprise budgets and consumer spending (Bloomberg Podcasts).
+
+**Private & pre‑IPO watch:**  
+- **Jev** — $7.5 bn valuation, profitable, ~⅓ of Fortune 500 customers, scaling to a $10 bn business will need massive talent and data investment (20VC).
+
+## Momentum trade or a permanent portfolio fixture? #investing #ChipStockInvestor
+
+**Chip Stock Investor** · 1:57 · Nov 16 · [watch](https://www.youtube.com/shorts/Mg-p-tDUh2Q)
+
+**Bottom line:**  
+Permanent‑portfolio stocks are held for the long run, but the host will trim or sell if memory‑chip exposure becomes too large or growth slows, using a gradual profit‑taking schedule.
+
+**Key insights:**  
+- Permanent‑portfolio philosophy: buy to hold, but be ready to trim when a sector (e.g., memory chips) “skyrockets far above” market averages, to avoid over‑allocation [0:02](https://youtu.be/Mg-p-tDUh2Q?t=2).  
+- Suggested trimming approach: reduce exposure incrementally over 6‑month intervals if growth slows, moving profits to cash for the next opportunity [1:03](https://youtu.be/Mg-p-tDUh2Q?t=63).
+
+**Jump to:**  
+[0:02](https://youtu.be/Mg-p-tDUh2Q?t=2) portfolio vs trade rationale · [1:03](https://youtu.be/Mg-p-tDUh2Q?t=63) trimming strategy when growth slows
+
+## Nvidia Earnings to Test AI Boom as Hike Looms
+
+**Bloomberg Podcasts** · 3:52 · Nov 16 · [watch](https://www.youtube.com/watch?v=kmW3jh5UKaM)
+
+**Bottom line:** The hosts expect a short‑term slowdown in AI‑driven growth and data‑center spending, but they see no fundamental change to the longer‑term AI investment thesis.
+
+**Moats, risks & black swans:**
+- Risk: Potential slowdown in AI‑related data‑center build‑out due to supply‑chain constraints and public backlash, could temper near‑term chip demand [1:00](https://youtu.be/kmW3jh5UKaM?t=60).
+- Risk: Persistent inflation from oil (still ~$85/barrel, >$20 above early‑year levels) and food/health costs may squeeze consumer spending, indirectly affecting AI‑related enterprise budgets [2:03](https://youtu.be/kmW3jh5UKaM?t=123).
+
+**Key insights:**
+- Near‑term AI growth may “reset” with a modest dip in Q4 as data‑center construction faces labor and chip shortages [1:00](https://youtu.be/kmW3jh5UKaM?t=60).
+- Despite the dip, the hosts believe the longer‑term AI investment outlook remains intact, with continued chip spending expected once supply constraints ease [0:00](https://youtu.be/kmW3jh5UKaM?t=0).
+- Inflation pressures remain elevated, driven by oil at $85/barrel and higher food/health costs, which could limit discretionary consumer spending during the holiday season [2:03](https://youtu.be/kmW3jh5UKaM?t=123).
+
+**Jump to:** [0:00](https://youtu.be/kmW3jh5UKaM?t=0) AI outlook reset · [1:00](https://youtu.be/kmW3jh5UKaM?t=60) Data‑center supply‑chain slowdown · [2:03](https://youtu.be/kmW3jh5UKaM?t=123) Inflation and oil price backdrop
+
+## The AI Stock Nobody Talks About: I’m Buying The Drop (my pick)
+
+**The Market Monkeys** · 12:11 · Nov 16 · [watch](https://www.youtube.com/watch?v=kR9e-QeI3qM)
+
+**Bottom line:**  
+Coherent (COHR) looks undervalued after a sharp price drop and is posting ~50% YoY revenue growth and 79% data‑center growth, making it a more attractive AI‑infrastructure play than the pricier rivals Marvel (MARV) and Lumentum (LUMN).
+
+**Signals:**
+- 🟢 **Bullish** COHR – The Market Monkeys host bought a “relatively large” position two weeks ago at a 10% upside from purchase; cites 50% YoY revenue growth to $2.3 bn and 79% data‑center growth, plus forward P/E ~21× vs 37× for MARV [7:10](https://youtu.be/kR9e-QeI3qM?t=430).
+- 🔴 **Cautious** MARV – Host says the $115 bn all‑share purchase of Lumentum will dilute shareholders and faces regulatory risk; market reaction was negative [4:05](https://youtu.be/kR9e-QeI3qM?t=245).
+- 🟢 **Bullish** LUMN – Mentioned as a “large player” in laser optics; if the Marvel deal stalls, Lumentum could retain customers and keep the market fragmented, benefiting Coherent [5:07](https://youtu.be/kR9e-QeI3qM?t=307).
+
+**AI & private markets:**
+- Coherent’s optical transceivers (DSP + laser) are “the largest players” in converting electrical signals to light for AI data‑center interconnects, a bottleneck as copper and electricity become insufficient [3:03](https://youtu.be/kR9e-QeI3qM?t=183).
+- Marvel is the leading DSP supplier; its move to acquire Lumentum aims to capture the entire optics stack and challenge Broadcom’s end‑to‑end solution [4:05](https://youtu.be/kR9e-QeI3qM?t=245).
+- No private‑company valuations, funding rounds, or pre‑IPO deals were discussed. **None**.
+
+**Moats, risks & black swans:**
+- **Moat:** Coherent – Holds the biggest market share in laser optics for data‑center interconnects, with few direct competitors besides Lumentum [3:03](https://youtu.be/kR9e-QeI3qM?t=183).
+- **Risk:** Marvel acquisition – Potential antitrust block could force a divestiture, creating uncertainty for both Marvel and Lumentum customers [4:05](https://youtu.be/kR9e-QeI3qM?t=245).
+- **Risk:** Coherent margins – Gross margin at 41% vs 59% for Marvel; although management targets >45% by 2028, the margin gap underpins a valuation discount [10:17](https://youtu.be/kR9e-QeI3qM?t=617).
+- **Black swan:** AI‑spending slowdown if political shifts (Democrats gaining Senate/House) cause a “slower growth” environment, but host believes this would make the rally more sustainable [11:18](https://youtu.be/kR9e-QeI3qM?t=678).
+
+**Key insights:**
+- Coherent’s Q2 revenue jumped 50% YoY to $2.3 bn, with data‑center revenue up 79% and EPS up ~80% – a pace far exceeding its 22% growth in April [7:10](https://youtu.be/kR9e-QeI3qM?t=430).
+- Forward valuation: COHR trades at ~21× this‑year earnings and <14× next‑year earnings, markedly cheaper than MARV (37×/21×) and LUMN (24×/15×) [9:14](https://youtu.be/kR9e-QeI3qM?t=554).
+- The Marvel‑Lumentum deal could either dilute Marvel shareholders or, if blocked, leave Coherent as the dominant laser supplier, creating a “win‑win” for Coherent regardless of outcome [5:07](https://youtu.be/kR9e-QeI3qM?t=307).
+
+**Jump to:**  
+[3:03](https://youtu.be/kR9e-QeI3qM?t=183) optical transceiver market dynamics · [7:10](https://youtu.be/kR9e-QeI3qM?t=430) Coherent Q2 growth metrics · [9:14](https://youtu.be/kR9e-QeI3qM?t=554) valuation comparison across COHR, MARV, LUMN
+
+## From AI to Air Conditioning: The Power Boom in Asia
+
+**Morgan Stanley** · 4:27 · Nov 16 · [watch](https://www.youtube.com/watch?v=_iFcf6uKrX8)
+
+**Bottom line:**  
+Asia’s power demand will surge far beyond AI‑driven data centers, creating a multi‑trillion‑dollar opportunity for power generators and grid‑infra firms, especially in India, Malaysia, Australia and the U.S.
+
+**Signals:**  
+- 🟢 Bullish **power generation & grid‑infrastructure sector** – Morgan Stanley’s Mayang Mahuri cites ~​$1 trillion of new grid investment needed in Asia through 2030 and expects a 15% widening gap between electricity prices and generation cost by 2028, making reliable generators attractive [4:06](https://youtu.be/_iFcf6uKrX8?t=246).  
+
+**Moats, risks & black swans:**  
+- Moat: **Reliable power generators** – durable advantage from owning baseload assets (coal, gas, renewables) that can meet rising demand as data centers and cooling loads expand [3:03](https://youtu.be/_iFcf6uKrX8?t=183).  
+- Risk: **Grid bottlenecks** – central grids in many Asian markets cannot connect new data centers quickly, forcing higher power prices and potential stranded assets if grid expansion stalls [3:03](https://youtu.be/_iFcf6uKrX8?t=183).  
+- Black swan: **Coal‑gas reliance** – 60% of Asia’s data‑center capacity runs on coal/gas; any abrupt policy shift or supply shock could sharply curtail capacity and hurt generators dependent on these fuels [3:03](https://youtu.be/_iFcf6uKrX8?t=183).
+
+**Key insights:**  
+- Global electricity use could hit ~​36 trillion kWh by 2030, about 15% higher than current market forecasts, with Asia accounting for ~​23 trillion kWh and growing 20% faster than the U.S. [0:45](https://youtu.be/_iFcf6uKrX8?t=45).  
+- AI‑related demand will only drive ~25% of incremental power; new industrial projects and air‑conditioning will supply the bulk of the surge, potentially matching data‑center consumption by 2030 [1:01](https://youtu.be/_iFcf6uKrX8?t=61).  
+- Asia may need ~​84 GW of data‑center capacity by 2030 – roughly four times 2025 levels – and could absorb ~​15 GW of U.S.‑linked demand, highlighting a geographic shift in power load [2:02](https://youtu.be/_iFcf6uKrX8?t=122).  
+- Gas generation outside China is projected to add ~​19 GW between 2025‑2030, supporting ~​20 million tons of LNG imports annually, underscoring the continued role of gas in the power mix [3:03](https://youtu.be/_iFcf6uKrX8?t=183).
+
+**Jump to:** [0:45 Global electricity outlook] · [2:02 Data‑center capacity growth] · [3:03 Gas generation & grid investment]
+
+## Can AI Chip Demand Outrun the Power Crunch?
+
+**Morgan Stanley** · 12:00 · Nov 16 · [watch](https://www.youtube.com/watch?v=Rfg3Gflgo90)
+
+**Bottom line:**  
+Even with a projected 30‑35 GW power shortfall through 2028, semiconductor supply will stay tight and AI chip demand is likely to remain strong, keeping the sector bullish despite current stock price weakness.
+
+**Signals:**  
+- 🟢 Bullish Semiconductor sector – Joe Moore (US Semiconductors Analyst) says supply will stay tight into 2028 and “I’m pretty bullish on all of it,” noting stocks are down 60‑70% but trade at ~3 × earnings [7:04](https://youtu.be/Rfg3Gflgo90?t=424)  
+
+**Moats, risks & black swans:**  
+- Risk: Grid‑optimization hype – Tom Wig says utilities won’t rely on “slack” because they must plan for worst‑case storms, making the idea unlikely to deliver [5:02](https://youtu.be/Rfg3Gflgo90?t=302)  
+- Risk: Political permitting delays – New governors in Texas and Ohio will lengthen data‑center approvals, pushing the power shortfall from 30 GW to the mid‑30 GW range [2:02](https://youtu.be/Rfg3Gflgo90?t=122)  
+
+**Key insights:**  
+- Power shortfall estimate: 30 GW now, rising to mid‑30 GW by 2028, with a “relief valve” of larger deployments in 2029 [2:02](https://youtu.be/Rfg3Gflgo90?t=122)  
+- Louisiana’s community‑investment model (funding hospitals, teacher raises, etc.) is cited as a way to gain local support for data‑center projects [6:04](https://youtu.be/Rfg3Gflgo90?t=364)  
+- Memory shortages are identified by hyperscalers as the biggest immediate bottleneck for AI workloads, outweighing land‑power concerns in the short term [7:04](https://youtu.be/Rfg3Gflgo90?t=424)  
+- Semiconductor stocks have fallen 60‑70% but are trading at roughly three times earnings, creating a valuation upside for investors who remain bullish on the sector [7:04](https://youtu.be/Rfg3Gflgo90?t=424)  
+
+**Jump to:** [2:02](https://youtu.be/Rfg3Gflgo90?t=122) Power shortfall outlook · [6:04](https://youtu.be/Rfg3Gflgo90?t=364) Louisiana community‑investment strategy · [7:04](https://youtu.be/Rfg3Gflgo90?t=424) Semiconductor valuation & memory bottleneck
+
+## NVIDIA Without Jensen Huang: What Happens Next?
+
+**Six Five Media** · 1:06:30 · Nov 16 · [watch](https://www.youtube.com/watch?v=nSyivcbUlqo)
+
+**Bottom line:**  
+The video argues that NVIDIA’s dominant AI‑chip moat remains strong, but the sudden loss of Jensen Huang creates immediate governance and execution risks that could depress short‑term performance while the longer‑term outlook stays mixed.
+
+**Signals**
+- 🟢 **Bullish** NVIDIA – speaker (unnamed) – “supply‑chain contracts with TSMC, SK Samsung, Micron won’t unwind quickly; rivals can’t absorb 20‑30 % of NVIDIA’s supply in a year” [40:42](https://youtu.be/nSyivcbUlqo?t=2442)  
+- 🔴 **Cautious** NVIDIA – Daniel Newman – “Second affair surfaced, 1,600‑employee petition for Huang’s return shows internal turmoil” [7:10](https://youtu.be/nSyivcbUlqo?t=430)  
+- 🔴 **Cautious** NVIDIA – Daniel Newman – “Board had no succession plan; interim CEO is a caretaker, raising governance risk” [12:13](https://youtu.be/nSyivcbUlqo?t=733)  
+- 🔴 **Cautious** NVIDIA – panelist (unidentified) – “No precedent for a founder‑CEO surviving such a scandal; could hurt confidence” [15:16](https://youtu.be/nSyivcbUlqo?t=916)  
+- 🔴 **Cautious** NVIDIA – panelist – “Uncertainty whether the alleged spy was actually a spy adds reputational risk” [17:18](https://youtu.be/nSyivcbUlqo?t=1038)  
+- 🔴 **Cautious** NVIDIA – panelist – “Export‑control debate shows policymakers unsure; gray markets mean zero‑access bans may be ineffective” [25:25](https://youtu.be/nSyivcbUlqo?t=1525)  
+- 🟢 **Bullish** NVIDIA – speaker (unnamed) – “Jensen’s ‘operating system’ (visionary CEO + rapid decision‑making) is hard to replace, preserving strategic advantage” [31:31](https://youtu.be/nSyivcbUlqo?t=1891)  
+- 🟢 **Bullish** Cisco – analyst – “Quadruple beat on revenue and EPS; best growth in 15 years; strong order‑book” [1:02:03](https://youtu.be/nSyivcbUlqo?t=3723)  
+- 🟢 **Bullish** NVIDIA IPO – speaker – “6‑times oversubscribed, implied fully‑diluted valuation $1.4 trillion, strong investor demand” [52:53](https://youtu.be/nSyivcbUlqo?t=3173)  
+- 🔴 **Cautious** NVIDIA IPO – speaker – “Possible repricing after initial buy‑in could wobble $1.4 trillion valuation” [55:56](https://youtu.be/nSyivcbUlqo?t=3356)  
+
+**AI & private markets**
+- NVIDIA – described as “world’s largest technology company powering the AI revolution”; CEO exit raises stability questions [5:06](https://youtu.be/nSyivcbUlqo?t=306)  
+- Coreweave – pre‑payments and $/MW contracts driving growth; backlog cited as “300 or 133 billion dollars” (typo) indicating triple‑digit % growth; moving toward cash‑flow positivity [58:59](https://youtu.be/nSyivcbUlqo?t=3539)  
+- Applied Materials – earnings mentioned; no private‑company focus beyond that [4:05](https://youtu.be/nSyivcbUlqo?t=245)  
+- No other private/pre‑IPO valuations, funding rounds, or IPO timing discussed.  
+
+**Moats, risks & black swans**
+- Moat: NVIDIA – dominant position in high‑performance AI GPUs, CUDA ecosystem, and “chipset‑to‑fleet” diversification (≈800 assets) [46:49](https://youtu.be/nSyivcbUlqo?t=2809)  
+- Moat: Cisco – durable networking‑hardware advantage essential for AI data‑center build‑out [1:03:05](https://youtu.be/nSyivcbUlqo?t=3785)  
+- Risk: NVIDIA – governance risk from CEO ouster, lack of succession plan, centralized decision‑making [5:06](https://youtu.be/nSyivcbUlqo?t=306)[10:12](https://youtu.be/nSyivcbUlqo?t=612)[12:13](https://youtu.be/nSyivcbUlqo?t=733)  
+- Risk: NVIDIA – potential export‑control investigations and gray‑market leaks to China [8:11](https://youtu.be/nSyivcbUlqo?t=491)[25:25](https://youtu.be/nSyivcbUlqo?t=1525)[29:30](https://youtu.be/nSyivcbUlqo?t=1770)  
+- Risk: NVIDIA – employee morale and “funeral” vibe could affect execution [35:35](https://youtu.be/nSyivcbUlqo?t=2135)  
+- Black swan: Successful covert acquisition of NVIDIA’s advanced AI chips by China via spoofed hardware/software, creating a “multitrillion‑dollar AI lab” [28:28](https://youtu.be/nSyivcbUlqo?t=1708)  
+
+**Key insights**
+- The leadership scandal creates a short‑term governance headwind, but the underlying product roadmap spans three generations and is valued only over an 18‑month to 3‑year horizon, limiting immediate revenue impact [9:12](https://youtu.be/nSyivcbUlqo?t=552)  
+- Export‑control debates are unlikely to fully block China’s access to advanced AI compute because cloud APIs and gray markets allow continued usage of NVIDIA models without physical chips [29:30](https://youtu.be/nSyivcbUlqo?t=1770)  
+- NVIDIA’s supply‑chain contracts lock in ~\$279 B of capacity commitments through 2028, making a rapid capacity shift by rivals (AMD, Broadcom) improbable [40:42](https://youtu.be/nSyivcbUlqo?t=2442)  
+- Coreweave’s growth model relies heavily on pre‑payments and high‑margin contracts, but its balance‑sheet sustainability is questioned by analysts [1:01:01](https://youtu.be/nSyivcbUlqo?t=3661)  
+
+**Jump to:**  
+[5:06](https://youtu.be/nSyivcbUlqo?t=306) cautious on NVIDIA – leadership risk · [40:42](https://youtu.be/nSyivcbUlqo?t=2442) bullish on NVIDIA – supply‑chain durability · [28:28](https://youtu.be/nSyivcbUlqo?t=1708) black‑swan risk of chip spoofing to China
+
+## Jev Creator on Will US Open Models Catch Chinese | The Cost of Intelligence & Tokens | Diogo Almeida
+
+**20VC with Harry Stebbings** · 1:13:17 · Nov 16 · [watch](https://www.youtube.com/watch?v=BE2JqjsN4aY)
+
+**Bottom line:**  
+Jev’s focus on reliability‑first, task‑specific data gives it a defensible edge over benchmark‑chasing LLMs, but scaling to a $10 bn business will require massive talent and data investments and faces headwinds from Chinese open‑source models and GPU export limits.
+
+**Signals**
+- 🟢 Bullish **Jev** – Diogo Almeida cites a $7.5 bn valuation and usage by ~1/3 of Fortune 500 firms, showing strong traction and profitability. [0:00](https://youtu.be/BE2JqjsN4aY?t=0)  
+- 🔴 Cautious **Synthetic‑data startups** – unnamed speaker calls synthetic data “mostly overhyped” and only useful for small models. [13:26](https://youtu.be/BE2JqjsN4aY?t=806)  
+- 🔴 Cautious **Neolab‑style AI labs** – speaker warns the “hire ex‑lab talent, rent GPUs, aim for acquisition” model wastes resources. [15:28](https://youtu.be/BE2JqjsN4aY?t=928)  
+- 🔴 Cautious **Copy‑cat LLMs** – copycats chase benchmarks, speed, cost but ignore reliability, which the speaker sees as the real moat. [18:30](https://youtu.be/BE2JqjsN4aY?t=1110)  
+- 🟡 Mixed **AI co‑pilot products** – Jev Creator says lawyer‑focused co‑pilot only yields double‑digit % efficiency; larger‑scale automation hasn’t materialised. [37:51](https://youtu.be/BE2JqjsN4aY?t=2271)  
+- 🔴 Cautious **Chinese open‑source models** – efficient but pose security risks; US models face ethical/legal constraints that may limit competitiveness. [46:00](https://youtu.be/BE2JqjsN4aY?t=2760)  
+- 🔴 Cautious **GPU export bans** – ban on deep‑sea Chinese models adds uncertainty; hardware bubble complicates supply. [49:03](https://youtu.be/BE2JqjsN4aY?t=2943)  
+- 🟢 Bullish **Jev profitability** – Jev is profitable, cash rising, and deliberately avoiding overspend despite large raise. [59:12](https://youtu.be/BE2JqjsN4aY?t=3552)  
+- 🔴 Cautious **Talent acquisition (“data demon” team)** – hiring extremely hard, risk of slowdown in data pipeline development. [1:04:22](https://youtu.be/BE2JqjsN4aY?t=3862)  
+- 🔴 Cautious **Compensation wars** – Anthropic’s $20 m packages drive poaching and raise industry hiring costs. [1:06:24](https://youtu.be/BE2JqjsN4aY?t=3984)  
+
+**AI & private markets**
+- AI reliability is the biggest adoption bottleneck; models deliver “Einstein” quality ~95 % and “Mr. Bean” quality ~5 % (affects automation ROI). [0:00](https://youtu.be/BE2JqjsN4aY?t=0)  
+- Shift from compute‑driven scaling (2019‑2023) to data‑centric approaches; data now outweighs compute for performance gains. [5:14](https://youtu.be/BE2JqjsN4aY?t=314)  
+- Data‑as‑service boom: firms selling RL data to labs, reflecting pivot toward data acquisition over raw compute. [8:19](https://youtu.be/BE2JqjsN4aY?t=499)  
+- TAM for LLMs expands to all companies needing supplemental data, implying ongoing demand for data services. [13:26](https://youtu.be/BE2JqjsN4aY?t=806)  
+- Coding‑agent market currently ~ $1.6‑$1.7 bn (fourth place) with substantial growth expected over next three years. [55:08](https://youtu.be/BE2JqjsN4aY?t=3308)  
+- Jev raised a large round with 28 term sheets, inbound‑driven, no formal deck; VCs use Jev internally, signaling strong product‑market fit. [57:12](https://youtu.be/BE2JqjsN4aY?t=3432)  
+
+**Moats, risks & black swans**
+- Moat: **Jev** – durability from “reliability of intelligence” and task‑specific high‑quality data rather than raw compute or benchmark scores. [5:14](https://youtu.be/BE2JqjsN4aY?t=314)  
+- Moat: **SaaS companies** – deep knowledge of customer workflows and heavy engineering investment give them a defensible edge. [30:44](https://youtu.be/BE2JqjsN4aY?t=1844)  
+- Risk: **AI automation variance** – high output variance makes accounting and other business‑critical tasks unreliable, slowing enterprise adoption. [0:00](https://youtu.be/BE2JqjsN4aY?t=0)  
+- Risk: **Data‑vendor business models** – uncertainty whether firms like Surge or McCor can sustain end‑to‑end services beyond simple data provision. [12:23](https://youtu.be/BE2JqjsN4aY?t=743)  
+- Risk: **Infrastructure bottlenecks** – massive token usage forecasts require efficiency gains; energy and compute capacity could constrain growth. [24:39](https://youtu.be/BE2JqjsN4aY?t=1479)  
+- Black swan: **AI‑driven principal‑agent alignment breakthrough** – could radically reshape corporate governance, law enforcement, and democratic processes within five years. [1:12:29](https://youtu.be/BE2JqjsN4aY?t=4349)  
+
+**Key insights**
+- Reliability, not compute, is now the limiting factor for enterprise AI automation; achieving “nines of intelligent reliability” is essential for production viability. [4:12](https://youtu.be/BE2JqjsN4aY?t=252)  
+- Data‑centric scaling has overtaken compute scaling; high‑quality, task‑specific data pipelines are the new competitive frontier. [5:14](https://youtu.be/BE2JqjsN4aY?t=314)  
+- Chinese open‑source models pose a security risk and could undercut US dominance if adopted without safeguards; export bans add supply‑side uncertainty. [46:00](https://youtu.be/BE2JqjsN4aY?t=2760)  
+- Talent scarcity in specialized “data demon” roles and rising compensation wars (e.g., Anthropic’s $20 m packages) threaten the speed of AI progress across labs. [1:04:22](https://youtu.be/BE2JqjsN4aY?t=3862)  
+
+**Jump to:**  
+[5:14](https://youtu.be/BE2JqjsN4aY?t=314) Data‑centric scaling shift · [46:00](https://youtu.be/BE2JqjsN4aY?t=2760) Chinese open‑source model risk · [59:12](https://youtu.be/BE2JqjsN4aY?t=3552) Jev profitability signal
+
+## Skipped as off-topic
+
+- [Athleisure Faces Price Pressure](https://www.youtube.com/watch?v=jqscdcpVQgA) — Bloomberg Podcasts
+- [Before Xi, Spotlight Turns to Trump's Manila Stop](https://www.youtube.com/watch?v=h_0F-G4T5v4) — Bloomberg Podcasts
+- [Spain’s Foreign Minister Jose Albares Talks Ukraine, NATO, EU-UK Relations | Bloomberg Talks](https://www.youtube.com/watch?v=NFktFEJkXrI) — Bloomberg Podcasts
+- [Nvidia’s CEO Search Draws Fire With Bessent’s Shakeup Call](https://www.youtube.com/watch?v=k0kzRdRK6jU) — Bloomberg Podcasts
+- [Trump: Huang Didn't Put National Security at Risk (Full Remarks)](https://www.youtube.com/watch?v=xOZf2dZ4h8A) — Bloomberg Podcasts
+- [Blue Wave Moves Energy to the States: Analyst Reaction | Switched On](https://www.youtube.com/watch?v=sMTMOyhF4_U) — Bloomberg Podcasts
+- [Tech and China Trade | Bloomberg Surveillance](https://www.youtube.com/watch?v=Z-TXYOOGfUE) — Bloomberg Podcasts
+
+
+_Summaries by openai/gpt-oss-120b (open-source models)._
